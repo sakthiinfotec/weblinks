@@ -1,7 +1,7 @@
 ### Deep Learning
-[Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)
+[Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-](https://www.deeplearningbook.org/)
+](https://www.deeplearningbook.org/)  
 https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html  
 
 
