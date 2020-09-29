@@ -29,4 +29,4 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Web scraping ([Mechanize](https://mechanize.readthedocs.io/en/latest/), Phantomjs, Selenium, XPath,... )
 - Front-end development in React/Redux/NodeJS/ES6, SCSS
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
-
+- [Data modeling](https://www.kidscodecs.com/database-design/)
