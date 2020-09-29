@@ -26,7 +26,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Application Stack
 - Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
 - Database modeling (SQL and/or NoSQL)
-- Web scraping (Mechanize, Phantomjs, Selenium, XPath,... )
+- Web scraping ([Mechanize](https://mechanize.readthedocs.io/en/latest/), Phantomjs, Selenium, XPath,... )
 - Front-end development in React/Redux/NodeJS/ES6, SCSS
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
 
