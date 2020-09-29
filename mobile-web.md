@@ -30,3 +30,4 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Front-end development in React/Redux/NodeJS/ES6, SCSS
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
 - [Data modeling](https://www.kidscodecs.com/database-design/)
+- [Understanding Relational Database Model](https://mariadb.com/kb/en/understanding-the-relational-database-model/)
