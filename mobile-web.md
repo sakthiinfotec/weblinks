@@ -21,4 +21,4 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 @dashdash
 
 #### General - Agro
-[GarmFirst](https://twitter.com/FarmFirst_India)
+[FarmFirst](https://twitter.com/FarmFirst_India)
