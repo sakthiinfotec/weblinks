@@ -22,3 +22,11 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
+
+#### Application Stack
+- Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
+- Database modeling (SQL and/or NoSQL)
+- Web scraping (Mechanize, Phantomjs, Selenium, XPath,... )
+- Front-end development in React/Redux/NodeJS/ES6, SCSS
+- Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
+
