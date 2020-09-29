@@ -13,3 +13,9 @@ https://github.com/SurajPareek/contacts-app/blob/master/server/package.json
 https://www.npmjs.com/package/swagger-ui-express  
 https://sequelize.org/  
 https://www.npmjs.com/package/sequelize  
+
+#### General - Messaging | SMS
+Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
+
+#### Spreadsheet
+@dashdash
