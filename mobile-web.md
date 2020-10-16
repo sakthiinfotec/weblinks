@@ -15,6 +15,12 @@
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
 
+#### Flutter
+[Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
+](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
+[Flutter — Visual Studio Code Extensions for Fast and Efficient Development](https://medium.com/flutter-community/flutter-visual-studio-code-extensions-for-fast-and-efficient-development-fdd569c6abd4)  
+
+
 https://github.com/SurajPareek/contacts-app/blob/master/server/package.json  
 https://www.npmjs.com/package/swagger-ui-express  
 https://sequelize.org/  
