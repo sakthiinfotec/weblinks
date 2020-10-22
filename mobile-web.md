@@ -8,6 +8,9 @@
 [Best Practices in API Design @swagger.io](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)  
 [REST: Good Practices for API Design @Medium](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)  
 
+#### GraphQL
+[Why GraphQL is the new REST @newline.co](https://www.newline.co/@eigenjoy/why-graphql-is-the-new-rest--db6d20b0)  
+
 #### Boilerplates
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @amazingandyyy](https://github.com/amazingandyyy/mern)  
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @ConnerAiken](https://github.com/ConnerAiken/mern-boilerplate)  
@@ -25,6 +28,7 @@ https://github.com/SurajPareek/contacts-app/blob/master/server/package.json
 https://www.npmjs.com/package/swagger-ui-express  
 https://sequelize.org/  
 https://www.npmjs.com/package/sequelize  
+[JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
