@@ -36,6 +36,7 @@ Immediately Invoked Function Expressions(IIFEs)
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
 [Build a Desktop Application with Electron and Angular - Sitepoint](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)  
+[Documenting Your TypeScript Projects: There Are Options](https://blog.bitsrc.io/documenting-your-typescript-projects-there-are-options-da7c8c4ec554)  
 
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
