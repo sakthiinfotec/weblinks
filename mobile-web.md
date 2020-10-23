@@ -74,7 +74,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Flutter — Visual Studio Code Extensions for Fast and Efficient Development](https://medium.com/flutter-community/flutter-visual-studio-code-extensions-for-fast-and-efficient-development-fdd569c6abd4)  
 
 #### People to follow
-[Medium - Trung Anh Dang](https://medium.com/@dangtrunganh)  
+[Medium - Trung Anh Dang - Javascript | Software Architecture | ML](https://medium.com/@dangtrunganh)  
 
 https://github.com/SurajPareek/contacts-app/blob/master/server/package.json  
 https://www.npmjs.com/package/swagger-ui-express  
