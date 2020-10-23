@@ -15,6 +15,13 @@
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @amazingandyyy](https://github.com/amazingandyyy/mern)  
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @ConnerAiken](https://github.com/ConnerAiken/mern-boilerplate)  
 
+#### Web Apps - Getting Started
+[How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
+[How to Create a Reddit Clone Using React and Firebase - Sitepoint](https://www.sitepoint.com/reddit-clone-react-firebase/)  
+[How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
+[MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
+
+
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
 
