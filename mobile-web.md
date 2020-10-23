@@ -21,6 +21,14 @@
 [How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
 [MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
 
+#### Javascript - Best Practices
+[Top 10 React Echosystem Tools - Sitepoint](https://www.sitepoint.com/write-maintainable-javascript/)  
+[5 Best Practices for Writing Clean JavaScript - Medium](https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859)  
+[JavaScript Best Practices for Readable and Maintainable Code - Medium](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)  
+
+#### Angular
+[A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
+[Build a Desktop Application with Electron and Angular - Sitepoint](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)  
 
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
