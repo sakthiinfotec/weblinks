@@ -48,6 +48,16 @@
 5. [Getting Started with Redux - @dan_abramov](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)  
 6. [ReactJS docs](https://reactjs.org/docs/getting-started.html)  
 
+#### JavaScript Books
+[Maintainable JavaScript: Writing Readable Code by Nicholas C. Zakas](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)   
+[The Principles of Object-Oriented JavaScript by Nicholas C. Zakas](https://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404)  
+[High Performance JavaScript: Build Faster Web Application Interfaces by Nicholas C. Zakas](https://www.amazon.com/High-Performance-JavaScript-Application-Interfaces/dp/059680279X)  
+[Clean Code in JavaScript: Develop reliable, maintainable, and robust by James Padolsey](https://www.amazon.in/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648)   
+[JavaScript Patterns: Build Better Applications with Coding and Design Patterns by Stoyan Stefanov, Yahoo](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752)  
+[You Don't Know JS: ES6 & Beyond by Kyle Simpson, an Open Web Evangelist](https://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240)  
+[Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny, Software Engineer at Facebook](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/)   
+[Effective TypeScript: 62 Specific Ways to Improve Your TypeScript By Dan Vanderkam, worked at Google, Sidewalk labs](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740)  
+
 #### Flutter
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
 ](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
