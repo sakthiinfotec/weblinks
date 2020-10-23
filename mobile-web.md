@@ -30,8 +30,8 @@
 [Code Principles Every Programmer Should Follow](https://blog.bitsrc.io/code-principles-every-programmer-should-follow-e01bfe976daf)  
 
 #### Javascript - Design Patterns
-[Demystifying the Law of Demeter principle
-](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
+[Demystifying the Law of Demeter principle](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
+Immediately Invoked Function Expressions(IIFEs)  
 
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
