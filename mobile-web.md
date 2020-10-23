@@ -60,6 +60,8 @@
 
 #### JavaScript Technical Problems and Solutions
 [Twitter - Trey Huffine](https://twitter.com/treyhuffine)  
+[Mahdhi Rezvi - Full Stack / Mobile Developer & Freelance Technical Content Writer
+](https://thisismahdhi.ml/)  
  
 #### Flutter
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
