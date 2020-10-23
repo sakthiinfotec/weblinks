@@ -58,11 +58,13 @@
 [Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny, Software Engineer at Facebook](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/)   
 [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript By Dan Vanderkam, worked at Google, Sidewalk labs](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740)  
 
+#### JavaScript Technical Problems and Solutions
+[Twitter - Trey Huffine](https://twitter.com/treyhuffine)  
+ 
 #### Flutter
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
 ](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
 [Flutter — Visual Studio Code Extensions for Fast and Efficient Development](https://medium.com/flutter-community/flutter-visual-studio-code-extensions-for-fast-and-efficient-development-fdd569c6abd4)  
-
 
 https://github.com/SurajPareek/contacts-app/blob/master/server/package.json  
 https://www.npmjs.com/package/swagger-ui-express  
