@@ -25,6 +25,12 @@
 [Top 10 React Echosystem Tools - Sitepoint](https://www.sitepoint.com/write-maintainable-javascript/)  
 [5 Best Practices for Writing Clean JavaScript - Medium](https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859)  
 [JavaScript Best Practices for Readable and Maintainable Code - Medium](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)  
+[Code Principles Every Programmer Should Follow](https://blog.bitsrc.io/code-principles-every-programmer-should-follow-e01bfe976daf)  
+
+#### Javascript - Design Patterns
+[Demystifying the Law of Demeter principle
+](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
+
 
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
