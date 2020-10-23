@@ -31,7 +31,6 @@
 [Demystifying the Law of Demeter principle
 ](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
 
-
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
 [Build a Desktop Application with Electron and Angular - Sitepoint](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)  
@@ -49,7 +48,10 @@ https://github.com/SurajPareek/contacts-app/blob/master/server/package.json
 https://www.npmjs.com/package/swagger-ui-express  
 https://sequelize.org/  
 https://www.npmjs.com/package/sequelize  
+
+#### Tools and Techniques
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
+[Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
