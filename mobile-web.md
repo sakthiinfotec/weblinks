@@ -31,6 +31,9 @@
 
 #### Javascript - Design Patterns
 [Demystifying the Law of Demeter principle](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
+[Software Architecture: The Most Important Architectural Patterns You Need to Know by Trung Anh Dan](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)  
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)   
+[Design Patterns: Structural Patterns of Design Classes and Objects](https://levelup.gitconnected.com/design-patterns-structural-patterns-of-design-classes-and-objects-79d58a6519b)   
 Immediately Invoked Function Expressions(IIFEs)  
 
 #### Angular
@@ -69,6 +72,9 @@ Immediately Invoked Function Expressions(IIFEs)
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
 ](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
 [Flutter — Visual Studio Code Extensions for Fast and Efficient Development](https://medium.com/flutter-community/flutter-visual-studio-code-extensions-for-fast-and-efficient-development-fdd569c6abd4)  
+
+#### People to follow
+[Medium - Trung Anh Dang](https://medium.com/@dangtrunganh)  
 
 https://github.com/SurajPareek/contacts-app/blob/master/server/package.json  
 https://www.npmjs.com/package/swagger-ui-express  
