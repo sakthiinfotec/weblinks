@@ -39,6 +39,14 @@
 
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
+[Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20):
+
+1. You Don't Know JS - @getify
+2. What the heck is the event loop - @philip_roberts
+3. MDN docs
+4. [http://javascript.info](http://javascript.info)
+5. [Getting Started with Redux - @dan_abramov](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)  
+6. [ReactJS docs](https://reactjs.org/docs/getting-started.html)  
 
 #### Flutter
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
