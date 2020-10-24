@@ -94,6 +94,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
 
+#### Amazon AWS
+[Getting Started with AWS](https://aws.amazon.com/getting-started)   
+
 #### Application Stack
 - Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
 - Database modeling (SQL and/or NoSQL)
