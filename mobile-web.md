@@ -84,6 +84,7 @@ https://www.npmjs.com/package/sequelize
 #### Tools and Techniques
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
 [Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
+[What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
