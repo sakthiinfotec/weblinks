@@ -44,7 +44,8 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### React
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
-[Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20):
+[Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20)  
+[Using React Functional Components with Hooks in TypeScript](https://levelup.gitconnected.com/using-react-functional-components-with-hooks-in-typescript-6d61075edddc)  
 
 1. You Don't Know JS - @getify
 2. What the heck is the event loop - @philip_roberts
