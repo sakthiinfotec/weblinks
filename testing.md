@@ -5,3 +5,6 @@
 ](https://medium.com/@vaibhavrb999/unit-testing-in-angular-jasmine-karma-502b4d394006)  
 [Medium - Testing Single Page Applications by Pradip Hudekar
 ](https://medium.com/inspiredbrilliance/testing-single-page-applications-b4001adc6452)  
+
+#### E2E Testing
+[End-to-end Testing Mobile Apps with Ionic and Cypress @ cypress.io](https://www.cypress.io/blog/2020/07/08/end-to-end-testing-mobile-apps-with-ionic-and-cypress/)  
