@@ -7,3 +7,5 @@ https://github.com/farhan787/algorithmic-problems
 https://github.com/yangshun/tech-interview-handbook   
 https://github.com/lydiahallie/javascript-questions  
 https://github.com/fterh/leetcode-curation-topical  
+
+[Best-websites-a-programmer-should-visit@github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
