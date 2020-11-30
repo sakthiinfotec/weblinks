@@ -114,15 +114,23 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
 - [Data modeling](https://www.kidscodecs.com/database-design/)
 - [Understanding Relational Database Model](https://mariadb.com/kb/en/understanding-the-relational-database-model/)
+
+Role + Responsibilities:
+- Work with the team to design, develop and support scalable applications
+- Implementing elegant, intuitive user experience using the latest front-end technologies.
 - Integrating global state solutions using Redux / MobX or any other state management library.
 - Developing API's and designing the data architecture using web frameworks like Express.
 - Write, test, and release production-ready code.
 - Work with our DevOps team to ensure continuous deployments of our applications
+
+Qualification:
 - Experience developing highly scalable services and APIs
 - Knowledge of data modelling and database performance using NoSQL/SQL         
 - Strong experience with JS library and ecosystems of React.
 - Familiarity developing SaaS applications in AWS/Azure
 - In-depth knowledge of designing and developing software in distributed architectures for multi-tier applications
+
+Plus:
 - Experience with deployment and CI/CD is a plus!
 - TypeScript implementation with Frontend or Backend applications
 - Knowledge of GraphQL and it's libraries like Apollo, Prisma
