@@ -78,7 +78,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### People to follow
 [Medium - Trung Anh Dang - Javascript | Software Architecture | ML](https://medium.com/@dangtrunganh)  
-[Arunava C @ Attim]()https://www.linkedin.com/in/iarunava/)  
+[Arunava C @ Attim](https://www.linkedin.com/in/iarunava/)  
 
 https://github.com/SurajPareek/contacts-app/blob/master/server/package.json  
 https://www.npmjs.com/package/swagger-ui-express  
