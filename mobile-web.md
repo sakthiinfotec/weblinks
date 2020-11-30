@@ -103,6 +103,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Getting Started with AWS](https://aws.amazon.com/getting-started)   
 [Build a Basic Web Application | Deploy in AWS using Amplify, API Gateway, Lambda, DynamoDB](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/)
 
+#### Certifications
+[Responsive Web Design @freecodecamp](https://www.freecodecamp.org/certification/fcce493bbb7-bccd-4803-b2a4-554eb36b67c3/responsive-web-design)
+
 #### Application Stack
 - Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
 - Database modeling (SQL and/or NoSQL)
