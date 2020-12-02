@@ -86,6 +86,8 @@ Immediately Invoked Function Expressions(IIFEs)
 [Using SVG clip-path to change a logo's colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)  
 [3D Effect for Mobile App Showcase](https://tympanus.net/codrops/2013/08/01/3d-effect-for-mobile-app-showcase/)  
 [Creating UI Components in SVG](https://css-tricks.com/creating-ui-components-in-svg/)  
+[How SVG Line animation works](https://css-tricks.com/svg-line-animation-works/)  
+[SVG - Stroke Dasharray](https://css-tricks.com/almanac/properties/s/stroke-dasharray/)  
 
 #### Node.js
 [Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
@@ -114,8 +116,9 @@ https://www.npmjs.com/package/sequelize
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
 
-#### Spreadsheet
+#### Productive Tooks
 @dashdash
+[WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
