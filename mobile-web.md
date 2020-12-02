@@ -70,7 +70,26 @@ Immediately Invoked Function Expressions(IIFEs)
 [Twitter - Trey Huffine](https://twitter.com/treyhuffine)  
 [Mahdhi Rezvi - Full Stack / Mobile Developer & Freelance Technical Content Writer
 ](https://thisismahdhi.ml/)  
- 
+
+#### CSS
+[A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
+[The Cleanest Trick for Autogrowing Textareas @CSSTricks](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)  
+[Clipping and Masking in CSS @CSSTricks](https://css-tricks.com/clipping-masking-css/)  
+
+#### SVG
+[A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
+[SVG Mask @Mozilla MDN Docs](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/mask)  
+[How to Hand Code SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)  
+[SVG Viewport and viewBox (For Complete Beginners) @Tutsplus](https://webdesign.tutsplus.com/tutorials/svg-viewport-and-viewbox-for-beginners--cms-30844)  
+[SVG for Web Designers in 60 Seconds](https://webdesign.tutsplus.com/tutorials/svg-for-web-designers-in-60-seconds--cms-29698)  
+[SVG Brilliance: 10 Inspiring Examples From Around the Web](https://webdesign.tutsplus.com/articles/svg-brilliance-10-inspiring-examples-from-around-the-web--cms-27050)  
+[Using SVG clip-path to change a logo's colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)  
+[3D Effect for Mobile App Showcase](https://tympanus.net/codrops/2013/08/01/3d-effect-for-mobile-app-showcase/)  
+[Creating UI Components in SVG](https://css-tricks.com/creating-ui-components-in-svg/)  
+
+#### Node.js
+[Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
+
 #### Flutter
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
 ](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
@@ -89,6 +108,8 @@ https://www.npmjs.com/package/sequelize
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
 [Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
 [What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
+[Netlify - The fastest way to build fastest sites](https://www.netlify.com/)  
+[Netlify | Jamstack - A new approach to faster, more secure websites](https://www.netlify.com/jamstack/)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
