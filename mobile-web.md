@@ -3,6 +3,7 @@
 [Best Figma plugins for optimizing your workflows - Medium](https://medium.com/design-bootcamp/best-figma-plugins-for-optimizing-your-workflows-71097fca9a75)  
 
 #### REST API Design
+[What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
 [Best practices for REST API design @Stackoverflow Blog](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)  
 [Best Practices for Designing a Pragmatic RESTful API @vinaysahni.com](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)  
 [Best Practices in API Design @swagger.io](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)  
