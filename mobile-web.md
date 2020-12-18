@@ -1,8 +1,13 @@
 
 #### UI/UX Design
+[Design Resources For Developers - Very Usefull!!!](https://dev.to/dip15739/design-resources-for-developers-5alm)  
+[Web Development Resources You Ever Need - By Ismile Hossain@Github](https://github.com/iamismile/web-dev-resources)  
+[Website Style Guide Resources](http://styleguides.io/)  
 [Best Figma plugins for optimizing your workflows - Medium](https://medium.com/design-bootcamp/best-figma-plugins-for-optimizing-your-workflows-71097fca9a75)  
 [Glassmorphism #New trend - Using CSS](https://dev.to/dip15739/glassmorphism-new-trend-9fc)  
 [Glassmorphism - Demo](https://dip15739.github.io/Glassmorphism/)  
+
+
 
 #### REST API Design
 [What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
