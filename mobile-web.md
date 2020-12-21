@@ -57,6 +57,10 @@ Immediately Invoked Function Expressions(IIFEs)
 [Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20)  
 [Using React Functional Components with Hooks in TypeScript](https://levelup.gitconnected.com/using-react-functional-components-with-hooks-in-typescript-6d61075edddc)  
 [How to build reusable layouts in React JS  with Router](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
+[Composable Animation Toolkit using React.js + HTML + CSS](https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1)  
+
+#### Vue.js
+[Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
 
 1. You Don't Know JS - @getify
 2. What the heck is the event loop - @philip_roberts
