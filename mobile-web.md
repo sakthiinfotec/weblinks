@@ -122,6 +122,9 @@ https://www.npmjs.com/package/swagger-ui-express
 https://sequelize.org/  
 https://www.npmjs.com/package/sequelize  
 
+#### Debug / Troubleshooting
+[Why do my apps keep crashing on Android, How to fix it - Businessinsider](https://www.businessinsider.in/tech/apps/news/how-do-you-fix-an-app-that-keeps-crashing-on-android/articleshow/72110840.cms)
+
 #### Tools and Techniques
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
 [Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
