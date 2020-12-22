@@ -149,6 +149,37 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Certifications
 [Responsive Web Design @freecodecamp](https://www.freecodecamp.org/learn)
 
+#### 25 JavaScript Courses at PluralSight
+- JavaScript Getting Started
+- JavaScript Syntax and Operators
+- JavaScript Variables and Types
+- JavaScript Arrays and Collections
+- JavaScript Proxies and Reflection
+
+- JavaScript Generators and Iterators 
+- JavaScript Modules
+- JavaScript Objects, Classes, and Prototypes 
+- JavaScript Functions 
+- JavaScript Promises and Async Programming
+
+- JavaScript Security: Best Practices
+- JavaScript REST APIs: Getting Started
+- Building a JavaScript Development Environment 
+- Working with JavaScript Modules 
+- Cypress: End-to-end JavaScript Testing
+
+- RxJS in Angular: Reactive Development
+- Learning Angular from Scratch
+- Angular Patterns & Best Practices
+- Creating a Living Style Guide with Sass and Vanilla JavaScript
+- Uploading Files with a JavaScript REST API
+
+- HTML, CSS, and JavaScript: The Big Picture
+- Developing JavaScript Single Page Applications Protected by Azure Active Directory
+- Using React Hooks
+- React: The Big Picture
+- Designing React Components
+
 #### Application Stack
 - Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
 - Database modeling (SQL and/or NoSQL)
