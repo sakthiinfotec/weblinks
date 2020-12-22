@@ -149,6 +149,15 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Certifications
 [Responsive Web Design @freecodecamp](https://www.freecodecamp.org/learn)
 
+#### E-Books
+[Free JavaScript Courses and Tutorials - Udemy](https://www.udemy.com/topic/javascript/free/)  
+[Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net/)  
+[Free Online Javascript Courses - Class Central](https://www.classcentral.com/subject/javascript)  
+[Learn JavaScript for Free: 13 Online Resources for Every Level of Expertise - Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)  
+[Crockford on JavaScript - YouTube](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
+[Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
+
+
 #### 25 JavaScript Courses at PluralSight
 - JavaScript Getting Started
 - JavaScript Syntax and Operators
