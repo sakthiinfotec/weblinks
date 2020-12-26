@@ -158,6 +158,52 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Crockford on JavaScript - YouTube](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
 [Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
 
+#### Web Development Resources
+[2020 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
+
+#### Web Development Skills
+- Event loop
+- Design patterns
+- Prototypes and classes
+- Regular functions vs. arrow functions
+- Learn more about how web pages are rendered
+- Promises and async / await
+- How the internet works (generally)
+
+- [React.js](https://reactjs.org/)
+- GraphQL & Setting up GraphQL servers
+- Unit testing with React Testing Library
+- End to end testing with Cypress
+- Chrome devtools
+- TypeScript
+
+- Authentication with JWT (JSON Web Tokens)
+- API Gateways
+- Restful APIs (I have mostly done GraphQL at this point)
+- PostgresQL with Sequelize
+- Server logging best practices beyond console.log
+- Docker and Docker Compose
+- Get more familiar with Postman (or Insomnia which is a free alternative)
+- Authentication library like PassportJS
+- Serverless and JAMstack
+
+- NextJS: it's a framework for React that is designed to work great for JAMstack projects. I'll probably be taking Wes Bos' Advanced React course when he updates it since I already purchased it.
+- A headless CMS like KeystoneJS, Strapi or similar. Probably one of the cheaper ones since some are really expensive.
+- AWS Lambda and other Amazon services that might come in handy.
+
+- TailwindCSS
+- XState: a state management library
+- React Hook Form
+- Styled System: a helper library for Styled Components, which I already use
+- Design systems
+
+#### Courses
+- JavaScript Hard Parts v2
+- JavaScript Recent Parts
+- JavaScript New Hard Parts
+- Production Grade TypeScript
+- Production Ready NextJS
+- Intro to Containers
 
 #### 25 JavaScript Courses at PluralSight
 - JavaScript Getting Started
