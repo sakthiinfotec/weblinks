@@ -7,6 +7,7 @@
 [Glassmorphism #New trend - Using CSS](https://dev.to/dip15739/glassmorphism-new-trend-9fc)  
 [Glassmorphism - Demo](https://dip15739.github.io/Glassmorphism/)  
 [3D models for your new app design - Figma - YouTube Video](https://www.youtube.com/watch?v=1ZC9u6DrUr0)  
+[Mastering Animations in Figma by Building 7 Common UI Animations](https://blog.jurn.io/figma-animation-examples/)  
 
 #### REST API Design
 [What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
