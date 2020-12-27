@@ -158,8 +158,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Crockford on JavaScript - YouTube](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
 [Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
 
-#### Web Development Resources
-[2020 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
+#### Web Development Roadmap - 2021
+[2021 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
+[How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
 
 #### Web Development Skills
 - Event loop
