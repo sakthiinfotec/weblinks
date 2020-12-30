@@ -159,6 +159,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
 
 #### Web Development Roadmap - 2021
+[Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
+[Backend Developer Roadmap 2021 - Github By Kamran Ahmed](https://roadmap.sh/backend)  
+[DevOps Roadmap 2021 - Github By Kamran Ahmed](https://roadmap.sh/devops)  
 [2021 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
 [How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
 
