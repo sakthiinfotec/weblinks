@@ -142,6 +142,11 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 @dashdash
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
 [Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
+[Add a shopping cart to any website - Snipcart: Pluggable Shopping Cart for Gatsby and NextJS](https://snipcart.com/)  
+[Reaction Commerce - 10.7k Stars, 2k Forks, and 5000+ Contributors | Built on modern stacks - React.js, Next.js, GraphQL, Node.js, Kafka, Docker](https://reactioncommerce.com/)  
+[JAMstack E-Commerce Professional - A Newborn](https://github.com/jamstack-cms/jamstack-ecommerce)  
+[Next.js Commerce - A starter kit for ECommerce with Next.js | 2400 stars on GitHub and more than 300 forks](https://nextjs.org/commerce)  
+
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
