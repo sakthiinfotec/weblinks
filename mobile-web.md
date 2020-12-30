@@ -104,10 +104,6 @@ Immediately Invoked Function Expressions(IIFEs)
 [How SVG Line animation works](https://css-tricks.com/svg-line-animation-works/)  
 [SVG - Stroke Dasharray](https://css-tricks.com/almanac/properties/s/stroke-dasharray/)  
 
-#### Node.js
-[Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
-[Next.js - The React Framework for Production](https://nextjs.org/docs/deployment)  
-
 #### Flutter
 [Announcing Flutter Modular 3.0 BETA (with Null Safety) - Medium](https://medium.com/flutterando/announcing-flutter-modular-3-0-beta-with-null-safety-b0a0e13f67b6)  
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
@@ -168,6 +164,14 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Learn JavaScript for Free: 13 Online Resources for Every Level of Expertise - Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)  
 [Crockford on JavaScript - YouTube](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
 [Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
+
+#### Web Frameworks
+[Next.js - The React Framework for Production](https://nextjs.org/docs/deployment)  
+[RedwoodJs - Bringing full-stack to the Jamstack | Built by GitHub co-founder Tom Preston-Werner on React, GraphQL, and Prisma](https://redwoodjs.com/)   
+[Prisma - Next-generation ORM for Node.js and TypeScript](https://www.prisma.io/)  
+[How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)   
+[SWR is a React Hooks library for remote data fetching](https://www.npmjs.com/package/swr)   
+[Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
 
 #### Web Development Roadmap - 2021
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
