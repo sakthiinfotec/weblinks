@@ -132,6 +132,7 @@ https://www.npmjs.com/package/sequelize
 [What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
 [Netlify - The fastest way to build fastest sites](https://www.netlify.com/)  
 [Netlify | Jamstack - A new approach to faster, more secure websites](https://www.netlify.com/jamstack/)  
+[Driver.js - On Boarding | Quick Tour | Overlay or Popover](https://github.com/kamranahmedse/driver.js)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
@@ -162,6 +163,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
 [Backend Developer Roadmap 2021 - Github By Kamran Ahmed](https://roadmap.sh/backend)  
 [DevOps Roadmap 2021 - Github By Kamran Ahmed](https://roadmap.sh/devops)  
+[Design Patterns for Humans - Github By Kamran Ahmed](https://github.com/kamranahmedse/design-patterns-for-humans)  
 [2021 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
 [How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
 
