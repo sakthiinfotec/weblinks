@@ -27,6 +27,7 @@
 
 #### Web Apps - Getting Started
 [How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
+[Fast and low overhead web framework, for Node.js](https://www.fastify.io/)  
 [How to Create a Reddit Clone Using React and Firebase - Sitepoint](https://www.sitepoint.com/reddit-clone-react-firebase/)  
 [How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
 [MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
