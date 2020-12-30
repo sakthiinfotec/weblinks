@@ -58,6 +58,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Using React Functional Components with Hooks in TypeScript](https://levelup.gitconnected.com/using-react-functional-components-with-hooks-in-typescript-6d61075edddc)  
 [How to build reusable layouts in React JS  with Router](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 [Composable Animation Toolkit using React.js + HTML + CSS](https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1)  
+[The beginner’s guide to mastering React props - Medium (G)](https://codemadeeasy.medium.com/the-beginners-guide-to-mastering-react-props-8c7d77df8e1f)  
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
@@ -137,9 +138,10 @@ https://www.npmjs.com/package/sequelize
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
 
-#### Productive Tooks
+#### Productive Tools | Components | Templates
 @dashdash
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
+[Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
