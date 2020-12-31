@@ -14,7 +14,8 @@ https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
 #### Computer Vision
-[5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)   
+[5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)  
+[Top 20 Image Datasets for Machine Learning and Computer Vision](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo)  
 
 #### NLP
 [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
