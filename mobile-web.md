@@ -54,6 +54,13 @@ Immediately Invoked Function Expressions(IIFEs)
 [JavaScript and TypeScript Hidden Gems: Decorators](https://blog.bitsrc.io/decorators-javascript-and-typescript-hidden-gems-600038bcbd44)  
 
 #### React
+[FreeCodeCamp - Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks - YouTube](https://www.youtube.com/watch?v=4UZrsTqkcW4&feature=emb_title)
+[React Tutorial for Beginners - Dev Ed via YouTube](https://www.youtube.com/watch?v=dGcsHMXbSOA)   
+[Redux for Beginners | React Redus Tutorial - Dev Ed via YouTube](https://www.youtube.com/watch?v=CVpUuw9XSjY)  
+[React Crash Course - Traversey Media via YouTube](https://www.youtube.com/watch?v=sBws8MSXN7A)   
+[TypeScript Course for Beginners 2020 - Academind via YouTube](https://www.youtube.com/watch?v=BwuLxPH8IDs)  
+[React.js Hooks Crash Course - Academind via YouTube](https://www.youtube.com/watch?v=-MlNBTSg_Ww)  
+
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
 [Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20)  
 [Using React Functional Components with Hooks in TypeScript](https://levelup.gitconnected.com/using-react-functional-components-with-hooks-in-typescript-6d61075edddc)  
@@ -61,8 +68,14 @@ Immediately Invoked Function Expressions(IIFEs)
 [Composable Animation Toolkit using React.js + HTML + CSS](https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1)  
 [The beginner’s guide to mastering React props - Medium (G)](https://codemadeeasy.medium.com/the-beginners-guide-to-mastering-react-props-8c7d77df8e1f)  
 
+[Create Rect App for Beginners + Chakra UI - YouTube ](https://www.youtube.com/playlist?list=PLkZYeFmDuaN3NDLnBG01-sH2-nwn43mYu)   
+[A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
+[Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
+
 #### React Native
 [Build Landmark Recognition App with React Native and Vision AI - via Hackernoon (G)](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)  
+[Build WordPress App with React Native Part #1: Overview - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-1-overview-ncor32ct)  
+[Build WordPress App with React Native Part#15: Forwarding Message to Inbox - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-15-forwarding-message-to-inbox-to4uj32da)    
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
