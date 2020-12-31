@@ -72,11 +72,15 @@ Immediately Invoked Function Expressions(IIFEs)
 [A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 
+[AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
+
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
 [Jest - Delightful JavaScript Testing](https://jestjs.io/)  
 [Jest - Testing React Native Apps](https://jestjs.io/docs/en/tutorial-react-native)  
 [Testing - React Native](https://reactnative.dev/docs/testing-overview)  
+[Learn Storybook - Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)  
+[Flamingo - Storybook](https://flamingo.heetch-eng.now.sh/)  
 
 [Build Landmark Recognition App with React Native and Vision AI - via Hackernoon (G)](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)  
 [Build WordPress App with React Native Part #1: Overview - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-1-overview-ncor32ct)  
@@ -167,7 +171,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Reaction Commerce - 10.7k Stars, 2k Forks, and 5000+ Contributors | Built on modern stacks - React.js, Next.js, GraphQL, Node.js, Kafka, Docker](https://reactioncommerce.com/)  
 [JAMstack E-Commerce Professional - A Newborn](https://github.com/jamstack-cms/jamstack-ecommerce)  
 [Next.js Commerce - A starter kit for ECommerce with Next.js | 2400 stars on GitHub and more than 300 forks](https://nextjs.org/commerce)  
-
+[34 Must have Chrome Extensions for Web Developers and Designers - dev.to](https://dev.to/saviomartin/34-must-have-chrome-extensions-for-web-developers-and-designers-421b)  
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
@@ -205,6 +209,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Design Patterns for Humans - Github By Kamran Ahmed](https://github.com/kamranahmedse/design-patterns-for-humans)  
 [2021 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
 [How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
+[Web Developer Roadmap for 2021 (with Tutorials and YouTube videos) - dev.to (G)](https://dev.to/britzdylan/web-developer-roadmap-for-2021-5abb)  
 
 #### Web Development Skills
 - Event loop
