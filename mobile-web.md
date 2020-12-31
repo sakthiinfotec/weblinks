@@ -71,6 +71,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Create Rect App for Beginners + Chakra UI - YouTube ](https://www.youtube.com/playlist?list=PLkZYeFmDuaN3NDLnBG01-sH2-nwn43mYu)   
 [A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
+[How to build reusable layouts in React JS  with Router - dev.to](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 
 [Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
@@ -212,6 +213,8 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [2021 - Web Development Study Plan](https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57)  
 [How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
 [Web Developer Roadmap for 2021 (with Tutorials and YouTube videos) - dev.to (G)](https://dev.to/britzdylan/web-developer-roadmap-for-2021-5abb)  
+[Ultimate Resources for Front-End Development in 2021 + Giveaway - dev.to (G)](https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838)  
+  
 
 #### Web Development Skills
 - Event loop
