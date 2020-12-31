@@ -72,6 +72,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 
+[Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)
 
