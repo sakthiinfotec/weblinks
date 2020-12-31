@@ -12,5 +12,8 @@ https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html
 ### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
+#### Computer Vision
+[5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)   
+
 ### Open CV
 https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py  
