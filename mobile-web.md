@@ -73,9 +73,15 @@ Immediately Invoked Function Expressions(IIFEs)
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 
 #### React Native
+[Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
+[Jest - Delightful JavaScript Testing](https://jestjs.io/)  
+[Jest - Testing React Native Apps](https://jestjs.io/docs/en/tutorial-react-native)  
+[Testing - React Native](https://reactnative.dev/docs/testing-overview)  
+
 [Build Landmark Recognition App with React Native and Vision AI - via Hackernoon (G)](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)  
 [Build WordPress App with React Native Part #1: Overview - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-1-overview-ncor32ct)  
 [Build WordPress App with React Native Part#15: Forwarding Message to Inbox - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-15-forwarding-message-to-inbox-to4uj32da)    
+
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
