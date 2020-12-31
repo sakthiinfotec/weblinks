@@ -73,6 +73,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
+[Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)
 
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
