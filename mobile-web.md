@@ -91,6 +91,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Mastering the basics of SEO in React and Next.js by Leigh Halliday - YouTube(12 Mins)](https://www.youtube.com/watch?v=GfsqFaiaK3A)  
 [Next.js Crash Course - SSG, SSR, API Routes, and more by Dmytro Danylov - YouTube(1:36 Hrs)](https://www.youtube.com/watch?v=q-sYloF3xKM)  
 [Next.js Tutorial - Part 1 | Router for Beginners by Bruno Antunes - YouTube(19 Hrs)](https://www.youtube.com/watch?v=7J4iL1HDshQ)  
+[Next.js Tutorial by Bruno Antunes - YTC(22 Videos)](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40)  
 
 [How to Share React Components between Next.js Projects](https://blog.bitsrc.io/how-to-share-react-components-between-nextjs-projects-c0857bbc1fcb)  
 [Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
@@ -164,6 +165,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [6 in 1 multi Restaurant Food Ordering App|Food Delivery App|Android+iOS App Template](https://codecanyon.net/item/6-in-1-mutli-restaurant-food-ordering-app-food-delivery-app-android-ios-app-template-hungerz/29520494)  
 
 #### People to follow
+[@dashdash](https://twitter.com/dashdash)  
 [Medium - Trung Anh Dang - Javascript | Software Architecture | ML](https://medium.com/@dangtrunganh)  
 [Arunava C @ Attim - Data Science | AI | Open CV](https://www.linkedin.com/in/iarunava/)  
 
@@ -189,7 +191,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Hosting your website on Github - Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)  
 
 #### Productive Tools | Components | Templates
-@dashdash
+[CodeSandBox.io - Online IDE](https://codesandbox.io)  
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
 [Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
 [Add a shopping cart to any website - Snipcart: Pluggable Shopping Cart for Gatsby and NextJS](https://snipcart.com/)  
