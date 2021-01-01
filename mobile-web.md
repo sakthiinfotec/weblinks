@@ -73,9 +73,29 @@ Immediately Invoked Function Expressions(IIFEs)
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 [How to build reusable layouts in React JS  with Router - dev.to](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 
-[Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)
+
+#### Next.js
+[Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)
+[Rebuilding my Business Site LIVE with Next.js | Part 1 - YouTube(30 Mins)](https://www.youtube.com/watch?v=78u6xf-AeRU&ab_channel=Cod%C3%BACommunity)
+[CSR / SSR / SSG / ISR with Next.js – Explained! - Lee Robinson@Vercel - YouTube(1 Hr)](https://www.youtube.com/watch?v=eMwTEo6AjDc)  
+[Learn Next.js in One Video - Fundamentals of Next.js - codedamn - YouTube(2:30 Hrs)](https://www.youtube.com/watch?v=tt3PUvhOVzo)  
+[Next.js Crash Course - SSG, SSR, and more (Updated for Next.JS 10+) (2020) - Dev Ascend - YouTube(20 Mins)](https://www.youtube.com/watch?v=dArDe9v5QIA)  
+[What is JAMStack? by Ben Awad - YouTube(14 Mins)](https://www.youtube.com/watch?v=O0sywQnY8sM)
+[Keynote - Next.js Conf 2020 - YouTube(26 Mins)](https://www.youtube.com/watch?v=1-NzQ9ObsfM)  
+[Gatsby vs Next.js: Which does SSG Better? - YouTube(23 Mins)](https://www.youtube.com/watch?v=imeAhvbA968)  
+[Next.js Static Site Generation (SSG) Tutorial - YouTube(27 Mins)](https://www.youtube.com/watch?v=pY0vWYLDDco)  
+[Next.js Crash Course - Server Side React - YouTube(41 Mins)](https://www.youtube.com/watch?v=IkOVe40Sy0U)  
+[Next.js: The React Framework - JS Monthly - July 2019 - Pusher - YouTube(28 Mins)](https://www.youtube.com/watch?v=KC7j3DtOnYE)  
+[Mastering the basics of SEO in React and Next.js by Leigh Halliday - YouTube(12 Mins)](https://www.youtube.com/watch?v=GfsqFaiaK3A)  
+[Next.js Crash Course - SSG, SSR, API Routes, and more by Dmytro Danylov - YouTube(1:36 Hrs)](https://www.youtube.com/watch?v=q-sYloF3xKM)  
+[Next.js Tutorial - Part 1 | Router for Beginners by Bruno Antunes - YouTube(19 Hrs)](https://www.youtube.com/watch?v=7J4iL1HDshQ)  
+
+[How to Share React Components between Next.js Projects](https://blog.bitsrc.io/how-to-share-react-components-between-nextjs-projects-c0857bbc1fcb)  
+[Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
+[7 Top React Static Site Generators](https://blog.bitsrc.io/7-top-react-static-site-generators-in-2020-5850ae275821)  
+[Exciting Features in NextJS V10 - Built-in Image Component|Internationalized Routing|NextJS Analytics|NextJS Commerce, etc.](https://blog.bitsrc.io/exciting-features-in-nextjs-v10-a790edb752b6)  
 
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
@@ -89,7 +109,6 @@ Immediately Invoked Function Expressions(IIFEs)
 [Build WordPress App with React Native Part #1: Overview - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-1-overview-ncor32ct)  
 [Build WordPress App with React Native Part#15: Forwarding Message to Inbox - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-15-forwarding-message-to-inbox-to4uj32da)    
 
-
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
 
@@ -99,6 +118,9 @@ Immediately Invoked Function Expressions(IIFEs)
 4. [http://javascript.info](http://javascript.info)
 5. [Getting Started with Redux - @dan_abramov](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)  
 6. [ReactJS docs](https://reactjs.org/docs/getting-started.html)  
+
+#### Web APIs
+[APIs for Beginners - How to use an API (Full Course / Tutorial) - freeCodeCamp.org - YT(2:19 Hrs)](https://www.youtube.com/watch?v=GZvSYJDk-us)  
 
 #### JavaScript Books
 [Maintainable JavaScript: Writing Readable Code by Nicholas C. Zakas](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)   
