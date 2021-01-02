@@ -9,6 +9,7 @@
 [3D models for your new app design - Figma - YouTube Video](https://www.youtube.com/watch?v=1ZC9u6DrUr0)  
 [Mastering Animations in Figma by Building 7 Common UI Animations](https://blog.jurn.io/figma-animation-examples/)  
 [Figma Tutorial - A Free UI Design/Prototyping tool. It's Awesome - YT(36 Mins)](https://www.youtube.com/watch?v=3q3FV65ZrUs)  
+[Designing Google Maps Interaction in Figma - YT(16 Mins)](https://www.youtube.com/watch?v=8OfEgD2zQOg)  
 
 #### REST API Design
 [What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
