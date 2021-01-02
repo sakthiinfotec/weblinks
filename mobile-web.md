@@ -182,6 +182,8 @@ https://www.npmjs.com/package/sequelize
 #### Tools and Techniques
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
 [Transform Tools - Transform HTML/SVG-JSX|HTML-Pug|JSON Schema|TypeScript|GraphQL|YAML, etc,.](https://transform.tools/html-to-jsx)  
+[JSONPlaceholder - Free to use fake online REST API for testing and prototyping. Powered by JSON Server + LowDB](https://jsonplaceholder.typicode.com/)
+
 [Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
 [What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
 [Netlify - The fastest way to build fastest sites](https://www.netlify.com/)  
