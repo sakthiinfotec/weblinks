@@ -83,7 +83,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)
 
 #### Next.js
-[Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)
+[Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)  
 [Rebuilding my Business Site LIVE with Next.js | Part 1 - YouTube(30 Mins)](https://www.youtube.com/watch?v=78u6xf-AeRU&ab_channel=Cod%C3%BACommunity)
 [CSR / SSR / SSG / ISR with Next.js – Explained! - Lee Robinson@Vercel - YouTube(1 Hr)](https://www.youtube.com/watch?v=eMwTEo6AjDc)  
 [Learn Next.js in One Video - Fundamentals of Next.js - codedamn - YouTube(2:30 Hrs)](https://www.youtube.com/watch?v=tt3PUvhOVzo)  
