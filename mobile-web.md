@@ -9,6 +9,7 @@
 [3D models for your new app design - Figma - YouTube Video](https://www.youtube.com/watch?v=1ZC9u6DrUr0)  
 [Mastering Animations in Figma by Building 7 Common UI Animations](https://blog.jurn.io/figma-animation-examples/)  
 [Figma Tutorial - A Free UI Design/Prototyping tool. It's Awesome - YT(36 Mins)](https://www.youtube.com/watch?v=3q3FV65ZrUs)  
+[Figma High-Fidelity Prototyping - Anima App YTC(8 Videos)](https://www.youtube.com/playlist?list=PLvftPKgDrSwav-FtdggkmkMBb9yYd5Km_)  
 [Designing Google Maps Interaction in Figma - YT(16 Mins)](https://www.youtube.com/watch?v=8OfEgD2zQOg)  
 
 #### REST API Design
@@ -62,6 +63,9 @@ Immediately Invoked Function Expressions(IIFEs)
 [React Crash Course - Traversey Media via YouTube](https://www.youtube.com/watch?v=sBws8MSXN7A)   
 [TypeScript Course for Beginners 2020 - Academind via YouTube](https://www.youtube.com/watch?v=BwuLxPH8IDs)  
 [React.js Hooks Crash Course - Academind via YouTube](https://www.youtube.com/watch?v=-MlNBTSg_Ww)  
+[React.js Tutorial with Hooks(useState, useEffect, useSWR), Formik and Typescript by Bruno Antunes YTC(9 Videos) (G)](https://www.youtube.com/playlist?list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)  
+[Formik Tutorial - YTC(44 Videos)](https://www.youtube.com/watch?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&v=a94FOvaBomQ)  
+[Formik with Material UI Tutorial - Create Beautiful React Forms - YT(1:28 Hrs)](https://www.youtube.com/watch?v=ziWJ4k_3BLk)  
 
 [Top 10 React Echosystem Tools - Medium](https://medium.com/@nawazdhandala/top-10-react-development-implements-65237e0cf3f7)  
 [Six most impactful #JavaScript resources (thread with links and description)](https://twitter.com/TreyHuffine/status/1292863832264769541?s=20)  
@@ -159,6 +163,8 @@ Immediately Invoked Function Expressions(IIFEs)
 [SVG - Stroke Dasharray](https://css-tricks.com/almanac/properties/s/stroke-dasharray/)  
 
 #### Flutter
+[Flutter Crash Course - Traversy Media - YT(1 Hr)](https://www.youtube.com/watch?v=1gDhl4leEzA)
+[Flutter Chat UI Tutorial | From the Scratch - YT(1 Hr)](https://www.youtube.com/watch?v=h-igXZCCrrc)  
 [Announcing Flutter Modular 3.0 BETA (with Null Safety) - Medium](https://medium.com/flutterando/announcing-flutter-modular-3-0-beta-with-null-safety-b0a0e13f67b6)  
 [Build Custom Image Classification Models for Mobile with Flutter, ML Kit, and AutoML
 ](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)  
