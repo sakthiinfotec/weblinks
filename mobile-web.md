@@ -181,6 +181,7 @@ https://www.npmjs.com/package/sequelize
 
 #### Tools and Techniques
 [JSON to CSV in Node.js](https://www.newline.co/@anthonygore/how-to-convert-json-to-csv-in-nodejs--23c6b226)  
+[JSON2TS - Generate TypeScript interfaces from JSON](http://json2ts.com/)  
 [Transform Tools - Transform HTML/SVG-JSX|HTML-Pug|JSON Schema|TypeScript|GraphQL|YAML, etc,.](https://transform.tools/html-to-jsx)  
 [JSONPlaceholder - Free to use fake online REST API for testing and prototyping. Powered by JSON Server + LowDB](https://jsonplaceholder.typicode.com/)
 
