@@ -1,3 +1,6 @@
+#### ML
+[Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
+
 #### Deep Learning
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
