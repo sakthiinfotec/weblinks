@@ -35,6 +35,11 @@
 [How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
 [MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
 
+#### JavaSCript - Guides
+[JavaScript Info - Tutorials(Web Components, RegEx, Offline Storage, etc.,)](https://javascript.info/js)  
+[3 Ways To Replace All String Occurrences in JavaScript](https://dmitripavlutin.com/replace-all-string-occurrences-javascript/)  
+[A guide to JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)  
+
 #### Javascript - Best Practices
 [Top 10 React Echosystem Tools - Sitepoint](https://www.sitepoint.com/write-maintainable-javascript/)  
 [5 Best Practices for Writing Clean JavaScript - Medium](https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859)  
