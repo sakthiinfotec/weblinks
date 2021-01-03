@@ -85,6 +85,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 [How to build reusable layouts in React JS  with Router - dev.to](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 [How To Build JS Components with Storybook - Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook)  
+[What is Storybook and How Can I Use It to Create a Component Library in React? - freeCodeCamp](https://www.freecodecamp.org/news/what-is-storybook-and-how-can-i-use-it-to-create-a-component-libary-in-react/)  
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)  
