@@ -228,6 +228,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Build a Basic Web Application | Deploy in AWS using Amplify, API Gateway, Lambda, DynamoDB](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/)
 
 #### Certifications
+[Google Developers Certification](https://developers.google.com/certification)  
 [Responsive Web Design @freecodecamp](https://www.freecodecamp.org/learn)
 
 #### E-Books
