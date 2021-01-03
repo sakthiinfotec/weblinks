@@ -84,9 +84,11 @@ Immediately Invoked Function Expressions(IIFEs)
 [A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
 [Understanding the useState hook in React with Basic Usage - via Hackernoon](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)  
 [How to build reusable layouts in React JS  with Router - dev.to](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
+[How To Build JS Components with Storybook - Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook)  
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
-[Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)
+[Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)  
+
 
 #### Next.js
 [Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)  
