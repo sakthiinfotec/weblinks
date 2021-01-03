@@ -90,7 +90,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### Next.js
 [Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)  
-[Rebuilding my Business Site LIVE with Next.js | Part 1 - YouTube(30 Mins)](https://www.youtube.com/watch?v=78u6xf-AeRU&ab_channel=Cod%C3%BACommunity)
+[Rebuilding my Business Site LIVE with Next.js | Part 1 - YouTube(30 Mins)](https://www.youtube.com/watch?v=78u6xf-AeRU&ab_channel=Cod%C3%BACommunity)  
 [CSR / SSR / SSG / ISR with Next.js – Explained! - Lee Robinson@Vercel - YouTube(1 Hr)](https://www.youtube.com/watch?v=eMwTEo6AjDc)  
 [Learn Next.js in One Video - Fundamentals of Next.js - codedamn - YouTube(2:30 Hrs)](https://www.youtube.com/watch?v=tt3PUvhOVzo)  
 [Next.js Crash Course - SSG, SSR, and more (Updated for Next.JS 10+) (2020) - Dev Ascend - YouTube(20 Mins)](https://www.youtube.com/watch?v=dArDe9v5QIA)  
