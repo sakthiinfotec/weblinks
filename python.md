@@ -10,7 +10,7 @@ https://fastapi.tiangolo.com/
 
 
 #### Computing
-[Dask - Dask is a flexible library for parallel computing in Python | Dynamic task scheduling similar to Airflow, Luigi, Celery | “Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators](https://docs.dask.org/en/latest/)  
+[Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
 [A distributed task scheduler for Dask](https://distributed.dask.org/)  
 [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
 
