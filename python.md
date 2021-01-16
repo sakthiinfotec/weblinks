@@ -11,7 +11,7 @@ https://fastapi.tiangolo.com/
 
 #### Computing
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
-[A distributed task scheduler for Dask](https://distributed.dask.org/)  
+[Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
 [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
 
 ### Tools
