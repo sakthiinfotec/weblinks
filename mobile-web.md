@@ -151,8 +151,10 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### JavaScript Technical Problems and Solutions
 [Twitter - Trey Huffine](https://twitter.com/treyhuffine)  
-[Mahdhi Rezvi - Full Stack / Mobile Developer & Freelance Technical Content Writer
-](https://thisismahdhi.ml/)  
+[Mahdhi Rezvi - Full Stack / Mobile Developer & Freelance Technical Content Writer](https://thisismahdhi.ml/)  
+
+#### Advanced JavaScript (Basic - In Depth)
+[Mastering ‘this’ in JavaScript: Callbacks and bind(), apply(), call() - thenewstack.io](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)  
 
 #### CSS
 [A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
