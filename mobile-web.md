@@ -156,6 +156,8 @@ Immediately Invoked Function Expressions(IIFEs)
 #### Advanced JavaScript (Basic - In Depth)
 [Mastering ‘this’ in JavaScript: Callbacks and bind(), apply(), call() - thenewstack.io](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)  
 [Bound function & Partially Applied function - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)  
+[Understanding JavaScript Bind () - smashingmagazine](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)  
+[Function binding - javascript.info](https://javascript.info/bind)  
 
 #### CSS
 [A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
