@@ -13,6 +13,8 @@ https://fastapi.tiangolo.com/
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
 [Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
 [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
+[Rapids.ai By NVDIA](https://rapids.ai/start.html)  
+[Vaex - a python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets](https://vaex.io/docs/index.html)  
 
 #### Tools
 [sup - Stack Up](https://github.com/pressly/sup)  
