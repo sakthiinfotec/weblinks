@@ -164,6 +164,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
 [The Cleanest Trick for Autogrowing Textareas @CSSTricks](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)  
 [Clipping and Masking in CSS @CSSTricks](https://css-tricks.com/clipping-masking-css/)  
+[Learn Flexbox with 30 Code Tidbits - from samanthaming.com](https://www.samanthaming.com/flexbox30/1-flexbox-intro/)  
 
 #### SVG
 [A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
@@ -222,6 +223,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [CodeSandBox.io - Online IDE](https://codesandbox.io)  
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
 [CMDER - Portable console emulator for Windows](https://cmder.net/)  
+[Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)  
+[Emoji - For your Web, Android and iOS app](https://getemoji.com/)  
+[Polacode - Take screenshot of code snippet - Plugin for VSCode](https://github.com/octref/polacode)  
 
 [Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
 [Add a shopping cart to any website - Snipcart: Pluggable Shopping Cart for Gatsby and NextJS](https://snipcart.com/)  
