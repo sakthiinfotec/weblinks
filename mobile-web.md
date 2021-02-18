@@ -351,6 +351,17 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - React: The Big Picture
 - Designing React Components
 
+#### Typical Node.js Tech Stack
+- Node.js
+- React +  Redux
+- MongoDB
+- Redis
+- Elasticsearch
+- Messaging systems like RabbitMQ, SQS, etc.
+- Cloud providers such as AWS, Azure, Google App Engine, etc.
+
+EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
+
 #### Application Stack
 - Language: Ruby/Ruby on Rails, Java, JavaScript, Python/Django
 - Database modeling (SQL and/or NoSQL)
