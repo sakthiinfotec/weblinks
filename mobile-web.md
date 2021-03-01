@@ -356,11 +356,14 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Typical Node.js Tech Stack
 - Node.js
 - React +  Redux
+- Typescript
+- GraphQL
 - MongoDB
 - Redis
 - Elasticsearch
 - Messaging systems like RabbitMQ, SQS, etc.
 - Cloud providers such as AWS, Azure, Google App Engine, etc.
+- Go, MySQL, Kubernetes
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
