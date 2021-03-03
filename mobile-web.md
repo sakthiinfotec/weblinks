@@ -263,6 +263,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)   
 [SWR is a React Hooks library for remote data fetching](https://www.npmjs.com/package/swr)   
 [Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
+[Progressive microservices framework for Node.js](https://moleculer.services/)  
 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
