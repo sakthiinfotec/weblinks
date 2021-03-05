@@ -92,6 +92,11 @@ Immediately Invoked Function Expressions(IIFEs)
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)  
 
+#### Redux Persist
+[Redux Persist - Tutorial](https://github.com/rt2zz/redux-persist)  
+[The Definitive Guide to Redux Persist](https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167975)  
+[Persisting your React application state with Redux and Typescript](https://levelup.gitconnected.com/persisting-your-react-application-state-with-redux-and-typescript-51e4e66c4e53)  
+[REDUX-PERSIST: HOW IT WORKS AND HOW TO CHANGE THE STRUCTURE OF YOUR PERSISTED STORE](https://blog.bam.tech/developer-news/redux-persist-how-it-works-and-how-to-change-the-structure-of-your-persisted-store)  
 
 #### Next.js
 [Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)  
