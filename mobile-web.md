@@ -270,6 +270,12 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
 [Moleculer.js - Progressive microservices framework for Node.js](https://moleculer.services/)  
 
+#### Javascript Build Tools
+[Vite.js - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.](https://vitejs.dev/guide/)  
+[RollupJS](https://rollupjs.org/)  
+[Webpack](https://webpack.js.org/)  
+[Parcel](https://parceljs.org/)  
+
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
   
