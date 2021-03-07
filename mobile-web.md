@@ -370,16 +370,14 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Designing React Components
 
 #### Typical Node.js Tech Stack
-- Node.js
-- React +  Redux
-- Typescript
-- GraphQL
-- MongoDB
-- Redis
-- Elasticsearch
+- Frontend: JavaScript, Typescript, React +  Redux (Redux Tooklit, Redux Persist), React Native, Flutter
+- Backend: Node.js, GraphQL
+- Database: MySQL, MongoDB etc
+- In-memory / Cache: Redis, Elasticsearch
 - Messaging systems like RabbitMQ, SQS, etc.
+- Deployment: Kubernetes, Docker
+- Blockchain: Hyperledger Fabric
 - Cloud providers such as AWS, Azure, Google App Engine, etc.
-- Go, MySQL, Kubernetes
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
