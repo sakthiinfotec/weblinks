@@ -27,6 +27,7 @@
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @ConnerAiken](https://github.com/ConnerAiken/mern-boilerplate)  
 [React with TypeScript + SCSS](https://github.com/giteden/react-ts-demo-app)  
 [React with prop-types + styled-components](https://github.com/teambit/react-demo-app)  
+[React Native - TheCodingMagazine](https://thecodingmachine.github.io/react-native-boilerplate/)  
 
 #### Web Apps - Getting Started
 [How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
