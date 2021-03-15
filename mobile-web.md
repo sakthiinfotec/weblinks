@@ -127,6 +127,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
+[End-to-end testing in React Native with Detox - LogRocket](https://blog.logrocket.com/end-to-end-testing-in-react-native-with-detox/)  
 [Jest - Delightful JavaScript Testing](https://jestjs.io/)  
 [Jest - Testing React Native Apps](https://jestjs.io/docs/en/tutorial-react-native)  
 [Testing - React Native](https://reactnative.dev/docs/testing-overview)  
