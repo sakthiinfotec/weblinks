@@ -27,7 +27,7 @@
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @ConnerAiken](https://github.com/ConnerAiken/mern-boilerplate)  
 [React with TypeScript + SCSS](https://github.com/giteden/react-ts-demo-app)  
 [React with prop-types + styled-components](https://github.com/teambit/react-demo-app)  
-[React Native - TheCodingMagazine](https://thecodingmachine.github.io/react-native-boilerplate/)  
+[React Native - TheCodingMachine](https://thecodingmachine.github.io/react-native-boilerplate/)  
 
 #### Web Apps - Getting Started
 [How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
@@ -137,6 +137,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Build Landmark Recognition App with React Native and Vision AI - via Hackernoon (G)](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)  
 [Build WordPress App with React Native Part #1: Overview - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-1-overview-ncor32ct)  
 [Build WordPress App with React Native Part#15: Forwarding Message to Inbox - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-15-forwarding-message-to-inbox-to4uj32da)    
+[React Native styling tutorial with examples - LogRocket](https://blog.logrocket.com/react-native-styling-tutorial-with-examples/)  
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
