@@ -390,6 +390,7 @@ EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, Powe
 - Database modeling (SQL and/or NoSQL)
 - Web scraping ([Mechanize](https://mechanize.readthedocs.io/en/latest/), Phantomjs, Selenium, XPath,... )
 - Front-end development in React/Redux/NodeJS/ES6, SCSS
+- React Echo System(Jest & Enzyme, Redux, Redux-Saga, Redux-Thunk, WebRTC, WebSocket, LocalStorage, ES6 and NPM,  Express.JS, Next.js)
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
 - [Data modeling](https://www.kidscodecs.com/database-design/)
 - [Understanding Relational Database Model](https://mariadb.com/kb/en/understanding-the-relational-database-model/)
