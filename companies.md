@@ -6,6 +6,7 @@
 [Ace Digital - Digital Marketing, Bengalore](https://www.acedigital.co.in/)  
 [Think Digital - Digital Marketing, SEO, Brand, Bubaneswar](https://www.thinkdigital.co.in/)  
 [Invictonlabs - IoT, Canada](https://invictonlabs.com/)  
+[Techno Meters & Electronics, CBE](https://www.technometers.in/)  
 
 #### Buz Name Suggestions
 ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign |  
