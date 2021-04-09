@@ -15,6 +15,8 @@ https://fastapi.tiangolo.com/
 [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
 [Rapids.ai By NVDIA](https://rapids.ai/start.html)  
 [Vaex - a python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets](https://vaex.io/docs/index.html)  
+[Prefect — A modern, python-native data workflow engine](https://makeitnew.io/prefect-a-modern-python-native-data-workflow-engine-7ece02ceb396)  
+[Prefect IO - Dataflow Automation](https://www.prefect.io/)  
 
 #### Tools
 [sup - Stack Up](https://github.com/pressly/sup)  
