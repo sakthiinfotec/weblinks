@@ -8,5 +8,5 @@
 [Invictonlabs - IoT, Canada](https://invictonlabs.com/)  
 
 #### Buz Name Suggestions
-ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | Internal Software Corporation | PureDesign |  
+ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign |  
 
