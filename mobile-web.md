@@ -11,6 +11,19 @@
 [Figma Tutorial - A Free UI Design/Prototyping tool. It's Awesome - YT(36 Mins)](https://www.youtube.com/watch?v=3q3FV65ZrUs)  
 [Figma High-Fidelity Prototyping - Anima App YTC(8 Videos)](https://www.youtube.com/playlist?list=PLvftPKgDrSwav-FtdggkmkMBb9yYd5Km_)  
 [Designing Google Maps Interaction in Figma - YT(16 Mins)](https://www.youtube.com/watch?v=8OfEgD2zQOg)  
+[Why we switched to Figma as the primary design tool at Zomato](https://www.zomato.com/blog/why-we-switched-to-figma-as-a-primary-design-tool-at-zomato)  
+[Zomato’s new Sushi Design System](https://www.zomato.com/blog/sushi)  
+[Dribble - Zomato](https://dribbble.com/zomato)  
+[Zomato V14 - Tab Bar Interaction Concept](https://dribbble.com/shots/7059384-Zomato-V14-Tab-Bar-Interaction-Concept)  
+
+
+[Toptal - Why Internal Corporate Software Is So Frustrating (with Infographic)](https://www.toptal.com/designers/ux/corporate-software)  
+[Toptal - The Platform Mindset in API Product Management](https://www.toptal.com/product-managers/api/api-product-management)  
+[Toptal - Landing Page Best Practices (with Infographic)](https://www.toptal.com/designers/web/landing-page-best-practices)  
+[Toptal - The Principles of Dark UI Design](https://www.toptal.com/designers/ui/dark-ui-design)  
+[Toptal - Information Architecture Principles for Mobile](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)  
+[Toptal - UI vs UX – Explore the Core Differences (Infographic)](https://www.toptal.com/designers/ui/ui-vs-ux-differences-infographic)  
+
 
 #### REST API Design
 [What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
