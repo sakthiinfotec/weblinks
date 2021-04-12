@@ -1,5 +1,6 @@
 #### ML
 [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
+[Multimodal Machine Learning - YouTube Play list](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
 
 #### Deep Learning
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
