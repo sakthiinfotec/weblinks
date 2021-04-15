@@ -110,6 +110,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [What is a Reducer in JavaScript/React/Redux? - a very good article by ROBIN WIERUCH](https://www.robinwieruch.de/javascript-reducer)  
 [How to use redux thunk in React and React Native by Ali Alhaddad - Medium](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)  
 [Fundamentals of Redux - Dan Abramov](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
+[React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)  
 
 #### Redux Persist
 [Redux Persist - Tutorial](https://github.com/rt2zz/redux-persist)  
