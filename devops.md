@@ -9,6 +9,7 @@
 
 #### Kubernetes
 [Complete Kubernetes Tutorial for Beginners - TechWorld with Nana - YTC(22 Videos)](https://www.youtube.com/watch?v=VnvRFRk_51k&list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC&ab_channel=TechWorldwithNana)  
+[How to setup a VPN connection from inside a pod in Kubernetes - Cave of Code](https://caveofcode.com/how-to-setup-a-vpn-connection-from-inside-a-pod-in-kubernetes/)  
 
 #### Use cases
 [Google Cloud: Customer Story - NoBroker | GKE | Kubernetes | ML/AI | Elasticsearch | MySQL | Python | Google Map | Cloud CDN](https://cloud.google.com/customers/nobroker/?utm_source=twitter&utm_medium=unpaidsocial&utm_campaign=in-other-retail&utm_content=customerstory)  
