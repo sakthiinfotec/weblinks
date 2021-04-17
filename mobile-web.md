@@ -157,6 +157,11 @@ Immediately Invoked Function Expressions(IIFEs)
 [Build WordPress App with React Native Part#15: Forwarding Message to Inbox - via Hackernoon](https://hackernoon.com/build-wordpress-app-with-react-native-15-forwarding-message-to-inbox-to4uj32da)    
 [React Native styling tutorial with examples - LogRocket](https://blog.logrocket.com/react-native-styling-tutorial-with-examples/)  
 [Automatic Deployment of React Native iOS Apps with Fastlane and Github Actions - Gitstart](https://www.gitstart.com/post/automatic-deployment-of-react-native-ios-apps-with-fastlane-and-github-actions)  
+[nyxo.app - Build a Clock Face with SVG in React Native](https://nyxo.app/creating-a-clock-face-in-react-native-with-svg)  
+
+##### React Native - Best Practices
+[How to Fix 'VirtualizedLists should never be nested inside plain ScrollViews' Warning](https://nyxo.app/fixing-virtualizedlists-should-never-be-nested-inside-plain-scrollviews)  
+
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
