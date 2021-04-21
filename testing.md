@@ -8,3 +8,5 @@
 
 #### E2E Testing
 [End-to-end Testing Mobile Apps with Ionic and Cypress @ cypress.io](https://www.cypress.io/blog/2020/07/08/end-to-end-testing-mobile-apps-with-ionic-and-cypress/)  
+#### Load Testing
+[Vegeta - HTTP load testing tool and library written in Golang](https://github.com/tsenart/vegeta)  
