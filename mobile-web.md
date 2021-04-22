@@ -24,6 +24,8 @@
 [Toptal - Information Architecture Principles for Mobile](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)  
 [Toptal - UI vs UX – Explore the Core Differences (Infographic)](https://www.toptal.com/designers/ui/ui-vs-ux-differences-infographic)  
 
+#### Design References
+[Trip.com](https://www.trip.com/)  
 
 #### REST API Design
 [What is a REST API?](https://codeburst.io/what-is-a-rest-api-9a42940f2155)  
