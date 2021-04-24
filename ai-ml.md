@@ -3,6 +3,15 @@
 [paperswithcode.com - CV, NLP, Audio](https://paperswithcode.com/sota)  
 [Multimodal Machine Learning - YouTube Play list](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
 
+#### Deep Learning Starter Kit
+[deeplearningbook - For DL Theory](http://deeplearningbook.org)  
+[explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
+[d2l.ai - For Guided learning](http://d2l.ai)  
+[fast.ai - For applied Deep learning](http://fast.ai)  
+[TensofFlow - For training Deep learning models](https://www.tensorflow.org/)  
+[PyTorch - For training Deep learning models](https://pytorch.org/)
+[Google Colab - For coding your models](https://colab.research.google.com/)  
+
 #### Deep Learning
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
