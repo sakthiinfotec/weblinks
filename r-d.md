@@ -1,7 +1,8 @@
 #### ANTLR
 [ANTLR4](https://www.antlr.org/)  
-[ANTLR v4 with Terence Parr](https://www.youtube.com/watch?v=q8p1voEiu8Q&ab_channel=PragProg)  
-[The Definitive ANTLR 4 Reference](https://www.youtube.com/watch?v=OAoA3E-cyug&ab_channel=PragProg)  
+[ANTLR v4 with Terence Parr - YT](https://www.youtube.com/watch?v=q8p1voEiu8Q&ab_channel=PragProg)  
+[The Definitive ANTLR 4 Reference - YT](https://www.youtube.com/watch?v=OAoA3E-cyug&ab_channel=PragProg)  
+[Alena Khineika: Writing compilers in JavaScript using ANTLR - YT](https://www.youtube.com/watch?v=-Gtsh9VlycI&ab_channel=TurbineKreuzbergGmbH)  
 [ANTLR and the web: a simple example](https://tomassetti.me/antlr-and-the-web/)  
 [Writing a browser based editor using Monaco and ANTLR](https://tomassetti.me/writing-a-browser-based-editor-using-monaco-and-antlr/)  
 [Compiler in JavaScript using ANTLR](https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f)  
