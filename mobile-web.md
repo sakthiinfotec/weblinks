@@ -24,7 +24,7 @@
 [Toptal - Information Architecture Principles for Mobile](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)  
 [Toptal - UI vs UX – Explore the Core Differences (Infographic)](https://www.toptal.com/designers/ui/ui-vs-ux-differences-infographic)  
 
-#### Human Centric AI Interactive
+#### Human Centric AI Interaction
 [www.uxai.design](https://www.uxai.design)  
 [IBM - AI](https://www.ibm.com/design/ai)  
 [Google Design for AI](https://pair.withgoogle.com)  
