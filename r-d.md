@@ -11,3 +11,4 @@
 [github.com/parrt/bookish - A tool that translates augmented markdown into HTML or latex | Incl. Math equations](https://github.com/parrt/bookish)  
 [Ktor - Kotlin HTTP Server](https://ktor.io/docs/intellij-idea.html)  
 [backendless-where-clause-monitor](https://www.npmjs.com/package/backendless-where-clause-monitor)  
+[rdf-ts - typescript library for resolving Relative Date Format (RDF) strings into UNIX values](https://www.npmjs.com/package/rdf-ts)  
