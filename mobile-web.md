@@ -72,6 +72,9 @@
 [Design Patterns: Structural Patterns of Design Classes and Objects](https://levelup.gitconnected.com/design-patterns-structural-patterns-of-design-classes-and-objects-79d58a6519b)   
 Immediately Invoked Function Expressions(IIFEs)  
 
+#### Javascript - Documentation
+[JavaScript Documentation Standards by Wordpress](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)  
+
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
 [Build a Desktop Application with Electron and Angular - Sitepoint](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)  
