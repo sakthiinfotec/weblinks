@@ -3,6 +3,8 @@
 [DigiTran Technology Solutions, CBE](https://dtserp.in/)  
 [Light Speed Web Inc, CBE]()  
 [Makto Technology, CBE](https://www.maktotechnology.com)  
+[Angler, CBE](https://www.angleritech.com/)  
+[Digital Atrium, CBE](https://www.digitalatrium.in/)  
 [Ace Digital - Digital Marketing, Bengalore](https://www.acedigital.co.in/)  
 [Think Digital - Digital Marketing, SEO, Brand, Bubaneswar](https://www.thinkdigital.co.in/)  
 [Invictonlabs - IoT, Canada](https://invictonlabs.com/)  
