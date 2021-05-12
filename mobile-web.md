@@ -92,6 +92,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### React
 [FreeCodeCamp - Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks - YouTube](https://www.youtube.com/watch?v=4UZrsTqkcW4&feature=emb_title)
+[FreeCodeCamp - React Tutorial – Learn React and JavaScript Programming Basics with Example Code](https://www.freecodecamp.org/news/learn-react-basics/)  
 [React Tutorial for Beginners - Dev Ed via YouTube](https://www.youtube.com/watch?v=dGcsHMXbSOA)   
 [Redux for Beginners | React Redus Tutorial - Dev Ed via YouTube](https://www.youtube.com/watch?v=CVpUuw9XSjY)  
 [React Crash Course - Traversey Media via YouTube](https://www.youtube.com/watch?v=sBws8MSXN7A)   
