@@ -126,6 +126,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [How to use redux thunk in React and React Native by Ali Alhaddad - Medium](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)  
 [Fundamentals of Redux - Dan Abramov](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
 [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)  
+[How to Persist Your Redux Store - Store Migration](https://www.cloudsavvyit.com/9778/how-to-persist-your-redux-store/)  
 
 #### Redux Persist
 [Redux Persist - Tutorial](https://github.com/rt2zz/redux-persist)  
