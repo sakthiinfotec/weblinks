@@ -4,4 +4,4 @@
 [GoPiGo3](https://github.com/DexterInd/GoPiGo3)  
 
 #### ReactNative - IoT
-[MAKE YOUR FIRST IOT REACT NATIVE APPLICATION WITH BLUETOOTH LOW ENERGY](https://blog.bam.tech/developer-news/make-your-first-iot-react-native-application-with-the-bluetooth-low-energy)  
+[Make your first IoT React Native application with Bluetooth Low Energy + Arduino](https://blog.bam.tech/developer-news/make-your-first-iot-react-native-application-with-the-bluetooth-low-energy)  
