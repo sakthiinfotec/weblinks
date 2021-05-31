@@ -5,3 +5,4 @@
 
 #### ReactNative - IoT
 [Make your first IoT React Native application with Bluetooth Low Energy + Arduino](https://blog.bam.tech/developer-news/make-your-first-iot-react-native-application-with-the-bluetooth-low-energy)  
+[Creating a realtime attendance app with React Native and BLE](https://pusher.com/tutorials/realtime-attendance-react-native-ble)  
