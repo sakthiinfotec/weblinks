@@ -1,6 +1,7 @@
 
 #### Go Frameworks
 [ent - An entity framework for Go](https://entgo.io/)  
+[HUGO - A Fast and Flexible Static Site Generator](https://github.com/gohugoio/hugo)  
 
 
 #### Go App Development
