@@ -53,6 +53,7 @@
 [React with prop-types + styled-components](https://github.com/teambit/react-demo-app)  
 [React Native - TheCodingMachine](https://thecodingmachine.github.io/react-native-boilerplate/)  
 [LogRocket - Top React Native boilerplates for 2021](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)  
+[Razzle - Build modern JavaScript applications. From zero to production.](https://razzlejs.org/getting-started)  
 
 #### Web Apps - Getting Started
 [How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
