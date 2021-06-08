@@ -25,3 +25,4 @@ https://fastapi.tiangolo.com/
 [Go & Deep Learning tools by Ivan Zhang](https://github.com/1vn)  
 [goose - DB migration tool](https://github.com/pressly/goose)  
 [Cloud instance management for deep learning applications](https://github.com/for-ai/cloud)
+[librosa - is a python package for music and audio analysis](https://librosa.org/doc/latest/install.html)  
