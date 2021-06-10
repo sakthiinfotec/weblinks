@@ -325,6 +325,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [SWR is a React Hooks library for remote data fetching](https://www.npmjs.com/package/swr)   
 [Nunjucks Template by Mozilla](https://mozilla.github.io/nunjucks/templating.html)  
 [Moleculer.js - Progressive microservices framework for Node.js](https://moleculer.services/)  
+[Eleventy(11ty) is a simpler static site generator](https://www.11ty.dev/)  
 
 #### Javascript Build Tools
 [Vite.js - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.](https://vitejs.dev/guide/)  
