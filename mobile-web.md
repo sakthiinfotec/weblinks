@@ -54,6 +54,7 @@
 [React Native - TheCodingMachine](https://thecodingmachine.github.io/react-native-boilerplate/)  
 [LogRocket - Top React Native boilerplates for 2021](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)  
 [Razzle - Build modern JavaScript applications. From zero to production.](https://razzlejs.org/getting-started)  
+[create-react-app.dev](https://create-react-app.dev/docs/making-a-progressive-web-app/)  
 
 #### Web Apps - Getting Started
 [How to Create Your First REST API with Fastify - Sitepoint](https://www.sitepoint.com/create-rest-api-fastify/)  
