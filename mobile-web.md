@@ -124,6 +124,11 @@ Immediately Invoked Function Expressions(IIFEs)
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)  
 
+#### React Concepts(Context, Hooks)
+[kentcdodds.com - Application State Management with React | React createContext(), useContext() - (G)](https://kentcdodds.com/blog/application-state-management-with-react)  
+[dmitripavlutin.com - 3 Rules of React State Management | useReducer() - (G)](https://dmitripavlutin.com/react-state-management/)  
+[State Management Battle in React 2021: Hooks, Redux, and Recoil](https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0)  
+
 #### Redux
 [What is a Reducer in JavaScript/React/Redux? - a very good article by ROBIN WIERUCH](https://www.robinwieruch.de/javascript-reducer)  
 [How to use redux thunk in React and React Native by Ali Alhaddad - Medium](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)  
