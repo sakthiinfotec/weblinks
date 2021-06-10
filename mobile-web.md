@@ -318,6 +318,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 
 #### Web Frameworks
 [Next.js - The React Framework for Production](https://nextjs.org/docs/deployment)  
+[Recoil - A state management library for React](https://recoiljs.org/)  
 [RedwoodJs - Bringing full-stack to the Jamstack | Built by GitHub co-founder Tom Preston-Werner on React, GraphQL, and Prisma](https://redwoodjs.com/)   
 [Prisma - Next-generation ORM for Node.js and TypeScript](https://www.prisma.io/)  
 [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)   
