@@ -128,6 +128,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [kentcdodds.com - Application State Management with React | React createContext(), useContext() - (G)](https://kentcdodds.com/blog/application-state-management-with-react)  
 [dmitripavlutin.com - 3 Rules of React State Management | useReducer() - (G)](https://dmitripavlutin.com/react-state-management/)  
 [State Management Battle in React 2021: Hooks, Redux, and Recoil](https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0)  
+[LogRocket - Using styled-components in TypeScript: A tutorial with examples](https://blog.logrocket.com/using-styled-components-in-typescript-a-tutorial-with-examples/)  
 
 #### Redux
 [What is a Reducer in JavaScript/React/Redux? - a very good article by ROBIN WIERUCH](https://www.robinwieruch.de/javascript-reducer)  
