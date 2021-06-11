@@ -6,3 +6,5 @@
 
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
+
+[Sebastian - Rome is hiring! Looking for developers who like to dive deep into developer tooling. 100% remote and in most countries. If you're interested please contact us at careers@rome.tools!](@sebmck)  
