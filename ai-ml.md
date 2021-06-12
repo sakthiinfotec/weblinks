@@ -26,6 +26,10 @@ https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html
 #### Recommendation Systems
 [Google - Machine Learning Crash Course - Recommendation Systems](https://developers.google.com/machine-learning/recommendation)  
 
+#### Data Science
+[Analyticsvidhya - A Complete Python Tutorial to Learn Data Science from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2)  
+[DataScienceCentral - A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from?overrideMobileRedirect=1)  
+
 #### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
