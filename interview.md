@@ -10,7 +10,7 @@ https://github.com/fterh/leetcode-curation-topical
 
 [Best-websites-a-programmer-should-visit@github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
 
-##### GitHub repos to help you crush your job interviews: Covers Data Structures, Algos, System Design, Security and more!
+##### [GitHub repos to help you crush your job interviews: Covers Data Structures, Algos, System Design, Security and more!](https://twitter.com/catalinmpit/status/1336659813565157377)
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)  
 [Tech Interview Handbook](https://techinterviewhandbook.org/)  
 [System Design Primer](https://github.com/donnemartin/system-design-primer)  
