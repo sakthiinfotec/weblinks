@@ -63,7 +63,10 @@
 [How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
 [MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
 
-#### JavaSCript - Guides
+#### JavaScript - Basics
+[All you need to know about Promise.all - freecodecamp](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/)  
+
+#### JavaScript - Guides
 [JavaScript Info - Tutorials(Web Components, RegEx, Offline Storage, etc.,)](https://javascript.info/js)  
 [3 Ways To Replace All String Occurrences in JavaScript](https://dmitripavlutin.com/replace-all-string-occurrences-javascript/)  
 [A guide to JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)  
