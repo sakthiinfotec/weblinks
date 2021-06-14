@@ -188,6 +188,8 @@ Immediately Invoked Function Expressions(IIFEs)
 ##### React Native - Best Practices
 [How to Fix 'VirtualizedLists should never be nested inside plain ScrollViews' Warning](https://nyxo.app/fixing-virtualizedlists-should-never-be-nested-inside-plain-scrollviews)  
 
+##### React Native - UI Components
+[Create a Custom Animated Bottom Action Sheet without Measuring in React Native (G)](https://codedaily.io/tutorials/Create-a-Custom-Animated-Bottom-Action-Sheet-without-Measuring-in-React-Native)  
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
