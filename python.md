@@ -1,3 +1,5 @@
+##### Basics
+[Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
 
 #### API / Microservices**  
 https://fastapi.tiangolo.com/
