@@ -190,6 +190,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Automatic Deployment of React Native iOS Apps with Fastlane and Github Actions - Gitstart](https://www.gitstart.com/post/automatic-deployment-of-react-native-ios-apps-with-fastlane-and-github-actions)  
 [nyxo.app - Build a Clock Face with SVG in React Native](https://nyxo.app/creating-a-clock-face-in-react-native-with-svg)  
 [Stylesheets in React Native with TypeScript - Medium](https://medium.com/@zvona/stylesheets-in-react-native-with-typescript-revisited-6b4ba0a899d2)  
+[Implement Push Notification with Firebase in React Native - dev.to](https://dev.to/botreetechnologies/how-to-implement-push-notification-with-firebase-in-react-native-2e7n)  
 
 ##### React Native - Best Practices
 [How to Fix 'VirtualizedLists should never be nested inside plain ScrollViews' Warning](https://nyxo.app/fixing-virtualizedlists-should-never-be-nested-inside-plain-scrollviews)  
