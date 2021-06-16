@@ -3,7 +3,7 @@
 [Best websites a programmer should visit@Guthub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
 [AppExpert- #wfh #remote](https://twitter.com/AppExert)  
 [Netlify](https://www.netlify.com/careers)  
-[BigBinary - 100% Remote](https://bigbinary.com/jobs)  
+[BigBinary - Rect Native - 100% Remote](https://bigbinary.com/jobs/react-native)  
 [Gumroad - Sahil](https://www.notion.so/Jobs-f43f816013b2405aa41ddefb663a4a38#98239b20e8b7400ab2d3901559718509)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
