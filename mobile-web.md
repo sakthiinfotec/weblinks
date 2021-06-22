@@ -134,6 +134,11 @@ Immediately Invoked Function Expressions(IIFEs)
 [LogRocket - Using styled-components in TypeScript: A tutorial with examples](https://blog.logrocket.com/using-styled-components-in-typescript-a-tutorial-with-examples/)  
 [Working with App State, useRef and Event Listeners in React Native](https://rossbulat.medium.com/working-with-app-state-and-event-listeners-in-react-native-ffa9bba8f6b7)  
 
+#### React Hooks
+[Dave Ceddia: A Guided Tour of React Hooks / React Boston 2019 - YouTube (G)](https://www.youtube.com/watch?v=ApIiM8pL-kI&ab_channel=InsideWayfair)  
+[Collection of React Hooks](https://nikgraf.github.io/react-hooks/)  
+[Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks/)  
+
 #### Redux
 [What is a Reducer in JavaScript/React/Redux? - a very good article by ROBIN WIERUCH](https://www.robinwieruch.de/javascript-reducer)  
 [How to use redux thunk in React and React Native by Ali Alhaddad - Medium](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)  
