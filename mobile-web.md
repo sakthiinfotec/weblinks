@@ -137,6 +137,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### React Hooks
 [Dave Ceddia: A Guided Tour of React Hooks / React Boston 2019 - YouTube (G)](https://www.youtube.com/watch?v=ApIiM8pL-kI&ab_channel=InsideWayfair)  
+[Dave Ceddia - Access the Redux Store Outside a React Component](https://daveceddia.com/access-redux-store-outside-react/)  
 [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)  
 [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks/)  
 
