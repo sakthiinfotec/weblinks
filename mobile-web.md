@@ -170,6 +170,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Next.js Crash Course - SSG, SSR, API Routes, and more by Dmytro Danylov - YouTube(1:36 Hrs)](https://www.youtube.com/watch?v=q-sYloF3xKM)  
 [Next.js Tutorial - Part 1 | Router for Beginners by Bruno Antunes - YouTube(19 Hrs)](https://www.youtube.com/watch?v=7J4iL1HDshQ)  
 [Next.js Tutorial by Bruno Antunes - YTC(22 Videos)](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40)  
+[Introduction to Next.js - Dev.to](https://dev.to/ponikar/introduction-to-next-js-26c0)  
 
 [How to Share React Components between Next.js Projects](https://blog.bitsrc.io/how-to-share-react-components-between-nextjs-projects-c0857bbc1fcb)  
 [Top NextJS Boilerplates for 2021 - Bits and Pieces - Medium](https://blog.bitsrc.io/top-nextjs-boilerplates-for-2021-faa59048c660)
