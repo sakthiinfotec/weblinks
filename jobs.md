@@ -6,6 +6,7 @@
 [BigBinary - Rect Native - 100% Remote](https://bigbinary.com/jobs/react-native)  
 [Gumroad - Sahil](https://www.notion.so/Jobs-f43f816013b2405aa41ddefb663a4a38#98239b20e8b7400ab2d3901559718509)  
 [Mighty Browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)  
+[AppLanga - MEAN Stack](https://www.applanga.com/jobs)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
