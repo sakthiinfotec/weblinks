@@ -11,3 +11,11 @@
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
 [Sebastian - Rome is hiring! Looking for developers who like to dive deep into developer tooling. 100% remote and in most countries. If you're interested please contact us at careers@rome.tools!](@sebmck)  
+
+#### ToDo
+* Coursera - Machine Learning by Stanford University
+* Coursera - Fundamentals of Digital Image and Video Processing by Northwestern University
+* Coursera - Digital Signal Processing
+* Coursera - Python OpenCV Motion Detection
+* Coursera - Python 3 Programming Specialization
+* [Subhajit Banerjee - Forus Health](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
