@@ -18,4 +18,4 @@
 * Coursera - Digital Signal Processing
 * Coursera - Python OpenCV Motion Detection
 * Coursera - Python 3 Programming Specialization
-* [Subhajit Banerjee - Forus Health](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
+* [Subhajit Banerjee - Forus Health (Medical Devices & AI)](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
