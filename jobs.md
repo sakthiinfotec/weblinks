@@ -18,4 +18,7 @@
 * Coursera - Digital Signal Processing
 * Coursera - Python OpenCV Motion Detection
 * Coursera - Python 3 Programming Specialization
+* Coursera - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+* Coursera - Natural Language Processing in Tensorflow
+* Coursera - Google Cloud Platform Fundamentals: Core Infrastructure
 * [Subhajit Banerjee - Forus Health (Medical Devices & AI)](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
