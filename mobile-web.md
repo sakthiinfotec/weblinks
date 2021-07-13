@@ -90,6 +90,9 @@ Immediately Invoked Function Expressions(IIFEs)
 #### Javascript - Documentation
 [JavaScript Documentation Standards by Wordpress](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)  
 
+#### TypeScript
+[Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)  
+
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
 [Build a Desktop Application with Electron and Angular - Sitepoint](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)  
