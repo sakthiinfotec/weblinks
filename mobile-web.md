@@ -45,6 +45,7 @@
 
 #### GraphQL
 [Why GraphQL is the new REST @newline.co](https://www.newline.co/@eigenjoy/why-graphql-is-the-new-rest--db6d20b0)  
+[GraphQL - Why you should be using it in 2021 - DEV.to](https://dev.to/jackbuchananconroy/graphql-why-you-should-be-using-it-in-2021-1afj)  
 
 #### Boilerplates
 [React + Express + Webpack + Mongo = MERN Stack Boilerplate by @amazingandyyy](https://github.com/amazingandyyy/mern)  
