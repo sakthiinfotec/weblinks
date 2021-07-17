@@ -18,3 +18,4 @@ https://github.com/fterh/leetcode-curation-topical
 [How to Secure Anything: About Security](https://github.com/veeral-patel/how-to-secure-anything)  
 [Algorithms and data structures implemented in JavaScript | Algorithm Complexity | Big 'O' Notation](https://github.com/trekhleb/javascript-algorithms)  
 [How Web Works - github.com/vasanthk](https://github.com/vasanthk/how-web-works)  
+[g2i - 2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)  
