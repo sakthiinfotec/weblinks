@@ -19,3 +19,8 @@ https://github.com/fterh/leetcode-curation-topical
 [Algorithms and data structures implemented in JavaScript | Algorithm Complexity | Big 'O' Notation](https://github.com/trekhleb/javascript-algorithms)  
 [How Web Works - github.com/vasanthk](https://github.com/vasanthk/how-web-works)  
 [g2i - 2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)  
+
+#### Books
+* System Design Interview – An Insider's Guide
+* Designing Data-Intensive Applications
+* Database Internals: A Deep Dive into How Distributed Data Systems Work
