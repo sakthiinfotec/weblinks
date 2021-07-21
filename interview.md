@@ -20,6 +20,8 @@ https://github.com/fterh/leetcode-curation-topical
 [How Web Works - github.com/vasanthk](https://github.com/vasanthk/how-web-works)  
 [g2i - 2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)  
 
+[Log2Base2](https://www.log2base2.com/interview)  
+
 #### Books
 * System Design Interview – An Insider's Guide
 * Designing Data-Intensive Applications
