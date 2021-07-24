@@ -2,6 +2,7 @@
 [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
 [paperswithcode.com - CV, NLP, Audio](https://paperswithcode.com/sota)  
 [Multimodal Machine Learning - YouTube Play list](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
+[Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
 
 #### Deep Learning Starter Kit
 [deeplearningbook - For DL Theory](http://deeplearningbook.org)  
