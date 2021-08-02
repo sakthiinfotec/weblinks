@@ -42,3 +42,13 @@
 * Coursera - Convolutional Neural Networks in Tensorflow
 * Coursera - Google Cloud Platform Fundamentals: Core Infrastructure
 * [Subhajit Banerjee - Forus Health (Medical Devices & AI)](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
+
+#### Senior QA Engineer
+##### Requirements:
+* 5 years+ of backend QA engineering experience, frontend manual/auto testing experience is great bonus.
+* Full cycle testing from designing manual tests, developing scripts and execution
+* Strong experience with UNIX/Linux
+* Scripting ability using Python, Bash or Java
+* Experience testing backend services such as APIs, Databases, distributed services (non-monolithic)
+* Enjoys breaking things and solving problems - not just able to find out the 'what', but also the 'why'
+* Fluent English and good communication skills
