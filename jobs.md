@@ -6,6 +6,8 @@
 [BigBinary - Rect Native - 100% Remote](https://bigbinary.com/jobs/react-native)  
 [Gumroad - Sahil](https://www.notion.so/Jobs-f43f816013b2405aa41ddefb663a4a38#98239b20e8b7400ab2d3901559718509)  
 [Mighty Browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)  
+[Theta](https://pallet.xyz/list/lennys-jobs/job/7ba89758-d733-4716-9b91-86d9b741858d)  
+[Props - Blockchain](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
 [AppLanga - MEAN + Mobile Stack](https://www.applanga.com/jobs)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
@@ -24,11 +26,9 @@
 [Pallet -  Lenny's Job Board](https://pallet.xyz/list/lennys-jobs/jobs)  
 [Pallet -  Out-of-Pocket Job Board](https://pallet.xyz/list/out-of-pocket-jobs/jobs)  
 
-[Theta](https://pallet.xyz/list/lennys-jobs/job/7ba89758-d733-4716-9b91-86d9b741858d)  
-[Props - Blockchain](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
-
 [Naavik's Job Board - For Gaming Professionals](https://pallet.xyz/list/naavik-jobs/jobs)  
 [Wise Monk - Remote](https://www.wisemonk.co/)  
+[Nodeflair - code() at where you love](https://www.nodeflair.com/)  
 
 
 #### ToDo
