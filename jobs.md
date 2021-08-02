@@ -28,7 +28,7 @@
 
 [Naavik's Job Board - For Gaming Professionals](https://pallet.xyz/list/naavik-jobs/jobs)  
 [Wise Monk - Remote](https://www.wisemonk.co/)  
-[Nodeflair - code() at where you love](https://www.nodeflair.com/)  
+[Nodeflair - code() at where you love | Singapore & Remote Jobs](https://www.nodeflair.com/)  
 
 
 #### ToDo
