@@ -7,3 +7,7 @@
 
 #### App
 [Flutter and Blockchain – Hello World Dapp - Geeksforgeeks](https://www.geeksforgeeks.org/flutter-and-blockchain-hello-world-dapp/)  
+
+#### Mine Cryptocurrency
+[How to Mine Cryptocurrency with Raspberry Pi](https://www.tomshardware.com/how-to/mine-cryptocurrency-raspberry-pi)  
+[Solar Powered Crypto Miner Using A Raspberry Pi - YouTube](https://www.youtube.com/watch?v=CbpfNU7oaws&ab_channel=MichaelKlements)  
