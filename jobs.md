@@ -12,6 +12,25 @@
 
 [Sebastian - Rome is hiring! Looking for developers who like to dive deep into developer tooling. 100% remote and in most countries. If you're interested please contact us at careers@rome.tools!](@sebmck)  
 
+#### Job Boards
+[Pallet - 10 Job Boards You Need to Follow](https://www.newsletter.pallet.xyz/10-job-boards-you-need-to-follow/)  
+[Pallet - Blankless's Job Board](https://pallet.xyz/list/bankless/jobs)  
+[Pallet -  Refactoring Jobs's Job Board](https://pallet.xyz/list/refactoring-jobs/jobs)  
+[Pallet - Important Jobs's Job Board](https://pallet.xyz/list/important-jobs/jobs)  
+[Pallet - Femke Design Jobs's Job Board](https://pallet.xyz/list/femkedesign-jobs/jobs)  
+[Pallet - Fintech Today Jobs's Job Board](https://pallet.xyz/list/ftt-jobs/jobs)  
+[Pallet -  Refactoring Jobs's Job Board](https://pallet.xyz/list/refactoring-jobs/jobs)  
+[Pallet -  Gregs List Job Board](https://pallet.xyz/list/gregslist/jobs)  
+[Pallet -  Lenny's Job Board](https://pallet.xyz/list/lennys-jobs/jobs)  
+[Pallet -  Out-of-Pocket Job Board](https://pallet.xyz/list/out-of-pocket-jobs/jobs)  
+
+[Theta](https://pallet.xyz/list/lennys-jobs/job/7ba89758-d733-4716-9b91-86d9b741858d)  
+[Props - Blockchain](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
+
+[Naavik's Job Board - For Gaming Professionals](https://pallet.xyz/list/naavik-jobs/jobs)  
+[Wise Monk - Remote](https://www.wisemonk.co/)  
+
+
 #### ToDo
 * Coursera - Machine Learning by Stanford University
 * Coursera - Fundamentals of Digital Image and Video Processing by Northwestern University
