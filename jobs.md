@@ -52,4 +52,25 @@
 * Scripting ability using Python, Bash or Java
 * Experience testing backend services such as APIs, Databases, distributed services (non-monolithic)
 * Enjoys breaking things and solving problems - not just able to find out the 'what', but also the 'why'
-* Fluent English and good communication skills
+
+##### Responsibilities
+* Perform manual & automated testing of mobile SDKs, backend services, and web applications
+* Work closely with engineers in an agile environment to review requirements with respect to testability and coverage, plan and execute test plans, create and review test cases achieving high quality standards.
+* Perform QA reporting to include coverage, execution status, and traceability to User Stories for multiple types of testing (story, functional, regression, smoke)
+* Perform functional testing of Node.js backend services using tools like Mocha, Chai and code coverage using tool like Istanbul
+* Perform load/performance testing of backend services
+* Test mobile SDK in multiple iOS/Android devices using AWS Device Farm
+* Test/Monitor REST APIs using Postman
+* Defect Logging and descriptive impact analysis
+* Leverage Continuous Integration, Testing & Deployment using tools like Jenkins, AWS Code Deploy, AWS Code Pipeline and AWS Cloud Watch
+
+##### Desired Skills/Experience
+* Bachelor of Engineering in Computer Science or relevant field
+* 5 – 7 years of hands on iOS and Android SDK, backend services and web app testing including Functional/UI, REST APIs, etc.
+* 3+ years in AWS environment
+* Core working knowledge of Objective-C, Swift, Java, Node.js, HTML, JS
+* Experience with testing tools/frameworks like Appium, XCTest/XCUITest, JUnit, REST Assured, Selenium
+* Knowledge of tools/frameworks like Crashlytics, TestRail, EarlGrey, UI Automator, Espresso, JMeter is a plus
+* Experience building Continuous Testing environments using AWS Device Farm and/or Sauce Labs, and integrating with CI/CD pipeline in AWS
+* Experience using GitHub, JIRA is a plus
+* Background in payments and security is a plus
