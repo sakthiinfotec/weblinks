@@ -23,13 +23,28 @@ git config --help
 git config -h
 ```
 
+#### Git Status
 ```sh
-
 # Short Status
 git status -s
 
 # Changes in Stagged area
 git diff --staged
 
+# List files in staging area
+git ls-files
 
+git rm index.html
+
+git mv severe.js server.js
 ```
+
+#### Git Commit
+```sh
+# Add file to staging area
+git add index.html
+git add bin/*.sh app/*.js
+
+git commit -am "User signin validation added"
+```
+
