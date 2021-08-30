@@ -18,6 +18,9 @@ git config --global core.editor "code --wait"
 git config --global -e
 
 git config --global core.autocrlf input # or true (for Windows)
+
+git config --help
+git config -h
 ```
 
 ```sh
