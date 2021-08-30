@@ -28,7 +28,10 @@ git config -h
 # Short Status
 git status -s
 
-# Changes in Stagged area
+# Changes between Working Dir vs Stagged
+git diff
+
+# Changes between Stagged vs Committed
 git diff --staged
 
 # List files in staging area
