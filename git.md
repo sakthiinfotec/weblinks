@@ -80,4 +80,20 @@ git show HEAD~1 # One step back to HEAD commit
 
 # To see commit details of any particular file
 git show HEAD~1:bin/start.sh
+
+git ls-tree HEAD~2 # To see all the files and directories in the commit
+```
+
+#### Git Restore
+```sh
+git restore --staged server.js # Reset staged file with last commited content
+
+# To reset changes in local working directory
+git restore .
+
+# To restore lwd including newly added/untracked files (-f Force; -d Directory)
+git clean -fd
+
+# Restore from last commit
+git restore --source=HEAD~2 bin/start.sh
 ```
