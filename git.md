@@ -36,6 +36,12 @@ git ls-files
 
 git rm index.html
 
+# To remove already stagged file or folder
+git rm --cached bin/
+git rm --cached -r bin/ # recursive
+
+# Add files or folder in .gigignore to ignore from Git to track 
+
 git mv severe.js server.js
 ```
 
