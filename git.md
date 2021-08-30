@@ -56,6 +56,7 @@ git config --global diff.tool "vscode"
 git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 
 git difftool
+git difftool --staged
 ```
 
 #### Git Commit
@@ -67,3 +68,16 @@ git add bin/*.sh app/*.js
 git commit -am "User signin validation added"
 ```
 
+#### Git log
+```sh
+# View git logs
+git log
+git log --oneline
+
+git show <commig id / HEAD pointer>
+git show HEAD
+git show HEAD~1 # One step back to HEAD commit
+
+# To see commit details of any particular file
+git show HEAD~1:bin/start.sh
+```
