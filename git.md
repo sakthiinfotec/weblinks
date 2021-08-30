@@ -28,12 +28,6 @@ git config -h
 # Short Status
 git status -s
 
-# Changes between Working Dir vs Stagged
-git diff
-
-# Changes between Stagged vs Committed
-git diff --staged
-
 # List files in staging area
 git ls-files
 
@@ -46,6 +40,22 @@ git rm --cached -r bin/ # recursive
 # Add files or folder in .gigignore to ignore from Git to track 
 
 git mv severe.js server.js
+```
+
+#### Git Diff
+
+```sh
+# Changes between Working Dir vs Stagged
+git diff
+
+# Changes between Stagged vs Committed
+git diff --staged
+
+# Configure difftool settings
+git config --global diff.tool "vscode"
+git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
+
+git difftool
 ```
 
 #### Git Commit
