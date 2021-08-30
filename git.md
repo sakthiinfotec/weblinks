@@ -8,9 +8,14 @@ git init
 # Global - User level but for all the repositories
 # Local - Only to a particular repository
 
-git congfig --global user.name "Sakthi"
-git congfig --global user.name sakthi@gmail.com
-git congfig --global core.editor "code --wait"
+git config --global user.name "Sakthi"
+git config --global user.name sakthi@gmail.com
+
+# Set Visual code as default editor
+git config --global core.editor "code --wait"
+
+# To edit config via editor
+git config --global -e
 ```
 
 ```sh
