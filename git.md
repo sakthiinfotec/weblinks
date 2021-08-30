@@ -26,6 +26,17 @@ git config -h
 #### Git Clone
 ```sh
 git clone https://github.com/sakthiinfotec/marsrover.git
+git remote -v
+
+git branch # To show current branch
+git branch -a
+
+# Create and checkout a branch - develop
+git branch develop
+git checkout develop
+
+# Create and checkout a branch - develop in single step
+git checkout -b develop
 
 git pull -r
 ```
