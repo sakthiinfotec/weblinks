@@ -23,6 +23,13 @@ git config --help
 git config -h
 ```
 
+#### Git Clone
+```sh
+git clone https://github.com/sakthiinfotec/marsrover.git
+
+git pull -r
+```
+
 #### Git Status
 ```sh
 # Short Status
