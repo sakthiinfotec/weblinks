@@ -255,6 +255,17 @@ git checkout -b filter-fixes origin/filter-fixes
 git merge develop
 ```
 
+```sh
+# OR follow other way, because merge conflicts when mergin to develop branch
+git pull origin develop
+git status # To list modified & conflict files
+
+# Merge the conflich manually, commit and push to remote
+vi app/server.js
+git add .
+git push origin develop
+```
+
 Step 2: Merge the changes and update on the remote repository
 ```sh
 git checkout develop
