@@ -57,6 +57,9 @@ git ls-files
 
 git rm index.html
 
+# To unstage - index.html file
+git rm --cached index.html
+
 # To remove already stagged file or folder
 git rm --cached bin/
 git rm --cached -r bin/ # recursive
