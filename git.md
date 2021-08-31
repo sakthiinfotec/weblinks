@@ -106,6 +106,26 @@ git branch -d qa
 
 ```
 
+#### Git Push/Pull to or from Remote Respository
+```sh
+git push origin master
+
+# Pul from remote repository(-r)
+git pull -r
+
+# Set/Change remote Url (for both Push and Pull)
+git remove set-url origin https://github.com/sakthiinfotec/monitorr.git
+
+# Update Push only 
+git remove set-url --push origin https://github.com/sakthiinfotec/marsrover.git
+
+# Update Pull/Fetch alone
+git remove set-url --fetch origin https://github.com/sakthiinfotec/marsrover.git
+
+# Push an existing repository
+git push -u origin master
+```
+
 #### Git log
 ```sh
 # View git logs
@@ -161,4 +181,59 @@ git clean -fd
 
 # Restore from last commit
 git restore --source=HEAD~2 bin/start.sh
+```
+
+
+#### Git Rebase/Cherry Pick
+- Rebase: Merging sequence of commits to a specified target branch
+- Cherry pick: picking a particular commit alone
+```sh
+git rebase feature develop
+
+# Go to target branch first and then cherry pick
+git checkout develop
+
+git cherry-pick <commit id>
+git cherry-pick 02ae45d
+```
+
+#### Git Stash and Patch
+- Stash: Reverts the changes made
+```sh
+git stash
+git stash list
+
+# Stash and push the changes with comment
+git stash push -m "Search term filter in search bar"
+
+# Apply a particular stashed changes to the current branch
+git stash apply |  git stash apply stash@{0}
+git stash apply stash@{0}
+
+# Pop and apply the last pushed changes
+git stash pop 
+
+# or in 2 steps
+git stash apply stash@{0}
+git stash drop stash@{0}
+
+# Move stashed changes to a new branch
+git stash branch push-notification stash@{0}
+
+# To stash the output into a patch file
+git stash show -p stash@{<number>} > <name>.patch
+git stash show -p stash@{0} > fcm-changes.patch
+git stash show -p --color=never > my-patch-name.patch 
+
+# Get Patch info
+git apply --stat my-patch-name.patch   # Verify if patch looks good
+git apply --check my-patch-name.patch  # Valide if patch does not have any errors
+
+# Generate patch from diff
+git diff > some-changes.patch
+git diff --staged path/to/file # Diff between current working directory and staged area
+
+# Apply a patch to the current branch
+git apply my-patch-name.patch
+curl https://example.com/file-0.0.1.diff | git apply 
 ```
