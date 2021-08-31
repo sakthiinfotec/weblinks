@@ -218,6 +218,7 @@ git stash apply stash@{0}
 
 # Pop and apply the last pushed changes
 git stash pop 
+git stash pop 0 # Pop out a specific stash
 
 # or in 2 steps
 git stash apply stash@{0}
