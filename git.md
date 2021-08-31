@@ -244,3 +244,20 @@ git diff --staged path/to/file # Diff between a file in current working director
 git apply my-patch-name.patch
 curl https://example.com/file-0.0.1.diff | git apply 
 ```
+
+#### Git Merge and Resolve Conflicts
+- Merge and resolve conflicts
+
+Step 1: From local project, bring in the changes
+```sh
+git fetch origin
+git checkout -b filter-fixes origin/filter-fixes
+git merge develop
+```
+
+Step 2: Merge the changes and update on the remote repository
+```sh
+git checkout develop
+git merge --no-ff filter-fixes
+git push origin develop
+```
