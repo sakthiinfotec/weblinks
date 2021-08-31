@@ -237,7 +237,7 @@ git apply --check my-patch-name.patch  # Valide if patch does not have any error
 
 # Generate patch from diff
 git diff > some-changes.patch
-git diff --staged path/to/file # Diff between current working directory and staged area
+git diff --staged path/to/file # Diff between a file in current working directory and the one in staged area
 
 # Apply a patch to the current branch
 git apply my-patch-name.patch
