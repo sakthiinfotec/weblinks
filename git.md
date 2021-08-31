@@ -123,13 +123,31 @@ git ls-tree HEAD~2 # To see all the files and directories in the commit
 ```
 
 #### Git reset
-- Sort (`--soft # Recommended`)
-- Hard (`--hard # not recommended as it will remove data`)
+To point the HEAD to particular commit position
+- Sort (`--soft # This is default and recommended`)
+- Hard (`--hard # not recommended as it will also remove data in the working directory`)
 
 ```sh
+git reset HEAD~2 # or explicit with --soft like below
 git reset --soft HEAD~2
+
 git reset --hard HEAD~1
 ```
+
+#### Git revert
+Revert or Delete change/commit
+
+```sh
+git revert <commit id>
+
+# Suppose commit id 003e45ab is last 2nd, last and last 3rd changes will be there but last 2nd alone will be reverted/deleted
+# It will reverte the changes and automatically add a commit
+git revert 003e45ab
+
+# This will not add another commit automatically but need to commit revert changes
+git revert 003e45ab --no-commit
+```
+
 
 #### Git Restore
 ```sh
