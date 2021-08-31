@@ -1,3 +1,9 @@
+#### Git Concepts
+ - Working Directory
+ - Staging Area
+ - Local Repository
+ - Remote Repository
+
 #### Git Init & Config
 ```sh
 git init
@@ -84,6 +90,17 @@ git add index.html
 git add bin/*.sh app/*.js
 
 git commit -am "User signin validation added"
+
+git merge <source-branch> <target-branch>
+
+# Change to target branch
+git checkout qa
+git merge develop qa
+
+# Delete unwanted branch
+git branch -a
+git branch -d qa
+
 ```
 
 #### Git log
