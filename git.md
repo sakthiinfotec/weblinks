@@ -122,6 +122,15 @@ git show HEAD~1:bin/start.sh
 git ls-tree HEAD~2 # To see all the files and directories in the commit
 ```
 
+#### Git reset
+- Sort (`--soft # Recommended`)
+- Hard (`--hard # not recommended as it will remove data`)
+
+```sh
+git reset --soft HEAD~2
+git reset --hard HEAD~1
+```
+
 #### Git Restore
 ```sh
 git restore --staged server.js # Reset staged file with last commited content
