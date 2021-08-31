@@ -34,7 +34,10 @@ git config -h
 git clone https://github.com/sakthiinfotec/marsrover.git
 git remote -v
 
-git branch # To show current branch
+# To show current branch
+git branch
+
+# To list all the available branches
 git branch -a
 
 # Create and checkout a branch - develop
@@ -65,11 +68,14 @@ git rm --cached bin/
 git rm --cached -r bin/ # recursive
 
 # Add files or folder in .gigignore to ignore from Git to track 
+code .gitignore
 
+# Rename file name using git command
 git mv severe.js server.js
 ```
 
 #### Git Diff
+- To view difference between 2 commits. By default it will show a difference between current working directory and HEAD commit.
 
 ```sh
 # Changes between Working Dir vs Stagged
