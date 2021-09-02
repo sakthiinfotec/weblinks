@@ -23,6 +23,7 @@ https://github.com/fterh/leetcode-curation-topical
 [Log2Base2](https://www.log2base2.com/interview)  
 [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)  
 [FrontEnd Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)  
+[Curated list of 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)  
 
 [JavaScript in just 5 Minutes - Aaron Jack](https://youtu.be/c-I5S_zTwAc)  
 [Namaste JavaScript by Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)  
