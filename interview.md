@@ -21,6 +21,8 @@ https://github.com/fterh/leetcode-curation-topical
 [g2i - 2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)  
 
 [Log2Base2](https://www.log2base2.com/interview)  
+[Tech Interview Handbook by yangshun](https://github.com/yangshun/tech-interview-handbook)  
+[FrontEnd Interview Handbook by yangshun](https://github.com/yangshun/front-end-interview-handbook)  
 
 [JavaScript in just 5 Minutes - Aaron Jack](https://youtu.be/c-I5S_zTwAc)  
 [Namaste JavaScript by Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)  
