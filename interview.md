@@ -22,6 +22,9 @@ https://github.com/fterh/leetcode-curation-topical
 
 [Log2Base2](https://www.log2base2.com/interview)  
 
+[JavaScript in just 5 Minutes - Aaron Jack](https://youtu.be/c-I5S_zTwAc)  
+[Namaste JavaScript by Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)  
+
 #### Books
 * System Design Interview – An Insider's Guide
 * Designing Data-Intensive Applications
