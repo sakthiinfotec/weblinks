@@ -23,6 +23,8 @@
 [Toptal - The Principles of Dark UI Design](https://www.toptal.com/designers/ui/dark-ui-design)  
 [Toptal - Information Architecture Principles for Mobile](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)  
 [Toptal - UI vs UX – Explore the Core Differences (Infographic)](https://www.toptal.com/designers/ui/ui-vs-ux-differences-infographic)  
+[Creative Coding: Making Visuals with JavaScript](https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript/bruno_imbrizi)  
+
 
 #### Fonts & Icons
 [Building a home-made Icon Font in React Native - Medium](https://emasuriano.medium.com/building-a-home-made-icon-font-in-react-native-8cad6cc2157)  
