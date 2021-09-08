@@ -211,6 +211,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 ##### React Native - UI Components
 [Create a Custom Animated Bottom Action Sheet without Measuring in React Native (G)](https://codedaily.io/tutorials/Create-a-Custom-Animated-Bottom-Action-Sheet-without-Measuring-in-React-Native)  
+[React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/)  
 [Using React Native Camera in your app - FullStackLabs.co](https://www.fullstacklabs.co/blog/react-native-camera)  
 
 #### Vue.js
