@@ -132,6 +132,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
 [Build and Deploy a Voice Assistant App | Alan AI, React JS](https://www.youtube.com/watch?v=rqw3OftE5sA&ab_channel=JavaScriptMastery)  
+[Building an app to stream Tweets in real-time | Remote developer job openings](https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets)  
 
 #### React Concepts(Context, Hooks, Styled Components)
 [kentcdodds.com - Application State Management with React | React createContext(), useContext() - (G)](https://kentcdodds.com/blog/application-state-management-with-react)  
