@@ -7,7 +7,7 @@
 ](https://medium.com/inspiredbrilliance/testing-single-page-applications-b4001adc6452)  
 
 #### Unit Testing
-[testim.io - Node.js Unit Testing using Jest: Get Started Quickly With Examples](https://www.testim.io/blog/node-js-unit-testing-get-started-quickly-with-examples/) [testim.io - What Is the Best Unit Testing Framework for JavaScript?](https://www.testim.io/blog/best-unit-testing-framework-for-javascript/)  
+[testim.io - Node.js Unit Testing using Jest: Get Started Quickly With Examples](https://www.testim.io/blog/node-js-unit-testing-get-started-quickly-with-examples/)   [testim.io - What Is the Best Unit Testing Framework for JavaScript?](https://www.testim.io/blog/best-unit-testing-framework-for-javascript/)  
 [testim.io - Automated Testing Tools for 2021: A Diverse List of 11 Essential Ones](https://www.testim.io/blog/best-automated-testing-tools/)  
 
 #### E2E Testing
