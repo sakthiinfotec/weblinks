@@ -252,8 +252,10 @@ Immediately Invoked Function Expressions(IIFEs)
 [Function binding - javascript.info](https://javascript.info/bind)  
 
 ##### CodeSandBox
-[Kent C Dodds - Code of React Testing Library Course](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
-[React-TS-Unit Test](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
+[Kent C Dodds - Code of React Testing Library Course - Good](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
+[React-TS-Unit Test - Testing Stepper Component](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
+[Testing with Jest - Basic](https://codesandbox.io/s/testing-with-jest-w1si4?file=/src/MyComponent.test.js)  
+[Simple React app testing with Jest](https://codesandbox.io/s/p51k27717q)  
 
 #### CSS
 [A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
