@@ -4,5 +4,7 @@
 
 [Abstract Factory Pattern - by androiddesignpatterns.com](https://www.androiddesignpatterns.com/2012/06/designing-for-backwards-compatibility.html)  
 
-
+##### eBooks
+[“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
+[“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
 
