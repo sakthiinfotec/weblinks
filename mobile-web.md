@@ -251,6 +251,10 @@ Immediately Invoked Function Expressions(IIFEs)
 [Understanding JavaScript Bind () - smashingmagazine](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)  
 [Function binding - javascript.info](https://javascript.info/bind)  
 
+##### CodeSandBox
+[Kent C Dodds - Code of React Testing Library Course](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
+[React-TS-Unit Test](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
+
 #### CSS
 [A Complete Guide to CSS Gradients @CSSTricks](https://css-tricks.com/a-complete-guide-to-css-gradients/)  
 [The Cleanest Trick for Autogrowing Textareas @CSSTricks](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)  
@@ -464,6 +468,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 
 #### Typical Node.js Tech Stack
 - Frontend: JavaScript, Typescript, React +  Redux (Redux Tooklit, Redux Persist), React Native, Flutter
+- TypeScript features and patterns: Generics, Utility Types, Type Guards, Mixins, and Decorators
 - Backend: Node.js, GraphQL
 - Database: MySQL, MongoDB etc
 - In-memory / Cache: Redis, Elasticsearch
