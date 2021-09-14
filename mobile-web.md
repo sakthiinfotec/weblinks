@@ -120,6 +120,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [How to build reusable layouts in React JS  with Router](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 [Composable Animation Toolkit using React.js + HTML + CSS](https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1)  
 [The beginner’s guide to mastering React props - Medium (G)](https://codemadeeasy.medium.com/the-beginners-guide-to-mastering-react-props-8c7d77df8e1f)  
+[Pluralsight - How to Use a Multiline Text Area in ReactJS](https://www.pluralsight.com/guides/how-to-use-multiline-text-area-in-reactjs)  
 
 [Create Rect App for Beginners + Chakra UI - YouTube ](https://www.youtube.com/playlist?list=PLkZYeFmDuaN3NDLnBG01-sH2-nwn43mYu)   
 [A Beginner's Guide to Performance Optimization Using React.memo() - via Hackernoon](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy) 
