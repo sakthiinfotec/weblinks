@@ -9,6 +9,7 @@
 [Theta](https://pallet.xyz/list/lennys-jobs/job/7ba89758-d733-4716-9b91-86d9b741858d)  
 [Props - Blockchain](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
 [AppLanga - MEAN + Mobile Stack](https://www.applanga.com/jobs)  
+[CodeSandbox - Remote](https://codesandbox.io/jobs)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
