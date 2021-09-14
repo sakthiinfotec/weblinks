@@ -10,6 +10,7 @@
 [Props - Blockchain](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
 [AppLanga - MEAN + Mobile Stack](https://www.applanga.com/jobs)  
 [CodeSandbox - Remote](https://codesandbox.io/jobs)  
+[Testim - Modernize test automation with AI](https://www.testim.io/careers/)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
