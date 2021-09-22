@@ -382,6 +382,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Webpack](https://webpack.js.org/)  
 [Parcel](https://parceljs.org/)  
 [Validate HTML snippet for HTML5 compliant spec](validator.w3.org/nu/)  
+[Super fast javascript / typescript compiler](https://swc.rs/)  
 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
