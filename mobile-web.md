@@ -520,3 +520,11 @@ Plus:
 - Knowledge of document, key/value or other non-relational database systems such as Elastic Search, Redis, HBase, BigTable, DynamoDB, MongoDB
 
 
+##### Tech Stack for Full Stack Development:
+- Node.js with Typescript 
+- React for frontend development
+- PostgreSQL for persistent data storage
+- Kafka for our asynchronous message queue
+- Kubernetes and Docker to schedule and run our services
+- Jenkins to run our testing and deployment pipelines
+- AWS for our infrastructure
