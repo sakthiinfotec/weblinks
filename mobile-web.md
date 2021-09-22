@@ -144,6 +144,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [State Management Battle in React 2021: Hooks, Redux, and Recoil](https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0)  
 [LogRocket - Using styled-components in TypeScript: A tutorial with examples](https://blog.logrocket.com/using-styled-components-in-typescript-a-tutorial-with-examples/)  
 [Working with App State, useRef and Event Listeners in React Native](https://rossbulat.medium.com/working-with-app-state-and-event-listeners-in-react-native-ffa9bba8f6b7)  
+[Pluralsight - Rendering and Updating Data using Component Lifecycle Methods In React](https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed)  
 
 #### React Hooks
 [Dave Ceddia: A Guided Tour of React Hooks / React Boston 2019 - YouTube (G)](https://www.youtube.com/watch?v=ApIiM8pL-kI&ab_channel=InsideWayfair)  
