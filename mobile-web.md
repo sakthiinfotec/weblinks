@@ -138,6 +138,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### React Concepts(Context, Hooks, Styled Components)
 [kentcdodds.com - Application State Management with React | React createContext(), useContext() - (G)](https://kentcdodds.com/blog/application-state-management-with-react)  
+[React In-depth: An exploration of UI development - gitbooks](https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/postrender_with_componentdidupdate.html)  
 [dmitripavlutin.com - 3 Rules of React State Management | useReducer() - (G)](https://dmitripavlutin.com/react-state-management/)  
 [dmitripavlutin.com - The Complete Guide to useRef() and Refs in React - (G)](https://dmitripavlutin.com/react-useref-guide/)  
 [State Management Battle in React 2021: Hooks, Redux, and Recoil](https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0)  
