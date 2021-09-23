@@ -20,3 +20,4 @@
 [GreyOrange automates warehouse fulfillment through the combination of AI-Software and autonomous mobile robots | Gurugram](https://www.greyorange.com/)  
 [Ati Motors is a Bangalore based startup making an all-electric autonomous Industrial vehicle | Bengaluru](https://www.atimotors.com/)  
 [InCore Semiconductors | Chennai, Tamilnadu](https://incoresemi.com/)  
+[Mumbai-based Strom Motors, an electric vehicle start-up](https://www.strommotors.com/)  
