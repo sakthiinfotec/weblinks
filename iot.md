@@ -18,3 +18,5 @@
 [GOQii – Smart Preventive Health Ecosystem](https://www.goqii.com)  
 [Imagine Marketing Private Limited (boAt Lifestyle)](https://www.boat-lifestyle.com/)  
 [GreyOrange automates warehouse fulfillment through the combination of AI-Software and autonomous mobile robots | Gurugram](https://www.greyorange.com/)  
+[Ati Motors is a Bangalore based startup making an all-electric autonomous Industrial vehicle | Bengaluru](https://www.atimotors.com/)  
+[InCore Semiconductors | Chennai, Tamilnadu](https://incoresemi.com/)  
