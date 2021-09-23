@@ -4,10 +4,10 @@
 - Node.js with Typescript 
 - React for frontend development
 - PostgreSQL for persistent data storage
-- Kafka for our asynchronous message queue
-- Kubernetes and Docker to schedule and run our services
-- Jenkins to run our testing and deployment pipelines
-- AWS for our infrastructure
+- Kafka for asynchronous message queue
+- Kubernetes and Docker to schedule and run services
+- Jenkins to run testing and deployment pipelines
+- AWS for infrastructure
 
 ##### [Intenseye](https://www.intenseye.com) - Intenseye is an AI-powered employee health and safety software platform
 - Scala, Go, Python for programming languages.
