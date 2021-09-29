@@ -188,6 +188,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [7 Top React Static Site Generators](https://blog.bitsrc.io/7-top-react-static-site-generators-in-2020-5850ae275821)  
 [Exciting Features in NextJS V10 - Built-in Image Component|Internationalized Routing|NextJS Analytics|NextJS Commerce, etc.](https://blog.bitsrc.io/exciting-features-in-nextjs-v10-a790edb752b6)  
 [List of Open Source React projects on GitHub to learn from](https://codewithnico.vercel.app/production-ready-react-apps/)  
+[next.js: i18n with static sites - dev.to](https://dev.to/martinkr/next-js-i18n-with-static-sites-2644)  
 
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
