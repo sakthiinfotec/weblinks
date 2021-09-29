@@ -267,6 +267,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [The Cleanest Trick for Autogrowing Textareas @CSSTricks](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)  
 [Clipping and Masking in CSS @CSSTricks](https://css-tricks.com/clipping-masking-css/)  
 [Learn Flexbox with 30 Code Tidbits - from samanthaming.com](https://www.samanthaming.com/flexbox30/1-flexbox-intro/)  
+[Gorgeous Order Summary Component Using HTML and CSS - dev.to](https://dev.to/devshot/gorgeous-order-summary-component-using-html-and-css-414p)  
 
 #### SVG
 [A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
