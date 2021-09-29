@@ -272,3 +272,7 @@ git checkout develop
 git merge --no-ff filter-fixes
 git push origin develop
 ```
+
+
+##### Guides
+[Git and GitHub - The Complete Guides - Chapter 1: Git Started](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)  
