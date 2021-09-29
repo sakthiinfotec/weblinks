@@ -158,6 +158,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Fundamentals of Redux - Dan Abramov](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
 [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)  
 [How to Persist Your Redux Store - Store Migration](https://www.cloudsavvyit.com/9778/how-to-persist-your-redux-store/)  
+[dev.to - Just Redux: The Complete Guide](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5)  
 
 #### Redux Persist
 [Redux Persist - Tutorial](https://github.com/rt2zz/redux-persist)  
@@ -389,7 +390,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
 [GraphQL With React & Apollo [4] - Simple Heroku Deploy](https://www.youtube.com/watch?v=ok6bu-3XRA8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx&index=5&ab_channel=TraversyMedia)  
-  
+[dev.to - Build and Deploy your Django & React App: Authentication, Docker, AWS Lightsail, GitHub Actions & PostgreSQL](https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl)  
+
+
 #### Web Development Roadmap - 2021
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
 [Backend Developer Roadmap 2021 - Github By Kamran Ahmed](https://roadmap.sh/backend)  
