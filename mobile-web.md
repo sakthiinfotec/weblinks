@@ -69,6 +69,7 @@
 #### JavaScript - Basics
 [All you need to know about Promise.all - freecodecamp](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/)  
 [ES6 Tutorial by javascripttutorial.net](https://www.javascripttutorial.net/es6/)  
+[Eloquent JavaScript 3rd edition (2018)](https://eloquentjavascript.net/index.html)  
 
 #### JavaScript - Guides
 [JavaScript Info - Tutorials(Web Components, RegEx, Offline Storage, etc.,)](https://javascript.info/js)  
