@@ -9,4 +9,4 @@
 
 
 #### Package Management
-[Package Management with Go Modules](https://blogs.halodoc.io/go-modules-implementation/)  
+[Package Management with Go Modules - blogs.halodoc.io](https://blogs.halodoc.io/go-modules-implementation/)  
