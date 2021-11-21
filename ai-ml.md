@@ -42,6 +42,8 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
 [Build an AI Voice Assistant using PyTorch + Wake Word Detection - YT(13 Mins)](https://www.youtube.com/watch?v=ob0p7G2QoHA)
 
+[Recommendations for Getting Started with NLP - Elvis's Blogs](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)  
+
 #### Open CV
 [Learn Open CV in 3 Hrs with Python - Murtaza's Workshop - Robotics and AI - YT(3 Hrs)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
 https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py  
