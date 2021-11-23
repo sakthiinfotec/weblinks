@@ -3,6 +3,7 @@
 [Create Your First Dapp With Solidity – Part 1 by vitto.cc](https://vitto.cc/create-your-first-dapp-with-solidity-part-1/)  
 [Blockchain in Visual](https://anders.com/blockchain)  
 [Web 3.0 Explained by Siraj Raval - YouTube](https://www.youtube.com/watch?v=aPVmd7SyKfQ&ab_channel=SirajRaval)  
+[Truffle vs Hardhat vs Brownie — Let’s have a look](https://mirabdulhaseeb.medium.com/truffle-vs-hardhat-vs-brownie-lets-compare-ea08b927d084)  
 
 
 * Remix Solidity Compiler - Browser based
