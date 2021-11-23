@@ -13,6 +13,7 @@
 [Testim - Modernize test automation with AI](https://www.testim.io/careers/)  
 [Webflow - Front End, Back End, Full Stack | Remote](https://webflow.com/careers/roles)  
 [Kooyal - Kooyal is building infrastructure to run the next-gen enterprises and governments | USA | India](https://kooyal.com/jobs)  
+[nomiclabs - Developer of Hardhat, an Ethereum development environment for professionals | Remote](https://nomiclabs.io/hiring)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
