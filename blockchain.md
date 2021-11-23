@@ -1,4 +1,5 @@
 #### Blockchain
+[Zero to Hero: Web3.0 and Solidity Development Roadmap 2021 - Medium (G)](https://javascript.plainenglish.io/zero-to-hero-web3-0-and-solidity-development-roadmap-2021-926e759a366b)  
 [Blockchain in Visual](https://anders.com/blockchain)  
 [Web 3.0 Explained by Siraj Raval - YouTube](https://www.youtube.com/watch?v=aPVmd7SyKfQ&ab_channel=SirajRaval)  
 
