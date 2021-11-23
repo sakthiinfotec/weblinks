@@ -14,7 +14,7 @@
 [Webflow - Front End, Back End, Full Stack | Remote](https://webflow.com/careers/roles)  
 [Kooyal - Kooyal is building infrastructure to run the next-gen enterprises and governments | USA | India](https://kooyal.com/jobs)  
 [nomiclabs - Developer of Hardhat, an Ethereum development environment for professionals | Remote](https://nomiclabs.io/hiring)  
-[Cactus Global - India, Remote](https://jobs.cactusglobal.com/#full)  
+[Cactus Global - Big Data, Full Stack | India, Remote](https://jobs.cactusglobal.com/#full)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
