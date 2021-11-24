@@ -19,7 +19,7 @@
 [Purple Rain Technologies - E-Commerce, Customer Support Engineer | Remote](https://purple-rain.io/careers/)  
 [Lano - Compliance & Payroll for Global Teams | Beriln, Germany](https://www.lano.io/)  
 [Prodigal - FinTech | VC Funded | Silicon Valley | Remote](https://jobs.lever.co/Prodigal)  
-[Plivo - VC Funded | SDE, SDE - Full Stack, SDET | USA, India, Fully Remote](https://www.plivo.com/jobs/#open-positions)  
+[Plivo - Cloud Communication - VC Funded | SDE, SDE - Full Stack, SDET | USA, India, Fully Remote](https://www.plivo.com/jobs/#open-positions)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
