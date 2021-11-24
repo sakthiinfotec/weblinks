@@ -495,6 +495,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Deployment: Kubernetes, Docker
 - Blockchain: Hyperledger Fabric
 - Cloud providers such as AWS, Azure, Google App Engine, etc.
+- Authentication: OAuth, SAML, or Single Sign-on standards
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
