@@ -17,6 +17,7 @@
 [Cactus Global - Big Data, Full Stack | India, Remote](https://jobs.cactusglobal.com/#full)  
 [Teema Group - Remote | Canada](https://teemagroup.com/jobs)  
 [Purple Rain Technologies - E-Commerce, Customer Support Engineer | Remote](https://purple-rain.io/careers/)  
+[Lano - Compliance & Payroll for Global Teams | Beriln, Germany](https://www.lano.io/)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
