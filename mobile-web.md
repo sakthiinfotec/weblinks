@@ -315,6 +315,7 @@ https://www.npmjs.com/package/sequelize
 [FeatherIcons](https://feathericons.com/)  
 [FeatherIcons - Using with React Native](https://dev.to/stephencavender/react-native-svg-example-413j)  
 [CryptoJS](https://cryptojs.gitbook.io/docs/)  
+[n8n - Extendable Workflow Automation Tool](https://n8n.io/)  
 
 [Top Image Lazy Loading Libraries for JavaScript](https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f)  
 [What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
