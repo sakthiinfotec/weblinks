@@ -18,6 +18,7 @@
 [Teema Group - Remote | Canada](https://teemagroup.com/jobs)  
 [Purple Rain Technologies - E-Commerce, Customer Support Engineer | Remote](https://purple-rain.io/careers/)  
 [Lano - Compliance & Payroll for Global Teams | Beriln, Germany](https://www.lano.io/)  
+[Prodigal - FinTech | VC Funded | Silicon Valley | Remote](https://jobs.lever.co/Prodigal)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
