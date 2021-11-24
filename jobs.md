@@ -20,6 +20,7 @@
 [Lano - Compliance & Payroll for Global Teams | Beriln, Germany](https://www.lano.io/)  
 [Prodigal - FinTech | VC (YC, Accel, Menlo Ventures) Funded | Silicon Valley | Remote](https://jobs.lever.co/Prodigal)  
 [Plivo - Cloud Communication - VC (YC, BV, Andreessen Horowitz, Qualcomm) Funded | SDE, SDE - Full Stack, SDET | USA, India, Fully Remote](https://www.plivo.com/jobs/#open-positions)  
+[Haptik - ML, NLP, SDE - Remote](https://haptik.freshteam.com/jobs)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
