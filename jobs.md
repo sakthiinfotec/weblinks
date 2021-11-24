@@ -15,6 +15,7 @@
 [Kooyal - Kooyal is building infrastructure to run the next-gen enterprises and governments | USA | India](https://kooyal.com/jobs)  
 [nomiclabs - Developer of Hardhat, an Ethereum development environment for professionals | Remote](https://nomiclabs.io/hiring)  
 [Cactus Global - Big Data, Full Stack | India, Remote](https://jobs.cactusglobal.com/#full)  
+[Teema Group - Remote | Canada](https://teemagroup.com/jobs)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
