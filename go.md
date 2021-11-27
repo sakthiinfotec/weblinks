@@ -11,3 +11,4 @@
 #### Package Management
 [Package Management with Go Modules - blogs.halodoc.io](https://blogs.halodoc.io/go-modules-implementation/)  
 [Go Modules - Introduction](https://golang.org/ref/mod#introduction)  
+[Evaluating Go's Package Management and Module Systems by @ayisaiah - honeybadger.io (G)](https://www.honeybadger.io/blog/golang-go-package-management/)  
