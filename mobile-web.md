@@ -370,6 +370,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Learn JavaScript for Free: 13 Online Resources for Every Level of Expertise - Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)  
 [Crockford on JavaScript - YouTube](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
 [Introduction to JavaScript - Udacity](https://classroom.udacity.com/courses/ud803)  
+[Learn iOS(swift), Android (Kotlin, Flutter) using www.raywenderlich.com (G)](https://www.raywenderlich.com/ios/paths)  
 
 #### Web Frameworks
 [Next.js - The React Framework for Production](https://nextjs.org/docs/deployment)  
