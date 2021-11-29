@@ -22,6 +22,7 @@
 [Plivo - Cloud Communication - VC (YC, BV, Andreessen Horowitz, Qualcomm) Funded | SDE, SDE - Full Stack, SDET | USA, India, Fully Remote](https://www.plivo.com/jobs/#open-positions)  
 [Haptik - ML, NLP, SDE - Remote](https://haptik.freshteam.com/jobs)  
 [Careet at Flexiple - Full Stack | Remote](https://careers.flexiple.com/)  
+[InfraCloud.io - Cloud Technologies | Fully Remote, India](https://www.infracloud.io/careers/#positions)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
