@@ -2,7 +2,9 @@
 #### Go Frameworks
 [ent - An entity framework for Go](https://entgo.io/)  
 [HUGO - A Fast and Flexible Static Site Generator](https://github.com/gohugoio/hugo)  
-
+[FastHTTP - Web Framework - 16K Stars](https://github.com/valyala/fasthttp)  
+[Echo - High performance, minimalist Go web framework - 21K Stars](https://echo.labstack.com/)  
+[Go-Chi - A lightweight, idiomatic and composable router for building Go HTTP services - 10.5K Stars](https://github.com/go-chi/chi)  
 
 #### Go App Development
 [Using Elasticsearch, Logstash, and Kibana with Go applications - LogRocket](https://blog.logrocket.com/using-elasticsearch-logstash-and-kibana-with-go-applications/)  
