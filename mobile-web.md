@@ -328,6 +328,12 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Mapping Github pages to Custom domain or sub-domain](https://kushalbhalaik.medium.com/github-pages-a-comprehensive-guide-w-images-part-1-321b55088466)  
 [Hosting your website on Github - Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)  
 
+#### Authentication & Authorization
+[Single Sign On with CAS (Central Authentication Service) - Medium](https://dinika-15.medium.com/single-sign-on-with-cas-central-authentication-service-fd60bae64fa7)  
+[Apereo CAS - CAS provides enterprise single sign-on service for the Web + Support for multiple protocols (CAS, SAML, OAuth, OpenID)](https://www.apereo.org/projects/cas)  
+
+
+
 #### Productive Tools | Components | Templates
 [CodeSandBox.io - Online IDE](https://codesandbox.io)  
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
@@ -496,7 +502,14 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Deployment: Kubernetes, Docker
 - Blockchain: Hyperledger Fabric
 - Cloud providers such as AWS, Azure, Google App Engine, etc.
-- Authentication: OAuth, SAML, or Single Sign-on standards
+- Authentication: 
+  - Basic Base64(UseID:Password), 
+  - Digest (MD5, HMAC)
+  - SSO Standards (CAS, SAML 2.0, OpenID Connect)
+  - OpenID Connect (Based on OAuth 2.0, REST, JSON, JWT)
+    - Adapted to web browser and native mobile applications
+    - Attributes sharing trough UserInfo endpoint
+- Cookie: 4KB, Session(until window closed), Persistent(Specific period), Domain, Path, HTTP(s) based
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
