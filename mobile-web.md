@@ -331,6 +331,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 #### Authentication & Authorization
 [Single Sign On with CAS (Central Authentication Service) - Medium](https://dinika-15.medium.com/single-sign-on-with-cas-central-authentication-service-fd60bae64fa7)  
 [Apereo CAS - CAS provides enterprise single sign-on service for the Web + Support for multiple protocols (CAS, SAML, OAuth, OpenID)](https://www.apereo.org/projects/cas)  
+[Stackoverflow - CAS vs. SAML vs. OAuth2 (G)](https://stackoverflow.com/questions/29053277/cas-vs-saml-vs-oauth2)  
 
 
 
