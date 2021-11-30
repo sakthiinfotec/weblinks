@@ -23,6 +23,7 @@
 [Haptik - ML, NLP, SDE - Remote](https://haptik.freshteam.com/jobs)  
 [Careet at Flexiple - Full Stack | Remote](https://careers.flexiple.com/)  
 [InfraCloud.io - Cloud Technologies | Fully Remote, India](https://www.infracloud.io/careers/#positions)  
+[Canonical - Front End, Cloud, DevOps | Remote](https://canonical.com/careers/all?filter=all&location=asia#available-roles)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
