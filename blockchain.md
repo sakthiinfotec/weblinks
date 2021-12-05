@@ -1,5 +1,6 @@
 #### Blockchain
 [Zero to Hero: Web3.0 and Solidity Development Roadmap 2021 - Medium (G)](https://javascript.plainenglish.io/zero-to-hero-web3-0-and-solidity-development-roadmap-2021-926e759a366b)  
+[YouTube Freecodecamp - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial 16+ Hours](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)  
 [Create Your First Dapp With Solidity – Part 1 by vitto.cc](https://vitto.cc/create-your-first-dapp-with-solidity-part-1/)  
 [Blockchain in Visual](https://anders.com/blockchain)  
 [Web 3.0 Explained by Siraj Raval - YouTube](https://www.youtube.com/watch?v=aPVmd7SyKfQ&ab_channel=SirajRaval)  
