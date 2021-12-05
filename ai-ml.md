@@ -4,6 +4,7 @@
 [Multimodal Machine Learning - YouTube Play list](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
 [Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
 [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
+[Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
 
 #### Deep Learning Starter Kit
 [deeplearningbook - For DL Theory](http://deeplearningbook.org)  
