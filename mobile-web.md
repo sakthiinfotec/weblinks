@@ -429,6 +429,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Promises and async / await
 - How the internet works (generally)
 - Familiarity with implementing middleware, custom routing, and proxies
+- Node.js streams, Service Workers, generators, Observables, WebSockets
 
 - [React.js](https://reactjs.org/)
 - GraphQL & Setting up GraphQL servers
