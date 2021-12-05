@@ -44,6 +44,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [Build an AI Voice Assistant using PyTorch + Wake Word Detection - YT(13 Mins)](https://www.youtube.com/watch?v=ob0p7G2QoHA)
 
 [Recommendations for Getting Started with NLP - Elvis's Blogs](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)  
+[Hugging Face - The AI community building future | AI, NLP, Lots of tools, datasets & tutorials](https://huggingface.co/)  
 
 #### Open CV
 [Learn Open CV in 3 Hrs with Python - Murtaza's Workshop - Robotics and AI - YT(3 Hrs)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
