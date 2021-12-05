@@ -15,3 +15,6 @@
 #### Mine Cryptocurrency
 [How to Mine Cryptocurrency with Raspberry Pi](https://www.tomshardware.com/how-to/mine-cryptocurrency-raspberry-pi)  
 [Solar Powered Crypto Miner Using A Raspberry Pi - YouTube](https://www.youtube.com/watch?v=CbpfNU7oaws&ab_channel=MichaelKlements)  
+
+#### Web3.0
+[The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)  
