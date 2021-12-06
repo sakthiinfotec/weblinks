@@ -152,6 +152,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Dave Ceddia - Access the Redux Store Outside a React Component](https://daveceddia.com/access-redux-store-outside-react/)  
 [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)  
 [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks/)  
+[React Hooks Course - All React Hooks Explained PedroTech - YouTube](https://www.youtube.com/watch?v=LlvBzyy-558&ab_channel=PedroTech)  
 
 #### Redux
 [What is a Reducer in JavaScript/React/Redux? - a very good article by ROBIN WIERUCH](https://www.robinwieruch.de/javascript-reducer)  
