@@ -410,6 +410,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Validate HTML snippet for HTML5 compliant spec](validator.w3.org/nu/)  
 [Super fast javascript / typescript compiler](https://swc.rs/)  
 [Husky improves commits via Git Hooks - use it to lint your commit messages, run tests, lint code, etc... when you commit or push](https://typicode.github.io/husky/#/)  
+[CreateApp - Front End Build config generator](https://createapp.dev/)  
 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
