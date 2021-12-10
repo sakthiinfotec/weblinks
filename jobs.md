@@ -91,3 +91,28 @@
 * Experience building Continuous Testing environments using AWS Device Farm and/or Sauce Labs, and integrating with CI/CD pipeline in AWS
 * Experience using GitHub, JIRA is a plus
 * Background in payments and security is a plus
+
+[Staff Engineer (Web)](https://zestmoney-1628938701122.freshteam.com/jobs/sdUt83nSJ46q/staff-engineer-web)  
+
+Experience:
+* 8+ years of minimum experience on JS/ES6 (Object Oriented)
+* 6+ years of minimum experience on ReactJs, HTML, CSS
+* Understanding of Performance Optimization of React Apps
+
+Good to have: 
+* Knowledge of JSON/XML
+* Knowledge of SASS, JSS, Radium
+* Knowledge of Webpack, Build System
+* Knowledge of Angular, Vue, JS Frameworks
+* Knowledge of Web Fundamentals, Browser Working, REST API
+* Knowledge of testing frameworks like Mocha/Jest
+* Exposure on Server-Side Scripting/ NextJs / PHP
+* Exposure to NodeJS with Express
+* Exposure to UX best practices, Web Accessibility
+
+Excellent to have:
+* Experience on PWA, ServiceWorkers, SSE, WebSocket’s
+* State Management like Redux
+* Any exposure to React Native
+* Exposure to DS/Algo fundamentals
+* HTML5 latest APIs
