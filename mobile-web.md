@@ -92,6 +92,10 @@
 [Design Patterns: Structural Patterns of Design Classes and Objects](https://levelup.gitconnected.com/design-patterns-structural-patterns-of-design-classes-and-objects-79d58a6519b)   
 Immediately Invoked Function Expressions(IIFEs)  
 
+#### OpenSource Projects to Refer
+[Github - react-redux-hackernews](https://github.com/taming-the-state-in-react/react-redux-hackernews)  
+[Github - Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
+
 #### Javascript - Documentation
 [JavaScript Documentation Standards by Wordpress](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)  
 
