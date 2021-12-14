@@ -366,6 +366,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [34 Must have Chrome Extensions for Web Developers and Designers - dev.to](https://dev.to/saviomartin/34-must-have-chrome-extensions-for-web-developers-and-designers-421b)  
 [Bensound - Royalty Free Music](https://www.bensound.com)  
 [Random Joke Generator API](https://api.icndb.com/jokes/random?firstName=John&lastName=Smith)  
+[Prismic - a headless CMS, an API CMS, a content platform, a disruptive content-as-a-service digital experience](https://prismic.io/)  
 
 
 #### General - Agro
