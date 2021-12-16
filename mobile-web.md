@@ -528,6 +528,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
     - Adapted to web browser and native mobile applications
     - Attributes sharing trough UserInfo endpoint
 - Cookie: 4KB, Session(until window closed), Persistent(Specific period), Domain, Path, HTTP(s) based
+- A solid understanding in core web and browser concepts (for example, how the browser parses and constructs a web page)
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
@@ -540,7 +541,7 @@ EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, Powe
    - TypeScript
    - Express.js, Next.js
    - [Loopback.js](https://loopback.io/) - A highly extensible Node.js and TypeScript framework for building APIs and microservices.
-   - Jest & Enzyme
+   - AVA, Chai, Enzyme, Jasmine, Jest, Karma, Mocha, tape
    - Redux, Redux-Saga, Redux-Thunk
    - WebRTC, WebSocket, LocalStorage, ES6 and NPM
 - Backend development of RESTful services in Ruby on Rails, MongoDB, and Elasticsearch
