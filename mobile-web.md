@@ -277,6 +277,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Gorgeous Order Summary Component Using HTML and CSS - dev.to](https://dev.to/devshot/gorgeous-order-summary-component-using-html-and-css-414p)  
 [Emotion is a library designed for writing css styles with JavaScript](https://emotion.sh/docs/introduction)  
 [YouTube - LayoutLand](https://www.youtube.com/c/LayoutLand)  
+[Google(web.dev) - Responsive Web Design](https://web.dev/learn/design/conclusion/)  
 
 #### SVG
 [A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
