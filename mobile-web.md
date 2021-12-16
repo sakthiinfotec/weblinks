@@ -529,6 +529,10 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
     - Attributes sharing trough UserInfo endpoint
 - Cookie: 4KB, Session(until window closed), Persistent(Specific period), Domain, Path, HTTP(s) based
 - A solid understanding in core web and browser concepts (for example, how the browser parses and constructs a web page)
+  * [HTML5Rocks - How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
+  * [LogRocket - How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)  
+  * [MDN - How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)  
+  * [Google - Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)  
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
