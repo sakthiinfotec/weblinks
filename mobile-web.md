@@ -535,6 +535,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
   * [Google - Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)  
   * [Medium - How web browser works step by step [Latest]— high-level architecture (part 1)](https://cabulous.medium.com/how-browser-works-part-i-process-and-thread-f63a9111bae9)  
   * [FreeCodeCamp - How Browsers Work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)  
+- [Introduction to Web Security](https://online.stanford.edu/courses/xcs100-introduction-web-security)  
 
 EduTech: edpuzzle, Google Classroom, Canvas, Schoology, Moodle, Blackboard, PowerSchool, blackbaud
 
