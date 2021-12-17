@@ -212,11 +212,6 @@ git stash list
 # Stash and push the changes with comment
 git stash push -m "Search term filter in search bar"
 
-# Stash including untracked files
-git stash --include-untracked push -m "List users"
-# or
-git stash -u push -m "List users"
-
 # Apply a particular stashed changes to the current branch
 git stash apply |  git stash apply stash@{0}
 git stash apply stash@{0}
