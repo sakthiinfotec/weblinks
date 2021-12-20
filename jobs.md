@@ -24,6 +24,8 @@
 [Careet at Flexiple - Full Stack | Remote](https://careers.flexiple.com/)  
 [InfraCloud.io - Cloud Technologies | Fully Remote, India](https://www.infracloud.io/careers/#positions)  
 [Canonical - Front End, Cloud, DevOps | Remote](https://canonical.com/careers/all?filter=all&location=asia#available-roles)  
+[Strapi - Gerlin, Germany | Remote](https://strapi.io/careers#open-positions)  
+[Contentful](https://www.contentful.com/careers/)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
