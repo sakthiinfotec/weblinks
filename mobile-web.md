@@ -346,6 +346,10 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Three.js Journey - The ultimate Three.js course](https://threejs-journey.com/)  
 [🇨🇭 A React renderer for Three.js, re-usable, self-contained components that react to state - @react-three/fiber](https://github.com/pmndrs/react-three-fiber)  
 
+#### CMS
+[Headless CMS and Strapi SEO best practices](https://strapi.io/blog/headless-cms-strapi-seo-best-practices)  
+[Headless CMS SEO – How is it different?](https://www.contentful.com/blog/2021/07/22/headless-cms-seo/)  
+
 #### Productive Tools | Components | Templates
 [CodeSandBox.io - Online IDE](https://codesandbox.io)  
 [WuFoo - Online Form Builder with Cloud Storage Database](https://www.wufoo.com/home/)  
