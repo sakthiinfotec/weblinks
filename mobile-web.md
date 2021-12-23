@@ -165,6 +165,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)  
 [How to Persist Your Redux Store - Store Migration](https://www.cloudsavvyit.com/9778/how-to-persist-your-redux-store/)  
 [dev.to - Just Redux: The Complete Guide](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5)  
+[Toptal - Creating React Apps With Redux Toolkit and RTK Query by Gurami Dagundaridze (G)](https://www.toptal.com/react/redux-toolkit-and-rtk-query)  
 
 #### Redux Persist
 [Redux Persist - Tutorial](https://github.com/rt2zz/redux-persist)  
