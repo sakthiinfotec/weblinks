@@ -6,3 +6,5 @@
 [Quarkus - A Kubernetes-native Java framework for cloud-native application](https://quarkus.io)  
 [Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
 
+#### Spring Framework
+[Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
