@@ -136,7 +136,9 @@ Immediately Invoked Function Expressions(IIFEs)
 [How To Build JS Components with Storybook - Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook)  
 [What is Storybook and How Can I Use It to Create a Component Library in React? - freeCodeCamp](https://www.freecodecamp.org/news/what-is-storybook-and-how-can-i-use-it-to-create-a-component-libary-in-react/)  
 [How to use Storybook with ESLint](https://medium.com/storybookjs/how-to-use-storybook-with-eslint-e7f620a4d2c1)  
-[Compoent Driven Development](https://www.componentdriven.org/)  
+[Component Driven Development](https://www.componentdriven.org/)  
+[Chromatic - Component Driven Development](https://www.chromatic.com/blog/component-driven-development/)  
+
 [Redux Thunk vs Redux Saga - State Middlewares - eternussolutions.com](https://www.eternussolutions.com/2020/12/21/redux-thunk-redux-saga/)  
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
