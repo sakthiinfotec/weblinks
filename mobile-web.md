@@ -135,6 +135,8 @@ Immediately Invoked Function Expressions(IIFEs)
 [How to build reusable layouts in React JS  with Router - dev.to](https://dev.to/julfikarhaidar/how-to-build-reusable-layouts-in-react-js-with-router-5gf7)  
 [How To Build JS Components with Storybook - Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook)  
 [What is Storybook and How Can I Use It to Create a Component Library in React? - freeCodeCamp](https://www.freecodecamp.org/news/what-is-storybook-and-how-can-i-use-it-to-create-a-component-libary-in-react/)  
+[How to use Storybook with ESLint](https://medium.com/storybookjs/how-to-use-storybook-with-eslint-e7f620a4d2c1)  
+[Compoent Driven Development](https://www.componentdriven.org/)  
 [Redux Thunk vs Redux Saga - State Middlewares - eternussolutions.com](https://www.eternussolutions.com/2020/12/21/redux-thunk-redux-saga/)  
 
 [AI Voice Recognition app - Complete Setup - Savio Martin (G)](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup)  
