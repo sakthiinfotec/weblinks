@@ -52,6 +52,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [Learn Open CV in 3 Hrs with Python - Murtaza's Workshop - Robotics and AI - YT(3 Hrs)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
 https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py  
 [Computer Vision Zone - Computer Vision Projects](https://www.computervision.zone/projects/)  
+[Learn OpenCV in 3 HOURS with Python | Including 3xProjects | Computer Vision](https://www.youtube.com/watch?v=WQeoO7MI0Bs&list=TLPQMDUwMTIwMjI_i2A9LvWCdw&index=3)  
 
 #### Mobile + ML
 [Machine Learning In IOS With Core ML - Introduction - Medium](https://medium.com/analytics-vidhya/machine-learning-in-ios-with-core-ml-adce88ca43ef)  
