@@ -40,7 +40,6 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)  
 [Top 20 Image Datasets for Machine Learning and Computer Vision](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo)  
 [TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python](https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82)  
-[Computer Vision Zone - Computer Vision Projects](https://www.computervision.zone/projects/)  
 
 #### NLP
 [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
@@ -52,6 +51,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 #### Open CV
 [Learn Open CV in 3 Hrs with Python - Murtaza's Workshop - Robotics and AI - YT(3 Hrs)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
 https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py  
+[Computer Vision Zone - Computer Vision Projects](https://www.computervision.zone/projects/)  
 
 #### Mobile + ML
 [Machine Learning In IOS With Core ML - Introduction - Medium](https://medium.com/analytics-vidhya/machine-learning-in-ios-with-core-ml-adce88ca43ef)  
