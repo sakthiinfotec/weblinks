@@ -5,7 +5,7 @@
 [Blockchain in Visual](https://anders.com/blockchain)  
 [Web 3.0 Explained by Siraj Raval - YouTube](https://www.youtube.com/watch?v=aPVmd7SyKfQ&ab_channel=SirajRaval)  
 [Truffle vs Hardhat vs Brownie — Let’s have a look](https://mirabdulhaseeb.medium.com/truffle-vs-hardhat-vs-brownie-lets-compare-ea08b927d084)  
-
+[Hardhat | Ethereum development environment for professionals by Nomic Labs](https://hardhat.org/)  
 
 * Remix Solidity Compiler - Browser based
 
