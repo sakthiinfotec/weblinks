@@ -181,6 +181,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Remix - Build Better Websites](https://remix.run/)  
 [Convert React Site to Remix](https://dev.to/chrisbenjamin/convert-react-site-to-remix-nh7)  
 [Remix: A guide to the newly open-sourced React framework](https://blog.logrocket.com/remix-guide-newly-open-sourced-react-framework/)  
+[REMIX- A new React Framework from the creators of React Router](https://dev.to/ishubhamprakash/remix-a-new-react-framework-from-the-creators-of-react-router-5886)  
 
 #### Next.js
 [Next.js from the Groud up - AuthO - YouTube (2 Hrs)](https://www.youtube.com/watch?v=VAEyelMtWp8&feature=emb_rel_pause)  
