@@ -14,3 +14,6 @@
 [Package Management with Go Modules - blogs.halodoc.io](https://blogs.halodoc.io/go-modules-implementation/)  
 [Go Modules - Introduction](https://golang.org/ref/mod#introduction)  
 [Evaluating Go's Package Management and Module Systems by @ayisaiah - honeybadger.io (G)](https://www.honeybadger.io/blog/golang-go-package-management/)  
+
+
+[High Performance Messaging with NATS](https://medium.com/@syedrizwan161/high-performance-messaging-with-nats-1c261fae3778)  
