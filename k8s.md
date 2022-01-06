@@ -4,7 +4,7 @@
 [BMC - What is Kubernetes (K8s)? A Kubernetes Basics Tutorial](https://www.bmc.com/blogs/what-is-kubernetes/?301=kubernetes-basics-tutorial)  
 [BMC - Kubernetes Monitoring: A Comprehensive Guide](https://www.bmc.com/blogs/kubernetes-monitoring/)  
 [BMC - Blue-Green Deployment: An Introduction](https://www.bmc.com/blogs/blue-green-deployment/)  
-
+[dev.to - Kafka on Kubernetes, the Strimzi way!](https://dev.to/azure/kafka-on-kubernetes-the-strimzi-way-part-1-57g7?signin=true)  
 
 ##### K8s Integration
 [3 ways to run Spark on Kubernetes](https://blog.duyet.net/2020/05/spark-on-k8s.html)  
