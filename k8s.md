@@ -10,4 +10,4 @@
 [3 ways to run Spark on Kubernetes](https://blog.duyet.net/2020/05/spark-on-k8s.html)  
 [Learn NATS (Java Publisher + Go Subscriber) + Docker Compose](https://github.com/abhirockzz/nats-hello-world-docker)  
 [Learn NATS (Java Publisher + Go Subscriber) + K8s](https://github.com/abhirockzz/nats-on-kubernetes-example)  
-
+[etcd - a distributed, highly available key-value store which serves as the persistent backend for K8s. Watch feature demonstration](https://github.com/abhirockzz/etcd-watch-go-client)  
