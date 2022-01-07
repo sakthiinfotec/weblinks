@@ -30,6 +30,8 @@ https://github.com/fterh/leetcode-curation-topical
 [Namaste JavaScript by Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)  
 
 [Learners Bucket - Learn full stack web development and DSA with JavaScript](https://learnersbucket.com/)  
+[Callicoder](https://www.callicoder.com/three-sum-problem/)  
+[Google - ThreeSum Algorithm Java](https://www.google.com/search?q=threesum+algorithm+java)  
 
 #### Books
 * System Design Interview – An Insider's Guide
