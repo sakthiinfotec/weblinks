@@ -433,6 +433,17 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Husky improves commits via Git Hooks - use it to lint your commit messages, run tests, lint code, etc... when you commit or push](https://typicode.github.io/husky/#/)  
 [CreateApp - Front End Build config generator](https://createapp.dev/)  
 
+
+#### npm packages
+[chalk - Display Terminal text with color formatted](https://www.npmjs.com/package/chalk)  
+[clear - Clear Terminal](https://www.npmjs.com/package/clear)  
+[clui - Draw CLI Spinner/Loader](https://www.npmjs.com/package/clui)  
+[figlet - To create ASCII art from Text](https://www.npmjs.com/package/figlet)  
+[inquirer - Interactive CLI](https://www.npmjs.com/package/inquirer)  
+[preferences - Encrypted preferences](https://www.npmjs.com/package/preferences)  
+[cli-table - Draw CLI Table](https://www.npmjs.com/package/cli-table)  
+[keyword-extractor - Extract keywords by removing stop words](https://www.npmjs.com/package/keyword-extractor)  
+
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
 [GraphQL With React & Apollo [4] - Simple Heroku Deploy](https://www.youtube.com/watch?v=ok6bu-3XRA8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx&index=5&ab_channel=TraversyMedia)  
