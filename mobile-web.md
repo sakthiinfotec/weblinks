@@ -16,6 +16,7 @@
 [Dribble - Zomato](https://dribbble.com/zomato)  
 [Zomato V14 - Tab Bar Interaction Concept](https://dribbble.com/shots/7059384-Zomato-V14-Tab-Bar-Interaction-Concept)  
 [Blush: Illustrations for everyone](https://blush.design/)  
+[Nielsen Norman Group - The User Experience of Customer-Service Chat: 20 Guidelines](https://www.nngroup.com/articles/chat-ux/)  
 
 [Toptal - Why Internal Corporate Software Is So Frustrating (with Infographic)](https://www.toptal.com/designers/ux/corporate-software)  
 [Toptal - The Platform Mindset in API Product Management](https://www.toptal.com/product-managers/api/api-product-management)  
