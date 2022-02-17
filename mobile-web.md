@@ -244,6 +244,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
+[Shopify Blog - Dirty CSS Hacks for Responsive Emails](https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails)  
 
 1. You Don't Know JS - @getify
 2. What the heck is the event loop - @philip_roberts
