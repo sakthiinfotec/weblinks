@@ -423,6 +423,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Moleculer.js - Progressive microservices framework for Node.js](https://moleculer.services/)  
 [Eleventy(11ty) is a simpler static site generator](https://www.11ty.dev/)  
 [Framer Motion - A production-ready motion library for React](https://www.framer.com/motion/)  
+[Micromodal - Modal UI in Javascript](https://micromodal.vercel.app/)  
 
 #### Javascript Build Tools
 [Vite.js - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.](https://vitejs.dev/guide/)  
