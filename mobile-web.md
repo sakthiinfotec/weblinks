@@ -460,7 +460,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [How to Learn Web Development in 2021 - a Web Developer Roadmap - freecodecamp](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  
 [Web Developer Roadmap for 2021 (with Tutorials and YouTube videos) - dev.to (G)](https://dev.to/britzdylan/web-developer-roadmap-for-2021-5abb)  
 [Ultimate Resources for Front-End Development in 2021 + Giveaway - dev.to (G)](https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838)  
- 
+
 ##### UI
 - Sense of aesthetics and an eye for perfection and detail
 
