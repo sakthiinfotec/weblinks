@@ -380,6 +380,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Typora - A minimal markdown editor & reader + also export to PDF](https://typora.io/)  
 [Boostlib - A collection of type-safe cross-platform packages for building robust server-side and client-side applications, packages, and tooling](https://boostlib.dev/)  
 [jq - Command-line JSON processor](https://github.com/stedolan/jq)  
+[Motion One - Light weight Animation Library](https://motion.dev/)  
 
 [Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
 [Add a shopping cart to any website - Snipcart: Pluggable Shopping Cart for Gatsby and NextJS](https://snipcart.com/)  
