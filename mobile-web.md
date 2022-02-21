@@ -392,6 +392,9 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Random Joke Generator API](https://api.icndb.com/jokes/random?firstName=John&lastName=Smith)  
 [Prismic - a headless CMS, an API CMS, a content platform, a disruptive content-as-a-service digital experience](https://prismic.io/)  
 
+#### Test Automation Frameworks
+[Dzone - JavaScript Test Automation Frameworks - WebDriver, Puppeteer, Nightwatch, PlayWright](https://dzone.com/refcardz/javascript-test-automation-frameworks?fromrel=true)  
+
 
 #### General - Agro
 [FarmFirst](https://twitter.com/FarmFirst_India)
