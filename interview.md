@@ -6,7 +6,7 @@ https://github.com/kdn251/interviews
 https://github.com/farhan787/algorithmic-problems  
 https://github.com/yangshun/tech-interview-handbook   
 https://github.com/lydiahallie/javascript-questions  
-https://github.com/fterh/leetcode-curation-topical  
+[Leetcode - Curated Lists by Fabian](https://github.com/fterh/leetcode-curation-topical)  
 
 [Best-websites-a-programmer-should-visit@github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
 
@@ -39,4 +39,4 @@ https://github.com/fterh/leetcode-curation-topical
 * Database Internals: A Deep Dive into How Distributed Data Systems Work
 
 ##### Concepts / Tips / Cheatsheets
-[LinkedIn - All About Flexbox](https://www.linkedin.com/posts/younes-agabi_flexbox-system-in-css-activity-6902157674293604355-H6Gz)  
+- [LinkedIn - All About Flexbox](https://www.linkedin.com/posts/younes-agabi_flexbox-system-in-css-activity-6902157674293604355-H6Gz)  
