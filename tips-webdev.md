@@ -13,6 +13,9 @@ Credits: https://twitter.com/csaba_kissi/status/1493852940200726534?s=20&t=A3d-q
 ```javascript
 /* Detect Dark Mode Preference with JavaScript */
 const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
+
+/* Edit your live webside in Google Chrome while making Design Mode: ON */
+document.designMode = 'on'
 ```
 
 
