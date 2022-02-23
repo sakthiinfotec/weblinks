@@ -7,6 +7,9 @@
 <a href="https://wa.me/?text=Hello">WhatsApp</a>
 <p contenteditabl=true>This content is editable</p>
 Credits: https://twitter.com/csaba_kissi/status/1493852940200726534?s=20&t=A3d-qYSHfyatT94emvHSzg
+
+<!-- Edit content of a page -->
+<body contenteditable> </body>
 ````
 
 ##### JavaScript
