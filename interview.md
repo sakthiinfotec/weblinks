@@ -37,3 +37,6 @@ https://github.com/fterh/leetcode-curation-topical
 * System Design Interview – An Insider's Guide
 * Designing Data-Intensive Applications
 * Database Internals: A Deep Dive into How Distributed Data Systems Work
+
+##### Concepts / Tips / Cheatsheets
+[LinkedIn - All About Flexbox](https://www.linkedin.com/posts/younes-agabi_flexbox-system-in-css-activity-6902157674293604355-H6Gz)  
