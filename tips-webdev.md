@@ -21,6 +21,18 @@ const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
 document.designMode = 'on'
 ```
 
+##### Web Development
+Domain: [@Namecheap](https://twitter.com/Namecheap)  
+Hosting: [@vercel](https://twitter.com/vercel)  
+Backend: [@Firebase](https://twitter.com/Firebase)  
+Frontend Builder: [@webflow](https://twitter.com/webflow)  
+Onboarding: [@intercom](https://twitter.com/intercom)  
+Logo: [@logologydesign](https://twitter.com/logologydesign)  
+Design: [@canva](https://twitter.com/canva)   
+Copywriting: [@canva](https://twitter.com/copy_ai)   
+Analytics: [@canva](https://twitter.com/PlausibleHQ)   
+Email Marketing: [@canva](https://twitter.com/Mailchimp)   
+
 
 ##### Free Illustration Sites
 ```
