@@ -157,6 +157,9 @@ Immediately Invoked Function Expressions(IIFEs)
 [LogRocket - Using styled-components in TypeScript: A tutorial with examples](https://blog.logrocket.com/using-styled-components-in-typescript-a-tutorial-with-examples/)  
 [Working with App State, useRef and Event Listeners in React Native](https://rossbulat.medium.com/working-with-app-state-and-event-listeners-in-react-native-ffa9bba8f6b7)  
 [Pluralsight - Rendering and Updating Data using Component Lifecycle Methods In React](https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed)  
+[Styled Components, Styled Systems and How They Work from rangle.io Blog (G)](https://rangle.io/blog/styled-components-styled-systems-and-how-they-work/)  
+[Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)  
+[How styled-components works: A deep dive under the hood](https://medium.com/styled-components/how-styled-components-works-618a69970421)  
 
 #### React Hooks
 [Dave Ceddia: A Guided Tour of React Hooks / React Boston 2019 - YouTube (G)](https://www.youtube.com/watch?v=ApIiM8pL-kI&ab_channel=InsideWayfair)  
