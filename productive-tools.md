@@ -1,3 +1,14 @@
+#### Automation Tools
+* Zapier - For integrations
+* Automate IO
+* @datagrab_io - for web scrapping
+* IFTTT
+* Tasker
+* Make (@integromat)
+* Hexomatic AI
+* Fasd - Switch between directories
+* Node RED
+
 
 #### Recording
 [asciinema - Record and share your terminal sessions, the right way (G)](https://asciinema.org/)  
