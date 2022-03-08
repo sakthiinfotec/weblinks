@@ -19,6 +19,15 @@ const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
 
 /* Edit your live webside in Google Chrome while making Design Mode: ON */
 document.designMode = 'on'
+
+/* Fast and easy way to create a unique ID in JavaScript */
+export const uid = () => {
+  const fromDate = Date.now().toString(36);
+  const fromRnd = Math.random().toString(36).substr(2);
+  return `${fromDate}${fromRnd}`
+}
+
+
 ```
 
 ##### Web Development
