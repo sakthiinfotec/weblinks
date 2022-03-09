@@ -26,6 +26,7 @@
 [Canonical - Front End, Cloud, DevOps | Remote](https://canonical.com/careers/all?filter=all&location=asia#available-roles)  
 [Strapi - Gerlin, Germany | Remote](https://strapi.io/careers#open-positions)  
 [Contentful](https://www.contentful.com/careers/)  
+[HireRemote.io](https://hireremote.io/)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
