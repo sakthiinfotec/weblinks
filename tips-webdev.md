@@ -27,6 +27,14 @@ export const uid = () => {
   return `${fromDate}${fromRnd}`
 }
 
+/* Display objects in a table view */
+const items = [
+  {id: 1, name: 'Apple'},
+  {id: 2, name: 'Banana'},
+  {id: 3, name: 'Carrot'},
+]
+console.table(items);
+
 
 ```
 
