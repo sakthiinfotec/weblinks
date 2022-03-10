@@ -27,6 +27,7 @@
 [Strapi - Gerlin, Germany | Remote](https://strapi.io/careers#open-positions)  
 [Contentful](https://www.contentful.com/careers/)  
 [HireRemote.io](https://hireremote.io/)  
+[Fluxon - SFO, USA, India](https://www.fluxon.com/about)  
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
 
