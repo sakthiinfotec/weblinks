@@ -104,6 +104,7 @@ Immediately Invoked Function Expressions(IIFEs)
 
 #### TypeScript
 [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)  
+[TypeScript Deep Dive by Syed Basarat](https://basarat.gitbook.io/typescript/)  
 
 #### Angular
 [A Practical Guide to Angular Directives - Sitepoint](https://www.sitepoint.com/practical-guide-angular-directives/)  
