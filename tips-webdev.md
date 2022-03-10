@@ -35,6 +35,10 @@ const items = [
 ]
 console.table(items);
 
+/* Prevent the user pasting text in the input box */
+inputEl.addEventListener('paste', function(e){
+  e.preventDefault()
+})
 
 ```
 
