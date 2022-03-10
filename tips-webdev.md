@@ -47,7 +47,7 @@ const origLogFunc = console.log
 console.log = (msg, err) => {
     origLogFunc.call(console, `${new Date().toGMTString()} - ${msg}`, err)
 }
-console.log("Hello JavaScript", new Error("Test error message"));   // Thu, 10 Mar 2022 15:24:57 GMT - Error: Test error message
+console.log("Hello JavaScript", new Error("Test error message"));   // Thu, 10 Mar 2022 15:24:57 GMT - Hello JavaScript Error: Test error message
 
 // Restore back the console log
 console.log = origLogFunc
