@@ -20,6 +20,11 @@ const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
 /* Edit your live webside in Google Chrome while making Design Mode: ON */
 document.designMode = 'on'
 
+/* Computed Style */
+const htmlEl = document.getElementsByTagName('body')[0]
+const computedStyle = window.getComputedStyle(htmlEl)
+console.log(computedStyle['backgroundColor']);  // rgb(13, 17, 23)
+
 /* Fast and easy way to create a unique ID in JavaScript */
 export const uid = () => {
   const fromDate = Date.now().toString(36);
@@ -39,6 +44,11 @@ console.table(items);
 inputEl.addEventListener('paste', function(e){
   e.preventDefault()
 })
+
+/* Array destructure */
+const fruits = ['Apple', 'Banana', 'Orange', 'Mango'];
+let {0: apple, 3: mango} = fruits;
+console.log(`0 => ${apple} & 3 => ${mango}`);   // 0 => Apple & 3 => Mango
 
 ```
 
