@@ -24,6 +24,8 @@ document.designMode = 'on'
 const htmlEl = document.getElementsByTagName('body')[0]
 const computedStyle = window.getComputedStyle(htmlEl)
 console.log(computedStyle['backgroundColor']);  // rgb(13, 17, 23)
+console.log(computedStyle['font-size'])         // 14px
+console.log(computedStyle['font-family'])       // -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
 
 /* Fast and easy way to create a unique ID in JavaScript */
 export const uid = () => {
