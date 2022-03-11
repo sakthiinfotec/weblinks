@@ -519,8 +519,13 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Styled System: a helper library for Styled Components, which I already use
 - Design systems
 
-###### Concepts
-**Side Effects:** Impure functions (vs pure functions) - a general concept about behaviours of functions. A function is said to have side effect if it trys to modify anything outside its body. For example, if it modidifies a global variable, then it is a side effect. If it makes a network call, it is a side effect as well. In computer science, a function or expression is said to have a side effect if it modifies some state outside its scope or has an observable interaction with its calling functions or the outside world besides returning a value. For example, a particular function might modify a global variable or static variable, modify one of its arguments, raise an exception, write data to a display or file, read data, or call other side-effecting functions. In the presence of side effects, a program's behaviour may depend on history; that is, the order of evaluation matters. Understanding and debugging a function with side effects requires knowledge about the context and its possible histories.
+##### Concepts
+**Side Effects:** Impure functions (vs pure functions) - a general concept about behaviours of functions. A function is said to have side effect if it trys to modify anything outside its body. For example, if it modidifies a global variable, then it is a side effect. If it makes a network call, it is a side effect as well. In computer science, a function or expression is said to have a side effect if it modifies some state outside its scope or has an observable interaction with its calling functions or the outside world besides returning a value. For example, a particular function might modify a global variable or static variable, modify one of its arguments, raise an exception, write data to a display or file, read data, or call other side-effecting functions. In the presence of side effects, a program's behaviour may depend on history; that is, the order of evaluation matters. Understanding and debugging a function with side effects requires knowledge about the context and its possible histories.  
+
+**Virtual DOM:** 
+* An in-memory object representation of actual HTML DOM maintained by JS libraries like React or Vue in order to optimize performance while manipulating it.
+* When rendering/re-rendering, possibly due to state change, previous Virtual DOM is compared with current Virtual DOM.
+* Identifies the changes and udpate actual DOM. This process is called *Reconcilation*.
 
 #### Courses
 - JavaScript Hard Parts v2
