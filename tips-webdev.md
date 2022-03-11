@@ -15,10 +15,16 @@ Credits: https://twitter.com/csaba_kissi/status/1493852940200726534?s=20&t=A3d-q
 ##### JavaScript
 ```javascript
 /* Detect Dark Mode Preference with JavaScript */
-const prefersDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches
+const isDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme:dark)").matches
 
 /* Edit your live webside in Google Chrome while making Design Mode: ON */
 document.designMode = 'on'
+
+/* Check if element if focused */
+const searchInputEl = document.querySelector("input#top-nav-search-q.search-input-field");
+const isFocused = searchInputEl === document.activeElement
+searchInputEl.onfocus = (e) => { console.log('Search focused.') }
+searchInputEl.onblur = (e) => { console.log('Search out of focus...') }
 
 /* Computed Style */
 const htmlEl = document.getElementsByTagName('body')[0]
