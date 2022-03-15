@@ -101,6 +101,12 @@ Email Marketing: [@canva](https://twitter.com/Mailchimp)
 🔹undraw.co
 ```
 
+##### JavaScript Animation Libraries
+* [Mo.js](https://mojs.github.io/)
+* Three.js
+* Anime.js
+* Velocity.js
+* Vivus.js
 
 ##### Copyright Free Images
 ```
