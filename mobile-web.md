@@ -471,6 +471,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [GraphQL With React & Apollo [4] - Simple Heroku Deploy](https://www.youtube.com/watch?v=ok6bu-3XRA8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx&index=5&ab_channel=TraversyMedia)  
 [dev.to - Build and Deploy your Django & React App: Authentication, Docker, AWS Lightsail, GitHub Actions & PostgreSQL](https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl)  
 [Enable cross-origin resource sharing](https://enable-cors.org/server_expressjs.html)  
+[Public APIs for Testing - Github](https://github.com/public-apis/public-apis)  
 
 #### Web Development Roadmap - 2021
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
