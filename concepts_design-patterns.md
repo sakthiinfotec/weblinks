@@ -11,3 +11,4 @@
 ##### Data Engineering
 [Airbyte - Understanding Change Data Capture (CDC): Definition, Methods and Benefits](https://airbyte.com/blog/change-data-capture-definition-methods-and-benefits)  
 [learnk8s.io - API gateway in Kubernetes & Service Mesh](https://learnk8s.io/kubernetes-ingress-api-gateway)  
+[CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
