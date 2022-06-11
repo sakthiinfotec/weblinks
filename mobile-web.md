@@ -400,6 +400,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [SVG to React Native@svgviewer](https://www.svgviewer.dev/svg-to-react-native-jsx)  
 [Browser List](https://browserslist.dev/)  
 [SVG to JSX](https://svg2jsx.com/)  
+[React SVGR](https://react-svgr.com/playground/)  
 
 [Jump start your e-Commerce web app using React Storefronts](https://blog.bitsrc.io/jump-start-your-ecommerce-web-app-using-react-storefronts-203544db1526)  
 [Add a shopping cart to any website - Snipcart: Pluggable Shopping Cart for Gatsby and NextJS](https://snipcart.com/)  
