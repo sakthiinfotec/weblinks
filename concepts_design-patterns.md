@@ -13,3 +13,23 @@
 [learnk8s.io - API gateway in Kubernetes & Service Mesh](https://learnk8s.io/kubernetes-ingress-api-gateway)  
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
+
+##### React
+* Components (Class & Functional)
+* Pure Component
+* HoC
+* Hooks (useState, useEffect, useCallback, useMemo, useLayout) & Custome Hooks
+* Actions & Reducers
+* Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
+* Component Lifecycle methods
+* Method Binding
+* useEffect() - With / without deps
+* State vs Props
+* Lifting State up
+* Redux - Configure and use store
+* Global State, Context, Redux Store
+* VirtualDOM
+* SSR vs Server Side Component - Next.js
+* Async operations using Saga vs Thunk
+* RTK Query (Query, Mutation, transform, tags)
+
