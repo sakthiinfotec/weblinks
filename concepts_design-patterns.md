@@ -24,9 +24,10 @@
 #### React
 * Components (Class & Functional)
 * Pure Component
-* Component Lifecycle phases (Mount, Update & Unmount) & methods
+* Component Lifecycle phases (Initialization/Constructor, Mount, Update & Unmount) & methods
 * HoC
-* Hooks (useState, useEffect, useCallback, useMemo, useLayout, useReducer, useRef) & Custom Hooks
+* Hooks (useState, useEffect, useCallback, useMemo, useLayout, useReducer, useRef) & 
+* Custom Hooks - Reuse stateful logics between components / Alternative to HoC to some extent
 * useEffect() - With / without deps
 * useRef - Child nodes to trigger animations, select text, or manage the focus
 * Rules for React Hooks
@@ -37,6 +38,7 @@
 * Key in List Iteration
 * Suspense & Eror Boundary
 * State vs Props (Immutable, Passed from Parent to Child)
+* * Data passes Downwards + Event bubbles Upwards
 * Lifting State up
 * Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
 * Global State, Context, Redux Store
