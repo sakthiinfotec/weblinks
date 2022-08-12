@@ -14,22 +14,36 @@
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
 
+#### JavaScript
+* Method Binding
+* Module (Default export & Named export)
+* Iterator (Symbol Iterator)
+* List iteration
+* 
+
 ##### React
 * Components (Class & Functional)
 * Pure Component
+* Component Lifecycle phases (Mount, Update & Unmount) & methods
 * HoC
-* Hooks (useState, useEffect, useCallback, useMemo, useLayout) & Custome Hooks
-* Actions & Reducers
-* Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
-* Component Lifecycle methods
-* Method Binding
+* Hooks (useState, useEffect, useCallback, useMemo, useLayout) & Custom Hooks
 * useEffect() - With / without deps
+* Rules for React Hooks
+* Actions & Reducers
+* JSX => Babel => React.createElement(name, props, value)
+* Conditional Rendering
+* Fragment
+* Key in List Iteration
+* Suspense & Eror Boundary
 * State vs Props
 * Lifting State up
-* Redux - Configure and use store
+* Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
 * Global State, Context, Redux Store
-* VirtualDOM
+* Redux - Configure and use store
+* Virtual DOM
 * SSR vs Server Side Component - Next.js
 * Async operations using Saga vs Thunk
 * RTK Query (Query, Mutation, transform, tags)
-
+* State Reconciliation
+* React Router
+* Lazy Loading Components
