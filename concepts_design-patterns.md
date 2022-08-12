@@ -21,13 +21,14 @@
 * List iteration
 * 
 
-##### React
+#### React
 * Components (Class & Functional)
 * Pure Component
 * Component Lifecycle phases (Mount, Update & Unmount) & methods
 * HoC
-* Hooks (useState, useEffect, useCallback, useMemo, useLayout) & Custom Hooks
+* Hooks (useState, useEffect, useCallback, useMemo, useLayout, useReducer, useRef) & Custom Hooks
 * useEffect() - With / without deps
+* useRef - Child nodes to trigger animations, select text, or manage the focus
 * Rules for React Hooks
 * Actions & Reducers
 * JSX => Babel => React.createElement(name, props, value)
@@ -41,9 +42,9 @@
 * Global State, Context, Redux Store
 * Redux - Configure and use store
 * Virtual DOM
+* State Reconciliation (Diffing with DOM snapshot) using Fiber Engine
 * SSR vs Server Side Component - Next.js
 * Async operations using Saga vs Thunk
 * RTK Query (Query, Mutation, transform, tags)
-* State Reconciliation
 * React Router
 * Lazy Loading Components
