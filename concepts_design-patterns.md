@@ -36,7 +36,7 @@
 * Fragment
 * Key in List Iteration
 * Suspense & Eror Boundary
-* State vs Props
+* State vs Props (Immutable, Passed from Parent to Child)
 * Lifting State up
 * Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
 * Global State, Context, Redux Store
