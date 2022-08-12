@@ -50,4 +50,4 @@
 * RTK Query (Query, Mutation, transform, tags)
 * React Router
 * Lazy Loading Components
-* Code Splitting
+* Code Splitting - With code-splitting, React allows us to split a large bundle file into multiple chunks using dynamic import() followed by lazy loading these chucks when we need them with React.lazy
