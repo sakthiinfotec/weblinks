@@ -50,3 +50,4 @@
 * RTK Query (Query, Mutation, transform, tags)
 * React Router
 * Lazy Loading Components
+* Code Splitting
