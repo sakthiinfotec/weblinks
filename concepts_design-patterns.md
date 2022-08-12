@@ -25,7 +25,7 @@
 * Components (Class & Functional)
 * Pure Component
 * Component Lifecycle phases (Initialization/Constructor, Mount, Update & Unmount) & methods
-* HoC
+* HoC - Component transforms props into UI, But HoC transforms a component into another component
 * Hooks (useState, useEffect, useCallback, useMemo, useLayout, useReducer, useRef) & 
 * Custom Hooks - Reuse stateful logics between components / Alternative to HoC to some extent
 * useEffect() - With / without deps
