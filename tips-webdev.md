@@ -99,7 +99,15 @@ Email Marketing: [@canva](https://twitter.com/Mailchimp)
 🔹pixeltrue.com
 🔹storyset.com
 🔹undraw.co
-```
+
+````
+
+Every UX/UI designer should know these websites! by @uiuxadrian (UI Adrian)
+
+1️⃣ [pixabay.com](https://pixabay.com) - 2.6M+ free images
+2️⃣ [coolors.co](https://coolors.co) - amazing and super fast color palette generator!
+3️⃣ [patternpad.com](https://patternpad.com) - generate beautiful svg patterns ✨
+
 
 ##### JavaScript Animation Libraries
 * [Mo.js](https://mojs.github.io/)
