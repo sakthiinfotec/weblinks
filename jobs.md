@@ -120,3 +120,12 @@ Excellent to have:
 * Any exposure to React Native
 * Exposure to DS/Algo fundamentals
 * HTML5 latest APIs
+
+
+[DevOps Engineer](https://amplication.breezy.hr/p/18a02ed13c67-senior-devops-engineer)  
+* You have experience with Infrastructure as Code tools such as Terraform and Pulumi.
+* You are well-familiar with the Kubernetes ecosystem and have operated Kubernetes clusters in production.
+* You have experience operating, monitoring and optimizing cloud infrastructure in production using one of the major cloud providers (preferably AWS).
+* You have experience working with CI/CD pipelines using tools such as GitHub Actions, Jenkins, GitLab CI, CircleCI etc.
+* (Bonus) Experience with remote development environments (e.g. Tilt, DevSpace, Okteto, Skaffold, Telepresence etc).
+* (Bonus) Experience with GitOps (preferably ArgoCD).
