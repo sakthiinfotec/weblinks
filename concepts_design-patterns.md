@@ -38,7 +38,7 @@
 * List iteration
 * Generators
 * Promise
-* 
+* Automated Tests
 
 #### React
 * Components (Class & Functional)
