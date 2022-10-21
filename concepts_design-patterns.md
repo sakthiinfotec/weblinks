@@ -14,11 +14,30 @@
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
 
+#### Web Technology
+* Web Workers
+* Web Sockets
+* Web Components
+* Shadow DOM
+* Mobx
+* Node.js
+* Next.js
+* FCP
+* PWA
+* Responsive Web Development
+* Media Queries
+* Local Storage vs Session Storage vs Cookie
+* Grid Layout
+* Webpack
+* Docker
+
 #### JavaScript
 * Method Binding
 * Module (Default export & Named export)
 * Iterator (Symbol Iterator)
 * List iteration
+* Generators
+* Promise
 * 
 
 #### React
@@ -38,7 +57,7 @@
 * Key in List Iteration
 * Suspense & Eror Boundary
 * State vs Props (Immutable, Passed from Parent to Child)
-* * Data passes Downwards + Event bubbles Upwards
+* Data passes Downwards + Event bubbles Upwards
 * Lifting State up
 * Context, Context Provider, Context Consumer, useContext() - For pass Props through nested components i.e props drilling
 * Global State, Context, Redux Store
