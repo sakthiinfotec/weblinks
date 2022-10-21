@@ -36,6 +36,8 @@
 * TypeScript
 * [API-first World](https://api-first-world.com/)  
 * Chrome Developer Tools
+* API Gateway
+* AWS Lambda
 
 #### Node.js
 * Events
