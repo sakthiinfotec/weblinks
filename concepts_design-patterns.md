@@ -43,6 +43,7 @@
 * Events
 * Streams
 * Express.js
+* JavaScript testing frameworks (Jest, Mocha, etc.)
 
 #### CSS
 * SASS
