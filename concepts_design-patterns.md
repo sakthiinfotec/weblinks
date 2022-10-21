@@ -38,12 +38,14 @@
 * Chrome Developer Tools
 * API Gateway
 * AWS Lambda
+* JWT
+* OAuth 2.0, SAML, Open ID, SSO
 
 #### Node.js
 * Events
 * Streams
 * Express.js
-* JavaScript testing frameworks (Jest, Mocha, etc.)
+* JavaScript testing frameworks (Jest, Enzyme, Mocha, etc.)
 
 #### CSS
 * SASS
