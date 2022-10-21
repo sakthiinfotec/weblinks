@@ -14,20 +14,33 @@
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
 
+#### General Technologies
+* Relational databases
+
 #### Web Technology
 * Web Workers
 * Web Sockets
 * Web Components
 * Shadow DOM
 * Mobx
-* Node.js
 * Next.js
 * FCP
 * PWA
 * Responsive Web Development
 * Local Storage vs Session Storage vs Cookie
 * Webpack
+* GraphQL
 * Docker
+* Accessibility and Security compliance
+* Front-end performance optimisation
+* TypeScript
+* [API-first World](https://api-first-world.com/)  
+* Chrome Developer Tools
+
+#### Node.js
+* Events
+* Streams
+* Express.js
 
 #### CSS
 * SASS
