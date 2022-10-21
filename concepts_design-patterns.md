@@ -28,7 +28,7 @@
 * PWA
 * Responsive Web Development
 * Local Storage vs Session Storage vs Cookie
-* Webpack
+* Webpack (bundling/minification techniques)
 * GraphQL
 * Docker
 * Accessibility and Security compliance
