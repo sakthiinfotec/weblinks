@@ -25,11 +25,15 @@
 * FCP
 * PWA
 * Responsive Web Development
-* Media Queries
 * Local Storage vs Session Storage vs Cookie
-* Grid Layout
 * Webpack
 * Docker
+
+#### CSS
+* SASS
+* Media Queries
+* Flexbox
+* Grid Layout
 
 #### JavaScript
 * Method Binding
