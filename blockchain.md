@@ -19,3 +19,8 @@
 
 #### Web3.0
 [The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)  
+
+
+#### Hardware
+[Wallet Build - How the Wallet works](https://wallet.build/how-the-wallet-works/)  
+[Wallet Build - Hardware](https://wallet.build/how-we-design-our-hardware/)  
