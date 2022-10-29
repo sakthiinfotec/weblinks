@@ -28,3 +28,17 @@ https://fastapi.tiangolo.com/
 [goose - DB migration tool](https://github.com/pressly/goose)  
 [Cloud instance management for deep learning applications](https://github.com/for-ai/cloud)
 [librosa - is a python package for music and audio analysis](https://librosa.org/doc/latest/install.html)  
+[python-httpx - http2, requests + async http](https://www.python-httpx.org/)  
+
+#### PythonAnywhere
+```sh
+
+git clone https://github.com/PrettyPrinted/flask_qa_app.git
+
+# Create a virtual environment
+mkvirtualenv env --python='/usr/bin/python3.8'
+
+cd flask_qa_app
+pip install -r requirements.txt
+
+```
