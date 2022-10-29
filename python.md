@@ -33,6 +33,8 @@ https://fastapi.tiangolo.com/
 
 #### PythonAnywhere
 
+[YouTube - Deploying Flask Apps Using Python Anywhere](https://www.youtube.com/watch?v=5jbdkOlf4cY&ab_channel=PrettyPrinted)  
+
 ```sh
 cd flask_qa
 pip freeze > requirements.txt
