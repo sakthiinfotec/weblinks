@@ -31,8 +31,17 @@ https://fastapi.tiangolo.com/
 [python-httpx - http2, requests + async http](https://www.python-httpx.org/)  
 
 #### PythonAnywhere
-```sh
 
+```sh
+cd flask_qa
+pip freeze > requirements.txt
+git init .
+git add .
+git commit -m 'initial commit'
+```
+
+In Console
+```sh
 git clone https://github.com/PrettyPrinted/flask_qa_app.git
 
 # Create a virtual environment
@@ -40,5 +49,4 @@ mkvirtualenv env --python='/usr/bin/python3.8'
 
 cd flask_qa_app
 pip install -r requirements.txt
-
 ```
