@@ -29,6 +29,7 @@ https://fastapi.tiangolo.com/
 [Cloud instance management for deep learning applications](https://github.com/for-ai/cloud)
 [librosa - is a python package for music and audio analysis](https://librosa.org/doc/latest/install.html)  
 [python-httpx - http2, requests + async http](https://www.python-httpx.org/)  
+[Material for MkDocs - Write in Markdown and create a professional static site in minutes](https://squidfunk.github.io/mkdocs-material/) 
 
 #### PythonAnywhere
 
