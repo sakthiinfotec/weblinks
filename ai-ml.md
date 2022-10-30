@@ -57,3 +57,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Mobile + ML
 [Machine Learning In IOS With Core ML - Introduction - Medium](https://medium.com/analytics-vidhya/machine-learning-in-ios-with-core-ml-adce88ca43ef)  
+
+#### MLOps
+[Courses for MLOps](https://jesperdramsch.medium.com/take-these-3-courses-to-level-up-your-mlops-skills-8dddc6b3fa7a)  
+
