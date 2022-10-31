@@ -23,6 +23,8 @@ https://fastapi.tiangolo.com/
 [Prefect — A modern, python-native data workflow engine](https://makeitnew.io/prefect-a-modern-python-native-data-workflow-engine-7ece02ceb396)  
 [Prefect IO - Dataflow Automation](https://www.prefect.io/)  
 
+#### Best Practices
+[Use a Flask Blueprint to Architect Your Applications](https://realpython.com/flask-blueprint/)  
 
 #### Tools
 [sup - Stack Up](https://github.com/pressly/sup)  
