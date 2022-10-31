@@ -1,5 +1,6 @@
 ##### Basics
 [Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
+[YouTube Chennels - Learn Python](https://towardsdatascience.com/top-13-youtube-channels-to-learn-python-524442aaab2f)  
 
 #### API / Microservices**  
 https://fastapi.tiangolo.com/
