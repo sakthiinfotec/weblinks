@@ -4,6 +4,7 @@
 
 #### API / Microservices**  
 https://fastapi.tiangolo.com/
+[Implement gRPC Server in Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)  
 
 #### Flask | FastAPI  
 [Flask vs FastAPI](https://www.google.com/search?q=fastapi+vs+flask)  
