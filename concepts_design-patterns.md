@@ -23,6 +23,7 @@
 * Clients open long lived connection to a gRPC server
 * At the core, define messages and services using Protocol Buffers
 * Supports timeout at client side, eventually cancels the request at server side
+* Supports interceptor for Logging + Metrics in production environment
 ```
 
 #### Microservices
