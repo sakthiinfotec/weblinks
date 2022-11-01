@@ -16,6 +16,7 @@
 
 ###### gRPC
 ```
+* A High performance protocol built on top of HTTP/2
 * Ideal for the communication between Microservices
 * It's a modern, fast and efficient, build on top of HTTP/2, low latency, supports Streaming, language independent, 
 * Makes it super easy to plug in authentication, load balancing, logging and monitoring
