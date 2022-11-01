@@ -24,7 +24,10 @@
 
 #### Microservices
 [YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
+[YouTube - Protocol Buffers in gRPC](https://www.youtube.com/watch?v=yfZB2_rT_Pc)
 [YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
+[YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
+[YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang)](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
 
 
 #### General Technologies
