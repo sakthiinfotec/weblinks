@@ -33,6 +33,7 @@
 [YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
 [YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication (G)](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
 [YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
+[YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)   
 
 
 #### General Technologies
