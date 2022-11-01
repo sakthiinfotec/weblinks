@@ -24,6 +24,7 @@
 * At the core, define messages and services using Protocol Buffers
 * Supports timeout at client side, eventually cancels the request at server side
 * Supports interceptor for Logging + Metrics in production environment
+* It efficiently connects services in and across data centers with pluggable support for load balancing, tracing, health-checking, and authentication.
 ```
 
 #### Microservices
