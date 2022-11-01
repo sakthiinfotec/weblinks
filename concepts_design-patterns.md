@@ -14,9 +14,17 @@
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
 
-#### Micro Services
+###### gRPC
+```
+* Ideal for the communication between Microservices
+* It's a modern, fast and efficient, build on top of HTTP/2, low latency, supports Streaming, language independent, 
+* Makes it super easy to plug in authentication, load balancing, logging and monitoring
+```
+
+#### Microservices
 [YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
 [YouTube - gRPC Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
+
 
 #### General Technologies
 * Relational databases
