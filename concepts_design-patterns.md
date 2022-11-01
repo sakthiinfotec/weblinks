@@ -21,7 +21,7 @@
 * It's a modern, fast and efficient, built on top of HTTP/2, low latency, supports bi-directional Streaming, language independent, 
 * Makes it super easy to plug in authentication, load balancing, logging and monitoring
 * Clients open long lived connection to a gRPC server
-* At the core, define messages and services using Protocol Buffers
+* At the core, define messages and services using Protocol Buffers i.e Machine readable contracts
 * Supports timeout at client side, eventually cancels the request at server side
 * Supports interceptor for Logging + Metrics in production environment
 * It efficiently connects services in and across data centers with pluggable support for load balancing, tracing, health-checking, and authentication.
