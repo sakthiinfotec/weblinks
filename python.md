@@ -13,6 +13,9 @@ https://fastapi.tiangolo.com/
 [FastAPI alternatives](https://fastapi.tiangolo.com/alternatives/)  
 
 
+#### Data Science
+[NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
+
 #### Computing
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
 [Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
