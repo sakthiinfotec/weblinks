@@ -654,3 +654,18 @@ Plus:
 - Kubernetes and Docker to schedule and run our services
 - Jenkins to run our testing and deployment pipelines
 - AWS for our infrastructure
+
+##### Mobile Software Engineer
+- (iOS)MVVM
+- Swift
+- RxSwift
+- Moya
+- Cocoa Touch
+- ObjectMapper
+- Realm
+- Firebase
+- Lottie
+- GoogleMaps
+- CameraManager
+- Layout in the storyboard
+- Hibs
