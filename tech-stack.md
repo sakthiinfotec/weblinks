@@ -22,3 +22,15 @@
 - PostgreSQL for RDBMS.
 - Git for version control.
 - Replicated for on-premise.
+
+##### [IMMO](https://angel.co/company/immo-3/jobs/2335014-senior-software-engineer-backend)  - Real Estate Investment
+- Node.js
+- Serverless Framework
+- PostgreSQL
+- Python
+- Airflow
+- AWS
+- Terraform
+- Docker
+- CircleCI
+- GitHub
