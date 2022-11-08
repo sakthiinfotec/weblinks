@@ -6,6 +6,7 @@
 [BMC - Blue-Green Deployment: An Introduction](https://www.bmc.com/blogs/blue-green-deployment/)  
 [dev.to - Kafka on Kubernetes, the Strimzi way!](https://dev.to/azure/kafka-on-kubernetes-the-strimzi-way-part-1-57g7?signin=true)  
 [Deploy Any Python Project to Kubernetes - G](https://towardsdatascience.com/deploy-any-python-project-to-kubernetes-2c6ad4d41f14)  
+[Kube Academy by VMware - Learn Kubernetes. From Experts. For Free.](https://kube.academy/)  
 
 ##### K8s Integration
 [3 ways to run Spark on Kubernetes](https://blog.duyet.net/2020/05/spark-on-k8s.html)  
