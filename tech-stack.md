@@ -1,4 +1,9 @@
 ### Technology Stacks
+
+##### Data Science
+[JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
+[Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
+
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
 - Node.js with Typescript 
