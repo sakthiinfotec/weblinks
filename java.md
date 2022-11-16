@@ -1,10 +1,13 @@
+#### Concepts
+[Virtual Threads](https://spring.io/blog/2022/10/11/embracing-virtual-threads)  
+
 [Top Courses To Tackle Spring Boot for Full Stack Java Developers](https://hackernoon.com/top-courses-to-tackle-spring-boot-for-full-stack-java-developers-fkg3tu5)  
 [Top 5 Essential Skills to Crack Coding Interviews in 2020](https://javarevisited.blogspot.com/2020/04/5-essential-skills-to-crack-coding-interviews.html)  
-
 
 #### Modern Frameworks
 [Quarkus - A Kubernetes-native Java framework for cloud-native application](https://quarkus.io)  
 [Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
+[RSocket](https://rsocket.io)  
 
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
