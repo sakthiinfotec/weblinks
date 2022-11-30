@@ -65,3 +65,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Google Colab
 [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/getting_started/)  
+
+
+#### Certifications
+[Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
