@@ -44,6 +44,7 @@
 
 #### K8s
 [Guide to Kubernetes Autoscaling](https://www.densify.com/kubernetes-autoscaling)  
+[Istio - Service Mesh](https://istio.io/latest/about/service-mesh/)  
 
 #### General Technologies
 * Relational databases
