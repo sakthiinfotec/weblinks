@@ -35,6 +35,12 @@
 [YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
 [YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)   
 
+#### Messaging Queues
+[RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
+[RabbitMQ - Request/Reply Pattern](https://www.google.com/search?q=request+reply+pattern+rabbitmq)  
+[RabbitMQ - Request/Reply Pattern - YouTube](https://www.youtube.com/watch?v=1KVa9UoPdCA)  
+[RabbitMQ - Request/Reply Pattern - DZone](https://dzone.com/articles/rabbitmq-request-response)  
+
 
 #### General Technologies
 * Relational databases
