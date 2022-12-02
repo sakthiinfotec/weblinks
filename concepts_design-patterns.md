@@ -42,6 +42,8 @@
 [RabbitMQ - Request/Reply Pattern - YouTube](https://www.youtube.com/watch?v=1KVa9UoPdCA)  
 [RabbitMQ - Request/Reply Pattern - DZone](https://dzone.com/articles/rabbitmq-request-response)  
 
+#### K8s
+[Guide to Kubernetes Autoscaling](https://www.densify.com/kubernetes-autoscaling)  
 
 #### General Technologies
 * Relational databases
