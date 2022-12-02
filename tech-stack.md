@@ -17,7 +17,7 @@
 [Prometheus - Metrics](https://prometheus.io/)  
 
 ##### Error Monitoring
-AirBrake(Ruby) Alernatives: Rollbar | Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
+AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
 ##### Alert & Notifications
 [MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
