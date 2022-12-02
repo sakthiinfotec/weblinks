@@ -47,6 +47,7 @@
 
 #### General Technologies
 * Relational databases
+* [What is the difference between a proxy server and a gateway server?](https://serverfault.com/questions/994319/what-is-the-difference-between-a-proxy-server-and-a-gateway-server)  
 
 #### Web Technology
 * Web Workers
