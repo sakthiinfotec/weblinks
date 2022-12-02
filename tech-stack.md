@@ -4,6 +4,17 @@
 [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
 [Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
 
+###### Microservices
+[Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
+[Envoy Mobile](https://envoymobile.io/)  
+
+##### Microservices - Tracers
+[Zipkin](https://zipkin.io/)  
+[Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
+[DataDog - Modern monitoring & security](https://datadoghq.com/)  
+[Apache - SkyWalking: Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
+[Prometheus - Metrics](https://prometheus.io/)  
+
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
 - Node.js with Typescript 
