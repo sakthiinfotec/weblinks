@@ -4,7 +4,7 @@
 [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
 [Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
 
-###### Microservices
+##### Microservices
 [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 [Envoy Mobile](https://envoymobile.io/)  
 
