@@ -7,6 +7,7 @@
 ##### Microservices
 [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 [Envoy Mobile](https://envoymobile.io/)  
+[Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
 ##### Microservices - Tracers
 [Zipkin](https://zipkin.io/)  
