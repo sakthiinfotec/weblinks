@@ -18,6 +18,12 @@
 
 ##### Alert & Notifications
 [MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
+[Sendgrid](https://sendgrid.com/)  
+[Postmark](https://postmarkapp.com/)  
+[Mailgun](https://www.mailgun.com/)  
+[SparkPost](https://www.sparkpost.com/)  
+[Sendwithus](https://www.sendwithus.com/)  
+[Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
 
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
