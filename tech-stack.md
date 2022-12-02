@@ -9,6 +9,10 @@
 [Envoy Mobile](https://envoymobile.io/)  
 [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
+##### Authentication & Authorization
+SSO tokens
+OAuth 2.0 and JWT patterns
+
 ##### Microservices - Tracers
 [Zipkin](https://zipkin.io/)  
 [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
