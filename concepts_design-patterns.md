@@ -33,7 +33,8 @@
 [YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
 [YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication (G)](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
 [YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
-[YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)   
+[YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)  
+[YouTube - What is Service Mesh? Do you need one? from DevOps Made Easy](https://www.youtube.com/watch?v=l96T__-aC9U&ab_channel=DevOpsMadeEasy)  
 
 #### Messaging Queues
 [RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
