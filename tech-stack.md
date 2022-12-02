@@ -16,6 +16,9 @@
 [Apache - SkyWalking: Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
 [Prometheus - Metrics](https://prometheus.io/)  
 
+##### Error Monitoring
+AirBrake(Ruby) Alernatives: Rollbar | Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
+
 ##### Alert & Notifications
 [MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
 [Sendgrid](https://sendgrid.com/)  
