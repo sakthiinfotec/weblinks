@@ -16,6 +16,9 @@
 [Apache - SkyWalking: Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
 [Prometheus - Metrics](https://prometheus.io/)  
 
+##### Alert & Notifications
+[MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
+
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
 - Node.js with Typescript 
