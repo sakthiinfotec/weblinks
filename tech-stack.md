@@ -23,6 +23,14 @@ OAuth 2.0 and JWT patterns
 ##### Error Monitoring
 AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
+##### Realtime DB / Notification
+Websocket
+Firebase
+[RethinkDB](https://rethinkdb.com/docs/quickstart)  
+[Liveblocks - The all-in-one toolkit to build collaborative products like Figma, Notion,](https://github.com/liveblocks/liveblocks)  
+Pusher
+[Conflict-Free Replicated Data Types as a way to sync data across devices](https://talk.objc.io/episodes/S01E294-crdts-introduction?t=6)  
+
 ##### Alert & Notifications
 [MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
 [Sendgrid](https://sendgrid.com/)  
