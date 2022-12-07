@@ -40,6 +40,28 @@
 - [Sendwithus](https://www.sendwithus.com/)  
 - [Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
 
+##### For Startups
+How to Start Online Earning with $0 Investment
+- Brand ➔ Twitter is free
+- Design ➔ Canva is free
+- Website ➔ Carrd is free
+- Store ➔ Gumroad is free
+- Workspace ➔ Notion is free
+
+##### Courses
+10 FREE courses  
+[1. Introduction to Computer Science 101](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)  
+[2. Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)  
+[3. Designing Your Career](https://online.stanford.edu/courses/tds-y0003-designing-your-career)  
+[4. Introduction to Internet of Things](https://online.stanford.edu/courses/xee100-introduction-internet-things)  
+[5. Databases: Advanced Topics in SQL](https://online.stanford.edu/courses/soe-ydatabases0001-databases-advanced-topics-sql)  
+[6. Introduction to Game Theory](https://online.stanford.edu/courses/soe-ycs0002-game-theory)  
+[7. R Programming Fundamentals](https://online.stanford.edu/courses/xfds112-r-programming-fundamentals)  
+[8. Introduction to Cryptography](https://online.stanford.edu/courses/xfds112-r-programming-fundamentals)  
+[9. Advanced Cybersecurity Program](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)  
+[10. Algorithms: Design and Analysis](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)  
+
+
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
 - Node.js with Typescript 
