@@ -60,7 +60,7 @@ How to Start Online Earning with $0 Investment
 [8. Introduction to Cryptography](https://online.stanford.edu/courses/xfds112-r-programming-fundamentals)  
 [9. Advanced Cybersecurity Program](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)  
 [10. Algorithms: Design and Analysis](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)  
-
+[edX - Caltech - Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-from-data-introductory-machine-learning#!)  
 
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
