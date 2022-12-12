@@ -52,6 +52,7 @@
 * Relational databases
 * [What is the difference between a proxy server and a gateway server?](https://serverfault.com/questions/994319/what-is-the-difference-between-a-proxy-server-and-a-gateway-server)  
 * [Understanding Unix Domain Sockets in Golang - dev.to](https://dev.to/douglasmakey/understanding-unix-domain-sockets-in-golang-32n8)  
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/#yforx)  
 
 #### Web Technology
 * Web Workers
