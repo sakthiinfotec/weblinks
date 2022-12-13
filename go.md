@@ -20,6 +20,18 @@
 - The Go Command
 - Tooling
 
+##### Learning
+[Golang Advanced Tutorial](https://golangbyexample.com/golang-comprehensive-tutorial/)  
+[IOTA in Go (Golang)](https://golangbyexample.com/iota-in-golang/)  
+[gopherguides.com - Where and When to use Iota in Go](https://www.gopherguides.com/articles/how-to-use-iota-in-golang)  
+
+#### Profiling
+[Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
+[Profiling in GoLang - golangdocs.com](https://golangdocs.com/profiling-in-golang)  
+
+#### Testing
+[A Deep Dive into Table-Driven Testing in Golang - engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20211221-a-deep-dive-into-table-driven-testing-in-golang/)  
+
 #### Go Frameworks
 [ent - An entity framework for Go](https://entgo.io/)  
 [HUGO - A Fast and Flexible Static Site Generator](https://github.com/gohugoio/hugo)  
@@ -38,10 +50,3 @@
 
 
 [High Performance Messaging with NATS](https://medium.com/@syedrizwan161/high-performance-messaging-with-nats-1c261fae3778)  
-
-##### Learning
-[Golang Advanced Tutorial](https://golangbyexample.com/golang-comprehensive-tutorial/)  
-[IOTA in Go (Golang)](https://golangbyexample.com/iota-in-golang/)  
-[gopherguides.com - Where and When to use Iota in Go](https://www.gopherguides.com/articles/how-to-use-iota-in-golang)  
-[A Deep Dive into Table-Driven Testing in Golang - engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20211221-a-deep-dive-into-table-driven-testing-in-golang/)  
-[Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
