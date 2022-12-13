@@ -17,3 +17,7 @@
 
 
 [High Performance Messaging with NATS](https://medium.com/@syedrizwan161/high-performance-messaging-with-nats-1c261fae3778)  
+
+##### Learning
+[IOTA in Go (Golang)](https://golangbyexample.com/iota-in-golang/)  
+[gopherguides.com - Where and When to use Iota in Go](https://www.gopherguides.com/articles/how-to-use-iota-in-golang)  
