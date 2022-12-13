@@ -44,4 +44,4 @@
 [IOTA in Go (Golang)](https://golangbyexample.com/iota-in-golang/)  
 [gopherguides.com - Where and When to use Iota in Go](https://www.gopherguides.com/articles/how-to-use-iota-in-golang)  
 [A Deep Dive into Table-Driven Testing in Golang - engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20211221-a-deep-dive-into-table-driven-testing-in-golang/)  
-
+[Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
