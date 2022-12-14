@@ -30,8 +30,9 @@
 - CircleCI
 
 ##### CD
-- Terraform
-- Nomad
+- [Terraform](https://developer.hashicorp.com/terraform)  
+- [Nomad](https://developer.hashicorp.com/nomad)  
+- [Pulumi](https://www.pulumi.com/)  
 
 ##### Error Monitoring
 - AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
