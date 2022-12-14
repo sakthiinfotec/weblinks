@@ -23,6 +23,7 @@
 - Traceability (with Kiali and Jaeger)
 - Canary Deployments & Rolling Updates (with Istio)
 - API routing & Management (with Istio )
+- OpenShift ServiceMesh
 
 ##### API Gateways
 - [Kong](https://konghq.com/)  
