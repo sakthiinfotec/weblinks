@@ -65,7 +65,7 @@
 [Deploying a Data Warehouse with Pulumi and Amazon Redshift](https://www.pulumi.com/blog/building-a-data-warehouse-on-aws-with-redshift-and-pulumi/)  
 [Platform Engineering with Pulumi- Episode 1: Building the AWS Landing Zone with Pulumi](https://aws.plainenglish.io/platform-engineering-with-pulumi-episode-1-building-the-aws-landing-zone-with-pulumi-67b559523c78)  
 [Platform Engineering with Pulumi Episode 2: Build and Deploy a React.js Application](https://aws.plainenglish.io/platform-engineering-with-pulumi-episode-2-building-and-deploying-the-nodejs-application-6217ed039e6)  
-
+[Full Stack Application with Kubernetes, Quarkus, and React](https://abvijaykumar.medium.com/list/full-stack-application-with-kubernetes-quarkus-and-react-8707fcb7b717)  
 
 ##### For Startups
 How to Start Online Earning with $0 Investment
