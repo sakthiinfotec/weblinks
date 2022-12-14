@@ -25,6 +25,14 @@
 - [Tyk](https://tyk.io/)  
 - [Apigee](https://cloud.google.com/apigee)  
 
+##### CI
+- Jenkins
+- CircleCI
+
+##### CD
+- Terraform
+- Nomad
+
 ##### Error Monitoring
 - AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
