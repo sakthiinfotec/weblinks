@@ -28,6 +28,8 @@
 ```
 
 #### Microservices
+[RedHat - What are microservices?](https://www.redhat.com/en/topics/microservices/what-are-microservices)  
+[RedHat - What's a service mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)  
 [YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
 [YouTube - Protocol Buffers in gRPC](https://www.youtube.com/watch?v=yfZB2_rT_Pc)
 [YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
