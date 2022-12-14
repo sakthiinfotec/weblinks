@@ -50,6 +50,9 @@
 [Guide to Kubernetes Autoscaling](https://www.densify.com/kubernetes-autoscaling)  
 [Istio - Service Mesh](https://istio.io/latest/about/service-mesh/)  
 
+#### Web
+[Responsive vs Adaptive Design: Which One Is Better?](https://dzone.com/articles/responsive-vs-adaptive-design-which-one-is-better)  
+
 #### General Technologies
 * Relational databases
 * [What is the difference between a proxy server and a gateway server?](https://serverfault.com/questions/994319/what-is-the-difference-between-a-proxy-server-and-a-gateway-server)  
