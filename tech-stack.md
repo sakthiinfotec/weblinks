@@ -127,15 +127,15 @@ How to Start Online Earning with $0 Investment
 - GitHub
 
 ##### [Scaler](https://www.scaler.com/careers/staff-software-engineer-frontend) - Scaler Academy
-High level of fluency and experience in technologies like
-a. HTML5, CSS3(BEM preferred), CSS Preprocessors (Sass/Less/PostCSS)
-b. Javascript ES6 & Typescript
-c. Frameworks (React with Redux/Mobx)
-d. Server-side Rendering (using Next.js)
-e. Static Stire Generators (Next.js/GatsbyJS)
-f. Build tools (Webpack/Esbuild)
-g. Package Managers (npm, yarn)
-h. Testing tools (Jest/Cypress/Enzyme)
-i. Linters (ESLint)
-j. Performance and Optimizations (AMP, Web Vitals & SEO Optimizations, Lighthouse, Dev Tools, PRPL/RAIL models, and Performance Metrics)
-k. Web development concepts like Web Security Fundamentals, CORS, Content Security Policies, Virtual DOM, Browser Storage, Web Sockets, Service Workers.
+High level of fluency and experience in technologies like  
+a. HTML5, CSS3(BEM preferred), CSS Preprocessors (Sass/Less/PostCSS)  
+b. Javascript ES6 & Typescript  
+c. Frameworks (React with Redux/Mobx)  
+d. Server-side Rendering (using Next.js)  
+e. Static Stire Generators (Next.js/GatsbyJS)  
+f. Build tools (Webpack/Esbuild)  
+g. Package Managers (npm, yarn)  
+h. Testing tools (Jest/Cypress/Enzyme)  
+i. Linters (ESLint)  
+j. Performance and Optimizations (AMP, Web Vitals & SEO Optimizations, Lighthouse, Dev Tools, PRPL/RAIL models, and Performance Metrics)  
+k. Web development concepts like Web Security Fundamentals, CORS, Content Security Policies, Virtual DOM, Browser Storage, Web Sockets, Service Workers.  
