@@ -54,6 +54,14 @@
 - [Sendwithus](https://www.sendwithus.com/)  
 - [Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
 
+##### How-to Guides
+[Kubernetes MERN Stack Voting App](https://www.pulumi.com/registry/packages/aws/how-to-guides/aws-ts-k8s-mern-voting-app/)  
+[Fullstack Pulumi: Deploying the MERN Stack on DigitalOcean](https://www.pulumi.com/blog/fullstack-pulumi-mern-stack-digitalocean/)  
+[Deploying a Data Warehouse with Pulumi and Amazon Redshift](https://www.pulumi.com/blog/building-a-data-warehouse-on-aws-with-redshift-and-pulumi/)  
+[Platform Engineering with Pulumi- Episode 1: Building the AWS Landing Zone with Pulumi](https://aws.plainenglish.io/platform-engineering-with-pulumi-episode-1-building-the-aws-landing-zone-with-pulumi-67b559523c78)  
+[Platform Engineering with Pulumi Episode 2: Build and Deploy a React.js Application](https://aws.plainenglish.io/platform-engineering-with-pulumi-episode-2-building-and-deploying-the-nodejs-application-6217ed039e6)  
+
+
 ##### For Startups
 How to Start Online Earning with $0 Investment
 - Brand ➔ Twitter is free
