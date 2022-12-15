@@ -1,17 +1,13 @@
 ### Technology Stacks
 
-##### Data Science
-- [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
-- [Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
+##### Authentication & Authorization
+- SSO tokens
+- OAuth 2.0 and JWT patterns
 
 ##### Microservices
 - [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
 - [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
-
-##### Authentication & Authorization
-- SSO tokens
-- OAuth 2.0 and JWT patterns
 
 ##### Microservices - Tracers
 - [Zipkin](https://zipkin.io/)  
@@ -24,6 +20,12 @@
 - Canary Deployments & Rolling Updates (with Istio)
 - API routing & Management (with Istio )
 - OpenShift ServiceMesh
+
+##### Data Science
+- [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
+- [Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
+- [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/)  
+- [Streamlit - A faster way to build and share data apps](https://streamlit.io/)  
 
 ##### API Gateways
 - [Kong](https://konghq.com/)  
