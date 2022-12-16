@@ -28,6 +28,7 @@
 ```
 
 #### Microservices
+[microservices.io - Microservice Architecture - Patterns | Deployment Patterns | Testing | Observability](https://microservices.io/index.html)  
 [RedHat - What are microservices?](https://www.redhat.com/en/topics/microservices/what-are-microservices)  
 [RedHat - What's a service mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)  
 [YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
@@ -39,6 +40,7 @@
 [YouTube - What is Service Mesh? Do you need one? from DevOps Made Easy](https://www.youtube.com/watch?v=l96T__-aC9U&ab_channel=DevOpsMadeEasy)  
 [https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot](https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot)  
 [How to use Amazon SES for sending an email without domain verification](https://www.inkoop.io/blog/how-to-use-amazon-ses-for-sending-an-email-without-domain-verification/)  
+[Implement Health Checks for Kubernetes in Your Application](https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c)  
 
 #### Messaging Queues
 [RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
