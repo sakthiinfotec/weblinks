@@ -14,7 +14,7 @@
 - [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
 - [DataDog - Modern monitoring & security](https://datadoghq.com/)  
 - [Apache - SkyWalking: Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
-- [Prometheus - Metrics](https://prometheus.io/)  
+- [Prometheus - Prometheus - Monitoring system & time series database](https://prometheus.io/)  
 - Observability (with Grafana and Prometheus)
 - Traceability (with Kiali and Jaeger)
 - Canary Deployments & Rolling Updates (with Istio)
