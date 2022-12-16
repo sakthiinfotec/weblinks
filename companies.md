@@ -13,5 +13,5 @@
 [NimbleGrowth Organics, Bengaluru - An Agri startup for Organic produce](https://nimblegrowth.in/)  
 
 #### Buz Name Suggestions
-ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign | PalmPact | PalmImPact | General Impact | FalconView | FalconData
+ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign | PalmPact | PalmImPact | General Impact | FalconView | FalconData | ExtenData
 
