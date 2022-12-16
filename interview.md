@@ -40,6 +40,7 @@ https://github.com/lydiahallie/javascript-questions
 
 ##### System Design
 [Sunil Kumar - 8-Step Guide To Ace A System Design Interview](https://javascript.plainenglish.io/8-steps-guide-to-ace-a-system-design-interview-7a5a797f4d7d)  
+[Medium - Threads and Connections in Backend Applications](https://medium.com/@hnasr/threads-and-connections-in-backend-applications-a225eed3eddb)  
 
 ##### Concepts / Tips / Cheatsheets
 - [LinkedIn - All About Flexbox](https://www.linkedin.com/posts/younes-agabi_flexbox-system-in-css-activity-6902157674293604355-H6Gz)  
