@@ -38,5 +38,8 @@ https://github.com/lydiahallie/javascript-questions
 * Designing Data-Intensive Applications
 * Database Internals: A Deep Dive into How Distributed Data Systems Work
 
+##### System Design
+[Sunil Kumar - 8-Step Guide To Ace A System Design Interview](https://javascript.plainenglish.io/8-steps-guide-to-ace-a-system-design-interview-7a5a797f4d7d)  
+
 ##### Concepts / Tips / Cheatsheets
 - [LinkedIn - All About Flexbox](https://www.linkedin.com/posts/younes-agabi_flexbox-system-in-css-activity-6902157674293604355-H6Gz)  
