@@ -1,5 +1,6 @@
 ##### Python Stack
 - [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
+- [Celery - Distributed Task Queue](https://github.com/celery/celery)  
 - [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)  
 - [SQLModel - SQL databases in Python, designed for simplicity, compatibility, and robustness](https://sqlmodel.tiangolo.com/)  
 - [Typer - Build great CLIs. Easy to code. Based on Python type hints](https://typer.tiangolo.com/)  
