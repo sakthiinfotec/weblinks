@@ -1,11 +1,12 @@
 ##### Python Stack
 - [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
-- [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
 - [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)  
-- []()  
-- []()  
+- [SQLModel - SQL databases in Python, designed for simplicity, compatibility, and robustness](https://sqlmodel.tiangolo.com/)  
+- [Typer - Build great CLIs. Easy to code. Based on Python type hints](https://typer.tiangolo.com/)  
+- [Click - Python composable command line interface toolkit](https://github.com/pallets/click/)  
 - [Jina AI - Jina is a MLOps framework](https://docs.jina.ai/)  
 - [Jina AI - Build multimodal AI services via cloud native technologies·Neural Search·Generative AI·Cloud Native](https://github.com/jina-ai/jina)  
+- [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
 
 
 ##### Basics
