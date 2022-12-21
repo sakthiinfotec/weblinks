@@ -7,21 +7,21 @@
 - [Click - Python composable command line interface toolkit](https://github.com/pallets/click/)  
 - [Jina AI - Jina is a MLOps framework](https://docs.jina.ai/)  
 - [Jina AI - Build multimodal AI services via cloud native technologies·Neural Search·Generative AI·Cloud Native](https://github.com/jina-ai/jina)  
+- [Cortex - ML Model serving at scale](https://github.com/cortexlabs/cortex)  
 - [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
 
 
 ##### Basics
-[Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
-[YouTube Chennels - Learn Python](https://towardsdatascience.com/top-13-youtube-channels-to-learn-python-524442aaab2f)  
+- [Full Stack Python - Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)  
+- [Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
+- [YouTube Chennels - Learn Python](https://towardsdatascience.com/top-13-youtube-channels-to-learn-python-524442aaab2f)  
 
 #### API / Microservices**  
-https://fastapi.tiangolo.com/
 [Implement gRPC Server in Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)  
 
 #### Flask | FastAPI  
 [Flask vs FastAPI](https://www.google.com/search?q=fastapi+vs+flask)  
 [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)  
-[Cortex - ML Model serving at scale](https://github.com/cortexlabs/cortex)  
 [FastAPI alternatives](https://fastapi.tiangolo.com/alternatives/)  
 
 
