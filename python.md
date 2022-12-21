@@ -1,3 +1,13 @@
+##### Python Stack
+- [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
+- [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
+- [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)  
+- []()  
+- []()  
+- [Jina AI - Jina is a MLOps framework](https://docs.jina.ai/)  
+- [Jina AI - Build multimodal AI services via cloud native technologies·Neural Search·Generative AI·Cloud Native](https://github.com/jina-ai/jina)  
+
+
 ##### Basics
 [Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
 [YouTube Chennels - Learn Python](https://towardsdatascience.com/top-13-youtube-channels-to-learn-python-524442aaab2f)  
