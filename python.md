@@ -2,6 +2,7 @@
 - [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
 - [Celery - Distributed Task Queue](https://github.com/celery/celery)  
 - [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)  
+- [Starlette - A lightweight ASGI framework/toolkit, which is ideal for building async web services](https://www.starlette.io/)  
 - [SQLModel - SQL databases in Python, designed for simplicity, compatibility, and robustness](https://sqlmodel.tiangolo.com/)  
 - [Typer - Build great CLIs. Easy to code. Based on Python type hints](https://typer.tiangolo.com/)  
 - [Click - Python composable command line interface toolkit](https://github.com/pallets/click/)  
