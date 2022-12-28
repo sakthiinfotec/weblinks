@@ -61,6 +61,11 @@
 - [Sendwithus](https://www.sendwithus.com/)  
 - [Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
 
+##### Testing
+- E2E: Selenium, Cypress
+- Integration: Snapshot
+- Unit: Jest, Enzyme
+
 ##### How-to Guides
 [Kubernetes MERN Stack Voting App](https://www.pulumi.com/registry/packages/aws/how-to-guides/aws-ts-k8s-mern-voting-app/)  
 [Fullstack Pulumi: Deploying the MERN Stack on DigitalOcean](https://www.pulumi.com/blog/fullstack-pulumi-mern-stack-digitalocean/)  
