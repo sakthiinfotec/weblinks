@@ -61,6 +61,11 @@
 - [Sendwithus](https://www.sendwithus.com/)  
 - [Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
 
+##### Mobile
+- React
+  - [React Native UI Lib - is a UI Toolset & Components Library for React Native](https://wix.github.io/react-native-ui-lib/)  
+  - [TamaGUI - Universal UI kit and style system for React Native + Web - with an optimizing compiler](https://github.com/tamagui/tamagui)  
+
 ##### Testing
 - E2E: Selenium, Cypress
 - Integration: Snapshot
