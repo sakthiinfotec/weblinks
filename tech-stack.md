@@ -52,6 +52,7 @@
 
 ##### Realtime DB / Notification
 - Websocket
+  - [Socket.io](https://ably.com/topic/socketio)  
 - Firebase
 - [RethinkDB](https://rethinkdb.com/docs/quickstart)  
 - [Liveblocks - The all-in-one toolkit to build collaborative products like Figma, Notion,](https://github.com/liveblocks/liveblocks)  
