@@ -27,6 +27,12 @@
 - [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/)  
 - [Streamlit - A faster way to build and share data apps](https://streamlit.io/)  
 
+##### AI/ML
+- NLU
+  - [DeepPavlov - an open-source conversational AI library built on PyTorch](https://github.com/deeppavlov/DeepPavlov)  
+  - [Rasa is an open source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
+
+
 ##### API Gateways
 - [Kong](https://konghq.com/)  
 - [Tyk](https://tyk.io/)  
