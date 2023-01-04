@@ -66,6 +66,11 @@
 - [SparkPost](https://www.sparkpost.com/)  
 - [Sendwithus](https://www.sendwithus.com/)  
 - [Email as a Microservice](https://www.cloudbees.com/blog/email-as-a-microservice)  
+- [Open Source Live Chat](https://www.google.com/search?q=open+source+live+chat)  
+- [Chatwoot](https://www.chatwoot.com/)  
+- [LiveHelperChat](https://livehelperchat.com/)  
+- [Chaskiq](https://www.chaskiq.io/)  
+- [Helpy.io](https://helpy.io/live-chat/)  
 
 ##### Mobile
 - React
