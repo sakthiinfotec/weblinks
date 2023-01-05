@@ -25,6 +25,7 @@
 - Canary Deployments & Rolling Updates (with Istio)
 - API routing & Management (with Istio )
 - OpenShift ServiceMesh
+- [Fluent Bit - An End to End Observability Pipeline](https://fluentbit.io/how-it-works/)  
 
 ##### Data Science
 - [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
