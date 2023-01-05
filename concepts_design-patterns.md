@@ -41,6 +41,7 @@
 [https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot](https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot)  
 [How to use Amazon SES for sending an email without domain verification](https://www.inkoop.io/blog/how-to-use-amazon-ses-for-sending-an-email-without-domain-verification/)  
 [Implement Health Checks for Kubernetes in Your Application](https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c)  
+[What is Observability - opentelemetry.io](https://opentelemetry.io/docs/concepts/observability-primer/#distributed-traces)  
 
 #### Messaging Queues
 [RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
