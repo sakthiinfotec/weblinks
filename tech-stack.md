@@ -4,6 +4,10 @@
 - SSO tokens
 - OAuth 2.0 and JWT patterns
 
+##### REST API
+- [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
+- [REST CookBook](https://restcookbook.com/)  
+
 ##### Microservices
 - [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
