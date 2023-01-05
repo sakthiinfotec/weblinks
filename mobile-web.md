@@ -72,6 +72,7 @@
 [Toptal - Building a Node.js/TypeScript REST API, Part 2: Models, Middleware, and Services](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-2)  
 [Toptal - Building a Node.js/TypeScript REST API, Part 3: MongoDB, Authentication, and Automated Tests](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-3)  
 [Toptal - Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)  
+[Toptal - How to Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api)  
 [Toptal - Using Express.js Routes for Promise-based Error Handling](https://www.toptal.com/express-js/routes-js-promises-error-handling)  
 [Toptal - The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)  
 [Build an API with Node.js, Express, and TypeScript - split.io](https://www.split.io/blog/node-js-typescript-express-tutorial/)  
