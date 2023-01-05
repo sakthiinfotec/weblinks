@@ -7,6 +7,7 @@
 ##### REST API
 - [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
 - [REST CookBook](https://restcookbook.com/)  
+- [Service Architecture - Representational State Transfer (REST)](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
 
 ##### Microservices
 - [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
