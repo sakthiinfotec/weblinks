@@ -55,6 +55,9 @@
 #### Web
 [Responsive vs Adaptive Design: Which One Is Better?](https://dzone.com/articles/responsive-vs-adaptive-design-which-one-is-better)  
 
+#### Security
+[Why Does OAuth v2 Have Both Access and Refresh Tokens?](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823#12885823)  
+
 #### General Technologies
 * Relational databases
 * [What is the difference between a proxy server and a gateway server?](https://serverfault.com/questions/994319/what-is-the-difference-between-a-proxy-server-and-a-gateway-server)  
