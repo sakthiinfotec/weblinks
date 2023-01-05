@@ -68,6 +68,13 @@
 [How to Create a Reddit Clone Using React and Firebase - Sitepoint](https://www.sitepoint.com/reddit-clone-react-firebase/)  
 [How to Bundle a Simple Static Site Using Webpack - Sitepoint](https://www.sitepoint.com/bundle-static-site-webpack/)  
 [MEAN Stack: Build an App with Angular and the Angular CLI - Sitepoint](https://www.sitepoint.com/mean-stack-angular-angular-cli/)  
+[Toptal - Building a Node.js/TypeScript REST API, Part 1: Express.js](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-1)  
+[Toptal - Building a Node.js/TypeScript REST API, Part 2: Models, Middleware, and Services](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-2)  
+[Toptal - Building a Node.js/TypeScript REST API, Part 3: MongoDB, Authentication, and Automated Tests](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-3)  
+[Toptal - Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)  
+[Toptal - Using Express.js Routes for Promise-based Error Handling](https://www.toptal.com/express-js/routes-js-promises-error-handling)  
+[Toptal - The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)  
+[Build an API with Node.js, Express, and TypeScript - split.io](https://www.split.io/blog/node-js-typescript-express-tutorial/)  
 
 #### JavaScript - Basics
 [All you need to know about Promise.all - freecodecamp](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/)  
