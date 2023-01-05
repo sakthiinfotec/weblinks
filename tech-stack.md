@@ -26,6 +26,7 @@
 - API routing & Management (with Istio )
 - OpenShift ServiceMesh
 - [Fluent Bit - An End to End Observability Pipeline](https://fluentbit.io/how-it-works/)  
+- [OpenTelemetry - High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)  
 
 ##### Data Science
 - [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
