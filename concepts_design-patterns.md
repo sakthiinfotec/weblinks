@@ -4,6 +4,10 @@
 [developer.com - Diving Deeper into Polymorphism and its Benefits in Java](https://www.developer.com/design/diving-deeper-into-polymorphism-and-its-benefits-in-java/)  
 [Abstract Factory Pattern - by androiddesignpatterns.com](https://www.androiddesignpatterns.com/2012/06/designing-for-backwards-compatibility.html)  
 
+##### OOPs
+[Python Object Oriented Programming (OOP) - For Beginners - YouTube](https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim)  
+[OOPS In Python | Object Oriented Programming Python | Python for Beginners | Great Learning - YouTube](https://www.youtube.com/watch?v=Uo6PpmDuBUU)  
+
 ##### eBooks
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
