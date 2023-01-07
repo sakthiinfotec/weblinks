@@ -24,6 +24,7 @@
 [Flask vs FastAPI](https://www.google.com/search?q=fastapi+vs+flask)  
 [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)  
 [FastAPI alternatives](https://fastapi.tiangolo.com/alternatives/)  
+[Flask Tutorials - YouTube - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)  
 
 
 #### Data Science
