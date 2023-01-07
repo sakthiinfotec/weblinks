@@ -1,5 +1,6 @@
 
 [AlgoMonster](https://algo.monster/)  
+[Data Structures and Algorithms - Beau teaches JavaScript - freeCodeCamp.org - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)  
 
 ##### SEARCHING
 1️⃣ Linear search   
