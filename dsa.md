@@ -2,7 +2,7 @@
 [AlgoMonster](https://algo.monster/)  
 [Data Structures and Algorithms - Beau teaches JavaScript - freeCodeCamp.org - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)  
 [Data Structures and Algorithms - YouTube - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)  
-
+[Python OOP Tutorials - Working with Classes - YouTube - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)  
 
 ##### SEARCHING
 1️⃣ Linear search   
