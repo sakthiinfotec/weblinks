@@ -1,4 +1,4 @@
-
+[Learn Big O Notation In 12 Minutes - YouTube - Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)  
 [AlgoMonster](https://algo.monster/)  
 [Data Structures and Algorithms - Beau teaches JavaScript - freeCodeCamp.org - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)  
 
