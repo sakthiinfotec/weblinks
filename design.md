@@ -32,5 +32,5 @@
 - Mobile UI Kit (Includes checkbox, search box, chat message, buttons, charts, etc,.)
 
 ##### Colors
-- Dark Background Colors: #3FC979
+- Dark Background Colors: #3FC979, (#2C3444 + Orange)
 - Light Background Colors: #E7EBE7
