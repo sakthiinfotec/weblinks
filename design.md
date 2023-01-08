@@ -30,3 +30,6 @@
 
 ##### Figma UI Kits
 - Mobile UI Kit (Includes checkbox, search box, chat message, buttons, charts, etc,.)
+
+##### Colors
+- #3FC979
