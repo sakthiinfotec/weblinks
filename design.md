@@ -29,4 +29,4 @@
 - User Profile
 
 ##### Figma UI Kits
-- Mobile UI Kit
+- Mobile UI Kit (Includes checkbox, search box, chat message, buttons, charts, etc,.)
