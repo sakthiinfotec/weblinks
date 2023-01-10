@@ -56,6 +56,7 @@
 #### K8s
 [Guide to Kubernetes Autoscaling](https://www.densify.com/kubernetes-autoscaling)  
 [Istio - Service Mesh](https://istio.io/latest/about/service-mesh/)  
+[Podman vs Docker - LambdaTest](https://www.lambdatest.com/blog/podman-vs-docker/)  
 
 #### Web
 [Responsive vs Adaptive Design: Which One Is Better?](https://dzone.com/articles/responsive-vs-adaptive-design-which-one-is-better)  
