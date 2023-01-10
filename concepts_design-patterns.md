@@ -47,6 +47,9 @@
 [Implement Health Checks for Kubernetes in Your Application](https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c)  
 [What is Observability - opentelemetry.io](https://opentelemetry.io/docs/concepts/observability-primer/#distributed-traces)  
 
+#### Enterprise Integration Patterns
+[Enterprise Integration Patterns - Messaging Patterns](https://www.enterpriseintegrationpatterns.com/toc.html)  
+
 #### Messaging Queues
 [RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
 [RabbitMQ - Request/Reply Pattern](https://www.google.com/search?q=request+reply+pattern+rabbitmq)  
