@@ -226,11 +226,15 @@ git stash drop stash@{0}
 
 # Move stashed changes to a new branch
 git stash branch push-notification stash@{0}
+git checkout -b new-feature stash@{0}
 
 # To stash the output into a patch file
 git stash show -p stash@{<number>} > <name>.patch
 git stash show -p stash@{0} > fcm-changes.patch
 git stash show -p --color=never > my-patch-name.patch 
+
+# Info about both saving the patch and applying binary data
+git stash show stash@{0} -p --binary
 
 # Get Patch info
 git apply --stat my-patch-name.patch   # Verify if patch looks good
