@@ -59,6 +59,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Mobile + ML
 [Machine Learning In IOS With Core ML - Introduction - Medium](https://medium.com/analytics-vidhya/machine-learning-in-ios-with-core-ml-adce88ca43ef)  
 
+#### AI Art Generator
+- DALL-E 2
+- Midjourney
+
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
 - How to build an image generator with DALLE-2
