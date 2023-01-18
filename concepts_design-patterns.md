@@ -50,6 +50,10 @@
 #### Enterprise Integration Patterns
 [Enterprise Integration Patterns - Messaging Patterns](https://www.enterpriseintegrationpatterns.com/toc.html)  
 
+#### Authentication
+[How to Implement JWT Authentication for CRUD APIs in Deno](https://blog.loginradius.com/engineering/guest-post/how-to-implement-jwt-authentication-in-deno/)  
+[Multi-Factor Authentication (MFA) with Redis Cache and OTP](https://blog.loginradius.com/engineering/guest-post/multi-factor-authentication-using-redis-cache-and-otp/)  
+
 #### Messaging Queues
 [RabbitMQ - RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)  
 [RabbitMQ - Request/Reply Pattern](https://www.google.com/search?q=request+reply+pattern+rabbitmq)  
