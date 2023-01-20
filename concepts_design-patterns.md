@@ -78,6 +78,8 @@
 [Getting Started with HTTP/2 in Node.js](https://www.section.io/engineering-education/http2-in-nodejs/)  
 [Socket.io - Bidirectional and low-latency communication for every platform | With an HTTP/2 server](https://socket.io/docs/v4/server-initialization/#with-an-http2-server)  
 [Fastify supports HTTP2 over either HTTPS](https://www.fastify.io/docs/latest/Reference/HTTP2/)  
+[Create a zero dependency HTTP/2 static file server with Node.js](https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/)  
+[HTTP/2 with Node.js](https://imjacobclark.medium.com/http-2-with-node-js-85da17322812)  
 
 #### Streamning
 [Implement HTTP Streaming with Node.js and Fetch API](https://blog.loginradius.com/engineering/guest-post/http-streaming-with-nodejs-and-fetch-api/)  
