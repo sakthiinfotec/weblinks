@@ -70,6 +70,7 @@
 
 #### Web
 [Responsive vs Adaptive Design: Which One Is Better?](https://dzone.com/articles/responsive-vs-adaptive-design-which-one-is-better)  
+[A Complete Guide to HTTP/2 in Node.js (With Example Code)](https://www.sohamkamani.com/nodejs/http2/)  
 
 #### Streamning
 [Implement HTTP Streaming with Node.js and Fetch API](https://blog.loginradius.com/engineering/guest-post/http-streaming-with-nodejs-and-fetch-api/)  
