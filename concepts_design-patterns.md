@@ -8,6 +8,9 @@
 [Python Object Oriented Programming (OOP) - For Beginners - YouTube](https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim)  
 [OOPS In Python | Object Oriented Programming Python | Python for Beginners | Great Learning - YouTube](https://www.youtube.com/watch?v=Uo6PpmDuBUU)  
 
+##### Software System Design
+[Software System Design for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/software-system-design-for-beginners/)  
+
 ##### eBooks
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
