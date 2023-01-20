@@ -70,7 +70,14 @@
 
 #### Web
 [Responsive vs Adaptive Design: Which One Is Better?](https://dzone.com/articles/responsive-vs-adaptive-design-which-one-is-better)  
+
+#### Web - HTTP/2
 [A Complete Guide to HTTP/2 in Node.js (With Example Code)](https://www.sohamkamani.com/nodejs/http2/)  
+[SPDY Server intended to make creating HTTP2 servers a little easier in Nest JS](https://www.npmjs.com/package/spdy-nest)  
+[Using HTTP/2 with Next.js & Express](https://itnext.io/using-http-2-with-next-js-express-917791ca249b)  
+[Getting Started with HTTP/2 in Node.js](https://www.section.io/engineering-education/http2-in-nodejs/)  
+[Socket.io - Bidirectional and low-latency communication for every platform | With an HTTP/2 server](https://socket.io/docs/v4/server-initialization/#with-an-http2-server)  
+[Fastify supports HTTP2 over either HTTPS](https://www.fastify.io/docs/latest/Reference/HTTP2/)  
 
 #### Streamning
 [Implement HTTP Streaming with Node.js and Fetch API](https://blog.loginradius.com/engineering/guest-post/http-streaming-with-nodejs-and-fetch-api/)  
