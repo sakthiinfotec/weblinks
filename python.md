@@ -51,6 +51,7 @@
 [librosa - is a python package for music and audio analysis](https://librosa.org/doc/latest/install.html)  
 [python-httpx - http2, requests + async http](https://www.python-httpx.org/)  
 [Material for MkDocs - Write in Markdown and create a professional static site in minutes](https://squidfunk.github.io/mkdocs-material/) 
+[Tenacity, a general-purpose retrying library, written in Python](https://tenacity.readthedocs.io/en/latest/)  
 
 #### PythonAnywhere
 
