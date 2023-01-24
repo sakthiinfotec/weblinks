@@ -42,6 +42,7 @@
 
 #### Best Practices
 [Use a Flask Blueprint to Architect Your Applications](https://realpython.com/flask-blueprint/)  
+[10 Must-Know Patterns for Writing Clean Code With Python - DZone](https://dzone.com/articles/10-must-know-patterns-for-writing-clean-code-with-1)  
 
 #### Tools
 [sup - Stack Up](https://github.com/pressly/sup)  
