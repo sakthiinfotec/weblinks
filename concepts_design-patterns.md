@@ -90,7 +90,7 @@
 [Why Does OAuth v2 Have Both Access and Refresh Tokens?](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823#12885823)  
 
 #### General Technologies
-* Relational databases
+* [Mozilla - What is a Domain Name? & How does a DNS request work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)  
 * [What is the difference between a proxy server and a gateway server?](https://serverfault.com/questions/994319/what-is-the-difference-between-a-proxy-server-and-a-gateway-server)  
 * [Understanding Unix Domain Sockets in Golang - dev.to](https://dev.to/douglasmakey/understanding-unix-domain-sockets-in-golang-32n8)  
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/#yforx)  
