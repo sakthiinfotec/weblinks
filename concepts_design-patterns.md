@@ -44,6 +44,7 @@
 [YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication (G)](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
 [YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
 [YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)  
+[DZone - Understanding gRPC Concepts, Use Cases, and Best Practices](https://dzone.com/articles/understanding-grpc-concepts-use-cases-amp-best-pra)  
 [YouTube - What is Service Mesh? Do you need one? from DevOps Made Easy](https://www.youtube.com/watch?v=l96T__-aC9U&ab_channel=DevOpsMadeEasy)  
 [https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot](https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot)  
 [How to use Amazon SES for sending an email without domain verification](https://www.inkoop.io/blog/how-to-use-amazon-ses-for-sending-an-email-without-domain-verification/)  
