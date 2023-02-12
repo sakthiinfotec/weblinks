@@ -74,6 +74,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - How to use AI in a variety of use-cases
 - How to build your own app using AI
 
+#### Deploy ML Apps
+[From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
+
 #### MLOps
 [Courses for MLOps](https://jesperdramsch.medium.com/take-these-3-courses-to-level-up-your-mlops-skills-8dddc6b3fa7a)  
 
