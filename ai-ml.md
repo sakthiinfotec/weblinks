@@ -76,6 +76,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Deploy ML Apps
 [From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
+[From Jupyter Notebook to Deployment - Code in Github](https://github.com/alanjeffares/notebook-to-microservice)  
+
 
 #### MLOps
 [Courses for MLOps](https://jesperdramsch.medium.com/take-these-3-courses-to-level-up-your-mlops-skills-8dddc6b3fa7a)  
