@@ -64,6 +64,7 @@
 [RabbitMQ - Request/Reply Pattern](https://www.google.com/search?q=request+reply+pattern+rabbitmq)  
 [RabbitMQ - Request/Reply Pattern - YouTube](https://www.youtube.com/watch?v=1KVa9UoPdCA)  
 [RabbitMQ - Request/Reply Pattern - DZone](https://dzone.com/articles/rabbitmq-request-response)  
+[Introduction to RabbitMQ with Nodejs - Medium (G)](https://levelup.gitconnected.com/introduction-to-rabbitmq-with-nodejs-61e2aec0c52c)  
 
 #### K8s
 [Guide to Kubernetes Autoscaling](https://www.densify.com/kubernetes-autoscaling)  
