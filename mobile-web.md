@@ -78,6 +78,7 @@
 [Toptal - Using Express.js Routes for Promise-based Error Handling](https://www.toptal.com/express-js/routes-js-promises-error-handling)  
 [Toptal - The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)  
 [Build an API with Node.js, Express, and TypeScript - split.io](https://www.split.io/blog/node-js-typescript-express-tutorial/)  
+[Real-time Chat Application Using Strapi, Next, Socket.io, and PostgreSQL - Strapi](https://strapi.io/blog/real-time-chat-application-using-strapi-next-socket-io-and-postgre-sql)  
 
 
 #### JavaScript - Basics
@@ -98,7 +99,7 @@
 [JavaScript Best Practices for Readable and Maintainable Code - Medium](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)  
 [Code Principles Every Programmer Should Follow](https://blog.bitsrc.io/code-principles-every-programmer-should-follow-e01bfe976daf)  
 [JavaScript Questions - Very Good Collection](https://github.com/lydiahallie/javascript-questions)  
-
+[Best practices for creating a modern npm package - Snyk](https://snyk.io/blog/best-practices-create-modern-npm-package/)  
 
 #### Javascript - Design Patterns
 [Demystifying the Law of Demeter principle](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)  
