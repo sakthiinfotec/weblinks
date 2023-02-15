@@ -595,6 +595,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - TypeScript features and patterns: Generics, Utility Types, Type Guards, Mixins, and Decorators
 - Backend: Node.js, GraphQL
 - Database: MySQL, MongoDB etc
+- Build Tooks: [Babel](https://babeljs.io/), [Metro](https://facebook.github.io/metro/), [Webpack](https://webpack.js.org/),
 - In-memory / Cache: Redis, Elasticsearch
 - Messaging systems like RabbitMQ, SQS, etc.
 - Deployment: Kubernetes, Docker
