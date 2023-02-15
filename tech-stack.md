@@ -43,6 +43,8 @@
   - [DeepPavlov - an open-source conversational AI library built on PyTorch](https://github.com/deeppavlov/DeepPavlov)  
   - [Rasa is an open source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
 
+##### Serverless
+[AWS Chalice - A framework for writing serverless applications](https://aws.github.io/chalice/)  
 
 ##### API Gateways
 - [Kong](https://konghq.com/)  
