@@ -75,6 +75,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - How to use AI in a variety of use-cases
 - How to build your own app using AI
 
+#### Tools / Utils
+[TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
+
 #### Deploy ML Apps
 [From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
 [From Jupyter Notebook to Deployment - Code in Github](https://github.com/alanjeffares/notebook-to-microservice)  
