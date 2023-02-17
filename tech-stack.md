@@ -96,6 +96,9 @@
 - Integration: Snapshot
 - Unit: Jest, Enzyme
 
+##### Documentation
+[Jupyter Book - Build beautiful, publication-quality books and documents from computational content](https://jupyterbook.org/en/stable/start/build.html)  
+
 ##### How-to Guides
 [Kubernetes MERN Stack Voting App](https://www.pulumi.com/registry/packages/aws/how-to-guides/aws-ts-k8s-mern-voting-app/)  
 [Fullstack Pulumi: Deploying the MERN Stack on DigitalOcean](https://www.pulumi.com/blog/fullstack-pulumi-mern-stack-digitalocean/)  
