@@ -13,6 +13,9 @@
 - [REST CookBook](https://restcookbook.com/)  
 - [Service Architecture - Representational State Transfer (REST) | RDBMS | ORM | Cloud Computing](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
 
+##### Database
+[Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
+
 ##### Microservices
 - [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
