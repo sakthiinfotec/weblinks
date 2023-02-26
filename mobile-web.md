@@ -292,6 +292,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Twitter - Trey Huffine](https://twitter.com/treyhuffine)  
 [Mahdhi Rezvi - Full Stack / Mobile Developer & Freelance Technical Content Writer](https://thisismahdhi.ml/)  
 [Front-end Architecture: Stable and Volatile Dependencies by Dmitri Pavlutin](https://dmitripavlutin.com/frontend-architecture-stable-and-volatile-dependencies/)  
+[Medium - Top 10 Tricky Javascript Questions often asked by Interviewers](https://andreassujono.medium.com/top-10-tricky-javascript-questions-often-asked-by-interviewers-45c7dd90495e)  
 
 #### Advanced JavaScript (Basic - In Depth)
 [Mastering ‘this’ in JavaScript: Callbacks and bind(), apply(), call() - thenewstack.io](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)  
