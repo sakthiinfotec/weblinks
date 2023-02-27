@@ -111,6 +111,7 @@ Immediately Invoked Function Expressions(IIFEs)
 #### OpenSource Projects to Refer
 [Github - react-redux-hackernews](https://github.com/taming-the-state-in-react/react-redux-hackernews)  
 [Github - Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
+[Discord - Developer Document](https://discord.com/developers/docs/tutorials/configuring-app-metadata-for-linked-roles#running-your-app)  
 
 #### Javascript - Documentation
 [JavaScript Documentation Standards by Wordpress](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)  
