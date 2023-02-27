@@ -99,6 +99,11 @@
 - Integration: Snapshot
 - Unit: Jest, Enzyme
 
+##### Media Servers
+- Jellyfin
+- Jitsi
+- Janus
+
 ##### Documentation
 [Jupyter Book - Build beautiful, publication-quality books and documents from computational content](https://jupyterbook.org/en/stable/start/build.html)  
 
