@@ -100,6 +100,7 @@
 - Unit: Jest, Enzyme
 
 ##### Media Servers
+- Emby
 - Jellyfin
 - Jitsi
 - Janus
