@@ -252,6 +252,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [nyxo.app - Build a Clock Face with SVG in React Native](https://nyxo.app/creating-a-clock-face-in-react-native-with-svg)  
 [Stylesheets in React Native with TypeScript - Medium](https://medium.com/@zvona/stylesheets-in-react-native-with-typescript-revisited-6b4ba0a899d2)  
 [Implement Push Notification with Firebase in React Native - dev.to](https://dev.to/botreetechnologies/how-to-implement-push-notification-with-firebase-in-react-native-2e7n)  
+[Build a React Native QR Code Scanner using Vision Camera with SVG based Scan Region](https://www.dynamsoft.com/codepool/react-native-qr-code-scanner-vision-camera.html)  
 
 ##### React Native - Best Practices
 [How to Fix 'VirtualizedLists should never be nested inside plain ScrollViews' Warning](https://nyxo.app/fixing-virtualizedlists-should-never-be-nested-inside-plain-scrollviews)  
