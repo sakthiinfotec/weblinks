@@ -122,6 +122,15 @@
 - Jitsi
 - Janus
 
+##### SDLC Concepts
+- Deployment pipelines, Observability & Monitoring, Quality Assurance, Automation, Self-service
+- Monorepo
+- DORA metrics
+- Infrastructure-as-code and configuration management
+- Developer Experience and Platform Engineering
+- Cloud Service Providers - Google Cloud Platform, Azure or AWS
+- ArgoCD, CircleCI, Grafana, Prometheus, Kubernetes, GCP, Infrastructure as Code (Terraform), Service Mesh (Linkerd), Cloudflare
+
 ##### Documentation
 [Jupyter Book - Build beautiful, publication-quality books and documents from computational content](https://jupyterbook.org/en/stable/start/build.html)  
 
