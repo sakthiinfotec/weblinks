@@ -122,6 +122,16 @@
 - Jitsi
 - Janus
 
+##### Android
+- Keep up to date with the latest best practices, common frameworks and tools to continuously define into a common set of coding guidelines and best practices for the app
+- Have a deep understanding of modern Android development.
+- Write readable, maintainable, performant and testable code.
+- Kotlin, Coroutines, Flows, and the Android lifecycle, Compose
+
+##### iOS
+- Have a deep understanding of modern iOS development. 
+- Comfortable with Swift and Objective C, iOS development fundamental, UIKit, AutoLayout, and Foundation
+
 ##### SDLC Concepts
 - Deployment pipelines, Observability & Monitoring, Quality Assurance, Automation, Self-service
 - Monorepo
