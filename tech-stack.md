@@ -8,6 +8,11 @@
 - SSO tokens
 - OAuth 2.0 and JWT patterns
 
+##### Frameworks: 
+- React 
+- NextJS 
+- Storybook
+
 ##### REST API
 - [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
 - [REST CookBook](https://restcookbook.com/)  
@@ -49,6 +54,10 @@
 ##### Serverless
 [AWS Chalice - A framework for writing serverless applications](https://aws.github.io/chalice/)  
 
+##### Containers: 
+- Docker
+- K8S
+
 ##### API Gateways
 - [Kong](https://konghq.com/)  
 - [Tyk](https://tyk.io/)  
@@ -59,12 +68,20 @@
 - CircleCI
 
 ##### CD
+- ArgoCD
 - [Terraform](https://developer.hashicorp.com/terraform)  
 - [Nomad](https://developer.hashicorp.com/nomad)  
 - [Pulumi](https://www.pulumi.com/)  
 
-##### Error Monitoring
+##### Deployment
+- Terraform
+
+##### Monitoring
+- Prometheus, Grafana
 - AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
+
+##### Tooling: 
+- npm, turborepo, webpack, babel, code-splitting
 
 ##### Realtime DB / Notification
 - Websocket
@@ -95,7 +112,7 @@
   - [TamaGUI - Universal UI kit and style system for React Native + Web - with an optimizing compiler](https://github.com/tamagui/tamagui)  
 
 ##### Testing
-- E2E: Selenium, Cypress
+- E2E: Selenium, Jest, Cypress, Playwright
 - Integration: Snapshot
 - Unit: Jest, Enzyme
 
