@@ -666,6 +666,25 @@ Plus:
 - Knowledge of document, key/value or other non-relational database systems such as Elastic Search, Redis, HBase, BigTable, DynamoDB, MongoDB
 
 
+##### [Senior Full-Stack Developer at Storytel](https://jobs.storytel.com/jobs/2391538-senior-full-stack-developer)
+- Semantic HTML with WCAG best-practices
+- Modern CSS (CSS Grid, responsive, mobile-first)
+- Working with design systems
+- Profiling and optimizing for the best user experience, Web Vitals
+- General understanding of how the web works (dns, cdn, servers)
+- Writing readable, maintainable and performant code.
+- Modern web development.
+- NextJS, Design System and monorepo.
+- Working with any website layout
+- Languages: Typescript, Javascript
+- Frameworks: React, NextJS, Storybook
+- Containers: Docker, K8S
+- Deployment: Terraform
+- Tooling: npm, turborepo, webpack, babel, code-splitting
+- Monitoring: Prometheus, Grafana
+- Testing experience: Unit, Integration, E2E with Jest / Cypress / Playwright
+
+
 ##### Tech Stack for Full Stack Development:
 - Node.js with Typescript 
 - React for frontend development
