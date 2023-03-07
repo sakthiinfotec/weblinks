@@ -91,6 +91,8 @@
 
 #### Security
 [Why Does OAuth v2 Have Both Access and Refresh Tokens?](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823#12885823)  
+#### AI
+[Scaler post about AI in LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7032273550837264385)  
 
 #### General Technologies
 * [Mozilla - What is a Domain Name? & How does a DNS request work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)  
