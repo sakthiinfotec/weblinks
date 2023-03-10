@@ -1,3 +1,87 @@
+##### [Advanced Data Fetching Technique in React](https://asimzaidi.medium.com/advanced-data-fetching-technique-in-react-for-senior-engineers-9d9b6f95d50b)
+
+There are several popular techniques for fetching and managing data in React, including the built-in `fetch()` function, using a library like `axios`, and the latest and powerful library [React Query](https://react-query-v3.tanstack.com/).
+
+###### Build-in fetch() function
+The built-in fetch function is the simplest approach to fetch data. It is a web standard for making network requests and is supported by most modern browsers. The fetch function returns a promise that resolves with a Response object, which can be used to access the response data. However, it doesn't provide an elegant way to handle errors or cancel requests. Additionally, it doesn't have built-in support for caching, which can be a crucial feature for many applications.
+
+```javascript
+fetch('https://example.com/data')
+  .then(res => res.json())
+  .then(data => console.log(data))
+  .catch(err => console.log(err))
+```
+
+###### axios
+Using a library like axios provides more control over network requests. It provides a more powerful and flexible way to handle errors, timeouts, and other network-related issues. Additionally, axios has built-in support for interceptors, which allows you to easily add cross-cutting concerns like authentication, logging, or error handling to your requests.
+
+```javascript
+import axios from 'axios'
+
+axios.get('https://example.com/data')
+  .then(res => console.log(res.data))
+  .catch(err => console.log(err))
+```
+
+While these approaches are solid solutions, they still have some limitations. For example, caching and pagination are not handled by default, and you have to implement them yourself which can be time-consuming and error-prone. This is where React Query comes in.
+
+###### [React Query](https://react-query-v3.tanstack.com/)
+React Query is a powerful and modern library that provides a more optimized way of fetching and managing data in React. It provides a way to handle caching, pagination, and real-time updates out of the box. React Query also provides a way to handle errors and loading states in a consistent way. It also allows you to easily share and reuse data across your application, which can greatly simplify your codebase.
+
+```javascript
+import { useQuery } from 'react-query'
+
+const fetchData = async () => {
+  const {data} = await axios.get('https://example.com/data')
+  return data
+}
+function MyComponent() {
+  const { status, data, error } = useQuery('data', fetchData)
+  
+  if (status === 'loading') {
+    return <div>Loading...</div>;
+  }
+  if (status === 'error') {
+    return <div>Error: {error.message}</div>;
+  }
+  return <div>{data.name}</div>;
+}
+```
+
+Caching is one of the most powerful features of React Query, it allows you to store the results of a query so that it can be reused on subsequent requests. This can greatly improve the performance of your application by reducing the number of network requests needed. React Query also allows you to configure the cache expiration and eviction policy.
+
+Pagination is another powerful feature of React Query, it allows you to easily handle pagination in a consistent and efficient way. With React Query, you can easily implement both client-side and server-side pagination with minimal setup. React Query also allows you to easily track the loading state, error state, and data state of your paginated queries.
+
+```javascript
+const fetchPage = async (key, page) => {
+  const {data} = await axios.get(`https://example.com/data?page=${page}`)
+  return data
+}
+
+function MyComponent() {
+  const { status, data, error, isFetching } = usePaginatedQuery(['data', page], fetchPage)
+  
+  if (status === 'loading') {
+    return <div>Loading...</div>;
+  }
+  if (status === 'error') {
+    return <div>Error: {error.message}</div>;
+  }
+  return (
+    <div>
+      {data.map(item => (
+        <div key={item.id}>{item.name}</div>
+      ))}
+      <button onClick={() => refetch()} disabled={isFetching}>
+        {isFetching ? 'Loading...' : 'Next Page'}
+      </button>
+    </div>
+  );
+}
+```
+
+React Query is a powerful and modern library that provides a more optimized way of fetching and managing data in React. It provides a way to handle caching, pagination, and real-time updates out of the box. React Query also provides a way to handle errors and loading states in a consistent way. It also allows you to easily share and reuse data across your application, which can greatly simplify your codebase. When working with React, it’s essential to have a solid understanding of the various ways to fetch and manage data. By utilizing a library like React Query, senior engineers can ensure that their applications are performant, scalable, and provide a great user experience.
+
 ##### [Advanced React Optimization Techniques](https://asimzaidi.medium.com/advanced-react-optimization-techniques-for-senior-engineers-dafd2cac7883)
 
 ###### Event Emitters
