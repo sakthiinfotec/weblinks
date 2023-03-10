@@ -108,6 +108,57 @@ React Suspense is a new feature in React that allows you to declaratively specif
 ###### Concurrent rendering
 Concurrent rendering is a technique that allows your React app to perform multiple rendering tasks at the same time, rather than waiting for one task to complete before starting another. This can be especially useful for optimizing the performance of apps that deal with a lot of data, as it allows the app to respond more quickly to user interactions and deliver a smooth, seamless experience.
 
+##### [Event Emitters in React: A Deep Dive](https://asimzaidi.medium.com/event-emitters-in-react-a-deep-dive-c3558d7a94dc)
+Event emitters are a powerful tool for improving the performance of your React app. They allow you to send data between components without passing it through the component hierarchy. This can be especially useful if you have a deep component hierarchy and want to avoid passing data through multiple levels. In this article, we’ll take a deep dive into how event emitters work in React and how you can use them to improve the performance of your app.
+
+As you may know, React is a powerful library for building user interfaces, but it can be challenging to optimize the performance of complex apps. Event emitters provide an alternative approach to pass data between components without having to pass it through the component hierarchy. Instead, components can register to receive data from an event emitter, and when the event emitter sends data, it will be received by all registered components. This allows you to decouple your components and makes it easier to manage complex data flows.
+
+Imagine we have a shopping basket component as a Parent component and a “Buy” button as a Child component. We want the “Buy” button (child) to execute some code in the Parent when it is pressed.
+
+```javascript
+export const Basket = () => {
+  const [total, setTotal] = useState('');
+  ... More component logic here ...  
+  const onBuyClick = () => {
+    showTotal(total);
+  };
+
+  return <BuyButton onClick={onBuyClick}/>;
+}
+```
+
+This is a perfectly valid React callback implementation but with Event Emitter, it can be improved.
+
+```javascript
+export const Basket = () => {
+  const [total, setTotal] = useState('');
+  const eventEmitter = useEventEmitter()
+  ... More component logic here ...  
+  const onBuyClick = () => {
+    eventEmitter.emit('eventName', {total})
+  };
+
+  return <BuyButton onClick={onBuyClick}/>;
+}
+```
+
+Now the BuyButton component can emit an event that is handled by the parent.
+
+```javascript
+const Basket = () => {
+  const eventEmitter = useEventEmitter()
+  useEvent('eventName', (data) => {
+    showTotal(data.total)
+  })
+  ... More component logic here ...  
+  
+  return <BuyButton/>;
+}
+```
+Event emitters provide a flexible and powerful way to pass data between components in React. By decoupling your components and allowing them to communicate through events, you can make your app more responsive and easier to understand.
+
+Event emitters aren’t a one-size-fits-all solution, it is important to use them appropriately. As your application grows, it can be challenging to keep track of all the events and listeners that are used. This is where good documentation, testing, and proper planning
+
 ##### [React Questions](https://asimzaidi.medium.com/5-tricky-senior-react-engineer-interview-questions-fe61f88e333a)
 
 ###### Can you explain how React’s Virtual DOM works and its benefits?
