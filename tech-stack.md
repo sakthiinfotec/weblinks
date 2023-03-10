@@ -89,6 +89,7 @@
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
+- [CodeMirror](https://codemirror.net/) - CodeMirror is a code editor component for the web.
 - [terser](https://terser.org/) 
     * JavaScript mangler and compressor toolkit for ES6+
     * Terser is an industry-standard minifier for JavaScript code.
