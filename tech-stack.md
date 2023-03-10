@@ -21,6 +21,10 @@
 ##### Database
 [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
 
+##### Data Formats
+- [MessagePack](https://msgpack.org/) - It's like JSON but fast and small.
+  * MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
+
 ##### Microservices
 - [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
