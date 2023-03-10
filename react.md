@@ -1,4 +1,5 @@
-##### Advanced React Optimization Techniques
+##### [Advanced React Optimization Techniques](https://asimzaidi.medium.com/advanced-react-optimization-techniques-for-senior-engineers-dafd2cac7883)
+
 ###### Event Emitters
 One effective way to improve the performance of your React app is to use event emitters. Event emitters allow you to send data from one component to another without having to pass the data through the component hierarchy. This can be especially useful if you have a deep component hierarchy and you want to avoid having to pass data through multiple levels.
 
@@ -22,3 +23,21 @@ React Suspense is a new feature in React that allows you to declaratively specif
 
 ###### Concurrent rendering
 Concurrent rendering is a technique that allows your React app to perform multiple rendering tasks at the same time, rather than waiting for one task to complete before starting another. This can be especially useful for optimizing the performance of apps that deal with a lot of data, as it allows the app to respond more quickly to user interactions and deliver a smooth, seamless experience.
+
+##### [React Questions](https://asimzaidi.medium.com/5-tricky-senior-react-engineer-interview-questions-fe61f88e333a)
+
+###### Can you explain how React’s Virtual DOM works and its benefits?
+The Virtual DOM is a lightweight in-memory representation of a real DOM, and it plays a crucial role in React’s performance optimization. To answer this question effectively, you should have a solid understanding of the Virtual DOM and its advantages, such as increased speed and efficiency in updates, reduced memory usage, and improved overall performance.
+
+###### How do you handle asynchronous data loading in a React component?
+Asynchronous data loading is a common challenge in React development, and companies want to know if you have experience handling it. A good answer would involve describing the use of lifecycle methods, such as componentDidMount or useEffect, to load data asynchronously and update the component’s state once the data is retrieved.
+
+###### Can you walk us through the process of optimizing a slow React component?
+Optimizing slow React components requires a deep understanding of the React framework, including the Virtual DOM, performance bottlenecks, and memory usage. To answer this question, you should be able to provide specific examples of optimization techniques, such as using memoization, avoiding re-renders, and using lazy loading.
+
+###### How do you handle state management in a complex React application?
+State management can be a major challenge in large-scale React applications. To answer this question, you should have experience using tools such as Redux or MobX to manage application state and be able to discuss the pros and cons of different state management approaches.
+
+###### Can you give an example of how you would implement conditional rendering in a React component?
+Conditional rendering is a fundamental aspect of React development, and companies want to know if you have a solid understanding of how to implement it. A good answer would involve providing specific examples of how you would use if statements, ternary operators, or the conditional operator to conditionally render different parts of a component based on specific conditions.
+
