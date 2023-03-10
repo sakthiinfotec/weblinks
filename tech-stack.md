@@ -13,6 +13,10 @@
 - NextJS 
 - Storybook
 
+##### State Management
+- [Zustand](https://github.com/pmndrs/zustand)
+- [Redux](https://redux.js.org/)
+
 ##### REST API
 - [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
 - [REST CookBook](https://restcookbook.com/)  
