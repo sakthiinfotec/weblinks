@@ -82,6 +82,12 @@
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
+- [terser](https://terser.org/) 
+    * JavaScript mangler and compressor toolkit for ES6+
+    * Terser is an industry-standard minifier for JavaScript code.
+    * It removes comments, makes variable names smaller, and removes whitespace.
+    * Readable and maintainable code patterns are replaced with smaller code.
+    * Some variable references and function calls can be inlined into the places they're used.
 
 ##### Realtime DB / Notification
 - Websocket
