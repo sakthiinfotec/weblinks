@@ -16,6 +16,7 @@
 - [Full Stack Python - Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)  
 - [Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
 - [YouTube Chennels - Learn Python](https://towardsdatascience.com/top-13-youtube-channels-to-learn-python-524442aaab2f)  
+- [Python for Machine Learning - Mini Course from *MachineLearningMastery*)](https://machinelearningmastery.com/python-for-machine-learning-7-day-mini-course/)  
 
 #### API / Microservices**  
 [Implement gRPC Server in Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)  
