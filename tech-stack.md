@@ -202,6 +202,14 @@ How to Start Online Earning with $0 Investment
 - Jenkins to run testing and deployment pipelines
 - AWS for infrastructure
 
+##### [Tech stack of Navattic](https://jobs.polymer.co/navattic/27232)
+- Typescript
+- Next.js / Vercel
+- PlanetScale
+- GraphQL
+- Prisma
+- Cloudflare workers
+
 ##### [Intenseye](https://www.intenseye.com) - Intenseye is an AI-powered employee health and safety software platform
 - Scala, Go, Python for programming languages.
 - Google Cloud Platform (GCP) and Amazon Web Services (AWS) for cloud services.
