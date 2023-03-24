@@ -10,7 +10,9 @@
 - Functions
 - Interfaces
 - Maps
-- Modules And Packages
+- Generics
+- Templates
+- HTTP Client
 - Modules And Packages
 - Pointers
 - Slices
@@ -19,6 +21,7 @@
 - Testing Basics
 - The Go Command
 - Tooling
+- Benchmarking / Performance Tuning
 
 ##### Learning
 [Golang Advanced Tutorial](https://golangbyexample.com/golang-comprehensive-tutorial/)  
