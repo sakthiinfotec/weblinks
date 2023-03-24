@@ -1,22 +1,22 @@
 #### Go Concepts
+- Syntax And Types
 - Arrays And Iteration
-- Building And Compiling Go Applications
-- Concurrency With Channels
-- Concurrency With The Sync Package
-- Concurrency
-- Context
-- Embedding And Composition
-- Errors
+- Slices
+- Pointers
 - Functions
 - Interfaces
 - Maps
+- Modules And Packages
+- Building And Compiling Go Applications
+- Concurrency
+- Concurrency With Channels
+- Concurrency With The Sync Package
+- Context
+- Embedding And Composition
+- Errors
 - Generics
 - Templates
 - HTTP Client
-- Modules And Packages
-- Pointers
-- Slices
-- Syntax And Types
 - Table Driven Testing
 - Testing Basics
 - The Go Command
