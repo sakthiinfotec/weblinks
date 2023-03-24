@@ -30,6 +30,7 @@
 #### Profiling
 [Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
 [Profiling in GoLang - golangdocs.com](https://golangdocs.com/profiling-in-golang)  
+[Benchmarking in Golang: Improving function performance](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/)
 
 #### Testing
 [A Deep Dive into Table-Driven Testing in Golang - engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20211221-a-deep-dive-into-table-driven-testing-in-golang/)  
