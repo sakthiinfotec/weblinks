@@ -32,6 +32,7 @@
 [An Introduction to Programming in Go - © 2012 by Caleb Doxsey](https://www.golang-book.com/books/intro)  
 [Free Code Camp - Learn Go Programming for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)  
 [Go Programming Language - Tutorial](https://www.golangprograms.com/go-language.html)  
+[Go e-Book Collections](https://edu.anarcho-copy.org/Programming%20Languages/Go/)  
 
 #### Profiling
 [Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
