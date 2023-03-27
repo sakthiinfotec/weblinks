@@ -31,6 +31,7 @@
 [Practical Go Lessons by Maximilien Andile](https://www.practical-go-lessons.com/)  
 [An Introduction to Programming in Go - © 2012 by Caleb Doxsey](https://www.golang-book.com/books/intro)  
 [Free Code Camp - Learn Go Programming for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)  
+[Go Programming Language - Tutorial](https://www.golangprograms.com/go-language.html)  
 
 #### Profiling
 [Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
