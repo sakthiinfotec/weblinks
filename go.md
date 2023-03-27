@@ -29,6 +29,7 @@
 [gopherguides.com - Where and When to use Iota in Go](https://www.gopherguides.com/articles/how-to-use-iota-in-golang)  
 [Go Basics](https://www.howtocode.io/posts/go-basics-1-installing-go-on-a-mac)  
 [Practical Go Lessons by Maximilien Andile](https://www.practical-go-lessons.com/)  
+[An Introduction to Programming in Go - © 2012 by Caleb Doxsey](https://www.golang-book.com/books/intro)  
 [Free Code Camp - Learn Go Programming for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)  
 
 #### Profiling
