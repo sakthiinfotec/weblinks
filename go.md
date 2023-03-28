@@ -51,6 +51,10 @@
 [Echo - High performance, minimalist Go web framework - 21K Stars](https://echo.labstack.com/)  
 [Go-Chi - A lightweight, idiomatic and composable router for building Go HTTP services - 10.5K Stars](https://github.com/go-chi/chi)  
 
+#### Boilerplates
+[Gin + PostgreSQL DB + Redis + CRUD API + JWT + Postman API Collections](https://github.com/Massad/gin-boilerplate)  
+[Gin + DynamoDB + Docker](https://github.com/vsouza/go-gin-boilerplate)  
+
 #### Gin Framework
 
 **The key features of Gin are:**
@@ -67,9 +71,16 @@
 - Extendable
 - Serve Static files
 
-#### Go App Development
-[Using Elasticsearch, Logstash, and Kibana with Go applications - LogRocket](https://blog.logrocket.com/using-elasticsearch-logstash-and-kibana-with-go-applications/)  
+#### Best Practices
+- Create one source file for each entity controller and implement separate handler functions for each CRUD operation
+- Use status codes from the `net/http` package instead of hardcoded integer status codes, Eg: use `http.StatusOK` instead of `200`
+- It’s always good to implement custom middleware if you feel that you’re writing repetitive code inside endpoint handlers
+- Direct JSON manipulation with the gin.H shortcut can generate repetitive code — try to use structs if possible. For example, `gin.H` is just a short type definition for `map[string]interface{}`
+- Make sure to handle errors properly during inter-service communication; otherwise, you will not be able to trace connectivity issues easily
+- Write critical situations in a log file
 
+#### Go App Development
+[Using Elasticsearch, Logstash, and Kibana with Go applications - LogRocket](https://blog.logrocket.com/using-elasticsearch-logstash-and-kibana-with-go-applications/) 
 
 #### Package Management
 [Package Management with Go Modules - blogs.halodoc.io](https://blogs.halodoc.io/go-modules-implementation/)  
