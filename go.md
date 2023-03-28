@@ -44,11 +44,27 @@
 [A Deep Dive into Table-Driven Testing in Golang - engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20211221-a-deep-dive-into-table-driven-testing-in-golang/)  
 
 #### Go Frameworks
+[Gin Framework](https://github.com/gin-gonic/gin)  
 [ent - An entity framework for Go](https://entgo.io/)  
 [HUGO - A Fast and Flexible Static Site Generator](https://github.com/gohugoio/hugo)  
 [FastHTTP - Web Framework - 16K Stars](https://github.com/valyala/fasthttp)  
 [Echo - High performance, minimalist Go web framework - 21K Stars](https://echo.labstack.com/)  
 [Go-Chi - A lightweight, idiomatic and composable router for building Go HTTP services - 10.5K Stars](https://github.com/go-chi/chi)  
+
+#### Gin Framework
+
+**The key features of Gin are:**
+
+- Zero allocation router
+- Fast
+- Middleware support (for CORS, timeout, caching, authentication, and session management)
+- Crash-free
+- JSON validation
+- Routes grouping
+- Error management
+- Rendering built-in (XML/JSON/YAML/ProtoBuf)
+- Extendable
+- Serve Static files
 
 #### Go App Development
 [Using Elasticsearch, Logstash, and Kibana with Go applications - LogRocket](https://blog.logrocket.com/using-elasticsearch-logstash-and-kibana-with-go-applications/)  
