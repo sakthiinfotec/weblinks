@@ -55,6 +55,7 @@
 
 **The key features of Gin are:**
 
+- Light weight & performant
 - Zero allocation router
 - Fast
 - Middleware support (for CORS, timeout, caching, authentication, and session management)
