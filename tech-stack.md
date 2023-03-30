@@ -35,7 +35,9 @@
 - [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
 ##### Microservices - Communication
-External application clients communicates with either directly or indirectly via API gateway + RESTfull API. While inter-service communication happens via
+Typically external application clients such as web apps, mobile apps or IoT frameworks consume RESTfull API endpoints. However, modern backend developers usually don’t call microservices directly because of scaling problems and network security issues. Therefore, before exposing your microservices to the internet, developers will connect them to an API gateway or load balancer.
+
+While inter-service communication happens via
 - Synchronous - REST API, gRPC
 - Asynchronous - Message based using message brokers like RabbitMQ
 
