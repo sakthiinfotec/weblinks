@@ -80,6 +80,10 @@ While inter-service communication happens via
 
 ##### Rate Limit
 [Set up rate limiting in Next.js with Redis](https://blog.logrocket.com/set-up-rate-limiting-next-js-redis/)  
+[Rate Limiting Algorithms](https://www.npmjs.com/package/@upstash/ratelimit):  
+- Fixed Window
+- Sliding Window
+- Token Bucket
 
 ##### CI
 - Jenkins
