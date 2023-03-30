@@ -42,6 +42,9 @@ Nowadays, programmers use Go to build developer tools, cloud computing tools, CL
 [Building Go Microservice with Gin and CI/CD](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)  
 [Go e-Book Collections](https://edu.anarcho-copy.org/Programming%20Languages/Go/)  
 
+#### Guides
+[Using JSON in Go](https://blog.logrocket.com/using-json-go-guide/)  
+
 #### Profiling
 [Go: The Complete Guide to Profiling Your Code](https://hackernoon.com/go-the-complete-guide-to-profiling-your-code-h51r3waz)  
 [Profiling in GoLang - golangdocs.com](https://golangdocs.com/profiling-in-golang)  
