@@ -34,6 +34,11 @@
 - [Envoy Mobile](https://envoymobile.io/)  
 - [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
+##### Microservices - Communication
+External application clients communicates with either directly or indirectly via API gateway + RESTfull API. While inter-service communication happens via
+- Synchronous - REST API, gRPC
+- Asynchronous - Message based using message brokers like RabbitMQ
+
 ##### Microservices - Tracers
 - [Zipkin](https://zipkin.io/)  
 - [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
