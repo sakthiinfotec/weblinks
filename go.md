@@ -32,6 +32,7 @@
 [An Introduction to Programming in Go - © 2012 by Caleb Doxsey](https://www.golang-book.com/books/intro)  
 [Free Code Camp - Learn Go Programming for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)  
 [Go Programming Language - Tutorial](https://www.golangprograms.com/go-language.html)  
+[Building microservices in Go with Gin - LogRocket Blog](https://blog.logrocket.com/building-microservices-go-gin/)  
 [Building Go Web Applications and Microservices Using Gin](https://chenyitian.gitbooks.io/gin-tutorials/content/gin/1.html)  
 [Building Go Microservice with Gin and CI/CD](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)  
 [Go e-Book Collections](https://edu.anarcho-copy.org/Programming%20Languages/Go/)  
