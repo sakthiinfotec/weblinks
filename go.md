@@ -48,6 +48,7 @@
 
 #### Go Frameworks
 [Gin Framework](https://github.com/gin-gonic/gin)  
+[Beego - an open-source, high-performance web framework for the Go programming language.](https://github.com/beego/beego)  
 [ent - An entity framework for Go](https://entgo.io/)  
 [HUGO - A Fast and Flexible Static Site Generator](https://github.com/gohugoio/hugo)  
 [FastHTTP - Web Framework - 16K Stars](https://github.com/valyala/fasthttp)  
