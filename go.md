@@ -67,6 +67,9 @@ Nowadays, programmers use Go to build developer tools, cloud computing tools, CL
 [Gin + PostgreSQL + GORM + REST + MVC + Viper + Env + Logger + Middlewares + Live Reload + Docker](https://github.com/akmamun/gin-boilerplate-examples)  
 [Gin + GORM + Domain-Driven Design + TDD + Clean Architecture + PostgreSQL + CI/CD + Docker](https://github.com/resotto/goilerplate)  
 
+#### Tools
+- [JSON-to-Go: Convert JSON to Go struct](https://mholt.github.io/json-to-go/)  
+
 #### Gin Framework
 
 **The key features of Gin are:**
