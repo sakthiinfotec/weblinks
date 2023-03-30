@@ -1,3 +1,8 @@
+#### Introduction
+Golang (also known as Go) is a statically typed, compiled programming language with C-like syntax. Go provides a minimal grammar for general-purpose programming with just 25 keywords.
+
+Nowadays, programmers use Go to build developer tools, cloud computing tools, CLI programs, and desktop and web applications. Go is very popular for building high-performance software systems where concurrency plays a key role.
+
 #### Go Concepts
 - Syntax And Types
 - Arrays And Iteration
