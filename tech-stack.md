@@ -78,6 +78,9 @@ While inter-service communication happens via
 - [Tyk](https://tyk.io/)  
 - [Apigee](https://cloud.google.com/apigee)  
 
+##### Rate Limit
+[Set up rate limiting in Next.js with Redis](https://blog.logrocket.com/set-up-rate-limiting-next-js-redis/)  
+
 ##### CI
 - Jenkins
 - CircleCI
