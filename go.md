@@ -60,6 +60,7 @@
 [Gin + DynamoDB + Docker](https://github.com/vsouza/go-gin-boilerplate)  
 [Gin + PostgreSQL + GORM + REST + MVC + DTO + Docker](https://github.com/daystram/go-gin-gorm-boilerplate)  
 [Gin + PostgreSQL + GORM + REST + MVC + Viper + Env + Logger + Middlewares + Live Reload + Docker](https://github.com/akmamun/gin-boilerplate-examples)  
+[Gin + GORM + Domain-Driven Design + TDD + Clean Architecture + PostgreSQL + CI/CD + Docker](https://github.com/resotto/goilerplate)  
 
 #### Gin Framework
 
