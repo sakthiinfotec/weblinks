@@ -12,6 +12,7 @@
 - React 
 - NextJS 
 - Storybook
+- Micro Front End
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
@@ -98,6 +99,7 @@ While inter-service communication happens via
 ##### Deployment
 - Terraform
 - [Render](https://render.com/) - Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
+- Blue / Green Deployment
 
 ##### Monitoring
 - Prometheus, Grafana
