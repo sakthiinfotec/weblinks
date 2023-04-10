@@ -34,6 +34,7 @@
 #### Computing
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
 [Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
+[Coiled - handles the creation and management of Dask clusters in the cloud](https://www.coiled.io/)  
 [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
 [Apache Airflow - a platform to programmatically author, schedule and monitor workflows](https://airflow.apache.org/)  
 [Rapids.ai By NVDIA](https://rapids.ai/start.html)  
