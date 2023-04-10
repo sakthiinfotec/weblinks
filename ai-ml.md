@@ -6,6 +6,9 @@
 [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
 [Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
 
+#### Neural Network
+[Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
+
 #### Deep Learning Starter Kit
 [deeplearningbook - For DL Theory](http://deeplearningbook.org)  
 [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
