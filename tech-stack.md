@@ -61,6 +61,7 @@ While inter-service communication happens via
 - [Developing JupyterLab Extensions](https://tech.target.com/blog/developing-jupyterlab-extensions)  
 - [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/)  
 - [Streamlit - A faster way to build and share data apps](https://streamlit.io/)  
+- [Dash - Build data apps in Dash | Dash is the leading low-code platform for data apps](https://plotly.com/dash/)  
 
 ##### AI/ML
 - NLU
