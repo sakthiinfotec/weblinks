@@ -10,7 +10,6 @@
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
 
 #### Deep Learning Starter Kit
-[deeplearningbook - For DL Theory](http://deeplearningbook.org)  
 [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
 [d2l.ai - For Guided learning](http://d2l.ai)  
 [fast.ai - For applied Deep learning](http://fast.ai)  
@@ -20,8 +19,8 @@
 
 #### Deep Learning
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
-[Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
-https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html  
+[Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://deeplearningbook.org)  
+[Deep Learning eBook from KDNuggets](https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html)  
 [Deep Learning vs Machine Learning: Which is the Best Choice for AI? @ Morioh](https://morioh.com/p/06f664d53cf5)   
 [Everyone Can Understand Machine Learning — Regression Tree Model](https://medium.com/towards-artificial-intelligence/everyone-can-understand-machine-learning-regression-tree-model-28e3541b3e79)  
 [Learn Deep learning from Fast.ai](https://www.fast.ai)  
