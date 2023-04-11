@@ -25,6 +25,7 @@
 [Everyone Can Understand Machine Learning — Regression Tree Model](https://medium.com/towards-artificial-intelligence/everyone-can-understand-machine-learning-regression-tree-model-28e3541b3e79)  
 [Learn Deep learning from Fast.ai](https://www.fast.ai)  
 [From MachineLearningMastery - Deep Learning CNN for Fashion-MNIST Clothing Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/)  
+[Fullstack Deep learning Course](https://fullstackdeeplearning.com/course/)  
 
 #### Reinforcement Learning
 [Reinforcement Learning Codebase by for-ai](https://github.com/for-ai/rl)  
