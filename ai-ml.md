@@ -10,6 +10,7 @@
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
 [v7labs - The Essential Guide to Neural Network Architectures](https://www.v7labs.com/blog/neural-network-architectures-guide)  
 [v7labs - Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)  
+[Activation Functions(Sigmoid, tanh, Softmax, ReLU, Leaky ReLU) in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)  
 
 #### Deep Learning Starter Kit
 [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
