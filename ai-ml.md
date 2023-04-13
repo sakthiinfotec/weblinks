@@ -6,6 +6,7 @@
 [Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
 [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
 [Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
+[Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
 
 #### Neural Network
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
