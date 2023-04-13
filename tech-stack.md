@@ -24,8 +24,10 @@
 - [Service Architecture - Representational State Transfer (REST) | RDBMS | ORM | Cloud Computing](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
 
 ##### Database
+- DuckDB: DuckDB is an in-process SQL OLAP database management system.  
 [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
 [SQLBolt - Learn SQL with simple, interactive excercises](https://sqlbolt.com/)  
+[DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
 
 ##### Data Formats
 - [MessagePack](https://msgpack.org/) - It's like JSON but fast and small. MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
