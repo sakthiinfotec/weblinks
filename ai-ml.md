@@ -8,6 +8,7 @@
 
 #### Neural Network
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
+[v7labs - The Essential Guide to Neural Network Architectures](https://www.v7labs.com/blog/neural-network-architectures-guide)  
 
 #### Deep Learning Starter Kit
 [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
@@ -20,6 +21,7 @@
 #### Deep Learning
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://deeplearningbook.org)  
+[v7labs - A Gentle Introduction to Deep Learning—the ELI5 Way (G)](https://www.v7labs.com/blog/deep-learning-guide)  
 [Deep Learning eBook from KDNuggets](https://www.kdnuggets.com/2020/05/deep-learning-free-ebook.html)  
 [Deep Learning vs Machine Learning: Which is the Best Choice for AI? @ Morioh](https://morioh.com/p/06f664d53cf5)   
 [Everyone Can Understand Machine Learning — Regression Tree Model](https://medium.com/towards-artificial-intelligence/everyone-can-understand-machine-learning-regression-tree-model-28e3541b3e79)  
