@@ -482,7 +482,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [CreateApp - Front End Build config generator](https://createapp.dev/)  
 
 
-#### npm packages
+#### JavaScript Libraries / npm packages
 [chalk - Display Terminal text with color formatted](https://www.npmjs.com/package/chalk)  
 [clear - Clear Terminal](https://www.npmjs.com/package/clear)  
 [clui - Draw CLI Spinner/Loader](https://www.npmjs.com/package/clui)  
@@ -491,6 +491,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [preferences - Encrypted preferences](https://www.npmjs.com/package/preferences)  
 [cli-table - Draw CLI Table](https://www.npmjs.com/package/cli-table)  
 [keyword-extractor - Extract keywords by removing stop words](https://www.npmjs.com/package/keyword-extractor)  
+[Swiper - The Most Modern Mobile Touch Slider](https://swiperjs.com/demos)  
 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
