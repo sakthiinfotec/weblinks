@@ -74,6 +74,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - DALL-E 2
 - Midjourney
 
+#### AI Tools
+[Future Tools - A collection of best AI tools](https://www.futuretools.io/)  
+
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
 - How to build an image generator with DALLE-2
