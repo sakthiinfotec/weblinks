@@ -23,6 +23,7 @@
 [Google Colab - For coding your models](https://colab.research.google.com/)  
 
 #### Deep Learning
+[Udacity: Introduction to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)  
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://deeplearningbook.org)  
 [v7labs - A Gentle Introduction to Deep Learning—the ELI5 Way (G)](https://www.v7labs.com/blog/deep-learning-guide)  
