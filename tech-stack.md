@@ -30,6 +30,12 @@
 [SQLBolt - Learn SQL with simple, interactive excercises](https://sqlbolt.com/)  
 [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
 
+##### Headless CMS
+- Contentful
+- Strapi
+- Dato CMS
+- Prismic
+
 ##### Data Formats
 - [MessagePack](https://msgpack.org/) - It's like JSON but fast and small. MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
 
