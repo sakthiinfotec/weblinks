@@ -75,8 +75,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI + Image Processing
 [Nepture.ai - Best Image Processing Tools Used in Machine Learning](https://neptune.ai/blog/best-image-processing-tools-used-in-machine-learning)  
 
-#### ai Document Processing
-[Rossum.ai - Powerful and easy-to-use AI intelligent document processing platform | Integrates with UiPath](https://rossum.ai/home/)  
+#### AI Document Processing
+[Rossum.ai - Rossum's powerful AI-based image extractor can extract data from a wide variety of sources regardless of shape, size, or format without templates | Powerful and easy-to-use AI intelligent document processing platform | Integrates with UiPath](https://rossum.ai/home/)  
 
 #### AI Art Generator
 - DALL-E 2
