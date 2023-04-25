@@ -72,6 +72,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Mobile + ML
 [Machine Learning In IOS With Core ML - Introduction - Medium](https://medium.com/analytics-vidhya/machine-learning-in-ios-with-core-ml-adce88ca43ef)  
 
+#### AI + Image Processing
+[Nepture.ai - Best Image Processing Tools Used in Machine Learning](https://neptune.ai/blog/best-image-processing-tools-used-in-machine-learning)  
+
 #### AI Art Generator
 - DALL-E 2
 - Midjourney
@@ -93,7 +96,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [CodeT5 By reserchers from SalesForce. It is based on Google’s T5 (Text-to-Text Transfer Transformer) framework](https://blog.salesforceairesearch.com/codet5)  
  - [Polycoder - Polycoder is an open source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
  - [Cogram, a Y-Combinator, Berlin-based Startup, is a code generation tool aimed at data scientists and Python programmers using SQL queries and Jupyter Notebooks](https://www.cogram.com/)  
-
 
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
