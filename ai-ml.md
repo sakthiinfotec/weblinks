@@ -76,8 +76,25 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - DALL-E 2
 - Midjourney
 
-#### AI Tools
+#### AI Tools Collection
 [Future Tools - A collection of best AI tools](https://www.futuretools.io/)  
+[All Your Tech.ai - A collection of AI projects](https://allyourtech.ai/directory-ai_projects/)  
+[](https://github.com/ai-collection/ai-collection)  
+
+#### Leading AI Companies
+ - [OpenAI](https://openai.com/)
+ - [Hugging Face](https://huggingface.co/)  
+ - [Cohere](https://cohere.ai/)  
+ - [AI21 Labs](https://www.ai21.com/)  
+
+#### AI-based code generators based on LLMs
+ - [OpenAI Codex - is the model based on GPT-3 that powers GitHub Copilot](https://openai.com/blog/openai-codex/)
+ - [Tabnine - it puts the auto-completion feature of the IDE on steroids. Developed in Rust by Jacob Jackson when he was a student at the University of Waterloo](https://www.tabnine.com/)  
+ - [CodeT5 By reserchers from SalesForce. It is based on Google’s T5 (Text-to-Text Transfer Transformer) framework](https://blog.salesforceairesearch.com/codet5)  
+ - [Polycoder - Polycoder is an open source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
+ - [Cogram, a Y-Combinator, Berlin-based Startup, is a code generation tool aimed at data scientists and Python programmers using SQL queries and Jupyter Notebooks](https://www.cogram.com/)  
+
+
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
