@@ -18,3 +18,7 @@ Embeddings are a numerical vector representation of all kinds of data, generated
 By representing data in this way, we can interact with the data the same way we do with the models themselves. For instance, we can find the most relevant text documents for a specific question or topic, and then use them as the context for the LLM to answer the query accurately.
 
  - [Chroma](https://www.trychroma.com/) is the easiest to use embeddings store for an AI application. Chroma handles embedding documents and queries for you, and stores your documents alongside their embeddings. It supports filtering and dynamic updating out of the box, making it perfect for you next AI-powered application.
+
+
+#### Glossary
+ - Semantic search: Search based on meaning instead of specific words
