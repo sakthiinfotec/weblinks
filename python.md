@@ -1,3 +1,8 @@
+#### Python Cheatsheet
+- [Python Cheatsheet - Github](https://github.com/gto76/python-cheatsheet)  
+- [Python Cheatsheet - Zero To Mastery](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)  
+
+
 ##### Python Stack
 - [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
 - [Celery - Distributed Task Queue](https://github.com/celery/celery)  
