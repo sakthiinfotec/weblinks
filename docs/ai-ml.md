@@ -10,3 +10,9 @@
 - [Sigmoid](): This function takes any real value as input and outputs values in the range of 0 to 1.  The larger the input (more positive), the closer the output value will be to 1.0, whereas the smaller the input (more negative), the closer the output will be to 0.0
 - Softmax
   
+#### [Embeddings](https://blog.replit.com/chroma)
+Just like traditional applications use databases to store and retrieve data, AI-powered applications need an AI native storage and memory layer. To work with models in the loop, data needs to be represented in an AI native way - using embeddings.
+
+Embeddings are a numerical vector representation of all kinds of data, generated using an embedding model. When two pieces of data are similar in meaning, for example, two sentences that are about the same thing, their embeddings are close together in vector space.
+
+By representing data in this way, we can interact with the data the same way we do with the models themselves. For instance, we can find the most relevant text documents for a specific question or topic, and then use them as the context for the LLM to answer the query accurately.
