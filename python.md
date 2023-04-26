@@ -50,6 +50,8 @@
 #### Best Practices
 [Use a Flask Blueprint to Architect Your Applications](https://realpython.com/flask-blueprint/)  
 [10 Must-Know Patterns for Writing Clean Code With Python - DZone](https://dzone.com/articles/10-must-know-patterns-for-writing-clean-code-with-1)  
+- [Python naming convension for Class and Methods - StackOverflow](https://stackoverflow.com/questions/42127593/should-python-class-filenames-also-be-camelcased)  
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 
 #### Tools
 [sup - Stack Up](https://github.com/pressly/sup)  
