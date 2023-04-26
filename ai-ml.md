@@ -118,6 +118,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Tools / Utils
 [TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
 
+#### Building ML Pipelines
+- [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)  
+- [MLflow - an open source platform for managing the end-to-end machine learning lifecycle](https://mlflow.org/)  
+- 
 #### Deploy ML Apps
 [From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
 [From Jupyter Notebook to Deployment - Code in Github](https://github.com/alanjeffares/notebook-to-microservice)  
