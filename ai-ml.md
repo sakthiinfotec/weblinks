@@ -85,13 +85,16 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI Tools Collection
 [Future Tools - A collection of best AI tools](https://www.futuretools.io/)  
 [All Your Tech.ai - A collection of AI projects](https://allyourtech.ai/directory-ai_projects/)  
-[](https://github.com/ai-collection/ai-collection)  
+[AI Collection - A Collection of Awesome Generative AI Applications | Github](https://github.com/ai-collection/ai-collection)  
+[AI tools collection](https://aitools.codes/)  
 
 #### Leading AI Companies
  - [OpenAI](https://openai.com/)
  - [Hugging Face](https://huggingface.co/)  
  - [Cohere](https://cohere.ai/)  
  - [AI21 Labs](https://www.ai21.com/)  
+ - [1100+ AI Tools and colabs](https://library.phygital.plus/)  
+ - [AI SQL Query Generator](https://www.logicloop.com/ai-sql-query-generator)  
 
 #### AI-based code generators based on LLMs
  - [OpenAI Codex - is the model based on GPT-3 that powers GitHub Copilot](https://openai.com/blog/openai-codex/)
