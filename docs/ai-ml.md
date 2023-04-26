@@ -16,3 +16,5 @@ Just like traditional applications use databases to store and retrieve data, AI-
 Embeddings are a numerical vector representation of all kinds of data, generated using an embedding model. When two pieces of data are similar in meaning, for example, two sentences that are about the same thing, their embeddings are close together in vector space.
 
 By representing data in this way, we can interact with the data the same way we do with the models themselves. For instance, we can find the most relevant text documents for a specific question or topic, and then use them as the context for the LLM to answer the query accurately.
+
+ - [Chroma](https://www.trychroma.com/) is the easiest to use embeddings store for an AI application.
