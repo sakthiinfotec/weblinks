@@ -21,4 +21,4 @@ By representing data in this way, we can interact with the data the same way we 
 
 
 #### Glossary
- - Semantic search: Search based on meaning instead of specific words
+ - Semantic search: Search based on meaning instead of specific words. It is the deep NLP encoding of sentences that gets the context and the meaning and so on.
