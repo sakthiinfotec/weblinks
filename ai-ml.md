@@ -117,7 +117,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - How to build your own app using AI
 
 #### Tools / Utils
-[TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
+- [TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
+- [EvalML - an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
 
 #### Building ML Pipelines
 - [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)  
