@@ -78,6 +78,10 @@ While inter-service communication happens via
   - [Rasa is an open source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
 - [Featuretools - An open source python library for automated feature engineering](https://www.featuretools.com/)  
 
+##### MLOps
+- [Machine Learning Operations @ ml-ops.org](https://ml-ops.org/)  
+- [Machine Learning Workflow - Streamlining Your ML Pipeline @ run.ai](https://www.run.ai/guides/machine-learning-engineering/machine-learning-workflow)  
+
 ##### Serverless
 [AWS Chalice - A framework for writing serverless applications](https://aws.github.io/chalice/)  
 
