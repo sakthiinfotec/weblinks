@@ -76,6 +76,7 @@ While inter-service communication happens via
 - NLU
   - [DeepPavlov - an open-source conversational AI library built on PyTorch](https://github.com/deeppavlov/DeepPavlov)  
   - [Rasa is an open source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
+- [Featuretools - An open source python library for automated feature engineering](https://www.featuretools.com/)  
 
 ##### Serverless
 [AWS Chalice - A framework for writing serverless applications](https://aws.github.io/chalice/)  
