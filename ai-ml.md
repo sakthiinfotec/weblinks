@@ -121,7 +121,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [EvalML - an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
 - [Woodwork - provides a common typing namespace for using your existing DataFrames in Featuretools, EvalML, and general ML](https://github.com/alteryx/woodwork)  
 
-#### Building ML Pipelines
+#### Building ML Flow/Pipelines
+- [Simplified workflow of a typical machine learning engineer or a data scientist in general](https://betterprogramming.pub/the-ml-engineer-a-very-simple-machine-learning-project-to-show-the-workflow-of-a-typical-machine-ec1e348bfcba)  
 - [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)  
 - [MLflow - an open source platform for managing the end-to-end machine learning lifecycle](https://mlflow.org/)  
 - 
