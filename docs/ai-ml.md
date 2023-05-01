@@ -26,6 +26,7 @@ Vector Search feature, which opens up a whole new set of AI/ML driven use-cases:
 🌟 Similarity Search  
 🌟 Visual Search  
 🌟 Recommendations  
+🌟 Geo Search  
 
 **Vector Databases**
 
