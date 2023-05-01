@@ -30,6 +30,14 @@
 [SQLBolt - Learn SQL with simple, interactive excercises](https://sqlbolt.com/)  
 [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
 
+##### Vector Databases
+
+- Pinecone
+- Weaviate
+- Chroma
+- Qdrant
+- Typesense - used to build blazing-fast search experiences, faceted navigation experiences, geo-search, vector search, semantic search, similarity search and much more.
+
 ##### Headless CMS
 - Contentful
 - Strapi
