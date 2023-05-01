@@ -33,7 +33,7 @@ Vector Search feature, which opens up a whole new set of AI/ML driven use-cases:
 - Weaviate
 - Chroma
 - Qdrant
-- Typesense
+- Typesense - used to build blazing-fast search experiences, faceted navigation experiences, geo-search, vector search, semantic search, similarity search and much more.
 
 #### Glossary
  - Semantic search: Search based on meaning instead of specific words. It is the deep NLP encoding of sentences that gets the context and the meaning and so on.
