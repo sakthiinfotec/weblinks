@@ -19,6 +19,21 @@ By representing data in this way, we can interact with the data the same way we 
 
  - [Chroma](https://www.trychroma.com/) is the easiest to use embeddings store for an AI application. Chroma handles embedding documents and queries for you, and stores your documents alongside their embeddings. It supports filtering and dynamic updating out of the box, making it perfect for you next AI-powered application.
 
+#### Vector Search
+Vector Search feature, which opens up a whole new set of AI/ML driven use-cases:
+
+🌟 Semantic Search  
+🌟 Similarity Search  
+🌟 Visual Search  
+🌟 Recommendations  
+
+**Vector Databases**
+
+- Pinecone
+- Weaviate
+- Chroma
+- Qdrant
+- Typesense
 
 #### Glossary
  - Semantic search: Search based on meaning instead of specific words. It is the deep NLP encoding of sentences that gets the context and the meaning and so on.
