@@ -7,6 +7,7 @@
 
 #### Modern Frameworks
 - Dependency Injection-based frameworks such as [Guice](https://github.com/google/guice), [Spring](https://spring.io/), [Micronaut](https://micronaut.io/), and [Quarkus](https://quarkus.io).
+- [Project Lombok](https://projectlombok.org/): Project Lombok (or Lombok) is an annotation-based Java library that allows you to reduce boilerplate code. Lombok offers various annotations aimed at replacing Java code that is well known for being boilerplate, repetitive, or tedious to write.
 
 [Quarkus - A Kubernetes-native Java framework for cloud-native application](https://quarkus.io)  
 [Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
