@@ -13,6 +13,10 @@
 [ASM is an all purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)  
 [GraalVM](https://www.graalvm.org/)  
 
+#### Libraries
+ - [OkHttp](https://square.github.io/okhttp/4.x/okhttp/okhttp3/)  
+ - [Retrofit - is a type-safe REST client for Android, Java and Kotlin developed by Square](https://square.github.io/retrofit/)  
+
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
 [What's New in Spring Framework 6.x](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x/)  
