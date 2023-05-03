@@ -59,6 +59,8 @@ While inter-service communication happens via
 - Synchronous - REST API, gRPC
 - Asynchronous - Message based using message brokers like RabbitMQ
 
+**Messaging patterns:** RPC, MPI, pub/sub, CQRS
+
 ##### Microservices - Tracers
 - [Zipkin](https://zipkin.io/)  
 - [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
