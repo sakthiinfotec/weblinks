@@ -112,6 +112,15 @@
     console.log(this.name, this)  // Does not rebinds the object execution context
   }
   ````
+)
+
+#### Courses to learn
+- End-to-End Machine Learning with TensorFlow on GCP (Coursera)
+- Google Cloud Platform Fundamentals: Core Infrastructure (Coursera)
+- Image Understanding with TensorFlow on GCP (Coursera)
+- Production Machine Learning Systems (Coursera)
+- Recommendation Systems with TensorFlow on GCP (Coursera)
+
 
 #### Web Technology
 * Web Workers
