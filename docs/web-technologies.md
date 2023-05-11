@@ -1,5 +1,5 @@
 #### Authentication
-Two-factor authentication (or 2FA) is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
+Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
 1. Something the user knows like a password or PIN
 2. Something the user has such as their mobile device or a code sent to you
