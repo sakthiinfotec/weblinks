@@ -132,6 +132,7 @@ While inter-service communication happens via
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
+- [SWC (Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust.](https://github.com/swc-project/swc)  
 - [Vite - Next generation front-end tooling. It's fast!](https://github.com/vitejs/vite)  
 - [CodeMirror](https://codemirror.net/) - CodeMirror is a code editor component for the web.
 - [terser](https://terser.org/) 
