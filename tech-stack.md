@@ -25,6 +25,7 @@
 
 ##### Datastores
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.  
+- [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
 [DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
 [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
 [SQLBolt - Learn SQL with simple, interactive excercises](https://sqlbolt.com/)  
