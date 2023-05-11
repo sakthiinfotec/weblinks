@@ -133,6 +133,8 @@ While inter-service communication happens via
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
+- [Rclone ("rsync for cloud storage") is a command-line program to sync files and directories to and from different cloud storage providers.](https://github.com/rclone/rclone)  
+- [s5cmd - Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)  
 - [SWC (Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust.](https://github.com/swc-project/swc)  
 - [Vite - Next generation front-end tooling. It's fast!](https://github.com/vitejs/vite)  
 - [CodeMirror](https://codemirror.net/) - CodeMirror is a code editor component for the web.
