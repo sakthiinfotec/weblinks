@@ -108,6 +108,17 @@ Every UX/UI designer should know these websites! by @uiuxadrian (UI Adrian)
 2️⃣ [coolors.co](https://coolors.co) - amazing and super fast color palette generator!  
 3️⃣ [patternpad.com](https://patternpad.com) - generate beautiful svg patterns ✨  
 
+##### Using NVM
+```sh
+# Install the long-term support version of Node.js 16
+nvm install 16 --lts
+
+# Make the newly installed Node.js 16 as the default version
+nvm alias default 16
+
+# Switch to the newly installed Node.js 16
+nvm use 16
+```
 
 ##### JavaScript Animation Libraries
 * [Mo.js](https://mojs.github.io/)
