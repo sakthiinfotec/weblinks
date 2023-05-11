@@ -132,6 +132,7 @@ While inter-service communication happens via
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
+- [Vite - Next generation front-end tooling. It's fast!](https://github.com/vitejs/vite)  
 - [CodeMirror](https://codemirror.net/) - CodeMirror is a code editor component for the web.
 - [terser](https://terser.org/) 
     * JavaScript mangler and compressor toolkit for ES6+
@@ -139,6 +140,11 @@ While inter-service communication happens via
     * It removes comments, makes variable names smaller, and removes whitespace.
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
+
+##### Bundlers
+- [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
+- Pnpm
+- [Turbopack - is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js](https://turbo.build/pack)  
 
 ##### Realtime DB / Notification
 - Websocket
