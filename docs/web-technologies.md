@@ -8,3 +8,10 @@ Two Factor Authentication, or 2FA, is an extra layer of protection used to ensur
 Two-factor authentication has traditionally included the use of a password as the first security factor and the second commonly includes a text with a code sent to your smartphone, or biometrics using your fingerprint, face, or retina.
 
 There are various ways to protect accounts via two-factor authentication: biometrics, one-time passwords, phone call, email verification codes, QR codes, hardware tokens
+
+Options to configure 2FA are:  
+**Security key:**
+Use a physical security key over USB or NFC, fingerprint reader, facial recognition, or password/PIN as a security key.
+
+**Authenticator app:**
+Use an application to get two-factor authentication codes when prompted.
