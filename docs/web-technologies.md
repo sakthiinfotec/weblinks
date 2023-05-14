@@ -9,9 +9,17 @@ Two-factor authentication has traditionally included the use of a password as th
 
 There are various ways to protect accounts via two-factor authentication: biometrics, one-time passwords, phone call, email verification codes, QR codes, hardware tokens
 
+- Fingerprints
+- Retinal patterns
+- Voice recognition 
+- Face recognition 
+- Handwritten signatures 
+
 Options to configure 2FA are:  
 **Security key:**
 Use a physical security key over USB or NFC, fingerprint reader, facial recognition, or password/PIN as a security key.
 
 **Authenticator app:**
 Use an application to get two-factor authentication codes when prompted.
+
+
