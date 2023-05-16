@@ -23,6 +23,11 @@
 - [REST CookBook](https://restcookbook.com/)  
 - [Service Architecture - Representational State Transfer (REST) | RDBMS | ORM | Cloud Computing](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
 
+##### Schema Validation
+- [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
+- [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)  
+- [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
+
 ##### Datastores
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.  
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
