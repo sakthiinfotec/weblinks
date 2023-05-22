@@ -37,4 +37,5 @@ Vector Search feature, which opens up a whole new set of AI/ML driven use-cases:
 - Typesense - used to build blazing-fast search experiences, faceted navigation experiences, geo-search, vector search, semantic search, similarity search and much more.
 
 #### Glossary
+ - LLM: Large language models, or LLMs, are a type of AI model specifically designed to understand natural language.
  - Semantic search: Search based on meaning instead of specific words. It is the deep NLP encoding of sentences that gets the context and the meaning and so on.
