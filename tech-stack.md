@@ -150,6 +150,9 @@ While inter-service communication happens via
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
 
+##### Video Streaming
+- [MUX - The internet's video infrastructure](https://www.mux.com/)  
+
 ##### Bundlers
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
 - Pnpm
