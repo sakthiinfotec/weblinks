@@ -190,6 +190,7 @@ While inter-service communication happens via
 - Unit: Jest, Enzyme
 - [Playwright - Enables reliable end-to-end testing for modern web apps](https://playwright.dev/)  
 - [K6 - A modern load testing tool, using Go and JavaScript](https://k6.io/)  
+- [Vitest - Blazing Fast Unit Test Framework](https://vitest.dev/)  
 - [TestСafe - Cross-Browser End-to-End Testing Framework](https://testcafe.io/)  
 - [Boilerplate for Playwright-Typescript framework for Web-UI, api, Mobile Emulation, DB and Visual testing](https://github.com/akshayp7/playwright-typescript-playwright-test)
 - [Boilerplate for Playwright with Cucumber Java and JUnit](https://github.com/akshayp7/playwright-java-cucumber)  
