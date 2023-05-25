@@ -8,6 +8,9 @@
 [Python Object Oriented Programming (OOP) - For Beginners - YouTube](https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim)  
 [OOPS In Python | Object Oriented Programming Python | Python for Beginners | Great Learning - YouTube](https://www.youtube.com/watch?v=Uo6PpmDuBUU)  
 
+##### Design Patterns
+[Command Design Pattern - Implementing Undo And Redo With The Command Design Pattern | ArjanCodes](https://www.youtube.com/watch?v=FM71_a3txTo&ab_channel=ArjanCodes)  
+
 ##### Software System Design
 [Software System Design for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/software-system-design-for-beginners/)  
 [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)  
