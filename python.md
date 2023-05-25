@@ -85,3 +85,13 @@ mkvirtualenv env --python='/usr/bin/python3.8'
 cd flask_qa_app
 pip install -r requirements.txt
 ```
+
+#### Popular packages
+- pillow - The Python Image processing library
+- openai
+- python-dotenv
+- retry
+- fastapi
+- uvicorn
+- mangum
+
