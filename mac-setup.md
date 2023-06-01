@@ -1,4 +1,4 @@
-#### Install Homebrew & NVM
+#### Install Homebrew
 
 ```sh
 # Install Homebrew
