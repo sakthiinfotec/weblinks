@@ -26,7 +26,7 @@ nvm install 18
 # Use the desired version from installed list
 nvm use 18
 
-nvm alias default 16
+nvm alias default 18
 
 ````
 
