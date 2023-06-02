@@ -5,7 +5,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-#### Install Node.js via NVM
+#### [Install Node.js via NVM](https://collabnix.com/how-to-install-and-configure-nvm-on-mac-os/)
 
 ```sh
 # Use Homebrew to install NVM
