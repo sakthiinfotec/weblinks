@@ -13,8 +13,8 @@
 [NimbleGrowth Organics, Bengaluru - An Agri startup for Organic produce](https://nimblegrowth.in/)  
 
 #### Solar / Electronics / Energy Efficiency
-- [Turnon offers a gamut of home appliances and industrial equipment, which are energy-efficient, eco-friendly, advanced, and customized. We understand the market pulse and resolve your everyday hassles with our products, delighting you beyond your expectations](https://turnonindia.com)  
-- [Versa Drives : Variable Frequency Drives, AC Drives, Inverters and BLDC Drives](https://www.versadrives.com/)  
+- [TurnonIndia (Solar | UPS) offers a gamut of home appliances and industrial equipment, which are energy-efficient, eco-friendly, advanced, and customized](https://turnonindia.com)  
+- [Versa Drives: Variable Frequency Drives, AC Drives, Inverters and BLDC Drives](https://www.versadrives.com/)  
 
 #### Buz Name Suggestions
 ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign | PalmPact | PalmImPact | General Impact | FalconView | FalconData | ExtenData | Equip | Edge
