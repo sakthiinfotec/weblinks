@@ -59,3 +59,17 @@ To stop a mongod running as a macOS service, use the following command as needed
 
 `brew services stop mongodb-community@6.0`
 
+To verify that MongoDB is running, perform one of the following:
+
+If you started MongoDB as a macOS service:
+
+`brew services list`
+
+If you started MongoDB manually as a background process:
+
+`ps aux | grep -v grep | grep mongod`
+
+---
+
+
+
