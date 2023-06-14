@@ -26,6 +26,9 @@
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
 [What's New in Spring Framework 6.x](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x/)  
 
+#### Spring REST/Web
+[Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
+
 #### Command line (CLI) applications
 - [Apache Commons CLI](https://commons.apache.org/proper/commons-cli/)  
 - [args4j](http://args4j.kohsuke.org/)  
