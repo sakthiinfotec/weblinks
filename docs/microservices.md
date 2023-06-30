@@ -32,3 +32,6 @@ Load balancers are used to increase the capacity (concurrent users) and reliabil
 **Service Registration** - A service registry is a database used to keep track of the available instances of each microservice in an application. The service registry needs to be updated each time a new service comes online and whenever a service is taken offline or becomes unavailable.
 
 Credits to [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7008442011582107648?utm_source=share&utm_medium=member_desktop)   
+
+**Load balancer algorithms:**
+- Load balancers can route traffic based on various metrics like least-busy, random, round-robin, sticky, etc.
