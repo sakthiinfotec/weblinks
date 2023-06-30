@@ -15,6 +15,7 @@
 [Software System Design for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/software-system-design-for-beginners/)  
 [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)  
 [System Design - Scaling the database | System Design Primer](https://workat.tech/system-design/tutorial/system-design-scaling-database-vtkhva0puxgn)  
+[Medium (G) - System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)  
 
 ##### eBooks
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
