@@ -101,6 +101,7 @@
 
 #### AI
 [Scaler post about AI (Predictive Analytics, Recommendation, Dynamic Pricing, Abandoned Cart and NLP Chatbots) in LinkedIn](https://www.linkedin.com/posts/scalerofficial_how-retailers-use-ai-activity-7032295084939173888-c3NC)  
+[Toptal - Advantages of AI: Using GPT and Diffusion Models for Image Generation](https://www.toptal.com/artificial-intelligence/advantages-of-ai-gpt-image-generation)  
 
 #### General Technologies
 * [Mozilla - What is a Domain Name? & How does a DNS request work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)  
