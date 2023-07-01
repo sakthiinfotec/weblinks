@@ -92,11 +92,12 @@
 [Create a zero dependency HTTP/2 static file server with Node.js](https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/)  
 [HTTP/2 with Node.js](https://imjacobclark.medium.com/http-2-with-node-js-85da17322812)  
 
-#### Streamning
+#### Streaming
 [Implement HTTP Streaming with Node.js and Fetch API](https://blog.loginradius.com/engineering/guest-post/http-streaming-with-nodejs-and-fetch-api/)  
 
 #### Security
 [Why Does OAuth v2 Have Both Access and Refresh Tokens?](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823#12885823)  
+[Toptal - REST Security With JWT Using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)  
 
 #### AI
 [Scaler post about AI (Predictive Analytics, Recommendation, Dynamic Pricing, Abandoned Cart and NLP Chatbots) in LinkedIn](https://www.linkedin.com/posts/scalerofficial_how-retailers-use-ai-activity-7032295084939173888-c3NC)  
