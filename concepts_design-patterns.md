@@ -16,6 +16,7 @@
 [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)  
 [System Design - Scaling the database | System Design Primer](https://workat.tech/system-design/tutorial/system-design-scaling-database-vtkhva0puxgn)  
 [Medium (G) - System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)  
+[Google Search - Consistent Hashing](https://www.google.com/search?q=consistent+hashing+system+design)  
 [Toptal - A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)  
 
 ##### eBooks
