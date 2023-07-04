@@ -7,6 +7,9 @@
 
 #### Parallelism
 [How to Make Parallel Calls in Java Spring Boot Application and How to Test Them? by Marc Janvier (www.sipios.com)](https://www.sipios.com/blog-tech/how-to-make-parallel-calls-in-java-springboot-application-and-how-to-test-them)  
+[Spring - Scaling and Parallel Processing](https://docs.spring.io/spring-batch/docs/current/reference/html/scalability.html)  
+[Parallelising bulk DB queries with Spring batch : Part 2](https://medium.com/@anmolpreetbrar08/parallelising-bulk-db-queries-with-spring-batch-part-2-d51140cd1e5b)  
+[Work with Parallel Database Streams using Java 8](https://www.javacodegeeks.com/2016/10/work-parallel-database-streams-using-java-8.html)  
 
 #### Modern Frameworks
 - Dependency Injection-based frameworks such as [Guice](https://github.com/google/guice), [Spring](https://spring.io/), [Micronaut](https://micronaut.io/), and [Quarkus](https://quarkus.io).
