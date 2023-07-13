@@ -10,6 +10,7 @@
 
 ##### Design Patterns
 [Command Design Pattern - Implementing Undo And Redo With The Command Design Pattern | ArjanCodes](https://www.youtube.com/watch?v=FM71_a3txTo&ab_channel=ArjanCodes)  
+[Refactoring Friday BOT with NestJS, Domain-driven Design (DDD), and CQRS](https://wechaty.js.org/2022/02/27/refactoring-friday-bot-with-nestjs-ddd-cqrs/)  
 
 ##### Software System Design
 [Software System Design for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/software-system-design-for-beginners/)  
