@@ -58,6 +58,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
 [Build an AI Voice Assistant using PyTorch + Wake Word Detection - YT(13 Mins)](https://www.youtube.com/watch?v=ob0p7G2QoHA)  
 
+[51 CTO - Getting Started with Natural Language Processing in Python](https://www.51cto.com/article/689881.html)  
 [Recommendations for Getting Started with NLP - Elvis's Blogs](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)  
 [Hugging Face - The AI community building future | AI, NLP, Lots of tools, datasets & tutorials](https://huggingface.co/)  
 [JohnSnowLabs - Spark NLP](https://nlp.johnsnowlabs.com/demos)  
