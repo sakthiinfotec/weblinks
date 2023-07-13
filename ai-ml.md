@@ -122,6 +122,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
 - [EvalML - an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
 - [Woodwork - provides a common typing namespace for using your existing DataFrames in Featuretools, EvalML, and general ML](https://github.com/alteryx/woodwork)  
+- [VeGiantModel - is a torch based high efficient training library developed by the Applied Machine Learning team at Bytedance](https://github.com/volcengine/veGiantModel)  
+- [Volcengine - Machine Learning Platform](https://www.volcengine.com/about)  
 
 #### Building ML Flow/Pipelines
 - [Simplified workflow of a typical machine learning engineer or a data scientist in general](https://betterprogramming.pub/the-ml-engineer-a-very-simple-machine-learning-project-to-show-the-workflow-of-a-typical-machine-ec1e348bfcba)  
