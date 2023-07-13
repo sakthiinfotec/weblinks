@@ -65,6 +65,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [What is Lemmatization and How can I do It?](https://pythonalgos.com/what-is-lemmatization-and-how-can-i-do-it/)  
 [STNext: NLP with Hugging Face](https://www.stxnext.com/blog/hugging-face-nlp-library-guide/)  
 [51 CTO - NLP, AI & ML Articles](https://www.51cto.com/nlp)  
+[ByteDance open source large model training framework veGiantModel](https://www.51cto.com/article/704481.html)  
 
 #### Open CV
 [Learn Open CV in 3 Hrs with Python - Murtaza's Workshop - Robotics and AI - YT(3 Hrs)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
