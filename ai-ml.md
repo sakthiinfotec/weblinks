@@ -106,7 +106,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [Hugging Face](https://huggingface.co/)  
  - [Cohere](https://cohere.ai/)  
  - [AI21 Labs](https://www.ai21.com/)  
- - [GPT4All](https://gpt4all.io/index.html)  
+ - [GPT4All](https://gpt4all.io/index.html)
+ - [Code.org AI](https://code.org/ai)  
  
 #### AI-based code generators based on LLMs
  - [OpenAI Codex - is the model based on GPT-3 that powers GitHub Copilot](https://openai.com/blog/openai-codex/)
