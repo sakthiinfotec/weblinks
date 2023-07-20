@@ -33,6 +33,7 @@
 #### Spring Concepts
 [Several ways to execute code after SpringBoot starts (G)](https://www.springcloud.io/post/2022-05/springboot-start-listen)  
 [Spring Application Context Events](https://www.baeldung.com/spring-context-events)  
+[Spring Events | Pub & Sub](https://www.baeldung.com/spring-events)  
 
 #### Spring REST/Web
 [Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
