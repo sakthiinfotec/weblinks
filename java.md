@@ -34,6 +34,7 @@
 [Several ways to execute code after SpringBoot starts (G)](https://www.springcloud.io/post/2022-05/springboot-start-listen)  
 [Spring Application Context Events](https://www.baeldung.com/spring-context-events)  
 [Spring Events | Pub & Sub](https://www.baeldung.com/spring-events)  
+[Better application events in Spring Framework 4.2](https://spring.io/blog/2015/02/11/better-application-events-in-spring-framework-4-2)  
 
 #### Spring REST/Web
 [Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
