@@ -14,13 +14,12 @@
 #### Modern Frameworks
 - Dependency Injection-based frameworks such as [Guice](https://github.com/google/guice), [Spring](https://spring.io/), [Micronaut](https://micronaut.io/), and [Quarkus](https://quarkus.io).
 - [Project Lombok](https://projectlombok.org/): Project Lombok (or Lombok) is an annotation-based Java library that allows you to reduce boilerplate code. Lombok offers various annotations aimed at replacing Java code that is well known for being boilerplate, repetitive, or tedious to write.
-
-[Quarkus - A Kubernetes-native Java framework for cloud-native application](https://quarkus.io)  
-[Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
-[RSocket](https://rsocket.io)  
-[Micrometer - Observation](https://micrometer.io/docs/observation)  
-[ASM is an all purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)  
-[GraalVM](https://www.graalvm.org/)  
+- [Quarkus - A Kubernetes-native Java framework for cloud-native application](https://quarkus.io)  
+[- Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
+- [RSocket](https://rsocket.io)  
+- [Micrometer - Observation](https://micrometer.io/docs/observation)  
+- [ASM is an all purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)  
+- [GraalVM](https://www.graalvm.org/)  
 
 
 #### Libraries
@@ -30,6 +29,9 @@
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
 [What's New in Spring Framework 6.x](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x/)  
+
+#### Spring Concepts
+[Several ways to execute code after SpringBoot starts (G)](https://www.springcloud.io/post/2022-05/springboot-start-listen)  
 
 #### Spring REST/Web
 [Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
