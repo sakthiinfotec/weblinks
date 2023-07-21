@@ -5,6 +5,8 @@
 [Top Courses To Tackle Spring Boot for Full Stack Java Developers](https://hackernoon.com/top-courses-to-tackle-spring-boot-for-full-stack-java-developers-fkg3tu5)  
 [Top 5 Essential Skills to Crack Coding Interviews in 2020](https://javarevisited.blogspot.com/2020/04/5-essential-skills-to-crack-coding-interviews.html)  
 
+[Java Singleton Pattern Explained](https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/)  
+
 #### Parallelism
 [How to Make Parallel Calls in Java Spring Boot Application and How to Test Them? by Marc Janvier (www.sipios.com)](https://www.sipios.com/blog-tech/how-to-make-parallel-calls-in-java-springboot-application-and-how-to-test-them)  
 [Spring - Scaling and Parallel Processing](https://docs.spring.io/spring-batch/docs/current/reference/html/scalability.html)  
