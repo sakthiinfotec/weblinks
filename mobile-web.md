@@ -319,6 +319,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [YouTube - LayoutLand](https://www.youtube.com/c/LayoutLand)  
 [Google(web.dev) - Responsive Web Design](https://web.dev/learn/design/conclusion/)  
 [Twitter - Advance CSS Sizing Units for Responsive web page](https://twitter.com/ravikmmr/status/1497941355838214144?s=20&t=9RoSQ2lKvzgAmwsMVwHYsg)  
+[CSS breakpoints for responsive design - LogRocket Blog](https://blog.logrocket.com/css-breakpoints-responsive-design/)  
 
 #### SVG
 [A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
