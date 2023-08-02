@@ -25,6 +25,9 @@
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
 
+##### Blogs
+[Teco Blog - Backend Web Application Development Tutorials](https://blog.tericcabrel.com/)  
+
 ##### Data Engineering
 [Airbyte - Understanding Change Data Capture (CDC): Definition, Methods and Benefits](https://airbyte.com/blog/change-data-capture-definition-methods-and-benefits)  
 [learnk8s.io - API gateway in Kubernetes & Service Mesh](https://learnk8s.io/kubernetes-ingress-api-gateway)  
