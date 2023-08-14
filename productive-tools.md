@@ -59,6 +59,7 @@
 
 #### Design / Diagram
 [drawSQL - Make an Entity-Relation diagram of the System](https://drawsql.app/teams/teco/diagrams/room-reservation)  
+[Ex: ER Diagram - Validate Request Body and Parameter in Spring Boot](https://blog.tericcabrel.com/validate-request-body-and-parameter-in-spring-boot/)  
 
 #### Whiteboard Collaboration Tools
 * Mural
