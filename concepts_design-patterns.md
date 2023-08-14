@@ -21,6 +21,9 @@
 [Google Search - Consistent Hashing](https://www.google.com/search?q=consistent+hashing+system+design)  
 [Toptal - A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)  
 
+##### Cloud
+[Building Serverless APIs with AWS Lambda, Node.js, and Typescript](https://www.cloudnweb.dev/2023/6/building-serverless-nodejs-typescript)  
+
 ##### eBooks
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
