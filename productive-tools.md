@@ -57,8 +57,10 @@
 #### Windows 10
 [FIX: Computer randomly freezes in Windows 10](https://windowsreport.com/random-freeze-windows-10/)  
 
+#### Design / Diagram
+[drawSQL - Make an Entity-Relation diagram of the System](https://drawsql.app/teams/teco/diagrams/room-reservation)  
 
-#### Whiteboard Collaboratin Tools
+#### Whiteboard Collaboration Tools
 * Mural
 * Miro
 * Figjam (Figma)
