@@ -261,6 +261,19 @@ How to Start Online Earning with $0 Investment
 [10. Algorithms: Design and Analysis](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)  
 [edX - Caltech - Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-from-data-introductory-machine-learning#!)  
 
+##### [PrintFlow](https://getprintflow.’com/) - PrintFlow is changing how the world manufactures its products.
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/3693654624)  
+- Everything is written in Typescript using React and Next.js for the Printflow app
+- PNPM and Turborepo - Monorepo
+- Tanstack Query for easy querying
+- Radix UI for composable compoenents
+- Tailwind CSS for styling
+- Node.js + Express for Frontend API Services
+- API services are hosted on Render using an Express server, with a MySQL database managed by [PlanetScale](https://planetscale.com/)
+- Python + Flask for our Backend Service. We run our backend service in an AWS EC2 instance using Python and Flask for API endpoints.
+- [Linear](https://linear.app/) for issue tracking, Github as source control, Discord for internal communication, Figma for web design, Notion as a knowledge base
+- Other great tools: Cron, Bear, Screen Studio, Things
+
 ##### [Tractable](https://tractable.ai/) - Tractable develops artificial intelligence for accident & disaster recovery.
 - Python
 - Node.js with Typescript 
