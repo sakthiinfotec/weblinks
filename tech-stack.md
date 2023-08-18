@@ -1,5 +1,10 @@
 ### Technology Stacks
 
+##### Scripting Languages
+- Python
+- Bash
+- Lua
+  
 ##### Design
 [Spline - 3D Design in Web Browser](https://spline.design/)  
 [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
@@ -13,6 +18,7 @@
 - NextJS 
 - Storybook
 - Micro Front End
+- Web graphics (Three.js, WebGL)
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
@@ -63,7 +69,7 @@ Typically external application clients such as web apps, mobile apps or IoT fram
 
 While inter-service communication happens via
 - Synchronous - REST API, gRPC
-- Asynchronous - Message based using message brokers like RabbitMQ
+- Asynchronous - Message-based using message brokers like RabbitMQ
 
 **Messaging patterns:** RPC, MPI, pub/sub, CQRS
 
@@ -79,7 +85,7 @@ While inter-service communication happens via
 - API routing & Management (with Istio )
 - OpenShift ServiceMesh
 - [Fluent Bit - An End to End Observability Pipeline](https://fluentbit.io/how-it-works/)  
-- [OpenTelemetry - High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)  
+- [OpenTelemetry - High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)
 
 ##### Data Science
 - [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
@@ -133,7 +139,7 @@ While inter-service communication happens via
 - Blue / Green Deployment
 
 ##### Monitoring
-- Prometheus, Grafana
+- Prometheus, Grafana, Helm, iPass
 - AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
 ##### Tooling: 
