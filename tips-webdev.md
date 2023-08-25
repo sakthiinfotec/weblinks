@@ -17,10 +17,10 @@ Credits: https://twitter.com/csaba_kissi/status/1493852940200726534?s=20&t=A3d-q
 /* Detect Dark Mode Preference with JavaScript */
 const isDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme:dark)").matches
 
-/* Edit your live webside in Google Chrome while making Design Mode: ON */
+/* Edit your live website in Google Chrome while making Design Mode: ON */
 document.designMode = 'on'
 
-/* Check if element if focused */
+/* Check if the element if focused */
 const searchInputEl = document.querySelector("input#top-nav-search-q.search-input-field");
 const isFocused = searchInputEl === document.activeElement
 searchInputEl.onfocus = (e) => { console.log('Search focused.') }
@@ -68,7 +68,13 @@ inputEl.addEventListener('paste', function(e){
 const fruits = ['Apple', 'Banana', 'Orange', 'Mango'];
 let {0: apple, 3: mango} = fruits;
 console.log(`0 => ${apple} & 3 => ${mango}`);   // 0 => Apple & 3 => Mango
+```
 
+[Google Developer tools tips:](https://developer.chrome.com/docs/devtools/console/utilities)  
+```javascript
+/* Get a text value from all the <span> via Devtool console */
+let controllers = $$('div.opblock-tag-section h3.opblock-tag a.nostyle span').map((node) => node.innerText)
+console.log(JSON.stringify(controllers, null, 2))
 ```
 
 ##### Web Development
