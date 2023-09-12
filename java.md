@@ -26,7 +26,8 @@
 
 #### Libraries
  - [OkHttp](https://square.github.io/okhttp/4.x/okhttp/okhttp3/)  
- - [Retrofit - is a type-safe REST client for Android, Java and Kotlin developed by Square](https://square.github.io/retrofit/)  
+ - [Retrofit - is a type-safe REST client for Android, Java and Kotlin developed by Square](https://square.github.io/retrofit/)
+ - [Lombok -A Complete Guide to Lombok - Auth0 Blog](https://auth0.com/blog/a-complete-guide-to-lombok/)  
 
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
