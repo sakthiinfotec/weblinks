@@ -1,5 +1,8 @@
 ### Technology Stacks
 
+##### IDE
+- [Project IDX - A Web-based IDE for E2E development of Full-Stack Web and Mobile apps by Google](https://idx.dev/)
+
 ##### Scripting Languages
 - Python
 - Bash
