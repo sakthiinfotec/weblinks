@@ -19,6 +19,8 @@
 - Storybook
 - Micro Front End
 - Web graphics (Three.js, WebGL)
+- [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
+- [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)  
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
