@@ -7,14 +7,11 @@
 - Python
 - Bash
 - Lua
-  
-##### Design
-[Spline - 3D Design in Web Browser](https://spline.design/)  
-[Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
-##### Authentication & Authorization
-- SSO tokens
-- OAuth 2.0 and JWT patterns
+##### Runtime
+- [Bun is a fast JavaScript runtime | package manager | test runner | all-in-one toolkit](https://bun.sh/)  
+  - Develop, test, run, and bundle JavaScript & TypeScript projects
+  - Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js compatible package manager.
 
 ##### Frameworks: 
 - React 
@@ -24,6 +21,14 @@
 - Web graphics (Three.js, WebGL)
 - [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)  
+
+##### Design
+[Spline - 3D Design in Web Browser](https://spline.design/)  
+[Rive - Design and Animation app for Mobile and Web](https://rive.app)  
+
+##### Authentication & Authorization
+- SSO tokens
+- OAuth 2.0 and JWT patterns
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
@@ -44,7 +49,7 @@
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
 [DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
 [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
-[SQLBolt - Learn SQL with simple, interactive excercises](https://sqlbolt.com/)  
+[SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)  
 [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
 
 ##### Vector Databases
@@ -65,12 +70,12 @@
 - [MessagePack](https://msgpack.org/) - It's like JSON but fast and small. MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
 
 ##### Microservices
-- [Envoy is an open source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
+- [Envoy is an open-source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
 - [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
 ##### Microservices - Communication
-Typically external application clients such as web apps, mobile apps or IoT frameworks consume RESTfull API endpoints. However, modern backend developers usually don’t call microservices directly because of scaling problems and network security issues. Therefore, before exposing your microservices to the internet, developers will connect them to an API gateway or load balancer.
+Typically external application clients such as web apps, mobile apps, or IoT frameworks consume RESTful API endpoints. However, modern backend developers usually don’t call microservices directly because of scaling problems and network security issues. Therefore, before exposing your microservices to the internet, developers will connect them to an API gateway or load balancer.
 
 While inter-service communication happens via
 - Synchronous - REST API, gRPC
@@ -82,14 +87,14 @@ While inter-service communication happens via
 - [Zipkin](https://zipkin.io/)  
 - [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
 - [DataDog - Modern monitoring & security](https://datadoghq.com/)  
-- [Apache - SkyWalking: Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
+- [Apache - SkyWalking: Application performance monitor tool for distributed systems, specially designed for microservices, cloud-native and container-based (Kubernetes) architectures](https://skywalking.apache.org/)  
 - [Prometheus - Prometheus - Monitoring system & time series database](https://prometheus.io/)  
 - Observability (with Grafana and Prometheus)
 - Traceability (with Kiali and Jaeger)
 - Canary Deployments & Rolling Updates (with Istio)
-- API routing & Management (with Istio )
+- API routing and management (with Istio )
 - OpenShift ServiceMesh
-- [Fluent Bit - An End to End Observability Pipeline](https://fluentbit.io/how-it-works/)  
+- [Fluent Bit - An End-to-End Observability Pipeline](https://fluentbit.io/how-it-works/)  
 - [OpenTelemetry - High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)
 
 ##### Data Science
@@ -102,8 +107,8 @@ While inter-service communication happens via
 ##### AI/ML
 - NLU
   - [DeepPavlov - an open-source conversational AI library built on PyTorch](https://github.com/deeppavlov/DeepPavlov)  
-  - [Rasa is an open source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
-- [Featuretools - An open source python library for automated feature engineering](https://www.featuretools.com/)  
+  - [Rasa is an open-source machine learning framework to automate text and voice-based conversations](https://github.com/RasaHQ/rasa)  
+- [Featuretools - An open-source Python library for automated feature engineering](https://www.featuretools.com/)  
 
 ##### MLOps
 - [Machine Learning Operations @ ml-ops.org](https://ml-ops.org/)  
@@ -147,6 +152,10 @@ While inter-service communication happens via
 - Prometheus, Grafana, Helm, iPass
 - AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
+##### Analytics
+- [Segment by Twilio - is the market-leading customer data platform (CDP), that helps you collect, clean, and control your customer data](https://segment.com/)  
+  - Segment collects events from your web and mobile apps and provides a complete data toolkit
+
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
 - [Rclone ("rsync for cloud storage") is a command-line program to sync files and directories to and from different cloud storage providers.](https://github.com/rclone/rclone)  
@@ -161,16 +170,13 @@ While inter-service communication happens via
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
 
-##### Video Streaming
-- [MUX - The internet's video infrastructure](https://www.mux.com/)  
-
 ##### Bundlers
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
 - Pnpm
 - [Turbopack - is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js](https://turbo.build/pack)  
 
 ##### Realtime DB / Notification
-- Websocket
+- WebSocket
   - [Socket.io](https://ably.com/topic/socketio)  
   - [Socket.io v4](https://socket.io/docs/v4/)  
 - Firebase
@@ -216,10 +222,13 @@ While inter-service communication happens via
 - Jitsi
 - Janus
 
+##### Video Streaming
+- [MUX - The internet's video infrastructure](https://www.mux.com/)  
+
 ##### Android
-- Keep up to date with the latest best practices, common frameworks and tools to continuously define into a common set of coding guidelines and best practices for the app
+- Keep up to date with the latest best practices, common frameworks, and tools to continuously define a common set of coding guidelines and best practices for the app
 - Have a deep understanding of modern Android development.
-- Write readable, maintainable, performant and testable code.
+- Write readable, maintainable, performant, and testable code.
 - Kotlin, Coroutines, Flows, and the Android lifecycle, Compose
 
 ##### iOS
