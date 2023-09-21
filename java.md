@@ -42,6 +42,9 @@
 #### Spring REST/Web
 [Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
 
+#### Getting Started
+[CRUD API with Spring Boot, Lombok, JPA, Hibernate and MySQL](https://devwithus.com/crud-api-with-spring-boot-jpa-hibernate-mysql/)  
+
 #### Command line (CLI) applications
 - [Apache Commons CLI](https://commons.apache.org/proper/commons-cli/)  
 - [args4j](http://args4j.kohsuke.org/)  
