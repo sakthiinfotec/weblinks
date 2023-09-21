@@ -44,6 +44,9 @@
 - [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)  
 - [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
 
+##### API Docs
+[OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)  
+
 ##### Datastores
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.  
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
