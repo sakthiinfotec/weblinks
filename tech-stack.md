@@ -3,6 +3,9 @@
 ##### IDE
 - [Project IDX - A Web-based IDE for E2E development of Full-Stack Web and Mobile apps by Google](https://idx.dev/)
 
+##### Design
+- [Hadron - a development environment for designers and developers](https://hadron.app/)  
+
 ##### Scripting Languages
 - Python
 - Bash
