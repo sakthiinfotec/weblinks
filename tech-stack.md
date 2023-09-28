@@ -29,6 +29,9 @@
 [Spline - 3D Design in Web Browser](https://spline.design/)  
 [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
+##### Design Systems
+- [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)  
+
 ##### Authentication & Authorization
 - SSO tokens
 - OAuth 2.0 and JWT patterns
