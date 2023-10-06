@@ -37,6 +37,9 @@
 [Spring Boot 3x App — Enable Distributed Tracing using Micrometer, OpenTelemetry And Jaeger - Medium](https://amithkumarg.medium.com/distributed-tracing-with-spring-boot-micrometer-opentelemetry-and-jaeger-fafd5c0bd282#5de8)  
 [Distributed Tracing For Spring Boot 3x App Using Micrometer, Brave And Zipkin - Medium](https://amithkumarg.medium.com/distributed-tracing-for-spring-boot-3x-app-using-micrometer-brave-and-zipkin-a43fc107bff4)  
 
+#### Spring Boot
+[Spring Boot and Embedded Servers - Tomcat, Jetty and Undertow](https://www.springboottutorial.com/spring-boot-with-embedded-servers-tomcat-jetty)  
+
 #### Spring Concepts
 [Several ways to execute code after SpringBoot starts (G)](https://www.springcloud.io/post/2022-05/springboot-start-listen)  
 [Spring Application Context Events](https://www.baeldung.com/spring-context-events)  
