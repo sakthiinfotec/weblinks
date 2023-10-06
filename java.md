@@ -32,6 +32,7 @@
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
 [What's New in Spring Framework 6.x](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x/)  
+[Spring boot 3 Distributed Tracing with Micrometer by The IT Wizard - YouTube](https://www.youtube.com/watch?v=ldXKX23w7BE&ab_channel=TheITWizard)    
 
 #### Spring Concepts
 [Several ways to execute code after SpringBoot starts (G)](https://www.springcloud.io/post/2022-05/springboot-start-listen)  
