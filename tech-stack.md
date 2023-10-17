@@ -24,7 +24,8 @@
 - Micro Front End
 - Web graphics (Three.js, WebGL)
 - [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
-- [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)  
+- [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)
+- [Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in between. Supports React.js, Vue, Tailwind, etc](https://astro.build/)  
 
 ##### Design
 [Spline - 3D Design in Web Browser](https://spline.design/)  
