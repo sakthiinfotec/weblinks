@@ -167,6 +167,9 @@ While inter-service communication happens via
 - [Segment by Twilio - is the market-leading customer data platform (CDP), that helps you collect, clean, and control your customer data](https://segment.com/)  
   - Segment collects events from your web and mobile apps and provides a complete data toolkit
 
+##### Cloud
+- [Daily AWS Services Cost and Usage CSV and Excel Report using AWS lambda ,Boto3 and Python](https://medium.com/@surajlalwani360/daily-aws-services-cost-and-usage-csv-and-excel-report-using-aws-lambda-boto3-and-python-993b85c360e5)  
+
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
 - [Rclone ("rsync for cloud storage") is a command-line program to sync files and directories to and from different cloud storage providers.](https://github.com/rclone/rclone)  
