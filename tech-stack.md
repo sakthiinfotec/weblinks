@@ -161,14 +161,14 @@ While inter-service communication happens via
 
 ##### Monitoring
 - Prometheus, Grafana, Helm, iPass
-- AirBrake(Ruby) Alernatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
+- AirBrake(Ruby) Alternatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
 
 ##### Analytics
 - [Segment by Twilio - is the market-leading customer data platform (CDP), that helps you collect, clean, and control your customer data](https://segment.com/)  
   - Segment collects events from your web and mobile apps and provides a complete data toolkit
 
 ##### Cloud
-- [Daily AWS Services Cost and Usage CSV and Excel Report using AWS lambda ,Boto3 and Python](https://medium.com/@surajlalwani360/daily-aws-services-cost-and-usage-csv-and-excel-report-using-aws-lambda-boto3-and-python-993b85c360e5)  
+- [Daily AWS Services Cost and Usage CSV and Excel Report using AWS lambda,Boto3 and Python](https://medium.com/@surajlalwani360/daily-aws-services-cost-and-usage-csv-and-excel-report-using-aws-lambda-boto3-and-python-993b85c360e5)  
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
@@ -235,6 +235,10 @@ While inter-service communication happens via
 - Jellyfin
 - Jitsi
 - Janus
+
+##### Image Editing/Processing
+- [ZMO.AI - Image Creator](http://imgcreator.zmo.ai)  
+- [ZMO.AI - Background Generator](https://background.zmo.ai)  
 
 ##### Video Streaming
 - [MUX - The internet's video infrastructure](https://www.mux.com/)  
