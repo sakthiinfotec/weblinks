@@ -154,8 +154,10 @@ While inter-service communication happens via
 - [Nomad](https://developer.hashicorp.com/nomad)  
 - [Pulumi](https://www.pulumi.com/)  
 
+##### IaC
+- [OpenTofu - The open source infrastructure as code tool, managed by the Linux Foundation](https://opentofu.org/)  
+
 ##### Deployment
-- Terraform
 - [Render](https://render.com/) - Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 - Blue / Green Deployment
 
