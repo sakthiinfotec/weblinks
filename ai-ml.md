@@ -2,11 +2,12 @@
 [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
 [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
 [paperswithcode.com - CV, NLP, Audio](https://paperswithcode.com/sota)  
-[Multimodal Machine Learning - YouTube Play list](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
+[Multimodal Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
 [Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
 [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
 [Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
 [Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
+[Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)  
 
 #### Neural Network
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
@@ -23,7 +24,7 @@
 [Google Colab - For coding your models](https://colab.research.google.com/)  
 
 #### Deep Learning
-[Udacity: Introduction to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)  
+[Udacity: Introduction to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)  
 [Dive into Deep Learning by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/)  
 [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://deeplearningbook.org)  
 [v7labs - A Gentle Introduction to Deep Learning—the ELI5 Way (G)](https://www.v7labs.com/blog/deep-learning-guide)  
@@ -52,7 +53,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)  
 [Top 20 Image Datasets for Machine Learning and Computer Vision](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo)  
 [TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python](https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82)  
-[How I Created A ML Model That Identifies Hand Gestures - Analitics India Magazine](https://analyticsindiamag.com/how-i-created-a-ml-model-that-identifies-hand-gestures/)  
+[How I Created A ML Model That Identifies Hand Gestures - Analytics India Magazine](https://analyticsindiamag.com/how-i-created-a-ml-model-that-identifies-hand-gestures/)  
 
 #### NLP
 [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
@@ -113,8 +114,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI-based code generators based on LLMs
  - [OpenAI Codex - is the model based on GPT-3 that powers GitHub Copilot](https://openai.com/blog/openai-codex/)
  - [Tabnine - it puts the auto-completion feature of the IDE on steroids. Developed in Rust by Jacob Jackson when he was a student at the University of Waterloo](https://www.tabnine.com/)  
- - [CodeT5 By reserchers from SalesForce. It is based on Google’s T5 (Text-to-Text Transfer Transformer) framework](https://blog.salesforceairesearch.com/codet5)  
- - [Polycoder - Polycoder is an open source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
+ - [CodeT5 By researchers from SalesForce. It is based on Google’s T5 (Text-to-Text Transfer Transformer) framework](https://blog.salesforceairesearch.com/codet5)  
+ - [Polycoder - Polycoder is an open-source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
  - [Cogram, a Y-Combinator, Berlin-based Startup, is a code generation tool aimed at data scientists and Python programmers using SQL queries and Jupyter Notebooks](https://www.cogram.com/)  
 
 
@@ -122,16 +123,16 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - How to build an AI writer with GPT-3
 - How to build an image generator with DALLE-2
 - How to build an image generator with Stable Diffusion
-- How to connect to the the Open AI API
+- How to connect to the Open AI API
 - How to use Bubble's API connector
 - How to build input forms in Bubble that connect to AI
 - How to write prompts using AI that can be used in your app
-- How to use AI in a variety of use-cases
+- How to use AI in a variety of use cases
 - How to build your own app using AI
 
 #### Tools / Utils
 - [TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
-- [EvalML - an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
+- [EvalML - an AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
 - [Woodwork - provides a common typing namespace for using your existing DataFrames in Featuretools, EvalML, and general ML](https://github.com/alteryx/woodwork)  
 - [VeGiantModel - is a torch based high efficient training library developed by the Applied Machine Learning team at Bytedance](https://github.com/volcengine/veGiantModel)  
 - [Volcengine - Machine Learning Platform](https://www.volcengine.com/about)  
