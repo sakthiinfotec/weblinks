@@ -161,6 +161,7 @@ While inter-service communication happens via
 - [Render](https://render.com/) - Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 - Blue / Green Deployment
 - [Modal - Making the cloud accessible | Cloud functions, generative AI models, large-scale batch jobs, job queues, environment, Storage, Observability, and much more.](https://modal.com/)  
+- [Fly.io - Launch Apps Near Users | Run on our hardware in 30+ regions on six continents | Launch, Pause when not needed | Run Phonix(Elixr), Go, Rust, DJango, Next.js, Docker ](https://fly.io/) 
 
 ##### Monitoring
 - Prometheus, Grafana, Helm, iPass
