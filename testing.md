@@ -1,5 +1,6 @@
 #### Testing Basics
 [Browser Stack - Test Environment: A Beginner’s Guide](https://www.browserstack.com/guide/what-is-test-environment)  
+* [Using Jest to Run Integration Tests](https://www.wwt.com/article/using-jest-to-run-integration-tests#x-connecting-to-your-integration-schema-in-tests-1)  
 
 #### TDD
 [Medium - TDD Changed My Life by Eric Elliot](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)  
