@@ -8,7 +8,8 @@
 [Adapted Mind - Maths](https://www.adaptedmind.com/Math-Worksheets.html)  
 
 ##### Competitions
-* [35th International Olympiad in Informatics at Hungery](https://ioi2023.hu/about-ioi/)  - The International Olympiad in Informatics (IOI) is an annual international informatics competition for high school students from various invited countries, accompanied by social and cultural programmes. It is one of the five international science Olympiads and is one of the most prestigious competitive programming event in the world.
+* [International Science Olympiads](https://en.wikipedia.org/wiki/International_Science_Olympiad)  
+* [35th International Olympiad in Informatics at Hungery](https://ioi2023.hu/about-ioi/)  - The International Olympiad in Informatics (IOI) is an annual international informatics competition for high school students from various invited countries, accompanied by social and cultural programs. It is one of the five international science Olympiads and is one of the most prestigious competitive programming event in the world.
 
 #### English Grammar
 [English Grammar Here](https://englishgrammarhere.com/nouns/types-of-noun-8-kinds-of-nouns-with-examples/)  
