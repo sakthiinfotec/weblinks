@@ -20,7 +20,7 @@
 [- Micronaut® framework is a modern, open source, JVM-based, full-stack toolkit for building modular, easily testable microservices and serverless applications](https://micronaut.io/)  
 - [RSocket](https://rsocket.io)  
 - [Micrometer - Observation](https://micrometer.io/docs/observation)  
-- [ASM is an all purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)  
+- [ASM is an all-purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)  
 - [GraalVM](https://www.graalvm.org/)  
 
 
@@ -28,7 +28,8 @@
  - [OkHttp](https://square.github.io/okhttp/4.x/okhttp/okhttp3/)  
  - [Retrofit - is a type-safe REST client for Android, Java and Kotlin developed by Square](https://square.github.io/retrofit/)
  - [Lombok - A Complete Guide to Lombok - Auth0 Blog](https://auth0.com/blog/a-complete-guide-to-lombok/)
- - [Zipkin - A distributed tracing system](https://zipkin.io/)  
+ - [Zipkin - A distributed tracing system](https://zipkin.io/)
+ - [Read / Write CSV files in Java using Apache Commons CSV](https://www.callicoder.com/java-read-write-csv-file-apache-commons-csv/)  
 
 #### Spring Framework
 [Spring Boot 2 with Spring 5](https://jaxenter.com/spring-boot-2-an-introduction-current-dependencies-the-basis-spring-5-142611.html)  
