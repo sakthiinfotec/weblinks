@@ -12,6 +12,7 @@
 * [International Science Olympiad Details - Indian Talent Olympiad](https://www.indiantalent.org/international-science-olympiad)  
 * [International Olympiad - Schedules](https://www.theinternationalolympiad.com/international-olympiad-exam-schedule)  
 * [35th International Olympiad in Informatics at Hungery](https://ioi2023.hu/about-ioi/)  - The International Olympiad in Informatics (IOI) is an annual international informatics competition for high school students from various invited countries, accompanied by social and cultural programs. It is one of the five international science Olympiads and is one of the most prestigious competitive programming event in the world.
+* [International Olympiad in Informatics – Statistics](https://stats.ioinformatics.org/olympiads/)  
 
 #### English Grammar
 [English Grammar Here](https://englishgrammarhere.com/nouns/types-of-noun-8-kinds-of-nouns-with-examples/)  
