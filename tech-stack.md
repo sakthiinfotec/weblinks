@@ -222,7 +222,7 @@ While inter-service communication happens via
   - [TamaGUI - Universal UI kit and style system for React Native + Web - with an optimizing compiler](https://github.com/tamagui/tamagui)  
 
 ##### Multi-Platform (Desktop, Web, Mobile)
-* [TAURI - Build smaller, faster, and more secure desktop applications with a web frontend | Written in Rust + TypeScript + Kotlin, etc,.](https://tauri.app/) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+* [Tauri App](https://tauri.app/) Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with. Build smaller, faster, and more secure desktop applications with a web frontend | Written in Rust + TypeScript + Kotlin, etc.
 
 ##### Testing
 - E2E: Selenium, Jest, Cypress, Playwright
