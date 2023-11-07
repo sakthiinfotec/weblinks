@@ -1,13 +1,19 @@
+#### Productive Tools
+* [sshx - a Secure, Fast and Collaborative live terminal session sharing over the web](https://sshx.io/)  
+* [sshx - Github {Rust, Svelte.js}](https://github.com/ekzhang/sshx)  
+* [tldraw.com - a Collaborative Digital Whiteboard | Opensource](https://www.tldraw.com/)  
+* [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)  
+
 #### Automation Tools
 * Zapier - For integrations
 * Automate IO
-* @datagrab_io - for web scrapping
+* @datagrab_io - for web scraping
 * IFTTT
 * Tasker
 * Make (@integromat)
 * Hexomatic AI
 * Fasd - Switch between directories
-* Node RED
+* Node-RED
 
 ##### 10 mind-blowing AI websites
 * [Tribe Scaler](https://tribescaler.com)  
@@ -66,8 +72,6 @@
 * Miro
 * Figjam (Figma)
 * ClickUp
-* [tldraw.com - a collaborative digital whiteboard](https://www.tldraw.com/)  
-* [tldraw - Github](https://github.com/tldraw/tldraw)  
 
 #### Google Search
 #### How to use Google as a Software Engineer
