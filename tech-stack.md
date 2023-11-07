@@ -157,9 +157,10 @@ While inter-service communication happens via
 ##### IaC
 - [OpenTofu - The open source infrastructure as code tool, managed by the Linux Foundation](https://opentofu.org/)  
 
-##### Deployment
+##### Hosting and Deployment
 - [Render](https://render.com/) - Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 - Blue / Green Deployment
+- [Modal - Making the cloud accessible | Cloud functions, generative AI models, large-scale batch jobs, job queues, environment, Storage, Observability, and much more.](https://modal.com/)  
 
 ##### Monitoring
 - Prometheus, Grafana, Helm, iPass
@@ -170,7 +171,7 @@ While inter-service communication happens via
   - Segment collects events from your web and mobile apps and provides a complete data toolkit
 
 ##### Cloud
-- [Daily AWS Services Cost and Usage CSV and Excel Report using AWS lambda,Boto3 and Python](https://medium.com/@surajlalwani360/daily-aws-services-cost-and-usage-csv-and-excel-report-using-aws-lambda-boto3-and-python-993b85c360e5)  
+- [Daily AWS Services Cost and Usage CSV and Excel Report using AWS lambda, Boto3 and Python](https://medium.com/@surajlalwani360/daily-aws-services-cost-and-usage-csv-and-excel-report-using-aws-lambda-boto3-and-python-993b85c360e5)  
 
 ##### Tooling: 
 - npm, turborepo, webpack, babel, code-splitting
