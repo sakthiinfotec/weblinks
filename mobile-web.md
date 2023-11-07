@@ -265,6 +265,7 @@ Immediately Invoked Function Expressions(IIFEs)
 ##### Node.js
 [How to Upload Images from React Native](https://www.reactnativeschool.com/how-to-upload-images-from-react-native)  
 [Multer is a node.js middleware for handling multipart/form-data](https://www.npmjs.com/package/multer)  
+[How To Update Node Versions Using Mac, Windows, and Linux - Hubspot Blog](https://blog.hubspot.com/website/update-node-js)  
 
 #### Vue.js
 [Creating responsive emails using Vue.js and MJML](https://blog.logrocket.com/creating-responsive-emails-using-vue-js-and-mjml/)  
