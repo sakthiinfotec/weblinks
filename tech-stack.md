@@ -221,6 +221,9 @@ While inter-service communication happens via
   - [React Native UI Lib - is a UI Toolset & Components Library for React Native](https://wix.github.io/react-native-ui-lib/)  
   - [TamaGUI - Universal UI kit and style system for React Native + Web - with an optimizing compiler](https://github.com/tamagui/tamagui)  
 
+##### Multi-Platform (Desktop, Web, Mobile)
+* [TAURI - Build smaller, faster, and more secure desktop applications with a web frontend.](https://tauri.app/)  
+
 ##### Testing
 - E2E: Selenium, Jest, Cypress, Playwright
 - Integration: Snapshot
