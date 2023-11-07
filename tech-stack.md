@@ -235,7 +235,8 @@ While inter-service communication happens via
 - [TestСafe - Cross-Browser End-to-End Testing Framework](https://testcafe.io/)  
 - [Boilerplate for Playwright-Typescript framework for Web-UI, api, Mobile Emulation, DB and Visual testing](https://github.com/akshayp7/playwright-typescript-playwright-test)
 - [Boilerplate for Playwright with Cucumber Java and JUnit](https://github.com/akshayp7/playwright-java-cucumber)  
-- [Achieve integration testing without a UI in a way that is headless | the Pivot framework](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)  
+- [Achieve integration testing without a UI in a way that is headless | the Pivot framework](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
+- [Happy DOM is a JavaScript implementation of a web browser without its graphical user interface.](https://github.com/capricorn86/happy-dom)  
 
 ##### Media Servers
 - Emby
