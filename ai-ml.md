@@ -90,6 +90,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Opensource AI Apps
 [AI Companion App by a16z-infra | Next.js, VectorDB, LLM](https://github.com/a16z-infra/companion-app)  
 [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
+#### AI Apps
+* [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
+* [HeyGen - AI Video Generator](https://www.heygen.com/)
+* [StoryLab.ai - Social media Caption Generator](https://storylab.ai/social-media-caption-generator/)  
 
 #### AI Art Generator
 - DALL-E 2
