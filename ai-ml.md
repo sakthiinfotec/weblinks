@@ -84,12 +84,14 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [Rossum.ai - Rossum's powerful AI-based image extractor can extract data from a wide variety of sources regardless of shape, size, or format without templates | Powerful and easy-to-use AI intelligent document processing platform | Integrates with UiPath](https://rossum.ai/home/)  
 
 #### GPT
-[GPT-Engineer Exploded Overnight, A Prompt Generated The Entire Code Base](https://www.gamingdeputy.com/gpt-engineer-exploded-overnight-a-prompt-generated-the-entire-code-base-github-soared-19k-stars/)  
-[GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/AntonOsika/gpt-engineer)  
+* [GPT-Engineer Exploded Overnight, A Prompt Generated The Entire Code Base](https://www.gamingdeputy.com/gpt-engineer-exploded-overnight-a-prompt-generated-the-entire-code-base-github-soared-19k-stars/)  
+* [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/AntonOsika/gpt-engineer)
+* [Open AI - Cookbook](https://xautomate.io/)  
 
 #### Opensource AI Apps
 [AI Companion App by a16z-infra | Next.js, VectorDB, LLM](https://github.com/a16z-infra/companion-app)  
 [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
+
 #### AI Apps
 * [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
 * [HeyGen - AI Video Generator](https://www.heygen.com/)
