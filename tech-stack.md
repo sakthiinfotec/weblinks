@@ -264,6 +264,9 @@ While inter-service communication happens via
 - Have a deep understanding of modern iOS development. 
 - Comfortable with Swift and Objective C, iOS development fundamental, UIKit, AutoLayout, and Foundation
 
+##### Hardware
+* [Dataplicity - Control your Raspberry Pi from anywhere | Remote SSH](https://www.dataplicity.com)  
+
 ##### SDLC Concepts
 - Deployment pipelines, Observability & Monitoring, Quality Assurance, Automation, Self-service
 - Monorepo
