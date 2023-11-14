@@ -17,7 +17,8 @@
 [Kubernetes ingress on kind (Kubernetes IN Docker)](https://banzaicloud.com/blog/kind-ingress/)  
 
 ##### Monitoring
-* [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/)  
+* [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/)
+* [Kor - A Golang Tool to discover unused Kubernetes Resources](https://github.com/yonahd/kor)  
 
 ##### Certifications
 [CERTIFIED KUBERNETES ADMINISTRATOR (CKA)](https://www.cncf.io/certification/cka/)  
