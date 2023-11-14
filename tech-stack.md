@@ -272,6 +272,10 @@ While inter-service communication happens via
 ##### Hardware
 * [Dataplicity - Control your Raspberry Pi from anywhere | Remote SSH](https://www.dataplicity.com)  
 
+##### Printing
+* [React Thermal Printing - npm](https://www.npmjs.com/package/react-thermal-printer)  
+
+
 ##### SDLC Concepts
 - Deployment pipelines, Observability & Monitoring, Quality Assurance, Automation, Self-service
 - Monorepo
