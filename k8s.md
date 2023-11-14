@@ -18,6 +18,7 @@
 
 ##### Monitoring
 * [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/)
+* [VictoriaMetrics: Kubernetes Monitoring with Managed VictoriaMetrics](https://docs.victoriametrics.com/managed-victoriametrics/how-to-monitor-k8s.html)  
 * [Kor - A Golang Tool to discover unused Kubernetes Resources](https://github.com/yonahd/kor)  
 
 ##### Certifications
