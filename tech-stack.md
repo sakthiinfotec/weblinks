@@ -42,16 +42,20 @@
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Redux](https://redux.js.org/)
 
-##### REST API
-- [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
-- [REST CookBook](https://restcookbook.com/)  
-- [Service Architecture - Representational State Transfer (REST) | RDBMS | ORM | Cloud Computing](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
-
 ##### Schema Validation
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
 - [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)  
 - [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
 
+##### REST API
+- [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
+- [REST CookBook](https://restcookbook.com/)  
+- [Service Architecture - Representational State Transfer (REST) | RDBMS | ORM | Cloud Computing](https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html)  
+
+##### API Testing
+* [Postman - API Platform](https://www.postman.com/)  
+* [Hoppscotch - Opensource API development echo system](https://hoppscotch.io/)  
+  
 ##### API Docs
 [OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)  
 
@@ -70,6 +74,7 @@
 - Chroma
 - Qdrant
 - Typesense - used to build blazing-fast search experiences, faceted navigation experiences, geo-search, vector search, semantic search, similarity search and much more.
+- PGVector
 
 ##### Headless CMS
 - Contentful
