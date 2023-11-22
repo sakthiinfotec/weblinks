@@ -15,6 +15,10 @@
 * Fasd - Switch between directories
 * Node-RED
 
+#### Python at Microsoft
+* [Python in Excel: Combining the power of Python and the flexibility of Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439?ocid=usoc_TWITTER_M365_spl100004503698824)
+* [Python at Microsoft](https://devblogs.microsoft.com/python/)  
+
 ##### 10 mind-blowing AI websites
 * [Tribe Scaler](https://tribescaler.com)  
   - Powered by AI to write better & faster. 
