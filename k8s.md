@@ -17,6 +17,9 @@
 [etcd - a distributed, highly available key-value store that serves as the persistent backend for K8s. Watch feature demonstration](https://github.com/abhirockzz/etcd-watch-go-client)  
 [Kubernetes ingress on kind (Kubernetes IN Docker)](https://banzaicloud.com/blog/kind-ingress/)  
 
+##### K8s Scheduling
+* [Create a Kubernetes CronJob - from Akamai | Linode](https://www.linode.com/docs/guides/kubernetes-cron-job/)  
+
 ##### Monitoring
 * [VictoriaMetrics: deploying a Kubernetes monitoring stack](https://rtfm.co.ua/en/victoriametrics-deploying-a-kubernetes-monitoring-stack/)
 * [VictoriaMetrics: Kubernetes Monitoring with Managed VictoriaMetrics](https://docs.victoriametrics.com/managed-victoriametrics/how-to-monitor-k8s.html)  
