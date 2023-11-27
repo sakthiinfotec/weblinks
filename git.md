@@ -94,11 +94,11 @@ git difftool --staged
 
 #### Git Commit
 ```sh
-# Add file to staging area
+# Add file to the staging area
 git add index.html
 git add bin/*.sh app/*.js
 
-git commit -am "User signin validation added"
+git commit -am "User sign in validation added"
 
 git merge <source-branch> <target-branch>
 
@@ -112,14 +112,14 @@ git branch -d qa
 
 ```
 
-#### Git Push/Pull to or from Remote Respository
+#### Git Push/Pull to or from Remote Repository
 ```sh
 git push origin master
 
 # Pul from remote repository(-r)
 git pull -r
 
-# Set/Change remote Url (for both Push and Pull)
+# Set/Change remote URL (for both Push and Pull)
 git remove set-url origin https://github.com/sakthiinfotec/monitorr.git
 
 # Update Push only 
@@ -149,7 +149,7 @@ git ls-tree HEAD~2 # To see all the files and directories in the commit
 ```
 
 #### Git reset
-To point the HEAD to particular commit position
+To point the HEAD to a particular commit position
 - Sort (`--soft # This is default and recommended`)
 - Hard (`--hard # not recommended as it will also remove data in the working directory`)
 
@@ -247,6 +247,10 @@ git diff --staged path/to/file # Diff between a file in current working director
 # Apply a patch to the current branch
 git apply my-patch-name.patch
 curl https://example.com/file-0.0.1.diff | git apply 
+
+# Apply a patch of the reverse diff
+git diff commit2 commit1 > some-changes.patch
+git apply -R some-changes.patch
 ```
 
 #### Git Merge and Resolve Conflicts
