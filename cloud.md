@@ -5,9 +5,10 @@
 
 [temporal.io - The Open Source Runtime for Go/Java/Node.js service orchestration at scale](https://temporal.io/)  
 [Event-Driven Orchestration: Effective Microservices Integration Using BPMN and AMQP](https://dzone.com/articles/event-driven-orchestration-an-effective-microservi)  
+
 ##### Certification
 [TechGig - Cloud DevJam](https://www.techgig.com/googlecloud)  
-
+[AWS Certified Solutions Architect Associate SAA-C03 Video Course - Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-exam-video-course/)  
 
 ##### Cloud Deployments
 [Python Anywhere - Deploy Python Web app on the Cloud!](https://www.pythonanywhere.com/)  
