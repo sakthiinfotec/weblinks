@@ -8,6 +8,7 @@
 [Deploy Any Python Project to Kubernetes - G](https://towardsdatascience.com/deploy-any-python-project-to-kubernetes-2c6ad4d41f14)  
 [Kube Academy by VMware - Learn Kubernetes. From Experts. For Free.](https://kube.academy/)  
 [Learn Kubernetes - learnk8s.io](https://learnk8s.io/blog)  
+[A Beginner's Guide to Kubernetes (Part 1): Introduction - From Akamai | Linode](https://www.linode.com/docs/guides/beginners-guide-to-kubernetes-part-1-introduction/)  
 
 ##### K8s Integration
 [3 ways to run Spark on Kubernetes](https://blog.duyet.net/2020/05/spark-on-k8s.html)  
