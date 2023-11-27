@@ -156,6 +156,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### MLOps
 [Courses for MLOps](https://jesperdramsch.medium.com/take-these-3-courses-to-level-up-your-mlops-skills-8dddc6b3fa7a)  
 
+#### AutoML
+* [AutoML – A No Code Solution for Building Machine Learning Models](https://www.analyticsvidhya.com/blog/2023/06/automl-a-no-code-solution-for-building-machine-learning-models/)  
 
 #### Google Colab
 [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/getting_started/)  
