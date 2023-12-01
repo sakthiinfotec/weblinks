@@ -42,6 +42,10 @@
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Redux](https://redux.js.org/)
 
+##### Code Playgrounds
+* [Mongo Query - Playground](https://mongoplayground.net/)
+* [Go Programming Language - Playground](https://play.golang.org/)  
+
 ##### Schema Validation
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
 - [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)  
