@@ -128,7 +128,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Vector DB & Search
 * [Atlas Vector Search Explained in 3 minutes](https://www.youtube.com/watch?v=DUxUW0Kg7JM)
 * Vector Search Use cases:
-   - Semantic Search
+   - Semantic Search - [Perform Semantic Search Against Data in Atlas Cluster](https://www.mongodb.com/library/vector-search/how-to-perform-semantic-search?lb-mode=overlay&&lb-width=100&lb-height=100)  
    - Question & Answer Systems
    - Feature Extraction
    - Recommendation & Relevance Scoring
