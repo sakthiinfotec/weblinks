@@ -125,6 +125,15 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [Polycoder - Polycoder is an open-source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
  - [Cogram, a Y-Combinator, Berlin-based Startup, is a code generation tool aimed at data scientists and Python programmers using SQL queries and Jupyter Notebooks](https://www.cogram.com/)  
 
+#### Vector DB & Search
+* [Atlas Vector Search Explained in 3 minutes](https://www.youtube.com/watch?v=DUxUW0Kg7JM)
+* Vector Search Use cases:
+   - Semantic Search
+   - Question & Answer Systems
+   - Feature Extraction
+   - Recommendation & Relevance Scoring
+   - Synonym Generation
+   - Image Search
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
