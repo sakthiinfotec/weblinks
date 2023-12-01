@@ -243,12 +243,13 @@ While inter-service communication happens via
 - [Achieve integration testing without a UI in a way that is headless | the Pivot framework](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
 - [Happy DOM is a JavaScript implementation of a web browser without its graphical user interface.](https://github.com/capricorn86/happy-dom)  
 
-##### Image Editing/Processing
+##### PDF
 * [Gotenberg is a Docker-based stateless API for PDF generation from HTML and Markdown files.](https://gotenberg.dev/)  
 
 ##### Image Editing/Processing
 - [ZMO.AI - Image Creator](http://imgcreator.zmo.ai)  
-- [ZMO.AI - Background Generator](https://background.zmo.ai)  
+- [ZMO.AI - Background Generator](https://background.zmo.ai)
+- [Favicon Generator - From Image, Text and Emoji](https://favicon.io/)  
 
 ##### Video Streaming
 - [MUX - The internet's video infrastructure](https://www.mux.com/)  
