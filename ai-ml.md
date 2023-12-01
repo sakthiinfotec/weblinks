@@ -134,7 +134,11 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
    - Recommendation & Relevance Scoring
    - Synonym Generation
    - Image Search
-   - LLM Memory
+   - LLM Memory (trained up until the point in time like GPT-3.5, GPT-4, etc.,)
+   - 3 main use cases:
+     * Things happened after the model had been trained
+     * Find wrong information from the internal representation (No clarity on this :-) )
+     * Access to private data
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
