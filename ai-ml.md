@@ -134,6 +134,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
    - Recommendation & Relevance Scoring
    - Synonym Generation
    - Image Search
+   - LLM Memory
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
