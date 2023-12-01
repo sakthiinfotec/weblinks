@@ -136,9 +136,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
    - Image Search
    - LLM Memory (trained up until the point in time like GPT-3.5, GPT-4, etc.,)
    - 3 main use cases:
-     * Things happened after the model had been trained
-     * Find wrong information from the internal representation (No clarity on this :-) )
-     * Access to private data
+     * Things happened after the model had been trained - Provides up-to-date information
+     * Find wrong information from the internal representation (No clarity on this :-) ) - Reduce hallucination
+     * LLMs can not have access to private data - Provides access to private data
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
