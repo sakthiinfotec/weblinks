@@ -253,7 +253,9 @@ While inter-service communication happens via
 ##### Image Editing/Processing
 - [ZMO.AI - Image Creator](http://imgcreator.zmo.ai)  
 - [ZMO.AI - Background Generator](https://background.zmo.ai)
-- [Favicon Generator - From Image, Text and Emoji](https://favicon.io/)  
+- [Favicon Generator - From Image, Text and Emoji](https://favicon.io/)
+- [Clipping Magic - AI-powered image editor](https://clippingmagic.com/)  
+- [Remove.bg - AI-powered image editor](https://www.remove.bg/)  
 
 ##### Video Streaming
 - [MUX - The internet's video infrastructure](https://www.mux.com/)  
