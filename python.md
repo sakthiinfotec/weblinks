@@ -92,7 +92,7 @@ pip install -r requirements.txt
 - openai
 - python-dotenv
 - retry
-- fastapi
+- fastapi - Includes Swagger UI
 - uvicorn
 - mangum
 
