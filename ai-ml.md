@@ -99,7 +99,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [StoryLab.ai - Social media Caption Generator](https://storylab.ai/social-media-caption-generator/)
 * [Coral AI - Search & Summarize Documents with AI](https://www.getcoralai.com/)
 * [Cohere | The leading AI platform for enterprise | Cohere provides industry-leading large language models (LLMs) and RAG capabilities](https://cohere.com/)
-* [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/)  
+* [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/)
+* [Txtai is an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows.](https://neuml.github.io/txtai/)
+* [elicit - Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.](https://elicit.com/)  
 
 #### AI Art Generator
 - DALL-E 2
@@ -111,7 +113,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI Collection - A Collection of Awesome Generative AI Applications | Github](https://github.com/ai-collection/ai-collection)  
 - [AI tools collection](https://aitools.codes/)  
 - [1100+ AI Tools and colabs](https://library.phygital.plus/)  
-- [AI SQL Query Generator](https://www.logicloop.com/ai-sql-query-generator)  
+- [AI SQL Query Generator](https://www.logicloop.com/ai-sql-query-generator)
+- [oobabooga/text-generation-webui - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.](https://github.com/oobabooga/text-generation-webui)
+- [AUTOMATIC1111/stable-diffusion-webui - Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
 
 #### Leading AI Companies
  - [OpenAI](https://openai.com/)
@@ -120,6 +124,16 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [AI21 Labs](https://www.ai21.com/)  
  - [GPT4All](https://gpt4all.io/index.html)
  - [Code.org AI](https://code.org/ai)  
+
+#### LLM
+- [Designing LLM Applications with Knowledge Graphs and LangChain - StarDog Blog](https://www.stardog.com/blog/designing-llm-applications-with-knowledge-graphs-and-langchain/)  
+- [Emerging Architectures for LLM Applications - by Andreessen Horowitz](https://a16z.com/emerging-architectures-for-llm-applications/)  
+- [LLM Cli By Simon Willison](https://llm.datasette.io/en/stable/)  
+- [LLM CLI -  a command-line utility and Python library for working with large language models such as GPT-4.](https://simonwillison.net/2023/Jul/12/llm/)  
+
+
+#### GenAI
+- [How Are Consumers Using Generative AI? - by Andreessen Horowitz](https://a16z.com/how-are-consumers-using-generative-ai/)  
  
 #### AI-based code generators based on LLMs
  - [OpenAI Codex - is the model based on GPT-3 that powers GitHub Copilot](https://openai.com/blog/openai-codex/)
@@ -142,6 +156,17 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
      * Things happened after the model had been trained - Provides up-to-date information
      * Find wrong information from the internal representation (No clarity on this :-) ) - Reduce hallucination
      * LLMs can not have access to private data - Provides access to private data
+
+#### [TxtAI Usecases](https://github.com/neuml/txtai?tab=readme-ov-file#use-cases)
+* Semantic Search - Build semantic/similarity/vector/neural search applications (Similarity search with images, QA Database, Semantic Graph).
+* LLM Orchestration - LLM chains, retrieval augmented generation (RAG), chat with your data, pipelines and workflows that interface with large language models (LLMs).
+* Language Model Workflows - Language model workflows, also known as semantic workflows, connect language models together to build intelligent applications.
+* [Dive Into TxtAI Engine of NLP WorkFlows: Building Pipelines, Workflow & RDBMS For Embedding vectors.](https://medium.com/@kamaljp/dive-into-txtai-engine-of-nlp-workflows-building-pipelines-workflow-rdbms-for-embedding-vectors-fe86484e81c9)
+* [Streamlit and txtai: Building an Abstractive Summarization App in Python](https://www.youtube.com/watch?v=35syhmKiwYk&ab_channel=AIAnytime)  
+
+
+#### LlamaIndex
+* [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)  
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
@@ -166,10 +191,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)  
 - [MLflow - an open source platform for managing the end-to-end machine learning lifecycle](https://mlflow.org/)  
 - 
+
 #### Deploy ML Apps
 [From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
 [From Jupyter Notebook to Deployment - Code in Github](https://github.com/alanjeffares/notebook-to-microservice)  
-
 
 #### MLOps
 [Courses for MLOps](https://jesperdramsch.medium.com/take-these-3-courses-to-level-up-your-mlops-skills-8dddc6b3fa7a)  
