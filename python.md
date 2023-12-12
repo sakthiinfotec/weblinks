@@ -36,6 +36,7 @@
 
 #### Data Science
 [NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
+* JupyterLab or Binder
 
 #### Computing
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
