@@ -170,6 +170,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### LlamaIndex
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
+* [High-performance RAG with LlamaIndex](https://www.youtube.com/live/wBhY-7B2jdY?si=YXxfLzHlJQzdSqJ3)  
 
 #### LangChain
 * [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
