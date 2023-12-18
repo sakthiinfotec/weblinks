@@ -169,6 +169,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
 
 #### LangChain
+* [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
 * [Multi-modal RAG With LangChain 🦜🔗 & GPT-4V | Text + Table + Images from PDF ](https://www.youtube.com/watch?v=-77EvEjuZJY&ab_channel=DataScienceBasics)  
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
