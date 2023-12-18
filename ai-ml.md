@@ -157,7 +157,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
      * Find wrong information from the internal representation (No clarity on this :-) ) - Reduce hallucination
      * LLMs can not have access to private data - Provides access to private data
 * [Vector Database for Large Language Models in Production (Sam Partee) - YT Video](https://www.youtube.com/watch?v=9VgpXcfJYvw&ab_channel=MLOpsLearners)
-* [Building Multi-Modal Search with Vector Databases Workshop - YT Video](https://www.youtube.com/watch?v=3WUobZryyok&ab_channel=DeepLearningAI)  
+* [Building Multi-Modal Search with Vector Databases Workshop - YT Video](https://www.youtube.com/watch?v=3WUobZryyok&ab_channel=DeepLearningAI)
+* [OpenAI Embeddings and Vector Database Crash Course](https://youtu.be/ySus5ZS0b94?si=Rnl3StKskxQiiydY)  
 
 #### [TxtAI Usecases](https://github.com/neuml/txtai?tab=readme-ov-file#use-cases)
 * Semantic Search - Build semantic/similarity/vector/neural search applications (Similarity search with images, QA Database, Semantic Graph).
