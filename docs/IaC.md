@@ -27,22 +27,19 @@
 * tfvars - contains key, value pairs and will override variables.tf
 
 ##### Setup
-# using aws access-key and secret-access-key
-aws configure
+aws configure - using aws access-key and secret-access-key
 
 terraform --help
 terraform init
 terraform plan
 terraform verify
 
-# format code
-terraform fmt
+terraform fmt - format code
 terraform apply
 
-# Following will override variables.tf
-terraform apply -var "aws_instance_type=t2.micro" 
+terraform apply -var "aws_instance_type=t2.micro" # Following will override variables.tf
 
 terraform destroy
 
-terraform output # to see output anytime
+terraform output - to see output anytime
 
