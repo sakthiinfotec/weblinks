@@ -164,7 +164,18 @@ While inter-service communication happens via
 - [Pulumi](https://www.pulumi.com/)  
 
 ##### IaC
-- [OpenTofu - The open source infrastructure as code tool, managed by the Linux Foundation](https://opentofu.org/)  
+- Terraform
+- AWS CloudFormation
+- Azure Azure Resource Manager (ARM)
+- Google Cloud Deployment Manager
+- Pulumi
+- [OpenTofu - The open source infrastructure as code tool, managed by the Linux Foundation](https://opentofu.org/)
+
+##### Configuration Management as Code
+- Puppet
+- ANSIBLE
+- SALTSTACK
+- CHEF
 
 ##### Hosting and Deployment
 - [Render](https://render.com/) - Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
