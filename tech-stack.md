@@ -159,16 +159,14 @@ While inter-service communication happens via
 
 ##### CD
 - ArgoCD
-- [Terraform](https://developer.hashicorp.com/terraform)  
 - [Nomad](https://developer.hashicorp.com/nomad)  
-- [Pulumi](https://www.pulumi.com/)  
 
 ##### IaC
-- Terraform
+- [Terraform](https://developer.hashicorp.com/terraform)  
 - AWS CloudFormation
 - Azure Azure Resource Manager (ARM)
 - Google Cloud Deployment Manager
-- Pulumi
+- [Pulumi](https://www.pulumi.com/)  
 - [OpenTofu - The open source infrastructure as code tool, managed by the Linux Foundation](https://opentofu.org/)
 
 ##### Configuration Management as Code
