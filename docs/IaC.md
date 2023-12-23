@@ -4,6 +4,7 @@
 * Multi-cloud
 * Stateful
 * Version controlled
+* Declarative
 
 ##### Lifecycle
 * init
