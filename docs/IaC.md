@@ -24,6 +24,7 @@
 * Output
 * Modules
 * State
+* tfvars - contains key, value pairs and will override variables.tf
 
 ##### Setup
 # using aws access-key and secret-access-key
