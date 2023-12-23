@@ -24,3 +24,17 @@
 * Output
 * Modules
 * State
+
+##### Setup
+# using aws access-key and secret-access-key
+aws configure
+
+terraform --help
+terraform init
+terraform plan
+terraform verify
+
+# format code
+terraform fmt
+terraform apply
+terraform destroy
