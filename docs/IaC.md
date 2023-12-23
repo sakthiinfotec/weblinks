@@ -37,4 +37,8 @@ terraform verify
 # format code
 terraform fmt
 terraform apply
+
+# Following will override variables.tf
+terraform apply -var "aws_instance_type=t2.micro" 
+
 terraform destroy
