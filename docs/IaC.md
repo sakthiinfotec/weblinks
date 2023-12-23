@@ -43,3 +43,6 @@ terraform apply
 terraform apply -var "aws_instance_type=t2.micro" 
 
 terraform destroy
+
+terraform output # to see output anytime
+
