@@ -138,6 +138,8 @@ git push -u origin master
 git log
 git log --oneline
 
+git log --since='Jul 28 2023' --author="developer@company.com" --pretty=format:"%h %ad %s"  --date=short
+
 git show <commig id / HEAD pointer>
 git show HEAD
 git show HEAD~1 # One step back to HEAD commit
