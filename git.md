@@ -220,8 +220,10 @@ git stash apply stash@{0}
 git stash pop 
 git stash pop 0 # Pop out a specific stash
 
-# or in 2 steps
+# Apply latest stash
 git stash apply stash@{0}
+
+# Drop a stashed changes
 git stash drop stash@{0}
 
 # Move stashed changes to a new branch
