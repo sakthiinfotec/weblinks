@@ -218,13 +218,22 @@ git stash apply stash@{0}
 
 # Pop and apply the last pushed changes
 git stash pop 
-git stash pop 0 # Pop out a specific stash
+git stash pop 0 # Pop out a specific stash and returns a stash commit hash
+git stash apply [stash_commit_hash]
+
+# Apply stashed changes to a new branch
+git branch [branch_name] [stash_commit_hash]
+git branch ps-2321 a93aef24a93aef24a93aef24a93aef24a93aef24
+git checkout ps-2321
 
 # Apply latest stash
 git stash apply stash@{0}
 
 # Drop a stashed changes
 git stash drop stash@{0}
+
+# Drop all the stashes
+git stash clear
 
 # Move stashed changes to a new branch
 git stash branch push-notification stash@{0}
