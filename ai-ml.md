@@ -94,6 +94,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
 
 #### AI Services
+* [ModelScope: bring the notion of Model-as-a-Service to life.](https://github.com/modelscope/modelscope)  
 * [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
 * [HeyGen - AI Video Generator](https://www.heygen.com/)
 * [StoryLab.ai - Social media Caption Generator](https://storylab.ai/social-media-caption-generator/)
