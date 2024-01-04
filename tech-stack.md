@@ -205,6 +205,7 @@ While inter-service communication happens via
     * It removes comments, makes variable names smaller, and removes whitespace.
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
+- [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)  
 
 ##### Bundlers
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
