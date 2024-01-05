@@ -131,7 +131,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Designing LLM Applications with Knowledge Graphs and LangChain - StarDog Blog](https://www.stardog.com/blog/designing-llm-applications-with-knowledge-graphs-and-langchain/)  
 - [Emerging Architectures for LLM Applications - by Andreessen Horowitz](https://a16z.com/emerging-architectures-for-llm-applications/)  
 - [LLM Cli By Simon Willison](https://llm.datasette.io/en/stable/)  
-- [LLM CLI -  a command-line utility and Python library for working with large language models such as GPT-4.](https://simonwillison.net/2023/Jul/12/llm/)  
+- [LLM CLI -  a command-line utility and Python library for working with large language models such as GPT-4.](https://simonwillison.net/2023/Jul/12/llm/)
+- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)  
 
 
 #### GenAI
