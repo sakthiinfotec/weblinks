@@ -191,6 +191,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - How to build your own app using AI
 
 #### Tools / Utils
+- [Netron - A visualizer for neural network, deep learning and machine learning models](https://github.com/lutzroeder/netron)  
 - [TQDM: Python Progress Bar Library - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)  
 - [EvalML - an AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.](https://github.com/alteryx/evalml)  
 - [Woodwork - provides a common typing namespace for using your existing DataFrames in Featuretools, EvalML, and general ML](https://github.com/alteryx/woodwork)  
