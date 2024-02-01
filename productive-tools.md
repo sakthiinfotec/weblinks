@@ -19,6 +19,10 @@
 * [Python in Excel: Combining the power of Python and the flexibility of Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439?ocid=usoc_TWITTER_M365_spl100004503698824)
 * [Python at Microsoft](https://devblogs.microsoft.com/python/)  
 
+##### Web Scrapping (using Advanced AI tools)
+- [Browse AI - Extract and monitor data change](https://www.browse.ai/website-to-api)  
+
+
 ##### 10 mind-blowing AI websites
 * [Tribe Scaler](https://tribescaler.com)  
   - Powered by AI to write better & faster. 
@@ -36,7 +40,7 @@
   - Download your improved image.
 * [Autoenhance](https://autoenhance.ai)  
   - AI photo editor that enhances your workflow.
-  - Instantly get brighter, colourful and evenly lit images.
+  - Instantly get brighter, colorful and evenly lit images.
   - Sky replacement and perspective correction to transform photos.
 * [Writesonic](https://writesonic.com)  
   - AI writer that helps you write long-form blog posts & articles.
