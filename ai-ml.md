@@ -135,7 +135,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [LLM Cli By Simon Willison](https://llm.datasette.io/en/stable/)  
 - [LLM CLI -  a command-line utility and Python library for working with large language models such as GPT-4.](https://simonwillison.net/2023/Jul/12/llm/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)  
-
+- [Sagar Desai - Blog | LLM](https://sdcodehub.github.io/)  
 
 #### GenAI
 - [How Are Consumers Using Generative AI? - by Andreessen Horowitz](https://a16z.com/how-are-consumers-using-generative-ai/)  
