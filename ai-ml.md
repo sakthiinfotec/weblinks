@@ -94,6 +94,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
 
 #### AI Services
+* [RunPod - The Cloud Built for AI | Globally distributed GPU cloud built for production. Develop, train, and scale AI applications](https://www.runpod.io/)
+* [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Uses Ray for Distributed Inference and Serving](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)  
 * [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)  
 * [ModelScope: bring the notion of Model-as-a-Service to life.](https://github.com/modelscope/modelscope)  
 * [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
@@ -102,7 +104,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Coral AI - Search & Summarize Documents with AI](https://www.getcoralai.com/)
 * [Cohere | The leading AI platform for enterprise | Cohere provides industry-leading large language models (LLMs) and RAG capabilities](https://cohere.com/)
 * [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/)
-* [Txtai is an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows.](https://neuml.github.io/txtai/)
+* [Txtai is an all-in-one embedding database for semantic search, LLM orchestration and language model workflows.](https://neuml.github.io/txtai/)
 * [elicit - Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.](https://elicit.com/)  
 
 #### AI Art Generator
