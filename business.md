@@ -20,6 +20,11 @@ Mpowered Labs is a digital product development agency that specializes in creati
 
 You can find more information about Mpowered Labs on their official website: https://mpowered.io/
 
+You can also check out their LinkedIn page for updates and insights: https://www.linkedin.com/company/mpowered-labs/
+
+Additionally, you can follow them on Twitter for the latest news and announcements: https://twitter.com/mpoweredlabs
+
+
 mPoweredLabs is a software development and technology consulting company that specializes in building custom web and mobile applications. They offer services such as software development, UI/UX design, cloud computing, and digital marketing.
 
 Here are some links to learn more about mPoweredLabs:
