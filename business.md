@@ -24,6 +24,6 @@ mPoweredLabs is a software development and technology consulting company that sp
 
 Here are some links to learn more about mPoweredLabs:
 
-Website: https://mpoweredlabs.com/
-LinkedIn: https://www.linkedin.com/company/mpoweredlabs/
-Twitter: https://twitter.com/mpoweredlabs
+* Website: https://mpoweredlabs.com/  
+* LinkedIn: https://www.linkedin.com/company/mpoweredlabs/
+* Twitter: https://twitter.com/mpoweredlabs
