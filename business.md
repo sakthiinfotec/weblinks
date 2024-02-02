@@ -14,3 +14,8 @@ https://play.google.com/store/apps/details?id=agri.tnagri&hl=en_IN
 #### Hydroponics
 [CropIn - Bengaluru, India](https://www.cropin.com/)  
 [Future Farms - Chennai, India](https://www.business.futurefarms.in/)  
+
+
+Mpowered Labs is a digital product development agency that specializes in creating custom software solutions for businesses. They offer services such as web development, mobile app development, user experience design, and product strategy.
+
+You can find more information about Mpowered Labs on their official website: https://mpowered.io/
