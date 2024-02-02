@@ -19,3 +19,11 @@ https://play.google.com/store/apps/details?id=agri.tnagri&hl=en_IN
 Mpowered Labs is a digital product development agency that specializes in creating custom software solutions for businesses. They offer services such as web development, mobile app development, user experience design, and product strategy.
 
 You can find more information about Mpowered Labs on their official website: https://mpowered.io/
+
+mPoweredLabs is a software development and technology consulting company that specializes in building custom web and mobile applications. They offer services such as software development, UI/UX design, cloud computing, and digital marketing.
+
+Here are some links to learn more about mPoweredLabs:
+
+Website: https://mpoweredlabs.com/
+LinkedIn: https://www.linkedin.com/company/mpoweredlabs/
+Twitter: https://twitter.com/mpoweredlabs
