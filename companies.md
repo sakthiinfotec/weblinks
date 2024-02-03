@@ -20,5 +20,5 @@
 
 
 #### Buz Name Suggestions
-ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign | PalmPact | PalmImPact | General Impact | FalconView | FalconData | ExtenData | Equip | Edge
+ThinqDigital | TruDigital | HyperDigital | DigitalNcage| DXP(Exp) Technology | ZoEasy | ThingWorks (ThemeWorks X) | physical digital convergence | Engineering Excellance | Generative Design | TransForce | NextForce | Internal Software Corporation | PureDesign | PalmPact | PalmImPact | General Impact | FalconView | FalconData | ExtenData | Equip | Edge | UniQueX Labs | StacknQ | Diffusion | Impulse | ReflexLabs
 
