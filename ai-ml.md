@@ -32,6 +32,7 @@
 [Deep Learning vs Machine Learning: Which is the Best Choice for AI? @ Morioh](https://morioh.com/p/06f664d53cf5)   
 [Everyone Can Understand Machine Learning — Regression Tree Model](https://medium.com/towards-artificial-intelligence/everyone-can-understand-machine-learning-regression-tree-model-28e3541b3e79)  
 [Learn Deep learning from Fast.ai](https://www.fast.ai)  
+[Fast.ai - Introduction to Deep Learning](https://github.com/fastai/fastbook)  
 [From MachineLearningMastery - Deep Learning CNN for Fashion-MNIST Clothing Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/)  
 [Fullstack Deep learning Course](https://fullstackdeeplearning.com/course/)  
 
