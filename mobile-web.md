@@ -474,6 +474,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Eleventy(11ty) is a simpler static site generator](https://www.11ty.dev/)  
 [Framer Motion - A production-ready motion library for React](https://www.framer.com/motion/)  
 [Micromodal - Modal UI in Javascript](https://micromodal.vercel.app/)  
+[WebGL2 - Fundamentals](https://webgl2fundamentals.org/)  
 
 #### Javascript Build Tools
 [Vite.js - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.](https://vitejs.dev/guide/)  
@@ -534,14 +535,14 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - [React.js](https://reactjs.org/)
 - GraphQL & Setting up GraphQL servers
 - Unit testing with React Testing Library
-- End to end testing with Cypress
-- Chrome devtools
+- End-to-end testing with Cypress
+- Chrome dev tools
 - TypeScript
 
 - Authentication with JWT (JSON Web Tokens)
 - API Gateways
 - Restful APIs (I have mostly done GraphQL at this point)
-- PostgresQL with Sequelize
+- PostgreSQL with Sequelize
 - Server logging best practices beyond console.log
 - Docker and Docker Compose
 - Get more familiar with Postman (or Insomnia which is a free alternative)
@@ -549,7 +550,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Serverless and JAMstack
 
 - NextJS: it's a framework for React that is designed to work great for JAMstack projects. I'll probably be taking Wes Bos' Advanced React course when he updates it since I already purchased it.
-- A headless CMS like KeystoneJS, Strapi or similar. Probably one of the cheaper ones since some are really expensive.
+- A headless CMS like KeystoneJS, Strapi, or similar. Probably one of the cheaper ones since some are expensive.
 - AWS Lambda and other Amazon services that might come in handy.
 
 - TailwindCSS
@@ -559,12 +560,12 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 - Design systems
 
 ##### Concepts
-**Side Effects:** Impure functions (vs pure functions) - a general concept about behaviours of functions. A function is said to have side effect if it trys to modify anything outside its body. For example, if it modidifies a global variable, then it is a side effect. If it makes a network call, it is a side effect as well. In computer science, a function or expression is said to have a side effect if it modifies some state outside its scope or has an observable interaction with its calling functions or the outside world besides returning a value. For example, a particular function might modify a global variable or static variable, modify one of its arguments, raise an exception, write data to a display or file, read data, or call other side-effecting functions. In the presence of side effects, a program's behaviour may depend on history; that is, the order of evaluation matters. Understanding and debugging a function with side effects requires knowledge about the context and its possible histories.  
+**Side Effects:** Impure functions (vs pure functions) - a general concept about behaviors of functions. A function is said to have side effects if it tries to modify anything outside its body. For example, if it modifies a global variable, then it is a side effect. If it makes a network call, it is a side effect as well. In computer science, a function or expression is said to have a side effect if it modifies some state outside its scope or has an observable interaction with its calling functions or the outside world besides returning a value. For example, a particular function might modify a global variable or static variable, modify one of its arguments, raise an exception, write data to a display or file, read data, or call other side-effecting functions. In the presence of side effects, a program's behavior may depend on history; that is, the order of evaluation matters. Understanding and debugging a function with side effects requires knowledge about the context and its possible histories.  
 
 **Virtual DOM:** 
-* An in-memory object representation of actual HTML DOM maintained by JS libraries like React or Vue in order to optimize performance while manipulating it.
-* When rendering/re-rendering, possibly due to state change, previous Virtual DOM is compared with current Virtual DOM.
-* Identifies the changes and udpate actual DOM. This process is called *Reconcilation*.
+* An in-memory object representation of actual HTML DOM maintained by JS libraries like React or Vue to optimize performance while manipulating it.
+* When rendering/re-rendering, possibly due to state change, the previous Virtual DOM is compared with the current Virtual DOM.
+* Identifies the changes and updates actual DOM. This process is called *Reconciliation*.
 
 #### Courses
 - JavaScript Hard Parts v2
