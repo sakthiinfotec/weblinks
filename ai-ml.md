@@ -225,3 +225,52 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Certifications
 [Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
+
+#### ML Stacks
+##### Data Ingestion and Preprocessing:
+* DBT
+* Tection
+* Snowflake
+
+##### Workflow orchestration
+* Kedro
+* Kebeflow
+* AirFlow
+*ZenML
+
+##### Eeperiment Tracking and Model Registry
+* Neptune.ai
+
+##### Experimentation
+*Hyperparameter Optimization*  
+* Optuna
+* Scikit
+* Hyperopt
+* Keras Tuner
+
+*Model Training*  
+* TensorFlow
+* PyTorch
+* Keras
+* XGBoost
+
+*Model Visualizing and Debugging*  
+* Pandas
+* Seaborn
+* Plotly
+* Altair
+
+##### Model Deployment and Serving
+* NVDIA Triton
+* BentoML
+* SageMaker
+
+##### Model Monitoring
+* WHYLABS
+* Evidently
+* Artize
+* Superwise
+* Aporia
+
+Credits: [Track, compare, and share your models in one place – neptune.ai](https://www.youtube.com/watch?v=bQzgnqM5J6U&ab_channel=neptune_ai)  
+
