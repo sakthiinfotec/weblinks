@@ -226,7 +226,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
 
-#### ML Stacks
+### ML Stacks
 ##### Data Ingestion and Preprocessing:
 * DBT
 * Tection
