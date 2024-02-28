@@ -2,7 +2,8 @@
 * [sshx - a Secure, Fast and Collaborative live terminal session sharing over the web](https://sshx.io/)  
 * [sshx - Github {Rust, Svelte.js}](https://github.com/ekzhang/sshx)  
 * [tldraw.com - a Collaborative Digital Whiteboard | Opensource](https://www.tldraw.com/)  
-* [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)  
+* [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)
+* [SDKMAN - Software Development Kit Manager for Windows, Linux and Mac](https://sdkman.io/)  
 
 #### Automation Tools
 * Zapier - For integrations
