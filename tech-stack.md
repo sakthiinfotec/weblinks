@@ -207,7 +207,8 @@ While inter-service communication happens via
     * It removes comments, makes variable names smaller, and removes whitespace.
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
-- [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)  
+- [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)
+- [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)  
 
 ##### Bundlers
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
