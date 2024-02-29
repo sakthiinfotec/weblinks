@@ -5,6 +5,11 @@
 * [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)
 * [SDKMAN - Software Development Kit Manager for Windows, Linux and Mac](https://sdkman.io/)  
 
+#### Mobile App - Screenshots Generator
+* [Previewed App - Create 3D snapshots and animations of iPhone devices.](https://previewed.app/)
+* [Hotpot - Spark creativity and productivity with AI](https://hotpot.ai/)
+* [Screenshots Pro - App Store Screenshots Generator](https://screenshots.pro/#templates)  
+
 #### Automation Tools
 * Zapier - For integrations
 * Automate IO
