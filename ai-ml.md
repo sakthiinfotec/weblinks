@@ -128,7 +128,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [Cohere](https://cohere.ai/)  
  - [AI21 Labs](https://www.ai21.com/)  
  - [GPT4All](https://gpt4all.io/index.html)
- - [Code.org AI](https://code.org/ai)  
+ - [Code.org AI](https://code.org/ai)
+ - [Figure AI - Using AI in Robotics](https://www.figure.ai/about-us)  
 
 #### LLM
 - [Designing LLM Applications with Knowledge Graphs and LangChain - StarDog Blog](https://www.stardog.com/blog/designing-llm-applications-with-knowledge-graphs-and-langchain/)  
