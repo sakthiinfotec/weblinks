@@ -5,7 +5,9 @@
 
 ##### Design
 - [Component Driven User Interfaces by Chromatic](https://www.componentdriven.org/)  
-- [Hadron - a development environment for designers and developers](https://hadron.app/)  
+- [Hadron - a development environment for designers and developers](https://hadron.app/)
+- [Lunacy - Free design software that keeps your flow with AI tools and built-in graphics](https://icons8.com/lunacy)  
+- [Penpot - Design and code beautiful products. Together.](https://penpot.app/)  
 
 ##### Scripting Languages
 - Python
