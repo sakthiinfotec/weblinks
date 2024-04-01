@@ -51,6 +51,13 @@
 #### Spring REST/Web
 [Enabling CORS in Spring Data REST](https://www.amitph.com/spring-data-rest-cors/)  
 
+#### Spring SOAP Web Services
+- [Spring Web Services](https://docs.spring.io/spring-ws/site/reference/html/index.html)  
+- [Using Spring Web Services on the Client](https://docs.spring.io/spring-ws/site/reference/html/client.html)  
+- [Spring Boot SOAP Client – WebServiceTemplate Example](https://howtodoinjava.com/spring-boot/spring-soap-client-webservicetemplate/)
+- [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service)  
+- [Consuming a SOAP web service](https://spring.io/guides/gs/consuming-web-service)  
+
 #### Getting Started
 [CRUD API with Spring Boot, Lombok, JPA, Hibernate and MySQL](https://devwithus.com/crud-api-with-spring-boot-jpa-hibernate-mysql/)  
 
