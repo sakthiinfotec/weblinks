@@ -61,6 +61,9 @@
 #### Getting Started
 [CRUD API with Spring Boot, Lombok, JPA, Hibernate and MySQL](https://devwithus.com/crud-api-with-spring-boot-jpa-hibernate-mysql/)  
 
+#### API Documentation
+- [Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)  
+
 #### Command line (CLI) applications
 - [Apache Commons CLI](https://commons.apache.org/proper/commons-cli/)  
 - [args4j](http://args4j.kohsuke.org/)  
