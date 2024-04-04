@@ -112,6 +112,13 @@ git branch -d qa
 
 ```
 
+#### Git branch
+```sh
+# Rename a branch
+git branch -m old-name new-name
+
+```
+
 #### Git Push/Pull to or from Remote Repository
 ```sh
 git push origin master
