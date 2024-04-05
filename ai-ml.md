@@ -138,7 +138,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [LLM CLI -  a command-line utility and Python library for working with large language models such as GPT-4.](https://simonwillison.net/2023/Jul/12/llm/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)  
 - [Sagar Desai - Blog | LLM](https://sdcodehub.github.io/)
-- [LLM Bootcamp - Full Stack Deep Learning](url)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)  
+- [LLM Bootcamp - Full Stack Deep Learning](url)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)
+- [LiteLLM - An open-source library to simplify LLM completion + embedding calls](https://docs.litellm.ai/)  
 
 #### LlamaIndex
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
