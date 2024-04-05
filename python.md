@@ -56,6 +56,8 @@
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 
 #### Tools
+* [uv - An extremely fast Python package installer and resolver, written in Rust](https://astral.sh/)
+* [Ruff - An extremely fast Python linter and code formatter, written in Rust](https://docs.astral.sh/ruff)  
 [sup - Stack Up](https://github.com/pressly/sup)  
 [Go & Deep Learning tools by Ivan Zhang](https://github.com/1vn)  
 [goose - DB migration tool](https://github.com/pressly/goose)  
