@@ -140,6 +140,15 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Sagar Desai - Blog | LLM](https://sdcodehub.github.io/)
 - [LLM Bootcamp - Full Stack Deep Learning](url)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)  
 
+#### LlamaIndex
+* [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
+* [High-performance RAG with LlamaIndex](https://www.youtube.com/live/wBhY-7B2jdY?si=YXxfLzHlJQzdSqJ3)
+* [Ollama - Get up and running with Llama 2, Mistral, Gemma, and other large language models locally](https://ollama.com/)  
+
+#### LangChain
+* [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
+* [Multi-modal RAG With LangChain 🦜🔗 & GPT-4V | Text + Table + Images from PDF ](https://www.youtube.com/watch?v=-77EvEjuZJY&ab_channel=DataScienceBasics)  
+
 #### GenAI
 - [How Are Consumers Using Generative AI? - by Andreessen Horowitz](https://a16z.com/how-are-consumers-using-generative-ai/)  
  
@@ -174,15 +183,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * Language Model Workflows - Language model workflows, also known as semantic workflows, connect language models together to build intelligent applications.
 * [Dive Into TxtAI Engine of NLP WorkFlows: Building Pipelines, Workflow & RDBMS For Embedding vectors.](https://medium.com/@kamaljp/dive-into-txtai-engine-of-nlp-workflows-building-pipelines-workflow-rdbms-for-embedding-vectors-fe86484e81c9)
 * [Streamlit and txtai: Building an Abstractive Summarization App in Python](https://www.youtube.com/watch?v=35syhmKiwYk&ab_channel=AIAnytime)  
-
-
-#### LlamaIndex
-* [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
-* [High-performance RAG with LlamaIndex](https://www.youtube.com/live/wBhY-7B2jdY?si=YXxfLzHlJQzdSqJ3)  
-
-#### LangChain
-* [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
-* [Multi-modal RAG With LangChain 🦜🔗 & GPT-4V | Text + Table + Images from PDF ](https://www.youtube.com/watch?v=-77EvEjuZJY&ab_channel=DataScienceBasics)  
 
 #### [Build apps with AI](https://www.nocode.mba/tracks/building-apps-with-ai)  
 - How to build an AI writer with GPT-3
@@ -239,7 +239,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * AirFlow
 *ZenML
 
-##### Eeperiment Tracking and Model Registry
+##### Experiment Tracking and Model Registry
 * Neptune.ai
 
 ##### Experimentation
