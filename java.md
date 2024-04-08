@@ -74,4 +74,5 @@
 #### New Language Features
 - [Hello, Java 21! - By JOSH LONG, Spring.io](https://spring.io/blog/2023/09/20/hello-java-21)
 - [Hello, Java 22! - By JOSH LONG, Spring.io](https://spring.io/blog/2024/03/19/hello-java-22)
-- [Migrating 10MinuteMail from Java to GraalVM Native](https://www.digitalsanctuary.com/10minutemail/migrating-10minutemail-from-java-to-graalvm-native.html)  
+- [Migrating 10MinuteMail from Java to GraalVM Native](https://www.digitalsanctuary.com/10minutemail/migrating-10minutemail-from-java-to-graalvm-native.html)
+- [GraalVM Native Image Support in Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/native-image.html)  
