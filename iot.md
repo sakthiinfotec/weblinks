@@ -1,5 +1,23 @@
+
 #### Basics
 [Circuit Basics - Raspberry Pi | Arduino | DIY Electronics](https://www.circuitbasics.com/)  
+
+#### Use cases
+* Smart Energy / Utility Metering
+* Smart Waster Management
+* Smart EV Charging
+* Smart Parking
+* Cold Chain / Fleet Monitoring
+
+#### [IoT Platform Features](https://youtu.be/IRlR8b0xzVs)
+* Module Orchestration * Monitoring
+* Intelligent remote eSIM provisioning
+* Firmware Over-the-air (FOTA) updates
+* Application Data routing
+* IoT Data Subscription Management
+* Web Service API
+* Module and eSIM Life Cycle Management
+
 
 [Make Your Own Smart Sprinkler Controller @Adafruit Blog](https://blog.adafruit.com/2020/10/16/make-your-own-smart-sprinkler-controller-piday-raspberrypi-raspberry_pi/)  
 [Smart Sprinkler - Code @Github](https://github.com/nebhead/irrigator)  
