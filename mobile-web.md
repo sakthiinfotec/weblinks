@@ -321,6 +321,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Google(web.dev) - Responsive Web Design](https://web.dev/learn/design/conclusion/)  
 [Twitter - Advance CSS Sizing Units for Responsive web page](https://twitter.com/ravikmmr/status/1497941355838214144?s=20&t=9RoSQ2lKvzgAmwsMVwHYsg)  
 [CSS breakpoints for responsive design - LogRocket Blog](https://blog.logrocket.com/css-breakpoints-responsive-design/)  
+[How to create a responsive image gallery with CSS flexbox - LogRocket Blog](https://blog.logrocket.com/responsive-image-gallery-css-flexbox/#using-flex-grow-flexbox-property)  
 
 #### SVG
 [A Comprehensive Guide to Clipping and Masking in SVG @Tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)  
