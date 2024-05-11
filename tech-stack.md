@@ -86,6 +86,13 @@
 - Typesense - used to build blazing-fast search experiences, faceted navigation experiences, geo-search, vector search, semantic search, similarity search and much more.
 - PGVector
 
+##### Full-stack Development
+- [Supabase](https://supabase.com/)
+- [Firebase - app development platform](https://firebase.google.com/)  
+- [Convex - the backend-as-a-service for full-stack app development](https://www.convex.dev/)  
+- [Convex Stack](https://stack.convex.dev/)
+
+
 ##### Headless CMS
 - Contentful
 - Strapi
