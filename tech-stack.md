@@ -66,6 +66,9 @@
 ##### API Docs
 [OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)  
 
+##### API Management
+- [RapidAPI - World’s Largest API Hub | Popular and Free APIs](https://rapidapi.com/)  
+
 ##### Datastores
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.  
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
