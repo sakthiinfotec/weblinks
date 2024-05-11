@@ -160,6 +160,9 @@ While inter-service communication happens via
 - Sliding Window
 - Token Bucket
 
+##### IAM
+- [Clerk.com - The most comprehensive User Management Platform](https://clerk.com/)  
+
 ##### CI
 - Jenkins
 - CircleCI
