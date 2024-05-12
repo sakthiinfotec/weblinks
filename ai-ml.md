@@ -140,6 +140,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Sagar Desai - Blog | LLM](https://sdcodehub.github.io/)
 - [LLM Bootcamp - Full Stack Deep Learning](url)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)
 - [LiteLLM - An open-source library to simplify LLM completion + embedding calls](https://docs.litellm.ai/)  
+- [Build a Web Scrapping AI Agent with RAG in just 30 lines of Python Code](https://twitter.com/Saboo_Shubham_/status/1789482377745723878)  
 
 #### LlamaIndex
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
