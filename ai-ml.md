@@ -142,6 +142,24 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [LiteLLM - An open-source library to simplify LLM completion + embedding calls](https://docs.litellm.ai/)  
 - [Build a Web Scrapping AI Agent with RAG in just 30 lines of Python Code](https://twitter.com/Saboo_Shubham_/status/1789482377745723878)  
 
+#### LLM Tools Pattern
+- Analysis
+  * Code Execution
+  * Wolfarm Alfa
+  * Bearly Code Interpreter
+- Research
+  * Search Engine
+  * Web Browsing
+  * Wikipedia
+- Productivity
+  * Email
+  * Calendar
+  * Cloud Storage
+- Images
+  * Image Generation (E.g. DALL-E)
+  * Image Captioning
+  * Object Detection
+
 #### LlamaIndex
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
 * [High-performance RAG with LlamaIndex](https://www.youtube.com/live/wBhY-7B2jdY?si=YXxfLzHlJQzdSqJ3)
@@ -207,9 +225,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Building ML Flow/Pipelines
 - [Simplified workflow of a typical machine learning engineer or a data scientist in general](https://betterprogramming.pub/the-ml-engineer-a-very-simple-machine-learning-project-to-show-the-workflow-of-a-typical-machine-ec1e348bfcba)  
-- [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)  
-- [MLflow - an open source platform for managing the end-to-end machine learning lifecycle](https://mlflow.org/)  
-- 
+- [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)
+- [MLflow - an open source platform for managing the end-to-end machine learning lifecycle](https://mlflow.org/)
 
 #### Deploy ML Apps
 [From Jupyter Notebook to Deployment](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)  
