@@ -38,9 +38,11 @@
 - [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)
 - [Material UI - an open-source React component library that implements Google's Material Design](https://mui.com/material-ui/)
 - [Mantine - A fully featured React Component Library](https://mantine.dev/)
-- [Prime React - Most Complete UI Suite for React.js]()
+- [Prime React - Most Complete UI Suite for React.js](https://primereact.org/)
+- [React Bootstrap - Supports Bootstrap 5](https://react-bootstrap.netlify.app/)
 - [Aceternity Components](https://ui.aceternity.com/components)
 - [React UI Component Libraries - Collection](https://prismic.io/blog/react-component-libraries)
+- [](https://github.com/jaredpalmer/formik)
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
@@ -77,6 +79,7 @@
   * Color
   * Logo
   * Typography
+- [Backstage By Spotify](https://backstage.io/docs/dls/design/)
 - [Polaris By Shopify | Data Visualization | Accessibility | Interaction States | Colors | Typography | Icons | Illustrations | Spacing | Sounds](https://polaris.shopify.com/)
 - [Carbon Design System By IBM | Data Visualization | Patterns | Components | Guidelines | Tutorials](https://carbondesignsystem.com/)
 - [Patterns By Mailchimp | Data Visualization | Grid System | Color | Typography | Components](https://ux.mailchimp.com/patterns/color)
