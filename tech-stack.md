@@ -42,7 +42,7 @@
 - [React Bootstrap - Supports Bootstrap 5](https://react-bootstrap.netlify.app/)
 - [Aceternity Components](https://ui.aceternity.com/components)
 - [React UI Component Libraries - Collection](https://prismic.io/blog/react-component-libraries)
-- [](https://github.com/jaredpalmer/formik)
+- [Formik - Build Forms in React, without the tears](https://github.com/jaredpalmer/formik)
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
