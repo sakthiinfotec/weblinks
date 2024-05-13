@@ -25,17 +25,25 @@
 - Storybook
 - Micro Front End
 - Web graphics (Three.js, WebGL)
+- [Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in between. Supports React.js, Vue, Tailwind, etc](https://astro.build/)
+
+##### UI Component Libraries
+- [Adobe React Spectrum - A React implementation of Spectrum, Adobe’s design system.](https://react-spectrum.adobe.com/react-spectrum/testing.html)
 - [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)
-- [Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in between. Supports React.js, Vue, Tailwind, etc](https://astro.build/)
+- [Mantine - A fully featured React Component Library](https://mantine.dev/)  
 - [Aceternity Components](https://ui.aceternity.com/components)  
 
-##### Design
-[Spline - 3D Design in Web Browser](https://spline.design/)  
-[Rive - Design and Animation app for Mobile and Web](https://rive.app)  
-
 ##### Design Systems
+- [Material Design System By Google](https://material.io/)
+- [Base Web React UI framework By UBER](https://baseweb.design/)
+- [Polaris by Shopify](https://polaris.shopify.com/)
+- [Spectrum by Adobe’s design system](https://spectrum.adobe.com/)
 - [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)  
+
+##### Design
+- [Spline - 3D Design in Web Browser](https://spline.design/)  
+- [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
 ##### Authentication & Authorization
 - SSO tokens
