@@ -106,7 +106,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Cohere | The leading AI platform for enterprise | Cohere provides industry-leading large language models (LLMs) and RAG capabilities](https://cohere.com/)
 * [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/)
 * [Txtai is an all-in-one embedding database for semantic search, LLM orchestration and language model workflows.](https://neuml.github.io/txtai/)
-* [elicit - Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.](https://elicit.com/)  
+* [elicit - Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.](https://elicit.com/)
+* [Viso.ai - End-to-end Infrastructure to Build, Deploy, and Scale Computer Vision Applications](https://viso.ai)
 
 #### AI Art Generator
 - DALL-E 2
