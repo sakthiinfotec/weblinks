@@ -46,6 +46,7 @@
 - [Adle by UXPin - A repository of publicly available design systems and pattern libraries](https://adele.uxpin.com/)
 - [Ant Design](https://ant.design/)
 - [Spectrum By Adobe](https://spectrum.adobe.com/)
+- [Fluent By Microsoft](https://fluent2.microsoft.design/)
 - [Atlassian Design System](https://atlassian.design/)
   * UI components
   * brand values
