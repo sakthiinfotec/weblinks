@@ -39,7 +39,8 @@
 - [Material UI - an open-source React component library that implements Google's Material Design](https://mui.com/material-ui/)
 - [Mantine - A fully featured React Component Library](https://mantine.dev/)
 - [Prime React - Most Complete UI Suite for React.js]()
-- [Aceternity Components](https://ui.aceternity.com/components)  
+- [Aceternity Components](https://ui.aceternity.com/components)
+- [React UI Component Libraries - Collection](https://prismic.io/blog/react-component-libraries)
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
@@ -47,6 +48,7 @@
 - [Ant Design](https://ant.design/)
 - [Spectrum By Adobe](https://spectrum.adobe.com/)
 - [Fluent By Microsoft](https://fluent2.microsoft.design/)
+- [AWS Amplify - Fullstack TypeScript. Frontend DX for AWS]()
 - [Atlassian Design System](https://atlassian.design/)
   * UI components
   * brand values
