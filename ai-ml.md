@@ -151,6 +151,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### LLM Tools Pattern
 - [What's next for Agentic AI workflow by Andrew Ng](https://www.youtube.com/watch?v=sal78ACtGTc&ab_channel=SequoiaCapital)
+  * The set of tasks that AI can do will dramatically expand because of agentic workflows
+  * We have to get used to delegating tasks to AI agents and patiently waiting for their response
+  * Fast token generation is important. Generating more tokens even from a lower-quality LLM can give good results
+
 - Analysis
   * Code Execution
   * Wolfarm Alfa
