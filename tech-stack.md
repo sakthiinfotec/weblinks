@@ -43,6 +43,7 @@
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
+- [Adle by UXPin - A repository of publicly available design systems and pattern libraries](https://adele.uxpin.com/)
 - [Ant Design](https://ant.design/)
 - [Spectrum By Adobe](https://spectrum.adobe.com/)
 - [Atlassian Design System](https://atlassian.design/)
@@ -54,6 +55,14 @@
   * Illustration library
   * Content guidelines
 - [Material Design System By Google](https://material.io/)
+  * Starter Kits
+  * Design Source Files
+  * Material Theming
+  * Layout
+  * Typography
+  * Color
+  * Components
+  * Mobile Guidelines
 - [Base Web By UBER](https://baseweb.design/)
   * Brand Architecture
   * Composition
@@ -69,9 +78,12 @@
 - [Carbon Design System By IBM | Data Visualization | Patterns | Components | Guidelines | Tutorials](https://carbondesignsystem.com/)
 - [Patterns By Mailchimp | Data Visualization | Grid System | Color | Typography | Components](https://ux.mailchimp.com/patterns/color)
 - [Lightning Design System By Salesforce | Design Guidelines | Platforms | Accessibility | Components](https://www.lightningdesignsystem.com/)
-- [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)  
+- [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)
+- [Design System Documentation by UXPin](https://www.uxpin.com/studio/blog/design-system-documentation-guide/)
+- [UXPin Merge to design with React components](https://www.uxpin.com/merge)
 
-##### Style Guides
+##### Design / Style Guides
+- [Apple - Human Interface Guidelines](https://developer.apple.com/design/)
 - [Style Guides - Collection](http://styleguides.io/)
 
 ##### Design
