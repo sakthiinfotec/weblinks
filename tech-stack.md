@@ -35,10 +35,24 @@
 - [Aceternity Components](https://ui.aceternity.com/components)  
 
 ##### Design Systems
+- [Spectrum By Adobe](https://spectrum.adobe.com/)
+- [Atlassian Design System](https://atlassian.design/)
 - [Material Design System By Google](https://material.io/)
 - [Base Web React UI framework By UBER](https://baseweb.design/)
-- [Polaris by Shopify](https://polaris.shopify.com/)
-- [Spectrum by Adobe’s design system](https://spectrum.adobe.com/)
+  * Brand Architecture
+  * Composition
+  * Tone of Voice
+  * Motion
+  * Illustration
+  * Photography
+  * Iconography
+  * Color
+  * Logo
+  * Typography
+- [Polaris By Shopify | Data Visualization | Accessibility | Interaction States | Colors | Typography | Icons | Illustrations | Spacing | Sounds](https://polaris.shopify.com/)
+- [Carbon Design System By IBM | Data Visualization | Patterns | Components | Guidelines | Tutorials](https://carbondesignsystem.com/)
+- [Patterns By Mailchimp | Data Visualization | Grid System | Color | Typography | Components](https://ux.mailchimp.com/patterns/color)
+- [Lightning Design System By Salesforce | Design Guidelines | Platforms | Accessibility | Components](https://www.lightningdesignsystem.com/)
 - [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)  
 
 ##### Design
