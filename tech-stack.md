@@ -111,7 +111,8 @@
 
 ##### Schema Validation
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
-- [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)  
+- [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)
+- [Joi - A powerful data validation library](https://github.com/hapijs/joi)
 - [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
 
 ##### REST API
