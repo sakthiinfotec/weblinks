@@ -150,6 +150,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Build a Web Scrapping AI Agent with RAG in just 30 lines of Python Code](https://twitter.com/Saboo_Shubham_/status/1789482377745723878)  
 
 #### LLM Tools Pattern
+- [What's next for Agentic AI workflow by Andrew Ng](https://www.youtube.com/watch?v=sal78ACtGTc&ab_channel=SequoiaCapital)
 - Analysis
   * Code Execution
   * Wolfarm Alfa
