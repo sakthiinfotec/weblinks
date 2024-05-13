@@ -203,6 +203,9 @@ While inter-service communication happens via
 - [Streamlit - A faster way to build and share data apps](https://streamlit.io/)  
 - [Dash - Build data apps in Dash | Dash is the leading low-code platform for data apps](https://plotly.com/dash/)  
 
+##### Data Engineering
+- [Debezium - an open-source distributed platform for change data capture (CDC) - Sponsored by RedHat | Build on top of Apache Kafka](https://debezium.io/)
+
 ##### AI/ML
 - NLU
   - [DeepPavlov - an open-source conversational AI library built on PyTorch](https://github.com/deeppavlov/DeepPavlov)  
