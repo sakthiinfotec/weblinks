@@ -304,6 +304,9 @@ Immediately Invoked Function Expressions(IIFEs)
 [Function binding - javascript.info](https://javascript.info/bind)  
 [Understanding the Difference Between Object.create and New Operator - Hackernoon (G)](https://hackernoon.com/understanding-the-difference-between-objectcreate-and-new-operator-vfr37ab)  
 
+##### Web APIs
+- [Web Workers Vs. Service Workers in JavaScript: Understanding the Purpose and Scope](https://www.dhiwise.com/post/web-workers-vs-service-workers-in-javascript)
+
 ##### CodeSandBox
 [Kent C Dodds - Code of React Testing Library Course - Good](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
 [React-TS-Unit Test - Testing Stepper Component](https://codesandbox.io/s/kmubx?file=/src/hooks/useStepper/useStepper.test.tsx)  
