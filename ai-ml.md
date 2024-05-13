@@ -113,6 +113,12 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - DALL-E 2
 - Midjourney
 
+#### AI Pretrainded Models
+- Openpose - To detect Human poses
+- google/vit model - Pose-to-Image
+- vit-gpt2 model - Image-to-Text
+- fastspeech - Text-to-Speech
+
 #### AI Tools Collection
 - [Future Tools - A collection of best AI tools](https://www.futuretools.io/)  
 - [All Your Tech.ai - A collection of AI projects](https://allyourtech.ai/directory-ai_projects/)  
