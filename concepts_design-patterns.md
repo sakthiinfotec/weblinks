@@ -37,7 +37,10 @@
 [CQRS (command query responsibility segregation)](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)  
 [CQRS - Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)  
 
-###### gRPC
+##### Datastore
+- [Best Practices for Technical Columns in Database Design - Medium | Incremental Loading | CDC | Audit Columns](https://towardsdatascience.com/best-practices-for-technical-columns-in-database-design-f3fce9357426)
+
+##### gRPC
 ```
 * A High performance protocol built on top of HTTP/2
 * Ideal for the communication between Microservices
