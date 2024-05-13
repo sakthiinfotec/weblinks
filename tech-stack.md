@@ -90,6 +90,7 @@
 
 ##### Design / Style Guides
 - [Apple - Human Interface Guidelines](https://developer.apple.com/design/)
+- [Audi - User Interface Guidelines](https://www.audi.com/ci/en/guides/user-interface/introduction.html)
 - [Style Guides - Collection](http://styleguides.io/)
 
 ##### Design
