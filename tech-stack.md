@@ -37,6 +37,7 @@
 - [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)
 - [Material UI - an open-source React component library that implements Google's Material Design](https://mui.com/material-ui/)
+- [Chakra UI](https://v2.chakra-ui.com/)
 - [Mantine - A fully featured React Component Library](https://mantine.dev/)
 - [Prime React - Most Complete UI Suite for React.js](https://primereact.org/)
 - [React Bootstrap - Supports Bootstrap 5](https://react-bootstrap.netlify.app/)
