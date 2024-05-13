@@ -19,6 +19,11 @@
   - Develop, test, run, and bundle JavaScript & TypeScript projects
   - Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js compatible package manager.
 
+##### Server Side Rendering (SSR)
+- [ Next.js](https://nextjs.org/)
+- [Remix](https://remix.run/)
+- [Gatsby](https://www.gatsbyjs.com/)
+
 ##### Frameworks: 
 - React 
 - NextJS 
@@ -31,14 +36,25 @@
 - [Adobe React Spectrum - A React implementation of Spectrum, Adobe’s design system.](https://react-spectrum.adobe.com/react-spectrum/testing.html)
 - [shadcn/ui - Re-usable components built using Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Radix UI - An open-source component library optimized for fast development](https://www.radix-ui.com/)
-- [Mantine - A fully featured React Component Library](https://mantine.dev/)  
+- [Material UI - an open-source React component library that implements Google's Material Design](https://mui.com/material-ui/)
+- [Mantine - A fully featured React Component Library](https://mantine.dev/)
+- [Prime React - Most Complete UI Suite for React.js]()
 - [Aceternity Components](https://ui.aceternity.com/components)  
 
 ##### Design Systems
+- [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
+- [Ant Design](https://ant.design/)
 - [Spectrum By Adobe](https://spectrum.adobe.com/)
 - [Atlassian Design System](https://atlassian.design/)
+  * UI components
+  * brand values
+  * UI kit
+  * UI patterns
+  * Design tokens
+  * Illustration library
+  * Content guidelines
 - [Material Design System By Google](https://material.io/)
-- [Base Web React UI framework By UBER](https://baseweb.design/)
+- [Base Web By UBER](https://baseweb.design/)
   * Brand Architecture
   * Composition
   * Tone of Voice
@@ -54,6 +70,9 @@
 - [Patterns By Mailchimp | Data Visualization | Grid System | Color | Typography | Components](https://ux.mailchimp.com/patterns/color)
 - [Lightning Design System By Salesforce | Design Guidelines | Platforms | Accessibility | Components](https://www.lightningdesignsystem.com/)
 - [Hardon app - Design Systems](https://github.com/hadronapp/design-systems#contributing)  
+
+##### Style Guides
+- [Style Guides - Collection](http://styleguides.io/)
 
 ##### Design
 - [Spline - 3D Design in Web Browser](https://spline.design/)  
