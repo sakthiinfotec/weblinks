@@ -44,6 +44,9 @@
 - [Aceternity Components](https://ui.aceternity.com/components)
 - [React UI Component Libraries - Collection](https://prismic.io/blog/react-component-libraries)
 - [Formik - Build Forms in React, without the tears](https://github.com/jaredpalmer/formik)
+- [SplideJS - The lightweight, flexible and accessible slider/carousel written in TypeScript, supports React, Vue & Svelte](https://splidejs.com/)
+- [THREE.js - Powerful motion design in the browser](https://www.theatrejs.com/)
+- [Locomotive Scroll | Detection of elements in viewport & smooth scrolling with parallax effects](https://locomotivemtl.github.io/locomotive-scroll/)
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
