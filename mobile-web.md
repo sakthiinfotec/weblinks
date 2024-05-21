@@ -80,6 +80,8 @@
 [Build an API with Node.js, Express, and TypeScript - split.io](https://www.split.io/blog/node-js-typescript-express-tutorial/)  
 [Real-time Chat Application Using Strapi, Next, Socket.io, and PostgreSQL - Strapi](https://strapi.io/blog/real-time-chat-application-using-strapi-next-socket-io-and-postgre-sql)  
 
+#### PWA
+- [Progressive Web Apps By web.dev](https://web.dev/explore/progressive-web-apps)
 
 #### JavaScript - Basics
 [All you need to know about Promise.all - freecodecamp](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/)  
