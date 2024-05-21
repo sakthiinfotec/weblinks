@@ -249,7 +249,8 @@ While inter-service communication happens via
 
 ##### CD
 - ArgoCD
-- [Nomad](https://developer.hashicorp.com/nomad)  
+- [Nomad](https://developer.hashicorp.com/nomad)
+- [Fastlane is a tool for automating mobile app development tasks such as testing, release management, and continuous integration](https://docs.fastlane.tools/)
 
 ##### IaC
 - [Terraform](https://developer.hashicorp.com/terraform)  
