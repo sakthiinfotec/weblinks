@@ -37,6 +37,7 @@
 #### Data Science
 [NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
 * JupyterLab or Binder
+* [stlite: Serverless Streamlit | A port of Streamlit to WebAssembly, powered by Pyodide.](https://github.com/whitphx/stlite)
 
 #### Computing
 [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
