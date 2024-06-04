@@ -306,6 +306,9 @@ git push origin develop
 # To get a list of Git tag names, run
 git tag
 
+# Create a tag
+git tag -a "beta" -m "issues fixed"
+
 # To delete a local tag beta
 git tag -d beta
 
