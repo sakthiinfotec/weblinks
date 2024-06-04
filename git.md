@@ -301,6 +301,17 @@ git merge --no-ff filter-fixes
 git push origin develop
 ```
 
+#### Git tag
+```sh
+# To get a list of Git tag names, run
+git tag
+
+# To delete a local tag beta
+git tag -d beta
+
+# To delete a remote tag beta
+git push origin --delete beta
+```
 
 ##### Guides
 [Git and GitHub - The Complete Guides - Chapter 1: Git Started](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)  
