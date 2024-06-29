@@ -35,6 +35,7 @@
 [Minkasu Pay - US, Bangalore, Coimbatore](https://minkasupay.com/in/careers/)  
 [Nagarro, Remote](https://www.nagarro.com/hiring/fullstack-javascript-developers-architects)  
 [Egnyte - Remote](https://jobs.jobvite.com/egnyte/jobs)  
+[CloudDevs - US Based Remote Jobs ins USA & Europe](https://clouddevs.com/quick-apply/)  
 
 #### Job Boards
 [Pallet - 10 Job Boards You Need to Follow](https://www.newsletter.pallet.xyz/10-job-boards-you-need-to-follow/)  
