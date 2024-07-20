@@ -506,6 +506,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Animate.css | A cross-browser library of CSS animations](https://animate.style/)  
 [A react integration of animate.css (animate.style)](https://reactjsexample.com/a-react-integration-of-animate-css-animate-style/)  
 [React Date Range Picker](https://projects.wojtekmaj.pl/react-daterange-picker/)  
+[Owl Carousel for JQuery](https://owlcarousel2.github.io/OwlCarousel2/index.html)  
 
 #### Cloud Deployment
 [Amplication - Create business applications, without coding | An open-source dev tool for building fully functional server-side Node.js apps with React clients...blazing fast! | Typescript, Node.js, NestJS, Prisma, REST API, a React admin UI, logging, authentication & authorization, Docker](https://amplication.com/)  
