@@ -190,6 +190,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [CodeT5 By researchers from SalesForce. It is based on Google’s T5 (Text-to-Text Transfer Transformer) framework](https://blog.salesforceairesearch.com/codet5)  
  - [Polycoder - Polycoder is an open-source alternative to OpenAI’s Codex. Developed by the researchers at CMU](https://github.com/VHellendoorn/Code-LMs)  
  - [Cogram, a Y-Combinator, Berlin-based Startup, is a code generation tool aimed at data scientists and Python programmers using SQL queries and Jupyter Notebooks](https://www.cogram.com/)  
+ - [Blackbox AI - Supports Visual Code](https://www.blackbox.ai)  
+ - [Codeium - AI-powered coding assistant that can write code, explain/answer questions, refactor and translate code](https://codeium.com/chat)  
 
 #### Vector DB & Search
 * [Atlas Vector Search Explained in 3 minutes](https://www.youtube.com/watch?v=DUxUW0Kg7JM)
