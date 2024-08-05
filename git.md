@@ -314,6 +314,23 @@ git tag -d beta
 
 # To delete a remote tag beta
 git push origin --delete beta
+
+# To delete a local tag
+git tag -d app-production-release-V2.0.7
+
+# To delete a remote tag
+git push origin :refs/tags/app-production-release-V2.0.7
+
+# Create a tag on the current commit point
+git tag app-staging-release-V2.0.8
+git tag app-production-release-V2.0.7
+git push --tags origin
+
+# Git list local tags
+git tag
+
+# Git list remote tags
+git ls-remote --tags origin
 ```
 
 ##### Guides
