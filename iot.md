@@ -27,6 +27,7 @@
 #### ReactNative - IoT
 [Make your first IoT React Native application with Bluetooth Low Energy + Arduino](https://blog.bam.tech/developer-news/make-your-first-iot-react-native-application-with-the-bluetooth-low-energy)  
 [Creating a realtime attendance app with React Native and BLE](https://pusher.com/tutorials/realtime-attendance-react-native-ble)  
+[How to Connect IoT Sensors Wirelessly With a Web Application? - AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2022/09/how-to-connect-iot-sensors-wirelessly-with-a-web-application/)  
 
 #### Hardware Startups in India
 [Open Appliances - Maker of the world's most secure smart locks](https://www.openapp.com/home)  
