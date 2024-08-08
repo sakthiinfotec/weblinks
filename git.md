@@ -106,10 +106,6 @@ git merge <source-branch> <target-branch>
 git checkout qa
 git merge develop qa
 
-# Delete unwanted branch
-git branch -a
-git branch -d qa
-
 ```
 
 #### Git branch
@@ -117,6 +113,9 @@ git branch -d qa
 # Rename a branch
 git branch -m old-name new-name
 
+# Delete unwanted branch
+git branch -a
+git branch -d qa
 ```
 
 #### Git Push/Pull to or from Remote Repository
