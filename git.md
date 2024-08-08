@@ -212,6 +212,26 @@ git cherry-pick <commit id>
 git cherry-pick 02ae45d
 ```
 
+#### Move a commit to another branch
+- Move changes made (by mistake) on one branch into another feature branch
+```sh
+# Step-1: Base branch
+git checkout master
+
+# Step-2: Use git log to get the latest commit hash
+git log
+
+# Step-3: Create a feature branch
+git checkout -b feature-b
+
+# Step-4: Cherry-pick the required commit
+git cherry-pick a1b2c3d
+
+# Step-5: Checkout previous branch and reset feature-a branch back to the previous commit hash (say z1b2c3d)
+git checkout feature-a
+git reset --hard z1b2c3d
+```
+
 #### Git Stash and Patch
 - Stash: Reverts the changes made
 ```sh
