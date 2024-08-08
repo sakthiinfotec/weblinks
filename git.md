@@ -115,7 +115,10 @@ git branch -m old-name new-name
 
 # Delete unwanted branch
 git branch -a
-git branch -d qa
+git branch -d branch-temp
+
+# Delete a remote branch
+git push origin -d branch-temp
 ```
 
 #### Git Push/Pull to or from Remote Repository
