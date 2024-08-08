@@ -279,20 +279,28 @@ git stash show -p --color=never > my-patch-name.patch
 git stash show stash@{0} -p --binary
 
 # Get Patch info
-git apply --stat my-patch-name.patch   # Verify if patch looks good
-git apply --check my-patch-name.patch  # Valide if patch does not have any errors
+git apply --stat my-patch-name.patch   # Verify if the patch looks good
+git apply --check my-patch-name.patch  # Valide if the patch does not have any errors
 
 # Generate patch from diff
 git diff > some-changes.patch
-git diff --staged path/to/file # Diff between a file in current working directory and the one in staged area
+git diff --staged path/to/file # Diff between a file in the current working directory and the one in the staged area
+
+# Apply a patch via Curl
+curl https://example.com/file-0.0.1.diff | git apply
 
 # Apply a patch to the current branch
-git apply my-patch-name.patch
-curl https://example.com/file-0.0.1.diff | git apply 
+git diff previous-commit-id latest-commit-id > some-changes.patch
+git apply some-changes.patch
 
 # Apply a patch of the reverse diff
-git diff commit2 commit1 > some-changes.patch
+git diff latest-commit-id previous-commit-id > some-changes.patch
 git apply -R some-changes.patch
+
+# Exclude set of files while applying patch
+git apply --whitespace=fix patch-name.patch --exclude="src/app/home/home.component.ts"
+git apply --whitespace=fix patch-name.patch --exclude={file1.txt, file2.json}
+
 ```
 
 #### Git Merge and Resolve Conflicts
