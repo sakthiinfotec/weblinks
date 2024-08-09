@@ -54,13 +54,17 @@ function log() {
 db_name="<db-name>"
 log "Using database $db_name ..."
 
+data_dump_path="/opt/backup"
+log "Using database $db_name ..."
+
 # Declare an array of collections
 collections=("collection-1" "collection-2" "collection-3" "collection-4")
 
 # Loop through the collection array
 for collection in "${collections[@]}"; do
-    log "Importing $collection ..."
-    mongoimport --db="$db_name" --collection="$collection" --file=/opt/backup/$collection.json
+    file=$data_dump_path/$collection.json
+    log "Importing $collection from $file ..."
+    mongoimport --db="$db_name" --collection="$collection" --file="$file"
 done
 
 log "All the collections imported successfully"
