@@ -1,6 +1,6 @@
 
 
-#### Delta dump of all MongoDB collections
+#### Delta export of all MongoDB collections
 ```sh
 #!/bin/bash
 
@@ -37,4 +37,31 @@ zip -r /opt/${MONGODB_DATABASE}-new.zip ${MONGODB_DATABASE}
 
 # Print output
 echo "Documents in ${MONGODB_DATABASE}'s  collections are created between ${START_DATE} and ${END_DATE}:" 
+```
+
+#### Import of MongoDB collections
+```sh
+#!/bin/bash
+
+# Log util function
+function log() {
+  local msg=$1
+  local datetime=$(date '+%Y-%m-%d %k:%M:%S')
+  echo "$datetime $msg"
+}
+
+# Mongo database name
+db_name="<db-name>"
+log "Using database $db_name ..."
+
+# Declare an array of collections
+collections=("collection-1" "collection-2" "collection-3" "collection-4")
+
+# Loop through the collection array
+for collection in "${collections[@]}"; do
+    log "Importing $collection ..."
+    mongoimport --db="$db_name" --collection="$collection" --file=/opt/backup/$collection.json
+done
+
+log "All the collections imported successfully"
 ```
