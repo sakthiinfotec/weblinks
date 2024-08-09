@@ -10,6 +10,9 @@
 * [Hotpot - Spark creativity and productivity with AI](https://hotpot.ai/)
 * [Screenshots Pro - App Store Screenshots Generator](https://screenshots.pro/#templates)  
 
+#### Product Management
+- [ClickUp - Projects | Docs | Chat | Whiteboard | Time Tracking | AI | Forms | Sprints](https://clickup.com/)
+
 #### Automation Tools
 * Zapier - For integrations
 * Automate IO
