@@ -65,6 +65,9 @@
 #### API Documentation
 - [Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)  
 
+#### Testing
+- [Datafaker - a library for Java and Kotlin to generate fake data](https://www.datafaker.net/documentation/getting-started/)  
+
 #### Command line (CLI) applications
 - [Apache Commons CLI](https://commons.apache.org/proper/commons-cli/)  
 - [args4j](http://args4j.kohsuke.org/)  
