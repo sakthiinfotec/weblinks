@@ -32,3 +32,23 @@ Here are some links to learn more about mPoweredLabs:
 * Website: https://mpoweredlabs.com/  
 * LinkedIn: https://www.linkedin.com/company/mpoweredlabs/
 * Twitter: https://twitter.com/mpoweredlabs
+
+Most happening Tier-2 cities in India:
+
+1. Indore 
+2. Ahmedabad 
+3. Coimbatore 
+4. Chandigarh 
+5. Jaipur 
+6. Vadodara 
+7. Lucknow 
+8. Surat 
+9. Ludhiana 
+10. Pune 
+11. Bhopal
+12. Mysore
+13. Warangal 
+14. Bhavnagar 
+
+Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or Tier-2 cities. Additionally, Chandigarh's classification as Tier-2 is also debated. 
+ 
