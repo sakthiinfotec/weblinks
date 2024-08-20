@@ -1,7 +1,8 @@
 ##### Design Resources
 [unDraw - Illustrations](https://undraw.co/illustrations)  
 [PNG Img - Search PNG Images](https://pngimg.com/search_image)  
-- [UI Land - The Digital Library for Designers and Engineers](https://ui.land/)  
+- [UI Land - The Digital Library for Designers and Engineers](https://ui.land/)
+- [animations.dev](https://animations.dev/)  
 
 ##### Figma Pluggins
 - Able
