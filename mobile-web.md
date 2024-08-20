@@ -94,6 +94,7 @@
 [3 Ways To Replace All String Occurrences in JavaScript](https://dmitripavlutin.com/replace-all-string-occurrences-javascript/)  
 [A guide to JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)  
 [Flaviocopes - HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js, etc,.](https://flaviocopes.com/)  
+[Working with MDX in Next.js](https://markdotto.com/2024/06/03/nextjs-mdx/)  
 
 #### Javascript - Best Practices
 [Top 10 React Echosystem Tools - Sitepoint](https://www.sitepoint.com/write-maintainable-javascript/)  
