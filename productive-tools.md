@@ -11,7 +11,8 @@
 * [Screenshots Pro - App Store Screenshots Generator](https://screenshots.pro/#templates)  
 
 #### Product Engineering
-- [Pierre - The product engineering tool | Code hosting, review, docs, and CI. One place for product engineers and their teams to focus on what they do best—building products](https://pierre.co/)  
+- [Pierre - The product engineering tool | Code hosting, review, docs, and CI. One place for product engineers and their teams to focus on what they do best—building products](https://pierre.co/)
+- [WorkOS - Build Enterprise Ready Apps | SSO | User Management](https://workos.com)  
 
 #### Product Management
 - [ClickUp - Projects | Docs | Chat | Whiteboard | Time Tracking | AI | Forms | Sprints](https://clickup.com/)
