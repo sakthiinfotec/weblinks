@@ -519,6 +519,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [dev.to - Build and Deploy your Django & React App: Authentication, Docker, AWS Lightsail, GitHub Actions & PostgreSQL](https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl)  
 [Enable cross-origin resource sharing](https://enable-cors.org/server_expressjs.html)  
 [Public APIs for Testing - Github](https://github.com/public-apis/public-apis)  
+[Genezio - Deploy on the fastest full-stack cloud](https://genezio.com/)
 
 #### Web Development Roadmap - 2021
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
