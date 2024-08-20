@@ -168,7 +168,7 @@
 * AWS Lambda
 * JWT
 * OAuth 2.0, SAML, Open ID, SSO
-* [animations.dev - Craft animations that feel right](https://animations.dev/)
+* [animations.dev - Craft animations that feel right | Taught by Emil Kowalski](https://animations.dev/)
 
 #### Node.js
 * Events
