@@ -494,7 +494,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 
 
 #### JavaScript Libraries / npm packages
-- [Sonner - An opinionated toast component for React](https://github.com/emilkowalski/sonner)  
+- [Sonner - An opinionated toast component for React](https://sonner.emilkowal.ski/)  
 [chalk - Display Terminal text with color formatted](https://www.npmjs.com/package/chalk)  
 [clear - Clear Terminal](https://www.npmjs.com/package/clear)  
 [clui - Draw CLI Spinner/Loader](https://www.npmjs.com/package/clui)  
