@@ -34,3 +34,8 @@
 ##### Colors
 - Dark Background Colors: #3FC979, (#2C3444 + Orange)
 - Light Background Colors: #E7EBE7
+
+#### Courses
+- [nan.fyi - Understanding SVG Paths](https://www.nan.fyi/svg-paths)
+- [Refactoring UI](https://www.refactoringui.com/)  
+- [https://rauno.me/craft/depth](https://rauno.me/craft)  
