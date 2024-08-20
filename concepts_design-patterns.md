@@ -169,6 +169,7 @@
 * JWT
 * OAuth 2.0, SAML, Open ID, SSO
 * [animations.dev - Craft animations that feel right | Taught by Emil Kowalski](https://animations.dev/)
+* [UI Engineering 101 for Designers](https://maven.com/pixeljanitor/uiengineering-101-for-designers)
 
 #### Node.js
 * Events
