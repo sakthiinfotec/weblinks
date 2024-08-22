@@ -522,6 +522,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Public APIs for Testing - Github](https://github.com/public-apis/public-apis)  
 [Genezio - Deploy on the fastest full-stack cloud](https://genezio.com/)
 - [How to Host a Web Application for Free](https://genezio.com/blog/how-to-host-a-web-app-host-application-hosting-an-app-application-server-hosting-web-application-hosting-server-free-application-hosting/?deviceId=df2c2791-a8d6-4c50-8f99-109a5f99770b#domain-name-optional-your-apps-digital-address)
+- [Deno - deploy](https://deno.com/deploy)  
 
 #### Web Development Roadmap - 2021
 [Web Developer Roadmap 2021 - Github By Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)  
