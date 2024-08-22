@@ -482,6 +482,7 @@ Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), 
 [Framer Motion - A production-ready motion library for React](https://www.framer.com/motion/)  
 [Micromodal - Modal UI in Javascript](https://micromodal.vercel.app/)  
 [WebGL2 - Fundamentals](https://webgl2fundamentals.org/)  
+[Hono - Web application framework | Works with Deno](https://hono.dev/)  
 
 #### Javascript Build Tools
 [Vite.js - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.](https://vitejs.dev/guide/)  
