@@ -14,3 +14,7 @@
 ##### Cloud Deployments
 [Python Anywhere - Deploy Python Web app on the Cloud!](https://www.pythonanywhere.com/)  
 [Heroku - Deploy Python, Node.js, Ruby, Go and Java applications!](https://www.heroku.com/)  
+
+#### Best Practices
+- [Cloudian - Understanding AWS S3 Storage Pricing: A Comprehensive Guide](https://cloudian.com/blog/5-components-of-aws-s3-storage-pricing/)
+- [CloudZero - The No BS Guide To Understanding S3 Storage Costs](https://www.cloudzero.com/blog/s3-pricing/)  
