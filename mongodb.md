@@ -68,3 +68,6 @@ done
 
 log "All the collections imported successfully"
 ```
+
+#### Writing Scripts
+- [Aggregate and export data as JSON or CSV in Mongo Shell (mongosh) via Medium](https://yflooi.medium.com/aggregate-and-export-data-as-json-or-csv-in-mongo-shell-mongosh-8cfe444a271)
