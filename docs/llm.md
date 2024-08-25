@@ -67,8 +67,8 @@ Llama Index is a data framework for building LLM applications, allowing users to
   - Emergent Properties (Zero-shot learning)
 *Zero=shot Learning:* The capability of a machine learning model to complete a task it was not explicitly tainted to do.
 
-### 3 Levels of using LLMs
-*Level 1: Prompt Engineering*
-*Level 2: Model Fine-tuning*
-*Level 3: Build your own*
+#### 3 Levels of using LLMs
+*Level 1: Prompt Engineering*  
+*Level 2: Model Fine-tuning*  
+*Level 3: Build your own*  
 
