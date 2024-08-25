@@ -85,6 +85,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI Document Processing
 [Rossum.ai - Rossum's powerful AI-based image extractor can extract data from a wide variety of sources regardless of shape, size, or format without templates | Powerful and easy-to-use AI intelligent document processing platform | Integrates with UiPath](https://rossum.ai/home/)  
 
+#### Prompt Engineering
+* [Prompt Engineering Guide](https://www.promptingguide.ai/)  
+
 #### GPT
 * [GPT-Engineer Exploded Overnight, A Prompt Generated The Entire Code Base](https://www.gamingdeputy.com/gpt-engineer-exploded-overnight-a-prompt-generated-the-entire-code-base-github-soared-19k-stars/)  
 * [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/AntonOsika/gpt-engineer)
