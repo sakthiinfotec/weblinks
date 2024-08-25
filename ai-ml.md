@@ -180,7 +180,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### LangChain
 * [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
 * [Multi-modal RAG With LangChain 🦜🔗 & GPT-4V | Text + Table + Images from PDF ](https://www.youtube.com/watch?v=-77EvEjuZJY&ab_channel=DataScienceBasics)
-* [Langflow - Create your AI App!](https://www.langflow.org/)   
+* [Langflow - a new, visual framework for building multi-agent and RAG applications](https://www.langflow.org/)   
 
 #### GenAI
 - [How Are Consumers Using Generative AI? - by Andreessen Horowitz](https://a16z.com/how-are-consumers-using-generative-ai/)  
