@@ -19,7 +19,11 @@ Let's do a little exercise to understand this better. Here's a sentence, and all
 If your answer was "I am going to the store to buy milk", you are right. However, you could have also said "market" or "shop". There are quite a few possible answers for the sentence. If you were able to fill in the blank with something sensible, you just demonstrated how an LLM works.
 
 ##### What is LLM?
-LLM is an AI system that specializes in understanding and generating human languages. It trained on the vast amount of text data allowing it to learn grammar, vocabulary, facts, and even some reasoning abilities. LLMs like GPT-3 use advanced algorithms to generate and predict the input they receive. They can be used in a wide range of applications such as answering questions, writing articles, summarizing text, and even creating poetry. As LLMs continue to evolve, they become increasingly powerful tools that can help us communicate effectively.
+LLM is an AI system that specializes in understanding and generating human languages. It trained on the vast amount of text data allowing it to learn grammar, vocabulary, facts, and even some reasoning abilities. LLMs like GPT-3 use advanced algorithms to generate and predict the input they receive. They can be used in a wide range of applications such as answering questions, writing articles, summarizing text, and even creating poetry. As LLMs continue to evolve, they become increasingly powerful tools that can help us communicate effectively. LLM models are a breakthrough in Natural Language Processing (NLP), enabling machines to understand and generate human-like language. LLMs are built using Deep Learning techniques and trained on a vast amount of text data which allows them to recognize patterns and relationships within human language. They can then use this learnings to perform a variety of tasks such as 
+- Answering questions
+- Generating text
+- Language translations or even translation between languages
+
 
 ##### How does it work?
 
@@ -50,3 +54,8 @@ Once the model is trained, the next stage is inference. The trained model can no
 **MT-NLG:** Megatron-Turing Natural Language Generation (MT-NLG), jointly developed by Nvidia and Microsoft, serves as the successor to Microsoft's Megatron-LM and Nvidia's Turing NLG 17B. These models underwent training on Nvidia's Selene ML supercomputer, utilising a dataset consisting of 530 billion parameters. With its 105-layer deep neural network, MT-NLG can perform a wide range of natural language tasks, including completion prediction, reading comprehension, intelligent reasoning, language inferences, and more.
 
 **Bloom:** BigScience Large Open-science Open-access Multilingual Language Model is an open-source LLM built by a consortium of over 1,000 AI researchers and trained on 176 billion parameters. The model is capable of generating text in 46 languages and code in 13 programming languages.
+
+##### Use cases
+- Answering questions
+- Generating text
+- Language translations or event translation between languages
