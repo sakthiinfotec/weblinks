@@ -68,3 +68,4 @@ Llama Index is a data framework for building LLM applications, allowing users to
   - Number of Parameters (i.e. ~ 10 - 100 Billian)
 * Qualitative (
   - Emergent Properties (Zero-shot learning)
+*Zero=shot Learning:* The capability of a machine learning model to complete a task it was not explicitly tainted to do.
