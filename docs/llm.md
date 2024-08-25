@@ -63,3 +63,8 @@ Once the model is trained, the next stage is inference. The trained model can no
 #### LlamaIndex
 Llama Index is a data framework for building LLM applications, allowing users to use LLMs but on their private data. It consists of multiple tools to get, import, and ingest data into your application, like reading from APIs or PDfs or documents or SQL databases, and then it provides advanced retrieval and a query interface on that data. After that ingestion and building of these indices, it's usually followed by a step of generation where a generation model is presented with let's say, the question and retrieved answers and the model answers the question based on that retrieved data. 
 
+#### Properties of LLMs
+* Quantitative
+  - Number of Parameters (i.e. ~ 10 - 100 Billian)
+* Qualitative (
+  - Emergent Properties (Zero-shot learning)
