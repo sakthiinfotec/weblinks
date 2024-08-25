@@ -18,9 +18,12 @@ Let's do a little exercise to understand this better. Here's a sentence, and all
 
 If your answer was "I am going to the store to buy milk", you are right. However, you could have also said "market" or "shop". There are quite a few possible answers for the sentence. If you were able to fill in the blank with something sensible, you just demonstrated how an LLM works.
 
+##### What is LLM?
+LLM is an AI system that specializes in understanding and generating human languages. It trained on the vast amount of text data allowing it to learn grammar, vocabulary, facts, and even some reasoning abilities. LLMs like GPT-3 use advanced algorithms to generate and predict the input they receive. They can be used in a wide range of applications such as answering questions, writing articles, summarizing text, and even creating poetry. As LLMs continue to evolve, they become increasingly powerful tools that can help us communicate effectively.
+
 ##### How does it work?
 
-Language models rely on neural networks, which are machine-learning algorithms inspired by the human brain. These networks comprise interconnected nodes organised in layers, with each layer processing information and transmitting it to the next layer.
+Language models rely on neural networks, which are machine-learning algorithms inspired by the human brain. These networks comprise interconnected nodes organized in layers, each processing information and transmitting it to the next layer.
 
 For language models specifically, the neural network takes a word sequence as input and produces an output by predicting the most probable sequence of words.
 
