@@ -150,7 +150,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Sagar Desai - Blog | LLM](https://sdcodehub.github.io/)
 - [LLM Bootcamp - Full Stack Deep Learning](url)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)
 - [LiteLLM - An open-source library to simplify LLM completion + embedding calls](https://docs.litellm.ai/)  
-- [Build a Web Scrapping AI Agent with RAG in just 30 lines of Python Code](https://twitter.com/Saboo_Shubham_/status/1789482377745723878)  
+- [Build a Web Scrapping AI Agent with RAG in just 30 lines of Python Code](https://twitter.com/Saboo_Shubham_/status/1789482377745723878)
+- [DataStax - Astra DB - Build a Text-to-SQL](https://docs.datastax.com/en/astra-db-serverless/tutorials/text2sql.html)  
 
 #### LLM Tools Pattern
 - [What's next for Agentic AI workflow by Andrew Ng](https://www.youtube.com/watch?v=sal78ACtGTc&ab_channel=SequoiaCapital)
