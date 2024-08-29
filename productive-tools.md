@@ -5,6 +5,13 @@
 * [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)
 * [SDKMAN - Software Development Kit Manager for Windows, Linux and Mac](https://sdkman.io/)  
 
+#### Diagram Tools
+- [Mermaid Live](https://mermaid.live/)
+- [Mermaid Chart | Supports AI](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=banner_ad&utm_campaign=teams)  
+- [Draw.io](https://app.diagrams.net/)
+- Figma
+- Canva
+
 #### Mobile App - Screenshots Generator
 * [Previewed App - Create 3D snapshots and animations of iPhone devices.](https://previewed.app/)
 * [Hotpot - Spark creativity and productivity with AI](https://hotpot.ai/)
