@@ -7,7 +7,8 @@
 
 #### Diagram Tools
 - [Mermaid Live](https://mermaid.live/)
-- [Mermaid Chart | Supports AI](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=banner_ad&utm_campaign=teams)  
+- [Mermaid Chart | Supports AI](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=banner_ad&utm_campaign=teams)
+- [yworks - yed live](https://www.yworks.com/yed-live/)  
 - [Draw.io](https://app.diagrams.net/)
 - Figma
 - Canva
