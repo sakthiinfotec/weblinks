@@ -89,8 +89,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 #### Prompts
-*V0.dev*  
-- Supports React.js, Next.js, Tailwind CSS and Shadcn UI components out of the box
+*V0.dev* - Supports React.js, Next.js, Tailwind CSS and Shadcn UI components out of the box  
 - SAAS User onboard flow
 - A Price section with title and description
 - Select individual part of UI to refine your design
@@ -100,6 +99,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [GPT-Engineer Exploded Overnight, A Prompt Generated The Entire Code Base](https://www.gamingdeputy.com/gpt-engineer-exploded-overnight-a-prompt-generated-the-entire-code-base-github-soared-19k-stars/)  
 * [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/AntonOsika/gpt-engineer)
 * [Open AI - Cookbook](https://xautomate.io/)  
+
+#### SDKs
+- [Vercel AI SDK 3.3](https://vercel.com/blog/vercel-ai-sdk-3-3-3OnRtxG6a0rwvcJVu3qADv)  
 
 #### Opensource AI Apps
 [AI Companion App by a16z-infra | Next.js, VectorDB, LLM](https://github.com/a16z-infra/companion-app)  
