@@ -87,6 +87,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Prompt Engineering
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
+* [The Prompt Report: A Systematic Survey of Prompting Techniques](https://trigaten.github.io/Prompt_Survey_Site/)
 
 #### Prompts
 *V0.dev* - Supports React.js, Next.js, Tailwind CSS and Shadcn UI components out of the box  
