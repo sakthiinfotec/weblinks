@@ -132,6 +132,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - google/vit model - Pose-to-Image
 - vit-gpt2 model - Image-to-Text
 - fastspeech - Text-to-Speech
+- [Kolors - Virtual clothing trials](https://x.com/shyjal/status/1830824363303805278)
+- [Kolors - Chrome extension Github](https://github.com/shyjal/visual-try-on)  
 
 #### AI Tools Collection
 - [Future Tools - A collection of best AI tools](https://www.futuretools.io/)  
@@ -150,7 +152,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [AI21 Labs](https://www.ai21.com/)  
  - [GPT4All](https://gpt4all.io/index.html)
  - [Code.org AI](https://code.org/ai)
- - [Figure AI - Using AI in Robotics](https://www.figure.ai/about-us)  
+ - [Figure AI - Using AI in Robotics](https://www.figure.ai/about-us)
+ - [Cloudinary - AI based Image APIs - Unleash the full potential of media to create the most engaging visual experiences](https://cloudinary.com/image-api)
+ - [Cloudinary - Developers](https://cloudinary.com/developers)
 
 #### LLM
 - [Designing LLM Applications with Knowledge Graphs and LangChain - StarDog Blog](https://www.stardog.com/blog/designing-llm-applications-with-knowledge-graphs-and-langchain/)  
