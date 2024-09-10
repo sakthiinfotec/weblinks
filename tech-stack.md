@@ -508,3 +508,14 @@ h. Testing tools (Jest/Cypress/Enzyme)
 i. Linters (ESLint)  
 j. Performance and Optimizations (AMP, Web Vitals & SEO Optimizations, Lighthouse, Dev Tools, PRPL/RAIL models, and Performance Metrics)  
 k. Web development concepts like Web Security Fundamentals, CORS, Content Security Policies, Virtual DOM, Browser Storage, Web Sockets, Service Workers.  
+
+#### Vercel + Next.js Techstack
+@nextjs
+@vercel
+@nextauthjs
+@prisma
+@honojs
+@resend
+@shadcn
+@tailwindcss
+@neondatabase
