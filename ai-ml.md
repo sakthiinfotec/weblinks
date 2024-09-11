@@ -97,9 +97,12 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - Upload a design image
 
 #### GPT
+* [Open AI - Cookbook](https://xautomate.io/)
+* [Mistral AI - Cookbook](https://github.com/mistralai/cookbook)  
+
+#### GPT
 * [GPT-Engineer Exploded Overnight, A Prompt Generated The Entire Code Base](https://www.gamingdeputy.com/gpt-engineer-exploded-overnight-a-prompt-generated-the-entire-code-base-github-soared-19k-stars/)  
 * [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/AntonOsika/gpt-engineer)
-* [Open AI - Cookbook](https://xautomate.io/)  
 
 #### SDKs
 - [Vercel AI SDK 3.3](https://vercel.com/blog/vercel-ai-sdk-3-3-3OnRtxG6a0rwvcJVu3qADv)  
