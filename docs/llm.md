@@ -93,4 +93,7 @@ list of top models based on the task
 - 🧠 Knowledge Graph: Generate with @CamelAIOrg's KG agents and store with @neo4j
 - 🤖 Multi-Agent Role-Playing: Automate tasks with AI agents using @MistralAI Mistral Large 2
 - 👀 Agent Monitoring: Use @AgentOpsAI to manage and oversee operations
+- Music generation models: Suno and Limewire
+- Ressearch: Grok and Perplexity AI
+
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
