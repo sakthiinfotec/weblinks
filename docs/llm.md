@@ -72,3 +72,25 @@ Llama Index is a data framework for building LLM applications, allowing users to
 *Level 2: Model Fine-tuning*  
 *Level 3: Build your own*  
 
+#### LLM Models and Usecases
+list of top models based on the task
+
+- Code - Sonnet 3.5
+- Images - Flux Pro
+- Research on the Intenet - GPT-4
+- RAG / in-context learning - GPT-4
+- Video analysis - Gemini
+- Video generation - Kling
+- "Le Chat Robot": fine-tuned Mistral 7b to control robotic arms
+- "Midistral": fine-tuned Mistral Small to create music
+- "Alplex" : fine-tuned Mistral 7b for legal assistants
+- 🔍Web Search: Search and get web links with @DuckDuckGo
+- 🔥 Web Scraping: Get LLM-friendly markdown content from the URLs with @firecrawl_dev
+- 🧩 Chunking: Organize data with @UnstructuredIO
+- ✨ Embedding: Embed data with @MistralAI Embed.
+- 🗂️ Vector database: Retrieve embeddings with @Qdrant_engine
+- 🐫 Info Retrieval: Aggregate data using @CamelAIOrg's RAG.
+- 🧠 Knowledge Graph: Generate with @CamelAIOrg's KG agents and store with @neo4j
+- 🤖 Multi-Agent Role-Playing: Automate tasks with AI agents using @MistralAI Mistral Large 2
+- 👀 Agent Monitoring: Use @AgentOpsAI to manage and oversee operations
+Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
