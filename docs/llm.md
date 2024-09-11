@@ -102,3 +102,11 @@ Super intelligence is NOT going to be one model, it will an ensemble of models w
 - A 24/7 customer service expert
 - Your personal {domain} assistant /  finance assistant: Handles a wide array of queries, including refunds, returns, payment-related issues, cancellations, disputes, and invoice inaccuracies, ensuring swift and effective solutions.
 - Multilingual chat support
+- Voice assistants: AI voice assistants can be found in smartphones, smart speakers, and cars, and can perform a variety of functions, such as playing music, looking up facts, and controlling smart home devices.
+- Image recognition for face unlock in mobile phones
+- ML-based financial fraud detection
+- Research assistant
+- Text summarization and transformation
+- Voice-to-Text and Text-to-Voice
+- OCR
+
