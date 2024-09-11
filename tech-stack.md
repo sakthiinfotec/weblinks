@@ -402,7 +402,8 @@ While inter-service communication happens via
 - ArgoCD, CircleCI, Grafana, Prometheus, Kubernetes, GCP, Infrastructure as Code (Terraform), Service Mesh (Linkerd), Cloudflare
 
 ##### Documentation
-[Jupyter Book - Build beautiful, publication-quality books and documents from computational content](https://jupyterbook.org/en/stable/start/build.html)  
+- [Jupyter Book - Build beautiful, publication-quality books and documents from computational content](https://jupyterbook.org/en/stable/start/build.html)  
+- [Mintlify - The modern standard for documentation](https://mintlify.com/)  
 
 ##### Community Forum
 [Discourse - Community Forum](https://github.com/discourse/discourse)  
