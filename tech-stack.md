@@ -516,12 +516,38 @@ k. Web development concepts like Web Security Fundamentals, CORS, Content Securi
 - Experience with LLMs and OpenAI API: Practical knowledge of large language models and the OpenAI API.
 - Experience with REST APIs and web sockets: Familiarity with third-party system integrations.
 - Proficiency in English: Effective communication and problem-solving skills.
-
+'
 **Awesome to Have**
 - Familiarity with GenAI Libraries: Experience with Hugging Face and LangChain.
 - Cloud Technologies: Proficiency in AWS (Serverless, Lambda, Redshift, S3, EC2).
 - CI/CD and Monitoring Tools: Understanding of Jenkins and Datadog.
 - Building Slack Bots/Integrations: Experience in developing Slack bots and integrations.
+
+#### [Klarna - Lead Engineer - Python](https://klarnagroup.teamtailor.com/jobs/4896656-lead-engineer-python)
+- MLOps expertise
+- Experience with Sagemaker
+- Experience with Kubernetes
+- Monitoring and logging tools
+- Python programming
+- Data science libraries (scikit-learn, TensorFlow, PyTorch)
+- API frameworks ([aiohttp](https://docs.aiohttp.org/en/stable/), Flask)
+- CI/CD pipeline writing
+- Generalist programming mindset
+- Cross-language automation coding
+
+#### [Klarna - Senior Software Engineer - Java](https://klarnagroup.teamtailor.com/jobs/4915290-senior-software-engineer-java)
+The key tech skills required for the backend Java developer position are:
+
+- Java (latest versions)
+- Spring Framework (including Spring Boot)
+- Docker
+- Kubernetes
+- Kafka
+- PostgreSQL
+- DynamoDB
+- Elasticsearch
+- Microservices architecture
+- AWS (Amazon Web Services)
 
 #### Vercel + Next.js Techstack
 - @nextjs
