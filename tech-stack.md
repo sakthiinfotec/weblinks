@@ -510,13 +510,26 @@ i. Linters (ESLint)
 j. Performance and Optimizations (AMP, Web Vitals & SEO Optimizations, Lighthouse, Dev Tools, PRPL/RAIL models, and Performance Metrics)  
 k. Web development concepts like Web Security Fundamentals, CORS, Content Security Policies, Virtual DOM, Browser Storage, Web Sockets, Service Workers.  
 
+#### [Klarna - Software Engineer - Python/AI](https://klarnagroup.teamtailor.com/jobs/4629663-software-engineer-python-ai-contract)
+- Backend Engineering with Python: Strong Python skills, including Python 3 basics and experience with web frameworks like FastAPI.
+- Experience with PostgreSQL and SQL: Proficient in using PostgreSQL and SQL for database management.
+- Experience with LLMs and OpenAI API: Practical knowledge of large language models and the OpenAI API.
+- Experience with REST APIs and web sockets: Familiarity with third-party system integrations.
+- Proficiency in English: Effective communication and problem-solving skills.
+
+**Awesome to Have**
+- Familiarity with GenAI Libraries: Experience with Hugging Face and LangChain.
+- Cloud Technologies: Proficiency in AWS (Serverless, Lambda, Redshift, S3, EC2).
+- CI/CD and Monitoring Tools: Understanding of Jenkins and Datadog.
+- Building Slack Bots/Integrations: Experience in developing Slack bots and integrations.
+
 #### Vercel + Next.js Techstack
-@nextjs
-@vercel
-@nextauthjs
-@prisma
-@honojs
-@resend
-@shadcn
-@tailwindcss
-@neondatabase
+- @nextjs
+- @vercel
+- @nextauthjs
+- @prisma
+- @honojs
+- @resend
+- @shadcn
+- @tailwindcss
+- @neondatabase
