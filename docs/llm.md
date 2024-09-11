@@ -109,4 +109,5 @@ Super intelligence is NOT going to be one model, it will an ensemble of models w
 - Text summarization and transformation
 - Voice-to-Text and Text-to-Voice
 - OCR
+- Decision making (Credit / Risk management)
 
