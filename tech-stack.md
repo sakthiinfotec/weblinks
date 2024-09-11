@@ -549,6 +549,15 @@ The key tech skills required for the backend Java developer position are:
 - Microservices architecture
 - AWS (Amazon Web Services)
 
+#### [Klarna - Fullstack Software Engineer - JavaScript](https://klarnagroup.teamtailor.com/jobs/4632962-fullstack-software-engineer-javascript)
+The key technical skills for the Full-Stack JavaScript Engineer:
+
+- JavaScript / TypeScript
+- React and React Native
+- Redux
+- Node.js and Express.js
+- AWS, Splunk, Ansible, Terraform, Jenkins, Docker, Kubernetes, Kafka
+
 #### Vercel + Next.js Techstack
 - @nextjs
 - @vercel
