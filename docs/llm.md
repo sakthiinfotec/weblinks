@@ -97,3 +97,8 @@ list of top models based on the task
 - Ressearch: Grok and Perplexity AI
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
+
+#### AI Assistant
+- A 24/7 customer service expert
+- Your personal {domain} assistant /  finance assistant: Handles a wide array of queries, including refunds, returns, payment-related issues, cancellations, disputes, and invoice inaccuracies, ensuring swift and effective solutions.
+- Multilingual chat support
