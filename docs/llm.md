@@ -98,6 +98,7 @@ list of top models based on the task
 - [Fish Audio](https://x.com/FishAudio/status/1833787529595912531)
 - [Fish Speech | TTS](https://speech.fish.audio/)
 - [Pipio - The AI-powered video production platform](https://www.pipio.ai/)
+- [SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors](https://daveredrum.github.io/SceneTex/)
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
 
