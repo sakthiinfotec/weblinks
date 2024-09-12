@@ -97,6 +97,7 @@ list of top models based on the task
 - Ressearch: Grok and Perplexity AI
 - [Fish Audio](https://x.com/FishAudio/status/1833787529595912531)
 - [Fish Speech | TTS](https://speech.fish.audio/)
+- [Pipio - The AI-powered video production platform](https://www.pipio.ai/)
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
 
