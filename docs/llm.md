@@ -95,6 +95,8 @@ list of top models based on the task
 - 👀 Agent Monitoring: Use @AgentOpsAI to manage and oversee operations
 - Music generation models: Suno and Limewire
 - Ressearch: Grok and Perplexity AI
+- [Fish Audio](https://x.com/FishAudio/status/1833787529595912531)
+- [Fish Speech | TTS](https://speech.fish.audio/)
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
 
