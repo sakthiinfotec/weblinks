@@ -74,24 +74,6 @@ code .gitignore
 git mv severe.js server.js
 ```
 
-#### Git Diff
-- To view difference between 2 commits. By default it will show a difference between current working directory and HEAD commit.
-
-```sh
-# Changes between Working Dir vs Stagged
-git diff
-
-# Changes between Stagged vs Committed
-git diff --staged
-
-# Configure difftool settings
-git config --global diff.tool "vscode"
-git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
-
-git difftool
-git difftool --staged
-```
-
 #### Git Commit
 ```sh
 # Add file to the staging area
@@ -234,6 +216,39 @@ git checkout feature-a
 git reset --hard z1b2c3d
 ```
 
+#### Git Diff
+- To view difference between 2 commits. By default it will show a difference between current working directory and HEAD commit.
+
+```sh
+# Changes between Working Dir vs Stagged
+git diff
+
+# This will output the changes of that current file to its previous committed state.
+git diff filename
+
+# This will output the modifications of the current branch to the mentioned branch to its previous committed state.
+git diff branch_name
+
+# Changes between Stagged vs Committed
+git diff --staged
+
+# Once the changes are added to Git or moved to staging, you will not be able to see the diff of the files. To see the staged changes, you can use diff with --staged or --cached option.
+git diff --staged (or --cached) path/to/file
+
+# To see the changes from both staged and unstaged changes (not untracked files) together, you can use the git diff HEAD command
+git diff HEAD
+
+# To see the difference between any two commits you can use this git diff command where you need to mention the two commit ids.
+git diff commit_id1 commit_id2
+
+# Configure difftool settings
+git config --global diff.tool "vscode"
+git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
+
+git difftool
+git difftool --staged
+```
+
 #### Git Stash and Patch
 - Stash: Reverts the changes made
 ```sh
@@ -301,6 +316,11 @@ git apply -R some-changes.patch
 git apply --whitespace=fix patch-name.patch --exclude="src/app/home/home.component.ts"
 git apply --whitespace=fix patch-name.patch --exclude={file1.txt, file2.json}
 
+# Apply a patch only from the included files
+git apply --include=file_name.ext patch_file.patch 
+
+# To apply only changes that are getting removed (only changes in red will be applied and green will be excluded)
+git apply --no-add patch_file.patch
 ```
 
 #### Git Merge and Resolve Conflicts
