@@ -336,3 +336,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 Credits: [Track, compare, and share your models in one place – neptune.ai](https://www.youtube.com/watch?v=bQzgnqM5J6U&ab_channel=neptune_ai)  
 
+#### AI Computing Companies
+- NVDIA
+- Cerebras
+- Lightmatter
+- Groq
+
