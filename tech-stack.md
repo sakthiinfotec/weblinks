@@ -54,6 +54,7 @@
 - [SplideJS - The lightweight, flexible and accessible slider/carousel written in TypeScript, supports React, Vue & Svelte](https://splidejs.com/)
 - [THREE.js - Powerful motion design in the browser](https://www.theatrejs.com/)
 - [Locomotive Scroll | Detection of elements in viewport & smooth scrolling with parallax effects](https://locomotivemtl.github.io/locomotive-scroll/)
+- [T3 App - The best way to start a full-stack, typesafe Next.js app | Supports tRPC, Tailwind CSS, Prisma, nextAuth](https://create.t3.gg/)
 
 ##### Design Systems
 - [Github - A collection of Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
