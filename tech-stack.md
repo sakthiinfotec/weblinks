@@ -108,6 +108,10 @@
 - [Spline - 3D Design in Web Browser](https://spline.design/)  
 - [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
+##### Diagram
+- [Eraser - Draw System, Data Flow and Architecture Diagram using AI](https://app.eraser.io/)
+- [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
+
 ##### Authentication & Authorization
 - SSO tokens
 - OAuth 2.0 and JWT patterns
