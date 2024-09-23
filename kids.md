@@ -28,7 +28,8 @@
 [Get Body Smart - Learn Anatomy of Human Body like Nervous System | Urinary System | Respiratory System](https://www.getbodysmart.com/nervous-system/)  
 
 #### Higher Studies
-[SATHI by IITKGP - A unique National Facility for promoting cutting Edge Research aimed at catering to the needs of Industry, Start up, MSME, R&D laboratories and Academia](http://www.sathi.iitkgp.ac.in/)  
+- [SATHI by IITKGP - A unique National Facility for promoting cutting Edge Research aimed at catering to the needs of Industry, Start up, MSME, R&D laboratories and Academia](http://www.sathi.iitkgp.ac.in/)  
+- [School Connect Program by IITM | Data Science and AI and Electronic Systems](https://school-connect.study.iitm.ac.in/)
 
 #### Study
 [இன்ஸ்டிடியூட் ஆப் ஆஸ்ட்ரோனேடிக்ஸ் அண்ட் ஏவியேஷன் - Chennai](https://www.dinamalar.com/news_detail.asp?id=2806226)  
