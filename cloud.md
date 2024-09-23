@@ -12,8 +12,10 @@
 [AWS Certified Solutions Architect Associate SAA-C03 Video Course - Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-exam-video-course/)  
 
 ##### Cloud Deployments
-[Python Anywhere - Deploy Python Web app on the Cloud!](https://www.pythonanywhere.com/)  
-[Heroku - Deploy Python, Node.js, Ruby, Go and Java applications!](https://www.heroku.com/)  
+- [Python Anywhere - Deploy Python Web app on the Cloud!](https://www.pythonanywhere.com/)  
+- [Heroku - Deploy Python, Node.js, Ruby, Go and Java applications!](https://www.heroku.com/)  
+- [Depot - Accelerate your Docker image builds and GitHub Actions workflows.](https://depot.dev/)
+- [Open Status - Status Monitoring Services](https://www.openstatus.dev/)
 
 #### Best Practices
 - [Cloudian - Understanding AWS S3 Storage Pricing: A Comprehensive Guide](https://cloudian.com/blog/5-components-of-aws-s3-storage-pricing/)
