@@ -111,6 +111,7 @@
 ##### Diagram
 - [Eraser - Draw System, Data Flow and Architecture Diagram using AI](https://app.eraser.io/)
 - [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
+- [Chat UML - AI Diagramming](https://chatuml.com/edit/new)
 
 ##### Authentication & Authorization
 - SSO tokens
