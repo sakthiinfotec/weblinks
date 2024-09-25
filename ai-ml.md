@@ -148,7 +148,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - Synthetic Data
 - Vault
 - Syntho
-
+- [Python Faker - Creating Synthetic Data with Python Faker](https://www.datacamp.com/tutorial/creating-synthetic-data-with-python-faker-tutorial)
 
 #### AI Art Generator
 - DALL-E 2
