@@ -127,6 +127,29 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Viso.ai - End-to-end Infrastructure to Build, Deploy, and Scale Computer Vision Applications](https://viso.ai)
 * [Ardent AI - Your AI Data Engineer | Perform Data Engineering tasks 100x faster](https://www.ardentai.io/)  
 
+#### Synthetic Data
+- [Mostly.ai](https://mostly.ai/)
+- [Gretel.ai](https://gretel.ai)
+- Synthea
+- Tonic
+- Faker
+- Broadcom CTA
+- Test Manager
+- BixData X
+- Datomize
+- EdgeCase
+- GenRocket
+- Hazy
+- K2View
+- KopiKat
+- MDClone
+- Simerse
+- Sogeti
+- Synthetic Data
+- Vault
+- Syntho
+
+
 #### AI Art Generator
 - DALL-E 2
 - Midjourney
