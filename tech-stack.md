@@ -152,12 +152,14 @@
 - [RapidAPI - World’s Largest API Hub | Popular and Free APIs](https://rapidapi.com/)  
 
 ##### Datastores
-- [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.  
+- [Supabase - an open source Firebase alternative, a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, Chat memory, Vector DB](https://supabase.com/)
+- [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.
+- [MindsDB is the platform for building AI from enterprise data. You can create, serve, and fine-tune models in real-time from your database, vector store, and application data](https://mindsdb.com/)
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
-[DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
-[Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
-[SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)  
-[Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
+- [DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
+- [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
+- [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)  
+- [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
 
 ##### Message Queue / Middlewares
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
