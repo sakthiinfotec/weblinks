@@ -584,3 +584,6 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - @shadcn
 - @tailwindcss
 - @neondatabase
+
+#### App Developement
+- [Build a Full-Stack AI Web App (Consultant Report Generator) in 12 Minutes: Cursor, OpenAI o1, V0, Firecrawl & Patched](https://www.youtube.com/watch?v=utEzCj5ASPY)
