@@ -132,6 +132,10 @@
 - [Joi - A powerful data validation library](https://github.com/hapijs/joi)
 - [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
 
+##### API Design Guides
+- [API Stylebook - Collections Of Resources For API Designers | Publicly available API design guidelines](https://apistylebook.com/design/guidelines/)
+- [Mintlify - API Document Writer](https://www.mintlify.com/writer)
+
 ##### REST API
 - [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)  
 - [REST CookBook](https://restcookbook.com/)  
