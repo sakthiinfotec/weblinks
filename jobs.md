@@ -122,6 +122,17 @@ Excellent to have:
 * Exposure to DS/Algo fundamentals
 * HTML5 latest APIs
 
+[Staff Machine Learning Engineer - User Voice](https://www.lifeatcanva.com/en/jobs/743999992177275/staff-machine-learning-engineer-user-voice/)
+- You have more than 5 years of Industry experience in the machine learning/software engineering role with a Product/SaaS company.
+- You have experience with industry-level high scale Natural Language Systems.
+- You have experience building and deploying machine learning models, including a strong understanding of end-to-end machine learning pipelines and components.
+- You have strong coding proficiency in Python (note that interviews will be in Python).
+- You are familiar with several of the following: TensorFlow, PyTorch, scikit-learn, Langchain and Huggingface.
+- You have worked with RAG architectures and/or have a good understanding of its application.
+- You have a strong understanding of Computer Science/Engineering fundamentals and first principles covering system design, data structures, architecture, and design patterns.
+- You have ideally previously worked in Customer Support and/or Business Process automation role.
+- You have excellent collaboration and communication skills. You enjoy pairing with and mentoring other engineers.
+- You have a proven ability to set medium to long-term vision for the team in the AI space.
 
 [DevOps Engineer](https://amplication.breezy.hr/p/18a02ed13c67-senior-devops-engineer)  
 * You have experience with Infrastructure as Code tools such as Terraform and Pulumi.
