@@ -20,6 +20,17 @@
 #### Load Testing
 [Vegeta - HTTP load testing tool and library written in Golang](https://github.com/tsenart/vegeta)  
 
+#### Web Application Testing
+- [Playwright](https://playwright.dev/)
+- [Selenium](https://www.selenium.dev/)
+- [Puppeteer](https://pptr.dev/)
+- [Cypress](https://www.cypress.io/)
+
+#### Mobile Application Testing
+- [Detox](https://github.com/wix/detox/)
+- [Appium](https://appium.io/)
+- [Maestro](https://maestro.mobile.dev/)
+
 #### [These 10 GitHub repositories will help you become a better tester:](https://www.linkedin.com/posts/rahul-parwal_testing-github-technology-activity-7024262149967351808-pS5a)  
 
 1. How They Test
