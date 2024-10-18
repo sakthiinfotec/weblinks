@@ -53,6 +53,7 @@
 [Wise Monk - Remote](https://www.wisemonk.co/)  
 [Nodeflair - code() at where you love | Singapore & Remote Jobs](https://www.nodeflair.com/)  
 
+[Platform.sh - Remote Jobs](https://platform.sh/company/careers/)
 
 #### ToDo
 * Coursera - Machine Learning by Stanford University
