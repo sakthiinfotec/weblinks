@@ -125,7 +125,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Txtai is an all-in-one embedding database for semantic search, LLM orchestration and language model workflows.](https://neuml.github.io/txtai/)
 * [elicit - Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings.](https://elicit.com/)
 * [Viso.ai - End-to-end Infrastructure to Build, Deploy, and Scale Computer Vision Applications](https://viso.ai)
-* [Ardent AI - Your AI Data Engineer | Perform Data Engineering tasks 100x faster](https://www.ardentai.io/)  
+* [Ardent AI - Your AI Data Engineer | Perform Data Engineering tasks 100x faster](https://www.ardentai.io/)
+* [Devin is a collaborative AI teammate](https://devin.ai/)
+* [Cursot - The AI Code Editor](https://www.cursor.com/)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
