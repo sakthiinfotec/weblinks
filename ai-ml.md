@@ -131,6 +131,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
 * [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 * [n8n - Workflow automation tool](https://github.com/n8n-io/n8n)
+* [Lightning empowers everyone to build AI. Build together on cloud GPUs via the browser or local IDE -zero setup. Notebooks, VSCode, Cursor.](https://lightning.ai/)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
