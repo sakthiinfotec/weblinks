@@ -226,7 +226,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### LlamaIndex
 * [Want to learn how to build a production-ready RAG stack using purely local models?](https://www.youtube.com/watch?v=0zGHrcE-Zy4&ab_channel=LlamaIndex)
 * [High-performance RAG with LlamaIndex](https://www.youtube.com/live/wBhY-7B2jdY?si=YXxfLzHlJQzdSqJ3)
-* [Ollama - Get up and running with Llama 2, Mistral, Gemma, and other large language models locally](https://ollama.com/)  
+* [Ollama - Get up and running with Llama 2, Mistral, Gemma, and other large language models locally](https://ollama.com/)
+* [Building a Slack bot that learns with LlamaIndex, Qdrant and Render](https://www.llamaindex.ai/blog/building-a-slack-bot-that-learns-with-llamaindex-qdrant-and-render-c88d4aa72840)
 
 #### LangChain
 * [LangChain - Building applications with LLMs through composability - Python Docs](https://python.langchain.com/)  
