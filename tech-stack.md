@@ -372,7 +372,10 @@ While inter-service communication happens via
 - [Boilerplate for Playwright-Typescript framework for Web-UI, api, Mobile Emulation, DB and Visual testing](https://github.com/akshayp7/playwright-typescript-playwright-test)
 - [Boilerplate for Playwright with Cucumber Java and JUnit](https://github.com/akshayp7/playwright-java-cucumber)  
 - [Achieve integration testing without a UI in a way that is headless | the Pivot framework](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
-- [Happy DOM is a JavaScript implementation of a web browser without its graphical user interface.](https://github.com/capricorn86/happy-dom)  
+- [Happy DOM is a JavaScript implementation of a web browser without its graphical user interface.](https://github.com/capricorn86/happy-dom)
+- [Visual Regression Testing With Cypress: A Pragmatic Approach](https://www.toptal.com/web-qa/ui-visual-regression-testing)
+- [Toptal UI components library](https://github.com/toptal/picasso)
+- [Picasso: How to Test a Component Library](https://www.toptal.com/react/picasso-component-testing-library)
 
 ##### PDF
 * [Gotenberg is a Docker-based stateless API for PDF generation from HTML and Markdown files.](https://gotenberg.dev/)  
