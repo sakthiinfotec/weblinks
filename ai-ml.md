@@ -132,6 +132,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 * [n8n - Workflow automation tool](https://github.com/n8n-io/n8n)
 * [Lightning empowers everyone to build AI. Build together on cloud GPUs via the browser or local IDE -zero setup. Notebooks, VSCode, Cursor.](https://lightning.ai/)
+* [AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.](https://github.com/Significant-Gravitas/AutoGPT)
+* [UpTrain is an open-source unified platform to evaluate and improve Generative AI applications.](https://github.com/uptrain-ai/uptrain)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
