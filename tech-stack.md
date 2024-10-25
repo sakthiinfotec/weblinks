@@ -324,6 +324,9 @@ While inter-service communication happens via
 - [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)
 - [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)  
 
+##### Command Line (CLI)
+- [Top 12 libraries to build CLI tools in Node.js](https://byby.dev/node-command-line-libraries)
+
 ##### Bundlers
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
 - Pnpm
