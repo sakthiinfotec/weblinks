@@ -134,6 +134,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Lightning empowers everyone to build AI. Build together on cloud GPUs via the browser or local IDE -zero setup. Notebooks, VSCode, Cursor.](https://lightning.ai/)
 * [AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.](https://github.com/Significant-Gravitas/AutoGPT)
 * [UpTrain is an open-source unified platform to evaluate and improve Generative AI applications.](https://github.com/uptrain-ai/uptrain)
+* [NVIDIA - Get Started with NVIDIA AI Foundation Models](https://build.nvidia.com/explore/discover)
+* [Suno - Music AI](https://suno.com/)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
