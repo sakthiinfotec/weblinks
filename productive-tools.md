@@ -26,6 +26,9 @@
 #### Product Management
 - [ClickUp - Projects | Docs | Chat | Whiteboard | Time Tracking | AI | Forms | Sprints](https://clickup.com/)
 
+#### VS Code Extestions
+- [Pastum - MS Excel to VS Code Editor | Copy table and paste as Data Frame format](https://marketplace.visualstudio.com/items?itemName=atsyplenkov.pastum)
+
 #### Automation Tools
 * Zapier - For integrations
 * Automate IO
