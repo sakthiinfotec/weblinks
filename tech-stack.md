@@ -37,7 +37,6 @@
 - [A-Frame - A web framework for building 3D/AR/VR experiences](https://aframe.io/)
 
 ##### Data Processing Frameworks
-- [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
 - [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
 - [Nuclio - High-Performance "Serverless" framework for Real-Time Events and Data Processing Platform | Written in Go](https://github.com/nuclio/nuclio)
 - [Numba - A Just-In-Time Compiler for Numerical Functions in Python | NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
@@ -45,6 +44,7 @@
 - [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
 
 ##### GPU Computing Platform / Service
+- [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
 - [HEAVY.AI - A Revolutionary GPU-Accelerated Analytics Platform](https://www.heavy.ai/)
 - [SQream - GPU-accelerated data processing across datasets, AI, and ML](https://sqream.com/)
 - [Kinetica - The real-time GPU/CPU database for OLAP | Generative Retrival | RAG | Time Series | Spatial and Graph Analytics](https://www.kinetica.com/)
