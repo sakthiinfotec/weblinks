@@ -45,9 +45,11 @@
 #### Data Science
 - [Analyticsvidhya - A Complete Python Tutorial to Learn Data Science from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2)  
 - [DataScienceCentral - A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from?overrideMobileRedirect=1)  
-- [Polars - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js | Build on Apache Arrow2](https://github.com/pola-rs/polars/)  
 - [HackerEarth - Practical Tutorial on Data Manipulation with Numpy and Pandas in Python](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
-- [Shiny - Effortless Python Data Science Web applications with the power of reactive programming](https://shiny.posit.co/py/)
+- [Polars • Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js | Build on Apache Arrow2](https://github.com/pola-rs/polars/)  
+- [Shiny • Effortless Python Data Science Web applications with the power of reactive programming](https://shiny.posit.co/py/)
+- [Dash • The original low-code framework for rapidly building data apps in Python](https://dash.plotly.com/)
+- [Streamlit • A faster way to build and share data apps](https://streamlit.io/)
 
 #### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
