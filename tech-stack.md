@@ -38,9 +38,11 @@
 
 ##### Data Processing Frameworks
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
+- [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
 - [Nuclio - "Serverless" framework for Real-Time Events and Data Processing | Written in Go](https://github.com/nuclio/nuclio)
 - [Numba - A Just-In-Time Compiler for Numerical Functions in Python](https://github.com/numba/numba)
 - [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
+- [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
 
 ##### Client Libraries
 - [Unirest - Simplified, lightweight HTTP client library](https://kong.github.io/unirest-java/)
