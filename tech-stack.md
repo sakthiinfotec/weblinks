@@ -34,7 +34,13 @@
 - Micro Front End
 - Web graphics (Three.js, WebGL)
 - [Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in between. Supports React.js, Vue, Tailwind, etc](https://astro.build/)
-- [A-Frame - A web framework for building 3D/AR/VR experiences](https://aframe.io/)  
+- [A-Frame - A web framework for building 3D/AR/VR experiences](https://aframe.io/)
+
+##### Data Processing Frameworks
+- [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
+- [Nuclio - "Serverless" framework for Real-Time Events and Data Processing | Written in Go](https://github.com/nuclio/nuclio)
+- [Numba - A Just-In-Time Compiler for Numerical Functions in Python](https://github.com/numba/numba)
+- [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
 
 ##### Client Libraries
 - [Unirest - Simplified, lightweight HTTP client library](https://kong.github.io/unirest-java/)
