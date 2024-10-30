@@ -44,6 +44,9 @@
 - [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
 - [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
 
+##### No-Code App Builder
+- [Bubble - The Full-Stack no-code app builder](https://bubble.io)
+
 ##### Client Libraries
 - [Unirest - Simplified, lightweight HTTP client library](https://kong.github.io/unirest-java/)
 
