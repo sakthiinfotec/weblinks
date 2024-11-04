@@ -125,10 +125,11 @@
 - [Spline - 3D Design in Web Browser](https://spline.design/)  
 - [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
-##### Diagram
+##### Diagram / Visualization
 - [Eraser - Draw System, Data Flow and Architecture Diagram using AI](https://app.eraser.io/)
 - [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
 - [Chat UML - AI Diagramming](https://chatuml.com/edit/new)
+- [JSON Crack - Open-source visualization application that transforms JSON, YAML, XML, CSV and more, into interactive graphs](https://github.com/AykutSarac/jsoncrack.com)
 
 ##### Authentication & Authorization
 - SSO tokens
