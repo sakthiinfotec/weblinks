@@ -167,6 +167,9 @@
 ##### API Management
 - [RapidAPI - World’s Largest API Hub | Popular and Free APIs](https://rapidapi.com/)  
 
+##### Data Modal Diagram
+- [ChartDB - Faster and easier Database diagramming](https://chartdb.io/)
+
 ##### Datastores
 - [Supabase - an open source Firebase alternative, a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, Chat memory, Vector DB](https://supabase.com/)
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.
@@ -181,7 +184,6 @@
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
 
 ##### Vector Databases
-
 - [Pinecone - the vector database that helps power AI](https://www.pinecone.io/)
 - [Weaviate](https://weaviate.io/developers/weaviate/) - is an open-source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients
 - [Chroma - the AI-native open-source embedding database](https://www.trychroma.com/)
