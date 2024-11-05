@@ -145,6 +145,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [CAMEL AI - Build Multi-Agent Systems for Task Automation | Data Generation](https://www.camel-ai.org/)
 - [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)
 - [Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)
+- [AgentOps.ai: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen](https://github.com/AgentOps-AI/agentops)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
