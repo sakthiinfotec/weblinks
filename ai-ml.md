@@ -131,8 +131,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Ardent AI - Your AI Data Engineer | Perform Data Engineering tasks 100x faster](https://www.ardentai.io/)
 * [Devin is a collaborative AI teammate](https://devin.ai/)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
-* [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
-* [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 * [n8n - Workflow automation tool](https://github.com/n8n-io/n8n)
 * [Lightning empowers everyone to build AI. Build together on cloud GPUs via the browser or local IDE -zero setup. Notebooks, VSCode, Cursor.](https://lightning.ai/)
 * [AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.](https://github.com/Significant-Gravitas/AutoGPT)
@@ -142,7 +140,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 
 #### Agentic AI
+- [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
+- [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 - [CAMEL AI - Build Multi-Agent Systems for Task Automation | Data Generation](https://www.camel-ai.org/)
+- [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
