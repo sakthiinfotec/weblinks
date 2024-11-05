@@ -140,6 +140,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [NVIDIA - Get Started with NVIDIA AI Foundation Models](https://build.nvidia.com/explore/discover)
 * [Suno - Music AI](https://suno.com/)
 
+
+#### Agentic AI
+- [CAMEL AI - Build Multi-Agent Systems for Task Automation | Data Generation](https://www.camel-ai.org/)
+
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
 - [Gretel.ai](https://gretel.ai)
