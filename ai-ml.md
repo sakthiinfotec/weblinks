@@ -144,6 +144,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 - [CAMEL AI - Build Multi-Agent Systems for Task Automation | Data Generation](https://www.camel-ai.org/)
 - [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)
+- [Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
