@@ -42,6 +42,8 @@
 - [Numba - A Just-In-Time Compiler for Numerical Functions in Python | NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
 - [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
 - [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
+- [Flyte - Build & deploy data & ML pipelines, hassle-free | Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks](https://flyte.org/)
+- [Union.ai - The production AI orchestrator built for development velocity | Built by creators of Flyte](https://www.union.ai/features)
 
 ##### GPU Computing Platform / Service
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
