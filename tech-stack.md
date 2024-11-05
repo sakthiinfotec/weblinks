@@ -147,7 +147,8 @@
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
 - [Yup - Dead simple Object schema validation](https://github.com/jquense/yup)
 - [Joi - A powerful data validation library](https://github.com/hapijs/joi)
-- [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)  
+- [Superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
+- [ValidEx - is a Python library that simplifies retrieval, extraction and training of structured data from various unstructured sources](https://github.com/msoedov/validex)
 
 ##### API Design Guides
 - [API Stylebook - Collections Of Resources For API Designers | Publicly available API design guidelines](https://apistylebook.com/design/guidelines/)
