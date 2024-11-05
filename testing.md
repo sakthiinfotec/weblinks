@@ -19,6 +19,7 @@
 [End-to-end Testing Mobile Apps with Ionic and Cypress @ cypress.io](https://www.cypress.io/blog/2020/07/08/end-to-end-testing-mobile-apps-with-ionic-and-cypress/)  
 
 #### Load Testing
+- [Locust - Write scalable load tests in plain Python 🚗💨](https://locust.io/)
 - [Vegeta - HTTP load testing tool and library written in Golang](https://github.com/tsenart/vegeta)
 - [Gatling for Load Testing | Blazemeter Blog](https://www.blazemeter.com/blog/gatling-load-testing)
 
