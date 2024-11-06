@@ -53,6 +53,9 @@
 - [Kinetica - The real-time GPU/CPU database for OLAP | Generative Retrival | RAG | Time Series | Spatial and Graph Analytics](https://www.kinetica.com/)
 - [DStack: AI container orchestration for everyone | dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify development and deployment of AI.](https://dstack.ai/)
 
+##### AI/ML Frameworks
+- [MLFlow: ML and GenAI made simple. Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform](https://mlflow.org/)
+
 ##### No-Code App Builder
 - [Bubble - The Full-Stack no-code app builder](https://bubble.io)
 
