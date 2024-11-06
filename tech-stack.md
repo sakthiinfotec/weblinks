@@ -316,8 +316,8 @@ While inter-service communication happens via
 - Blue / Green Deployment
 - [Modal - Making the cloud accessible | Cloud functions, generative AI models, large-scale batch jobs, job queues, environment, Storage, Observability, and much more.](https://modal.com/)  
 - [Fly.io - Launch Apps Near Users | Run on our hardware in 30+ regions on six continents | Launch, Pause when not needed | Run Phonix(Elixr), Go, Rust, DJango, Next.js, Docker ](https://fly.io/)
-- [Railway: The cloud for building, shipping, and monitoring applications. No Platform Engineer required | Instant Deployments,
-Effortless Scale](https://railway.app/)
+- [Railway: The cloud for building, shipping, and monitoring applications. No Platform Engineer required | Instant Deployments, Effortless Scale](https://railway.app/)
+- [RunPod.io: Develop, train, and scale AI models with RunPod](https://www.runpod.io/)
 
 ##### Monitoring
 - Prometheus, Grafana, Helm, iPass
