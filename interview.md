@@ -19,6 +19,7 @@ https://github.com/lydiahallie/javascript-questions
 [Algorithms and data structures implemented in JavaScript | Algorithm Complexity | Big 'O' Notation](https://github.com/trekhleb/javascript-algorithms)  
 [How Web Works - github.com/vasanthk](https://github.com/vasanthk/how-web-works)  
 [g2i - 2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)  
+- [AlgoMaster](https://blog.algomaster.io)
 
 [Log2Base2](https://www.log2base2.com/interview)  
 [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)  
