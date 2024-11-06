@@ -137,7 +137,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [UpTrain is an open-source unified platform to evaluate and improve Generative AI applications.](https://github.com/uptrain-ai/uptrain)
 * [NVIDIA - Get Started with NVIDIA AI Foundation Models](https://build.nvidia.com/explore/discover)
 * [Suno - Music AI](https://suno.com/)
-
+* [Kapa.ai: turns your knowledge base into a reliable and production-ready LLM-powered AI assistant](https://www.kapa.ai/)
+* [dstack: a streamlined alternative to Kubernetes and Slurm, specifically designed for AI.](https://dstack.ai/docs/#can-dstack-and-kubernetes-be-used-together)
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
