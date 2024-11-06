@@ -51,6 +51,7 @@
 - [HEAVY.AI - A Revolutionary GPU-Accelerated Analytics Platform](https://www.heavy.ai/)
 - [SQream - GPU-accelerated data processing across datasets, AI, and ML](https://sqream.com/)
 - [Kinetica - The real-time GPU/CPU database for OLAP | Generative Retrival | RAG | Time Series | Spatial and Graph Analytics](https://www.kinetica.com/)
+- [DStack: AI container orchestration for everyone | dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify development and deployment of AI.](https://dstack.ai/)
 
 ##### No-Code App Builder
 - [Bubble - The Full-Stack no-code app builder](https://bubble.io)
