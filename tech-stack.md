@@ -180,6 +180,9 @@
 - [Supabase - an open source Firebase alternative, a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, Chat memory, Vector DB](https://supabase.com/)
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.
 - [MindsDB is the platform for building AI from enterprise data. You can create, serve, and fine-tune models in real-time from your database, vector store, and application data](https://mindsdb.com/)
+- [Weaviate: The AI-native database for a new generation of software](https://weaviate.io/)
+- [ChromaDB: The open-source AI application database. Batteries included.](https://www.trychroma.com/)
+- [QDrant: High-Performance Vector Search at Scale | AI Meets Advanced Vector Search | Cloud-Native Scalability & High-Availability](https://qdrant.tech/)
 - [PocketBase - an open source realtime Go backend in 1 file](https://github.com/pocketbase/pocketbase)  
 - [DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
 - [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
