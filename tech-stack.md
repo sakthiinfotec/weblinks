@@ -132,6 +132,9 @@
 - [Spline - 3D Design in Web Browser](https://spline.design/)  
 - [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
 
+##### UI Templates
+- [Liquid by Shopify | Written in Ruby](https://shopify.github.io/liquid/)
+
 ##### Diagram / Visualization
 - [Eraser - Draw System, Data Flow and Architecture Diagram using AI](https://app.eraser.io/)
 - [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
