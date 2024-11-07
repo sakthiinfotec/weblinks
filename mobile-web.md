@@ -231,6 +231,7 @@ Immediately Invoked Function Expressions(IIFEs)
 [Exciting Features in NextJS V10 - Built-in Image Component|Internationalized Routing|NextJS Analytics|NextJS Commerce, etc.](https://blog.bitsrc.io/exciting-features-in-nextjs-v10-a790edb752b6)  
 [List of Open Source React projects on GitHub to learn from](https://codewithnico.vercel.app/production-ready-react-apps/)  
 [next.js: i18n with static sites - dev.to](https://dev.to/martinkr/next-js-i18n-with-static-sites-2644)  
+[NextRequest in Next.js: Everything You Need to Know](https://www.dhiwise.com/post/nextrequest-in-nextjs-everything-you-need-to-know#ip-and-geo-information)  
 
 #### React Native
 [Beginners Guide to Get Started with Unit Testing (using Jest, Enzyme) in React Native - via Hackernoon (G)](https://hackernoon.com/beginners-guide-to-get-started-with-unit-testing-in-react-native-8y2r3wwv)  
