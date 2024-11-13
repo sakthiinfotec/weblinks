@@ -140,6 +140,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Kapa.ai: turns your knowledge base into a reliable and production-ready LLM-powered AI assistant](https://www.kapa.ai/)
 * [dstack: a streamlined alternative to Kubernetes and Slurm, specifically designed for AI.](https://dstack.ai/docs/#can-dstack-and-kubernetes-be-used-together)
 * [mem0.ai: The Memory layer for your AI apps](https://github.com/mem0ai/mem0)
+* [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://llamaocr.com/)
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
