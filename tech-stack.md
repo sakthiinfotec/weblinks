@@ -61,6 +61,7 @@
 
 ##### Client Libraries
 - [Unirest - Simplified, lightweight HTTP client library](https://kong.github.io/unirest-java/)
+- [ZIO Http: A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers](https://github.com/zio/zio-http)
 - [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://www.npmjs.com/package/llama-ocr)
 - [LlamaOCR: Demo](https://github.com/Nutlope/llama-ocr)
 - [Zerox OCR: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
