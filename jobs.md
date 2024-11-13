@@ -55,6 +55,11 @@
 
 [Platform.sh - Remote Jobs](https://platform.sh/company/careers/)
 
+#### Bounty Jobs
+- [cal.com Jobs](https://cal.com/jobs)
+- [cal.com Jobs | Algora](https://console.algora.io/org/cal/bounties)
+- [Algora | Bounties Made Simple](https://console.algora.io/)
+
 #### ToDo
 * Coursera - Machine Learning by Stanford University
 * Coursera - Fundamentals of Digital Image and Video Processing by Northwestern University
