@@ -62,6 +62,9 @@
 ##### Client Libraries
 - [Unirest - Simplified, lightweight HTTP client library](https://kong.github.io/unirest-java/)
 - [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://www.npmjs.com/package/llama-ocr)
+- [LlamaOCR: Demo](https://github.com/Nutlope/llama-ocr)
+- [Zerox OCR: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
+- [Zerox OCR: Demo](https://getomni.ai/ocr-demo)
 
 ##### UI Component Libraries
 - [Adobe React Spectrum - A React implementation of Spectrum, Adobe’s design system.](https://react-spectrum.adobe.com/react-spectrum/testing.html)
