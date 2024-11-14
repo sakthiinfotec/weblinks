@@ -194,7 +194,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [1100+ AI Tools and colabs](https://library.phygital.plus/)  
 - [AI SQL Query Generator](https://www.logicloop.com/ai-sql-query-generator)
 - [oobabooga/text-generation-webui - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.](https://github.com/oobabooga/text-generation-webui)
-- [AUTOMATIC1111/stable-diffusion-webui - Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
+- [AUTOMATIC1111/stable-diffusion-webui - Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [LLM Visualization](https://bbycroft.net/llm)
 
 #### Leading AI Companies
  - [OpenAI](https://openai.com/)
