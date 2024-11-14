@@ -20,6 +20,7 @@
 [Medium (G) - System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)  
 [Google Search - Consistent Hashing](https://www.google.com/search?q=consistent+hashing+system+design)  
 [Toptal - A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)  
+- [Local-first software: You own your data, in spite of the cloud by Ink and Switch](https://www.inkandswitch.com/local-first/)
 
 ##### Cloud
 [Building Serverless APIs with AWS Lambda, Node.js, and Typescript](https://www.cloudnweb.dev/2023/6/building-serverless-nodejs-typescript)  
