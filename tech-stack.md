@@ -66,6 +66,7 @@
 - [LlamaOCR: Demo](https://github.com/Nutlope/llama-ocr)
 - [Zerox OCR: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
 - [Zerox OCR: Demo](https://getomni.ai/ocr-demo)
+- [Automerge: a library of data structures for building collaborative applications. Build local-first software.](https://automerge.org/)
 
 ##### UI Component Libraries
 - [Adobe React Spectrum - A React implementation of Spectrum, Adobe’s design system.](https://react-spectrum.adobe.com/react-spectrum/testing.html)
