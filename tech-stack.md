@@ -153,7 +153,6 @@
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Redux](https://redux.js.org/)
-- [RxDB: A fast, local first, reactive Database for JavaScript Applications](https://github.com/chaitanyaa-simform/RxDBApp)
 
 ##### Code Playgrounds
 * [Mongo Query - Playground](https://mongoplayground.net/)
@@ -191,6 +190,7 @@
 ##### Datastores
 - [Supabase - an open source Firebase alternative, a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, Chat memory, Vector DB](https://supabase.com/)
 - [DuckDB](https://github.com/duckdb/duckdb): is a in-process and high-performance analytical(OLAP) database system.
+- [RxDB: A fast, local first, reactive Database for JavaScript Applications](https://github.com/chaitanyaa-simform/RxDBApp)
 - [MindsDB is the platform for building AI from enterprise data. You can create, serve, and fine-tune models in real-time from your database, vector store, and application data](https://mindsdb.com/)
 - [Weaviate: The AI-native database for a new generation of software](https://weaviate.io/)
 - [ChromaDB: The open-source AI application database. Batteries included.](https://www.trychroma.com/)
