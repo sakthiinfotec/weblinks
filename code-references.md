@@ -8,5 +8,8 @@
 - [VS Code Issue Tracker - JavaScript, c3.js, Github v4 GraphQL API, Cloud Firestore, AWS Lambada, Netlify](https://github.com/lannonbr/vscode-issue-tracker)  
 - [Željko Šević - Technical Blogs (Web Node.js, JavaScript, Docker, Full-Stack)](https://sevic.dev/)  
 
+##### AI Dodels
+- [Qwen2.5-Coder-32B-Instruct Demo @ Hugging Face](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-demo)
+
 ##### Cookbooks
 - [Together AI Cookbook: A collection of notebooks/recipes showcasing usecases of open-source models with Together AI.](https://github.com/togethercomputer/together-cookbook)
