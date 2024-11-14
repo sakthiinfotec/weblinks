@@ -10,6 +10,7 @@
 
 ##### AI Models
 - [Qwen2.5-Coder-32B-Instruct Demo @ Hugging Face](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-demo)
+- [AI Web Search Awesome: A list of software that allows searching the web with the assistance of AI.](https://github.com/felladrin/awesome-ai-web-search)
 
 ##### Cookbooks
 - [Together AI Cookbook: A collection of notebooks/recipes showcasing usecases of open-source models with Together AI.](https://github.com/togethercomputer/together-cookbook)
