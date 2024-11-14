@@ -18,6 +18,7 @@
 - [Open Status - Status Monitoring Services](https://www.openstatus.dev/)
 - [Runway ML - Generative AI Audio, Video, Text-to-Image | Text-to-Video | Image-to-Video](https://runwayml.com/)
 - [Scaleway - Europe based Cloud Provider. Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.](https://www.scaleway.com/en/)
+- [Fly.io: Deploy app server close to your users | A Public Cloud Built For Developers Who Ship](https://fly.io/)
 
 #### Best Practices
 - [Cloudian - Understanding AWS S3 Storage Pricing: A Comprehensive Guide](https://cloudian.com/blog/5-components-of-aws-s3-storage-pricing/)
