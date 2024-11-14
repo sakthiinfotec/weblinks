@@ -153,6 +153,7 @@
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Redux](https://redux.js.org/)
+- [RxDB: A fast, local first, reactive Database for JavaScript Applications](https://github.com/chaitanyaa-simform/RxDBApp)
 
 ##### Code Playgrounds
 * [Mongo Query - Playground](https://mongoplayground.net/)
