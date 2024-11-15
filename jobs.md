@@ -54,6 +54,7 @@
 [Nodeflair - code() at where you love | Singapore & Remote Jobs](https://www.nodeflair.com/)  
 
 [Platform.sh - Remote Jobs](https://platform.sh/company/careers/)
+[Bauplanlabs: The Serverless Lakehouse](https://www.bauplanlabs.com/career)
 
 #### Bounty Jobs
 - [cal.com Jobs](https://cal.com/jobs)
