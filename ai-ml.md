@@ -34,7 +34,8 @@
 [Practical Deep learning from Fast.ai](https://course.fast.ai/)  
 [Fast.ai - Introduction to Deep Learning](https://github.com/fastai/fastbook)  
 [From MachineLearningMastery - Deep Learning CNN for Fashion-MNIST Clothing Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/)  
-[Fullstack Deep learning Course](https://fullstackdeeplearning.com/course/)  
+[Fullstack Deep learning Course](https://fullstackdeeplearning.com/course/)
+- [Understanding Deep Learning - eBook](https://udlbook.github.io/udlbook/)
 
 #### Reinforcement Learning
 [Reinforcement Learning Codebase by for-ai](https://github.com/for-ai/rl)  
