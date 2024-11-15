@@ -52,6 +52,19 @@
 - [Dash • The original low-code framework for rapidly building data apps in Python](https://dash.plotly.com/)
 - [Streamlit • A faster way to build and share data apps](https://streamlit.io/)
 
+**Data Science Tools / Libraries**
+
+| Category               | Previous Tool | Upgraded To | Description                                       |  
+|-----------------------|---------------|-------------|---------------------------------------------------|  
+| Data Manipulation      | pandas        | polars      | Blazingly fast dataframe library!                 |  
+| Data Visualization      | seaborn      | altair      | Interactive, JSON-friendly, beautiful declarative graphs |  
+| Experiment Tracking     | mlflow       | metaflow    | Seamlessly scale projects from hobby to production! |  
+| CLI Parsing            | argparse      | typer       | Typing less, doing more—it makes commands super easy to write! |  
+| Code Formatting        | black        | ruff        | Speed + more features                              |  
+| Package Manager        | pip          | uv          | Manage dependencies, Python versions, virtual environments, and more—all in one tool! |  
+| Documentation          | Google Docs  | mkdocs      | All docs in markdown—simple!                      |  
+| Configuration          |               | hydra       | YAML-based, powerful central config!              |
+
 #### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
