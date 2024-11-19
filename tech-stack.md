@@ -350,8 +350,11 @@ While inter-service communication happens via
 ##### Automation / Workflow Management
 - [n8n - Workflow automation tool](https://github.com/n8n-io/n8n)
 
+##### Command Line (CLI)
+- [Top 12 libraries to build CLI tools in Node.js](https://byby.dev/node-command-line-libraries)
+
 ##### Tooling: 
-- npm, turborepo, webpack, babel, code-splitting
+- babel, code-splitting
 - [Rclone ("rsync for cloud storage") is a command-line program to sync files and directories to and from different cloud storage providers.](https://github.com/rclone/rclone)  
 - [s5cmd - Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)  
 - [SWC (Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust.](https://github.com/swc-project/swc)  
@@ -366,13 +369,12 @@ While inter-service communication happens via
 - [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)
 - [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)  
 
-##### Command Line (CLI)
-- [Top 12 libraries to build CLI tools in Node.js](https://byby.dev/node-command-line-libraries)
-
-##### Bundlers
+##### Package Manager
+- [mamba (Python): The Fast Cross-Platform Package Manager | a reimplementation of the conda package manager in C++](https://github.com/mamba-org/mamba)
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
 - Pnpm
 - [Turbopack - is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js](https://turbo.build/pack)  
+- npm, turborepo, webpack
 
 ##### Realtime DB / Notification
 - WebSocket
