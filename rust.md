@@ -19,6 +19,7 @@
 - [Tokio: Build reliable network applications without compromising speed | an asynchronous runtime for the Rust programming language](https://tokio.rs/)
 
 ##### Frameworks
+- [Github: A comparison of some web frameworks and libs written in Rust](https://github.com/flosse/rust-web-framework-comparison)
 - [Actix Web: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust](https://actix.rs/)
 - [Actix Examples @ Girhub](https://github.com/actix/examples)
 - [Rocket: A web framework for Rust gear Rust that makes it simple to write fast, type-safe, secure web applications with incredible usability, productivity and performance.](https://rocket.rs/)
