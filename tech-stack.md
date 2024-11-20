@@ -270,6 +270,7 @@ While inter-service communication happens via
 - Opsgenie
 - VictorOps
 - [Github: A curated list of status page open source software, services and public status pages of major internet companies](https://github.com/ivbeg/awesome-status-pages)
+- [Firecrawl - Status | Uptime by BetterStack](https://firecrawl.betteruptime.com/)
 
 ##### Data Science
 - [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
