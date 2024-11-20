@@ -157,6 +157,15 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://llamaocr.com/)
 * [Outerbounds: Build Impactful AI/ML‍ For the Real World](https://outerbounds.com/)
 * [Metaflow: Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems](https://github.com/Netflix/metaflow)
+* [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
+* [Play AI: The voice cloning/inference for LLMs, Agents, Copilots, Characters](https://play.ai/)
+* [Firecrawl AI: Turn websites into LLM-ready data. Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
+
+#### AI Stacks
+- Generate AI podcasts based on real time news🎙️: To build an app that crawls the web for interesting news stories then records a podcast with our own voice.
+  - Powered by Llama 3.1 from Together Compute [Together AI](https://www.together.ai/)
+  - Voice cloning from [Play AI](https://play.ai/)
+  - Web scraping from [Firecrawl AI](https://www.firecrawl.dev/)
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
