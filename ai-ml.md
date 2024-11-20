@@ -162,6 +162,23 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Play AI: The voice cloning/inference for LLMs, Agents, Copilots, Characters](https://play.ai/)
 * [Firecrawl AI: Turn websites into LLM-ready data. Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
 
+#### LLM Frameworks
+- Langchain (python)
+- Langchain (js)
+- Llama Index
+- Crew.ai
+- Composio
+- PraisonAI
+- Superinterface
+- Vectorize
+
+#### Low-code Frameworks
+- Dify
+- Langflow
+- Flowise AI
+- Cargo
+- Pipedream
+
 #### AI Stacks
 - Generate AI podcasts based on real time news🎙️: To build an app that crawls the web for interesting news stories then records a podcast with our own voice.
   - Powered by Llama 3.1 from Together Compute [Together AI](https://www.together.ai/)
