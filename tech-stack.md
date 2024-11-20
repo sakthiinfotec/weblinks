@@ -231,12 +231,12 @@
 ##### Data Formats
 - [MessagePack](https://msgpack.org/) - It's like JSON but fast and small. MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
 
-##### Microservices
+##### Microservice
 - [Envoy is an open-source edge and service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)  
 - [Envoy Mobile](https://envoymobile.io/)  
 - [Istio - Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/latest/)  
 
-##### Microservices - Communication
+##### Microservice - Communication
 Typically external application clients such as web apps, mobile apps, or IoT frameworks consume RESTful API endpoints. However, modern backend developers usually don’t call microservices directly because of scaling problems and network security issues. Therefore, before exposing your microservices to the internet, developers will connect them to an API gateway or load balancer.
 
 While inter-service communication happens via
@@ -245,7 +245,7 @@ While inter-service communication happens via
 
 **Messaging patterns:** RPC, MPI, pub/sub, CQRS
 
-##### Microservices - Tracers
+##### Microservice - Tracer
 - [Zipkin](https://zipkin.io/)  
 - [Jaeger - Distributed Tracing Platform](https://github.com/jaegertracing/)  
 - [DataDog - Modern monitoring & security](https://datadoghq.com/)  
@@ -258,7 +258,17 @@ While inter-service communication happens via
 - OpenShift ServiceMesh
 - [Fluent Bit - An End-to-End Observability Pipeline](https://fluentbit.io/how-it-works/)  
 - [OpenTelemetry - High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)  
-- [Backstage - An open platform for building developer portals | Powered by a centralized software catalog](https://backstage.io/)  
+- [Backstage - An open platform for building developer portals | Powered by a centralized software catalog](https://backstage.io/)
+
+##### Microservice - Observability
+- [BetterStack: Radically better observability stack | Website, Infrastructure Monitoring | Incident, Log Management | Status page](https://betterstack.com/)
+- Pingdom
+- Pagerduty
+- StatusPage.io
+- Uptime Robot
+- StatusCake
+- Opsgenie
+- VictorOps
 
 ##### Data Science
 - [JupyterLab - Docs](https://jupyterlab.readthedocs.io/en/stable/index.html)  
