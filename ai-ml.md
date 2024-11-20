@@ -152,6 +152,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [NVIDIA - Get Started with NVIDIA AI Foundation Models](https://build.nvidia.com/explore/discover)
 * [Suno - Music AI](https://suno.com/)
 * [Kapa.ai: turns your knowledge base into a reliable and production-ready LLM-powered AI assistant](https://www.kapa.ai/)
+* [Mendable AI: Just in time answers for Sales and Support. Train a secure AI on your technical resources that answers customer and employee questions so your team doesn't have to](https://www.mendable.ai/): With Mendable, you can build a LLM chatbot that understands your technical resources, like documentation, product manuals, and more. Then you can deploy it anywhere that your customers or employees need.
 * [dstack: a streamlined alternative to Kubernetes and Slurm, specifically designed for AI.](https://dstack.ai/docs/#can-dstack-and-kubernetes-be-used-together)
 * [mem0.ai: The Memory layer for your AI apps](https://github.com/mem0ai/mem0)
 * [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://llamaocr.com/)
