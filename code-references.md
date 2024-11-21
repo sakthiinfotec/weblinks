@@ -5,6 +5,14 @@
 - [Sphinx-Tribes-Frontend: Frontend for sphinx tribes and bounties | Bounty, TypeScript, Docket, Cypress, React, Jest, nock ](https://github.com/stakwork/sphinx-tribes-frontend)
 - [Python Slack Bot - make, .env, python, flask, redis, queue](https://github.com/parithiban/git-slack-bot)
 - [Svix: Webhooks as a Service | Rust, Python, Java, Go, Kotlin, Open API](https://github.com/svix/svix-webhooks/?tab=readme-ov-file)
+- [AI Logo Generator](https://github.com/Nutlope/logocreator) - Tech Stacks
+  - [Flux Pro 1.1](https://dub.sh/flux-playground) on [Together AI](https://dub.sh/together-ai) for logo generation
+  - Next.js with TypeScript for the app framework
+  - Shadcn for UI components & Tailwind for styling
+  - Upstash Redis for rate limiting
+  - Clerk for authentication
+  - Plausible & Helicone for analytics & observability
+
 - [VS Code Github Stats - github actions, JavaScript, Cloud Firestore, AWS Lambada](https://github.com/lannonbr/vscode-github-stats)  
 - [VS Code Issue Tracker - JavaScript, c3.js, Github v4 GraphQL API, Cloud Firestore, AWS Lambada, Netlify](https://github.com/lannonbr/vscode-issue-tracker)  
 - [Željko Šević - Technical Blogs (Web Node.js, JavaScript, Docker, Full-Stack)](https://sevic.dev/)  
