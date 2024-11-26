@@ -164,6 +164,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [restack.io: The framework for autonomous intelligence | Restack helps engineers from startups to enterprises to build AI products that are both reliable and accurate at any scale](https://www.restack.io/)
 * [BaseAI - The first Web AI Framework | The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory.](https://baseai.dev/)
 * [SuperAGI – Autonomous AI Agent Systems](https://superagi.com/)
+* [SuperAgentX.ai: The Future of Autonomous Multi Agent AGI Open Source Framework](https://www.superagentx.ai/)
 
 #### LLM Frameworks
 - Langchain (python)
