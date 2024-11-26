@@ -161,6 +161,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
 * [Play AI: The voice cloning/inference for LLMs, Agents, Copilots, Characters](https://play.ai/)
 * [Firecrawl AI: Turn websites into LLM-ready data. Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
+* [restack.io: The framework for autonomous intelligence | Restack helps engineers from startups to enterprises to build AI products that are both reliable and accurate at any scale](https://www.restack.io/)
 
 #### LLM Frameworks
 - Langchain (python)
