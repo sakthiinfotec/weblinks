@@ -165,6 +165,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [BaseAI - The first Web AI Framework | The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory.](https://baseai.dev/)
 * [SuperAGI – Autonomous AI Agent Systems](https://superagi.com/)
 * [SuperAgentX.ai: The Future of Autonomous Multi Agent AGI Open Source Framework](https://www.superagentx.ai/)
+* [Bauplan: zero-copy, scale-up FaaS for data pipelines for Artificial Intelligence and Analytics applications | The Serverless Lakehouse | Self-optimizing serverless runtime | Open Lakehouse architecture ](https://www.bauplanlabs.com/)
 
 #### LLM Frameworks
 - Langchain (python)
