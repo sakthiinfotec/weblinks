@@ -105,6 +105,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### Prompt Engineering
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [The Prompt Report: A Systematic Survey of Prompting Techniques](https://trigaten.github.io/Prompt_Survey_Site/)
+* [Superhuman AI: 1,000+ ChatGPT Prompts](https://www.superhuman.ai/c/1000_chatgpt_prompts)
 
 #### Prompts
 *V0.dev* - Supports React.js, Next.js, Tailwind CSS and Shadcn UI components out of the box  
