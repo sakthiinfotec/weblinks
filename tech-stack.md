@@ -7,7 +7,8 @@
 - [Component Driven User Interfaces by Chromatic](https://www.componentdriven.org/)  
 - [Hadron - a development environment for designers and developers](https://hadron.app/)
 - [Lunacy - Free design software that keeps your flow with AI tools and built-in graphics](https://icons8.com/lunacy)  
-- [Penpot - Design and code beautiful products. Together.](https://penpot.app/)  
+- [Penpot - Design and code beautiful products. Together.](https://penpot.app/)
+- [SVG Pattern Builder by DesignCode: Create and Customize Patterns Online](https://svg.designcode.io/)
 
 ##### Scripting Languages
 - Python
