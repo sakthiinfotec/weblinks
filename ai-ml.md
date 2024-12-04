@@ -68,8 +68,14 @@
 #### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
-##### Data Annotation
+##### Data Annotation / Labeling
 - [Tictag: Data annotation | AI Fine tuning](https://www.tictag.io/)
+- [Label Studio: a multi-type data labeling and annotation tool with standardized output format | Machine Learning with Label Studio | OCR \ Dta labeling](https://github.com/HumanSignal/label-studio)
+- [Label Me: Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation) | Python](https://github.com/wkentaro/labelme)
+- [Myvision.ai: Computer vision based ML training data generation tool 🚀](https://github.com/OvidijusParsiunas/myvision)
+- [Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.](https://github.com/xtreme1-io/xtreme1)
+- [Diffgram: The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.](https://github.com/diffgram/diffgram)
+- [Universal Data Tool: a web/desktop app for editing and annotating images, text, audio, documents and to view and edit any data defined in the extensible .udt.json and .udt.csv standard](https://github.com/UniversalDataTool/universal-data-tool) - Image Segmentation • Image Classification • Text Classification • Named Entity Recognition • Named Entity Relations / Part of Speech Tagging • Audio Transcription • Data Entry • Video Segmentation • Landmark / Pose Annotation
 
 #### Computer Vision
 [5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)  
