@@ -201,7 +201,8 @@
 - [DuckDB - Introduction to DuckDB and its Python integration](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)  
 - [Run PostgreSQL - Cloud Native way](https://cloudnative-pg.io/)  
 - [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)  
-- [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)  
+- [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)
+- [Upstash: Serverless Data Platform via REST API | Redis, QStash (Messaging), Vector DB](https://upstash.com/)
 
 ##### Message Queue / Middlewares
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
