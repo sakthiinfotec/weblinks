@@ -160,6 +160,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Outerbounds: Build Impactful AI/ML‍ For the Real World](https://outerbounds.com/)
 * [Metaflow: Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems](https://github.com/Netflix/metaflow)
 * [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
+* [Hyperbolic: Hosting service for the Opensource models](https://app.hyperbolic.xyz/compute)
 * [Play AI: The voice cloning/inference for LLMs, Agents, Copilots, Characters](https://play.ai/)
 * [Firecrawl AI: Turn websites into LLM-ready data. Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
 * [restack.io: The framework for autonomous intelligence | Restack helps engineers from startups to enterprises to build AI products that are both reliable and accurate at any scale](https://www.restack.io/)
