@@ -4,3 +4,4 @@
 - [Codebasics: AI for Everyone: No Coding, Just Concepts](https://codebasics.io/courses/ai-for-everyone-your-first-step-towards-ai)
 - [Codebasics: Math and Statistics For AI, Data Science](https://codebasics.io/courses/math-and-statistics-for-data-science)
 - [Coursera: PostgreSQL for Everybody Specialization | University of Michigan](https://www.coursera.org/specializations/postgresql-for-everybody)
+- [Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
