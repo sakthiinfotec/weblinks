@@ -68,6 +68,9 @@
 #### Blockchain
 https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/  
 
+##### Data Annotation
+- [Tictag: Data annotation | AI Fine tuning](https://www.tictag.io/)
+
 #### Computer Vision
 [5 Companies Developing Computer Vision Technology in 2020 - via Hackernoon](https://hackernoon.com/5-companies-developing-computer-vision-technology-in-2020-f24g349i)  
 [Top 20 Image Datasets for Machine Learning and Computer Vision](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo)  
