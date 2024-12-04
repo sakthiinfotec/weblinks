@@ -77,6 +77,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 - [Diffgram: The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.](https://github.com/diffgram/diffgram)
 - [Universal Data Tool: a web/desktop app for editing and annotating images, text, audio, documents and to view and edit any data defined in the extensible .udt.json and .udt.csv standard](https://github.com/UniversalDataTool/universal-data-tool) - Image Segmentation • Image Classification • Text Classification • Named Entity Recognition • Named Entity Relations / Part of Speech Tagging • Audio Transcription • Data Entry • Video Segmentation • Landmark / Pose Annotation
 - [Autodistill: Images to inference with no labeling (use foundation models to train supervised models).](https://github.com/autodistill/autodistill)
+- [Roboflow Notebooks](https://github.com/roboflow/notebooks)
 - [COCO Annotator: Web-based image segmentation tool for object detection, localization, and keypoints](https://github.com/jsbroks/coco-annotator)
 
 #### Computer Vision
