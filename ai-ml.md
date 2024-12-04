@@ -168,6 +168,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [SuperAGI – Autonomous AI Agent Systems](https://superagi.com/)
 * [SuperAgentX.ai: The Future of Autonomous Multi Agent AGI Open Source Framework](https://www.superagentx.ai/)
 * [Bauplan: zero-copy, scale-up FaaS for data pipelines for Artificial Intelligence and Analytics applications | The Serverless Lakehouse | Self-optimizing serverless runtime | Open Lakehouse architecture ](https://www.bauplanlabs.com/)
+* [Tracel: High Performance Computing to Bring Intelligence Everywhere](https://tracel.ai)
+* [Burn: A next generation Deep Learning Framework written in Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://burn.dev/)
 
 #### LLM Frameworks
 - Langchain (python)
