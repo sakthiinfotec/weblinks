@@ -191,6 +191,18 @@ Benefits of using callbacks:
 
 ![RAG Popeline](https://github.com/user-attachments/assets/106e2544-027a-4ef5-9781-1585543a4d27)
 
+The image outlines a process related to Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Here’s a breakdown of the terminologies:
+
+1. **Extract**: This step involves gathering data from various sources (e.g., documents, databases). The extracted data could come from different file formats like PDFs, Word documents, HTML, and more.
+2. **Encode**: Once the data is extracted, it's transformed into a machine-readable format, typically represented as numerical vectors. This encoding allows the model to understand and process the information effectively.
+3. **Index**: In this step, the encoded data is organized for efficient retrieval. Indexing involves creating a structured representation that facilitates quick access to relevant information during the retrieval phase.
+4. **Retrieve**: When a query is made, the model retrieves relevant documents or pieces of information from the indexed data. This involves searching for and identifying data that matches the query context.
+5. **Rerank**: After retrieving a set of candidate answers or documents, this step involves re-evaluating and ranking them based on relevance to ensure the most pertinent information is prioritized.
+6. **Calibrate**: This step fine-tunes or adjusts the response based on additional factors, such as the context of the query or user preferences, to enhance the quality and relevance of the final answer.
+7. **Answer**: The final output, which is generated based on the reranked information and calibration, providing the user with a concise and relevant response to their query.
+
+This workflow showcases how LLMs and RAG techniques can be combined to handle complex queries by leveraging both generative and retrieval-based capabilities effectively.
+
 
 #### AI Assistant
 - A 24/7 customer service expert
