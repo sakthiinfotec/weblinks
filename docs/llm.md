@@ -203,6 +203,7 @@ The image outlines a process related to Large Language Models (LLMs) and Retriev
 
 This workflow showcases how LLMs and RAG techniques can be combined to handle complex queries by leveraging both generative and retrieval-based capabilities effectively.
 
+- [Rockset: Hybrid Search Architecture](https://rockset.com/whitepapers/hybrid-search-architecture/)
 
 #### AI Assistant
 - A 24/7 customer service expert
