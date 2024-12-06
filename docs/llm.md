@@ -187,6 +187,10 @@ Benefits of using callbacks:
 - Built-in handlers available
 - Integrations with 3rd party tools
 
+#### RAG
+
+![RAG Popeline](https://github.com/user-attachments/assets/106e2544-027a-4ef5-9781-1585543a4d27)
+
 
 #### AI Assistant
 - A 24/7 customer service expert
