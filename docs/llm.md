@@ -102,6 +102,11 @@ list of top models based on the task
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
 
+#### LLM Frameworks
+An LLM application developer can face myriad of challenges such as using various foundation LLMs, consuming different data sources and vector stores, constraints on input/output data format, LLM token limits, unpredictability of LLM output, dynamic prompts, retaining the conversation context and so on.
+
+LangChain is a simple and powerful framework for building applications that use large language models, such as ChatGPT, LaMDA or Claude2. LangChain offers abstraction to complex repetitive tasks so you can focus on building great applications, not on the plumbing.
+
 #### AI Assistant
 - A 24/7 customer service expert
 - Your personal {domain} assistant /  finance assistant: Handles a wide array of queries, including refunds, returns, payment-related issues, cancellations, disputes, and invoice inaccuracies, ensuring swift and effective solutions.
