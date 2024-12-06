@@ -5,3 +5,4 @@
 - [Codebasics: Math and Statistics For AI, Data Science](https://codebasics.io/courses/math-and-statistics-for-data-science)
 - [Coursera: PostgreSQL for Everybody Specialization | University of Michigan](https://www.coursera.org/specializations/postgresql-for-everybody)
 - [Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [Data Science Dojo: Free Data Science Courses](https://datasciencedojo.com/free-courses/)
