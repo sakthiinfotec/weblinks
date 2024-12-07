@@ -381,7 +381,8 @@ While inter-service communication happens via
     * Readable and maintainable code patterns are replaced with smaller code.
     * Some variable references and function calls can be inlined into the places they're used.
 - [GSpread - Google Sheets Python API](https://gspread.readthedocs.io/en/latest/)
-- [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)  
+- [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)
+- [Outerbase: Outerbase is an AI-powered data tool, that let’s you view, edit, query, and visualize your data collaboratively with your team.](https://app.outerbase.com/)
 
 ##### Package Manager
 - [mamba (Python): The Fast Cross-Platform Package Manager | a reimplementation of the conda package manager in C++](https://github.com/mamba-org/mamba)
