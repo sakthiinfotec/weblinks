@@ -201,6 +201,12 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - Superinterface
 - Vectorize
 
+#### Fine-tuning Frameworks
+- LLaMA-Factory
+- Swift
+- XTuner
+- Firefly
+
 #### Low-code Frameworks
 - Dify
 - Langflow
