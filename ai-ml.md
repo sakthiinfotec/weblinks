@@ -423,6 +423,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)
 - [AI Search](https://aisearch.substack.com/)
 - [Find AI tools & jobs](https://ai-search.io/)
+- [Lablab.ai: Empowering AI Innovation](https://lablab.ai/)
 
 ### ML Stacks
 ##### Data Ingestion and Preprocessing:
