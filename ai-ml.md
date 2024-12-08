@@ -175,6 +175,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [dstack: a streamlined alternative to Kubernetes and Slurm, specifically designed for AI.](https://dstack.ai/docs/#can-dstack-and-kubernetes-be-used-together)
 * [mem0.ai: The Memory layer for your AI apps](https://github.com/mem0ai/mem0)
 * [LlamaOCR: Document to Markdown | Powered by llama-ocr & Together AI](https://llamaocr.com/)
+* [Charbot Arena - lmarena.ai | Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
 * [Outerbounds: Build Impactful AI/ML‍ For the Real World](https://outerbounds.com/)
 * [Metaflow: Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems](https://github.com/Netflix/metaflow)
 * [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
