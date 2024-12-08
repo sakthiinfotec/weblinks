@@ -17,6 +17,10 @@
 - [VS Code Issue Tracker - JavaScript, c3.js, Github v4 GraphQL API, Cloud Firestore, AWS Lambada, Netlify](https://github.com/lannonbr/vscode-issue-tracker)  
 - [Željko Šević - Technical Blogs (Web Node.js, JavaScript, Docker, Full-Stack)](https://sevic.dev/)  
 
+##### AI Products and Services
+- [Do Browser: Does anything via AI Browser Automation](https://www.dobrowser.io/)
+- [Draw a UI: Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
+
 ##### AI Models
 - [Qwen2.5-Coder-32B-Instruct Demo @ Hugging Face](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-demo)
 - [AI Web Search Awesome: A list of software that allows searching the web with the assistance of AI.](https://github.com/felladrin/awesome-ai-web-search)
