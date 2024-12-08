@@ -25,3 +25,6 @@
 
 ##### Cookbooks
 - [Together AI Cookbook: A collection of notebooks/recipes showcasing usecases of open-source models with Together AI.](https://github.com/togethercomputer/together-cookbook)
+
+##### Design Reference
+- [bego.ai - Truck Driver Search | Location ](https://bego.ai/en/truck-loads-near-me)
