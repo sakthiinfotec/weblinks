@@ -154,7 +154,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)  
 * [ModelScope: bring the notion of Model-as-a-Service to life.](https://github.com/modelscope/modelscope)  
 * [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
-* [HeyGen - AI Video Generator](https://www.heygen.com/)
 * [StoryLab.ai - Social media Caption Generator](https://storylab.ai/social-media-caption-generator/)
 * [Coral AI - Search & Summarize Documents with AI](https://www.getcoralai.com/)
 * [Cohere | The leading AI platform for enterprise | Cohere provides industry-leading large language models (LLMs) and RAG capabilities](https://cohere.com/)
@@ -190,6 +189,14 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Tracel: High Performance Computing to Bring Intelligence Everywhere](https://tracel.ai)
 * [Burn: A next generation Deep Learning Framework written in Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://burn.dev/)
 * [Agent Cloud: Data sync for Vector DBs, allows to create data connected agents that have access to fresh up to date vector data for RAG.](https://www.agentcloud.dev/)
+
+#### AI Services - Video
+- SORA
+- MIDJOURNEY
+- RUNWAY
+- LUMA
+- FLUX
+- [HeyGen - AI Video Generator](https://www.heygen.com/)
 
 #### LLM Frameworks
 - Langchain (python)
