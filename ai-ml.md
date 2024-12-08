@@ -412,8 +412,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
 
-#### Blogs / Articles
-- [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)  
+#### Recent Happenings
+- [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)
+- [AI Search](https://aisearch.substack.com/)
+- [Find AI tools & jobs](https://ai-search.io/)
 
 ### ML Stacks
 ##### Data Ingestion and Preprocessing:
