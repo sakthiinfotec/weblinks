@@ -5,6 +5,7 @@
 - [Andrew Ng: AI Vision, Agents and Business Values](https://www.youtube.com/watch?v=m9ccaNDS-LI)
 - [7+ Million Postgress Tables | Kailash Nadh | IndiaFOSS 2024](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 - [3Blue1Brown: How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+- [The moment we stopped understanding AI | AlexNet](https://www.youtube.com/watch?v=UZDiGooFs54)
 
 ##### Courses
 - [Codebasics: Master Machine Learning for Data Science & AI: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced/lecture/2033)
