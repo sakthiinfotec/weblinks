@@ -25,6 +25,7 @@
 - [LEARN Math the RIGHT way](https://www.youtube.com/watch?v=glZLHLLalv0)
 - [How I Developed Photographic Memory in 2 days? | Sirianni Method](https://www.youtube.com/watch?v=2iVR7Pu0QFs)
 - [LMES: Why MINUS * MINUS is PLUS?](https://www.youtube.com/watch?v=FXBjRONg8SQ)
+- [LMES: dy/dx னா இவ்வளவு தானா? | Basics of Calculus](https://www.youtube.com/watch?v=YFwDVViULiA)
 - [VisaiPalagai: Video of Calculus - What is dy/dx? | Tamil](https://www.youtube.com/watch?v=-v7oKHR0G14)
 - [Then Best Math Books? The way Math should be Taught](https://www.youtube.com/watch?v=VElZBohyXW0)
 - [Why Sphere's Surface is 4 x PI x R^2](https://www.youtube.com/watch?v=GNcFjFmqEc8)
