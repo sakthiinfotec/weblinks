@@ -4,6 +4,7 @@
 - [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY)
 - [Andrew Ng: AI Vision, Agents and Business Values](https://www.youtube.com/watch?v=m9ccaNDS-LI)
 - [7+ Million Postgress Tables | Kailash Nadh | IndiaFOSS 2024](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
+- [3Blue1Brown: How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 
 ##### Courses
 - [Codebasics: Master Machine Learning for Data Science & AI: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced/lecture/2033)
