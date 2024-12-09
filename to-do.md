@@ -21,3 +21,5 @@
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 - [How I Developed Photographic Memory in 2 days? | Sirianni Method](https://www.youtube.com/watch?v=2iVR7Pu0QFs)
 - [LMES: Why MINUS * MINUS is PLUS?](https://www.youtube.com/watch?v=FXBjRONg8SQ)
+- [Then Best Math Books? The way Math should be Taught](https://www.youtube.com/watch?v=VElZBohyXW0)
+- [Logarithms: Top 10 must knows](https://www.youtube.com/watch?v=1D91df9AXHU)
