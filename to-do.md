@@ -35,3 +35,4 @@
 - [Trigonometry Concepts - Don't Memorize! but Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 - [Where do Sin, Cos and Tan actually Come From? - Origins of Trigonometry](https://www.youtube.com/watch?v=uMfnJ6TJinc)
 - [Fun Blue Semicircle: Area of Blue Semicircle?](https://www.youtube.com/watch?v=AFo-rFNLZro)
+- [3Blue1Brown: What is Furier Transform? A Visual Introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
