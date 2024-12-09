@@ -17,6 +17,9 @@
 - [Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - [Data Science Dojo: Free Data Science Courses](https://datasciencedojo.com/free-courses/)
 
+##### Design
+- [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
+
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 - [How I Developed Photographic Memory in 2 days? | Sirianni Method](https://www.youtube.com/watch?v=2iVR7Pu0QFs)
@@ -27,4 +30,4 @@
 - [Logarithms: Top 10 must knows](https://www.youtube.com/watch?v=1D91df9AXHU)
 - [freeCodeCamp.org: Calculus in 12 Hours](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 - [Trigonometry Concepts - Don't Memorize! but Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
-- [Where do Sin, Cos and Tan actually Come From - Origins of Trigonometry](https://www.youtube.com/watch?v=uMfnJ6TJinc)
+- [Where do Sin, Cos and Tan actually Come From? - Origins of Trigonometry](https://www.youtube.com/watch?v=uMfnJ6TJinc)
