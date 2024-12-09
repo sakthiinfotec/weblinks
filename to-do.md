@@ -27,6 +27,8 @@
 - [LMES: Why MINUS * MINUS is PLUS?](https://www.youtube.com/watch?v=FXBjRONg8SQ)
 - [LMES: dy/dx னா இவ்வளவு தானா? | Basics of Calculus](https://www.youtube.com/watch?v=YFwDVViULiA)
 - [VisaiPalagai: Video of Calculus - What is dy/dx? | Tamil](https://www.youtube.com/watch?v=-v7oKHR0G14)
+- [Mr.GK: π - Pi explained in Tamil | பை - எளிமையான விளக்கம்](https://www.youtube.com/watch?v=KhxP-Tydg6A)
+- [Mr.GK: E=mc² explained in Tamil | E=mc2 எளிமையான விளக்கம்](https://www.youtube.com/watch?v=hRZirXr_J9Q)
 - [Then Best Math Books? The way Math should be Taught](https://www.youtube.com/watch?v=VElZBohyXW0)
 - [Why Sphere's Surface is 4 x PI x R^2](https://www.youtube.com/watch?v=GNcFjFmqEc8)
 - [Introducton to Mathematical THINKING](https://www.youtube.com/watch?v=LN7cCW1rSsI)
