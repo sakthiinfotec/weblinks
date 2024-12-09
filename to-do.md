@@ -24,3 +24,4 @@
 - [Then Best Math Books? The way Math should be Taught](https://www.youtube.com/watch?v=VElZBohyXW0)
 - [Logarithms: Top 10 must knows](https://www.youtube.com/watch?v=1D91df9AXHU)
 - [Why Sphere's Surface is 4 x PI x R^2](https://www.youtube.com/watch?v=GNcFjFmqEc8)
+- [freeCodeCamp.org: Calculus in 12 Hours](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
