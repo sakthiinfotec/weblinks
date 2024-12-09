@@ -25,3 +25,4 @@
 - [Logarithms: Top 10 must knows](https://www.youtube.com/watch?v=1D91df9AXHU)
 - [Why Sphere's Surface is 4 x PI x R^2](https://www.youtube.com/watch?v=GNcFjFmqEc8)
 - [freeCodeCamp.org: Calculus in 12 Hours](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+- [Introducton to Mathematical THINKING](https://www.youtube.com/watch?v=LN7cCW1rSsI)
