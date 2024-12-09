@@ -29,5 +29,6 @@
 - [Introducton to Mathematical THINKING](https://www.youtube.com/watch?v=LN7cCW1rSsI)
 - [Logarithms: Top 10 must knows](https://www.youtube.com/watch?v=1D91df9AXHU)
 - [freeCodeCamp.org: Calculus in 12 Hours](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+- [Calculus: Top 10 MUST knows | @JensenMath](https://www.youtube.com/watch?v=HGwLmX41cn4)
 - [Trigonometry Concepts - Don't Memorize! but Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 - [Where do Sin, Cos and Tan actually Come From? - Origins of Trigonometry](https://www.youtube.com/watch?v=uMfnJ6TJinc)
