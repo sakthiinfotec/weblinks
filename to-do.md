@@ -3,6 +3,7 @@
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://www.youtube.com/watch?v=KJtZARuO3JY)
 - [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY)
 - [Andrew Ng: AI Vision, Agents and Business Values](https://www.youtube.com/watch?v=m9ccaNDS-LI)
+- [7+ Million Postgress Tables | Kailash Nadh | IndiaFOSS 2024](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 
 ##### Courses
 - [Codebasics: Master Machine Learning for Data Science & AI: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced/lecture/2033)
