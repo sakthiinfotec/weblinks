@@ -7,6 +7,7 @@
 - [3Blue1Brown: How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 - [The moment we stopped understanding AI | AlexNet](https://www.youtube.com/watch?v=UZDiGooFs54)
 - [Building Real-time notifications in Spring Boot using Websocket | Jata Techie](https://www.youtube.com/watch?v=sqYqyr6EpAU)
+- [AppliedAI: Understanding OpenAI 01: Technology and Applications](https://www.youtube.com/watch?v=KzWE7FLostc)
 
 ##### Courses
 - [Codebasics: Master Machine Learning for Data Science & AI: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced/lecture/2033)
