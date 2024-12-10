@@ -22,6 +22,10 @@
 ##### Design
 - [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
 
+##### Tech
+- [uv: Python packaging in Rust](https://docs.astral.sh/uv/)
+- [FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
+
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 - [LEARN Math the RIGHT way](https://www.youtube.com/watch?v=glZLHLLalv0)
