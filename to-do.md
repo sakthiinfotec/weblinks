@@ -10,6 +10,7 @@
 - [AppliedAI: Understanding OpenAI 01: Technology and Applications](https://www.youtube.com/watch?v=KzWE7FLostc)
 - [PydanticAI - The NEW Agent Builder on the Block](https://www.youtube.com/watch?v=UnH7S5044GA)
 - [PydanticAI - Building a Research Agent](https://www.youtube.com/watch?v=MkqkiJgnDxk)
+- [PydanticAI - AI Agent Framework, build Production grade AI Agents!](https://www.youtube.com/watch?v=hoIy26Rlk5s)
 - [Statistics - A Full Course to Learn Data Science](https://www.youtube.com/watch?v=Ym1iH8-GQOE)
 
 ##### Courses
