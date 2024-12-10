@@ -25,6 +25,7 @@
 ##### Tech
 - [uv: Python packaging in Rust](https://docs.astral.sh/uv/)
 - [FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
