@@ -15,6 +15,7 @@
 - [PydanticAI - Building a Research Agent](https://www.youtube.com/watch?v=MkqkiJgnDxk)
 - [PydanticAI - AI Agent Framework, build Production grade AI Agents!](https://www.youtube.com/watch?v=hoIy26Rlk5s)
 - [Statistics - A Full Course to Learn Data Science](https://www.youtube.com/watch?v=Ym1iH8-GQOE)
+- [Machine Learning for Web Developers (Web ML using TensorFlow.js) | Google for Developers · Course](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui)
 
 ##### Courses
 - [Codebasics: Master Machine Learning for Data Science & AI: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced/lecture/2033)
