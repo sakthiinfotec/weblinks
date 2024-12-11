@@ -137,7 +137,9 @@
 
 ##### Design
 - [Spline - 3D Design in Web Browser](https://spline.design/)  
-- [Rive - Design and Animation app for Mobile and Web](https://rive.app)  
+- [Rive - Design and Animation app for Mobile and Web](https://rive.app)
+- [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [Animate On Scroll - React.js](https://github.com/michalsnik/aos)
 
 ##### UI Templates
 - [Liquid by Shopify | Written in Ruby](https://shopify.github.io/liquid/)
