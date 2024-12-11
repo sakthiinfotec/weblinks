@@ -3,6 +3,7 @@
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://www.youtube.com/watch?v=KJtZARuO3JY)
 - [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY)
 - [Andrew Ng: AI Vision, Agents and Business Values](https://www.youtube.com/watch?v=m9ccaNDS-LI)
+- [What Is an AI Anyway? | Mustafa Suleyman | TED](https://www.youtube.com/watch?v=KKNCiRWd_j0)
 - [7+ Million Postgress Tables | Kailash Nadh | IndiaFOSS 2024](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 - [3Blue1Brown: Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [3Blue1Brown: How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
