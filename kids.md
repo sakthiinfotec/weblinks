@@ -36,3 +36,5 @@
 [Institute Of Aeronautics Astronautics and Aviation - IAAA, Chennai | Aeronautics and Aviation study](https://www.iaaaindia.com/)  
 - [Expatrio - Study in Germany](https://www.expatrio.com)
 - [Prof. Dr. Matthias Nießner | Visual Computing & Artificial Intelligence Group - Technical University of Munich](https://niessnerlab.org/contact.html)
+- [World's top yoga University Dev Sanskrity Vishvvidyalay, Haridwar, India.](https://www.linkedin.com/in/ram-niranjan-sharma-43085a242/?locale=zh_CN)
+- [HSK - Chinese Proficiency Test (like IELTS)](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi)
