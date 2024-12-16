@@ -96,6 +96,7 @@
 - [LibGen - RS](http://libgen.rs)
 - [Anna's Archive](https://annas-archive.li/search?q=LLM+Engineer%27s+Handbook)
 - Thorium ePub Reader
+- Readera ePub Reader
 
 #### Windows 10
 [FIX: Computer randomly freezes in Windows 10](https://windowsreport.com/random-freeze-windows-10/)  
