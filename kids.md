@@ -33,6 +33,7 @@
 
 #### Study
 [இன்ஸ்டிடியூட் ஆப் ஆஸ்ட்ரோனேடிக்ஸ் அண்ட் ஏவியேஷன் - Chennai](https://www.dinamalar.com/news_detail.asp?id=2806226)  
+- UPSC and National Defence Academy & Naval Academy
 [Institute Of Aeronautics Astronautics and Aviation - IAAA, Chennai | Aeronautics and Aviation study](https://www.iaaaindia.com/)  
 - [Expatrio - Study in Germany](https://www.expatrio.com)
 - [Prof. Dr. Matthias Nießner | Visual Computing & Artificial Intelligence Group - Technical University of Munich](https://niessnerlab.org/contact.html)
