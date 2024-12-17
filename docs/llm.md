@@ -205,6 +205,14 @@ This workflow showcases how LLMs and RAG techniques can be combined to handle co
 
 - [Rockset: Hybrid Search Architecture](https://rockset.com/whitepapers/hybrid-search-architecture/)
 
+
+##### Embedding Model
+Google just released Gemma Embeddings!
+
+"GemmaEmbed is a dense-vector embedding model, trained especially for retrieval. As of December 12, 2024, GemmaEmbed achieves the #1 position overall on the MTEB leaderboard, with a score of 72.72."
+![image](https://github.com/user-attachments/assets/a5a8c547-f58d-42b0-afdf-3c370fcf329e)
+
+
 #### AI Assistant
 - A 24/7 customer service expert
 - Your personal {domain} assistant /  finance assistant: Handles a wide array of queries, including refunds, returns, payment-related issues, cancellations, disputes, and invoice inaccuracies, ensuring swift and effective solutions.
