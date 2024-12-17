@@ -29,6 +29,9 @@
 [Creating a realtime attendance app with React Native and BLE](https://pusher.com/tutorials/realtime-attendance-react-native-ble)  
 [How to Connect IoT Sensors Wirelessly With a Web Application? - AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2022/09/how-to-connect-iot-sensors-wirelessly-with-a-web-application/)  
 
+#### Electronics Components Store
+- [EVELTA](https://evelta.com/)
+
 #### Hardware Startups in India
 [Open Appliances - Maker of the world's most secure smart locks](https://www.openapp.com/home)  
 [AjnaLens - an AI/VR startup that manufactures AI-powered mixed reality glasses | 3D Printing, 3D Scanning, CV, MR, Glass](https://www.ajnalens.com/)  
