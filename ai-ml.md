@@ -190,7 +190,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Tracel: High Performance Computing to Bring Intelligence Everywhere](https://tracel.ai)
 * [Burn: A next generation Deep Learning Framework written in Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://burn.dev/)
 * [Agent Cloud: Data sync for Vector DBs, allows to create data connected agents that have access to fresh up to date vector data for RAG.](https://www.agentcloud.dev/)
-* [https://exa.ai/](Organizing the world's data with embeddings search)
+* [MiniPerplx - A minimalistic AI-powered search engine that helps you find information on the internet](https://github.com/zaidmukaddam/miniperplx/)
+* [Exa.ai - Organizing the world's data with embeddings search](https://exa.ai/)
+* [e2b.dev - RUN AI-GENERATED code SECURELY in your App](https://e2b.dev/)
+* [Screen Pipe: 24/7 local AI screen & mic recording](https://x.com/screen_pipe)
 
 #### AI Services - Video
 - SORA
