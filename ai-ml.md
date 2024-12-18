@@ -190,6 +190,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Tracel: High Performance Computing to Bring Intelligence Everywhere](https://tracel.ai)
 * [Burn: A next generation Deep Learning Framework written in Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://burn.dev/)
 * [Agent Cloud: Data sync for Vector DBs, allows to create data connected agents that have access to fresh up to date vector data for RAG.](https://www.agentcloud.dev/)
+* [https://exa.ai/](Organizing the world's data with embeddings search)
 
 #### AI Services - Video
 - SORA
