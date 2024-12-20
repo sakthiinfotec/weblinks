@@ -17,7 +17,7 @@
 - [Google Slides](https://docs.google.com/presentation)
 - [How to create animated Software Architecture diagrams](https://bool.dev/blog/detail/animated-architecture-diagrams)
 - [draw.io - Connector styles and animations](https://drawio-app.com/blog/connector-styles-and-animations-in-draw-io/)
-- [Medium: Building animations for quality documentation](https://tanulb.medium.com/building-animations-for-quality-documentation-6573c0d18e4c)
+- [Medium: Building animations for quality documentation (Combine draw.io & ScreenToGif)](https://tanulb.medium.com/building-animations-for-quality-documentation-6573c0d18e4c)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
 #### Mobile App - Screenshots Generator
