@@ -16,6 +16,7 @@
 - [Cloudairy](https://cloudairy.com/)
 - [Google Slides](https://docs.google.com/presentation)
 - [How to create animated Software Architecture diagrams](https://bool.dev/blog/detail/animated-architecture-diagrams)
+- [draw.io - Connector styles and animations](https://drawio-app.com/blog/connector-styles-and-animations-in-draw-io/)
 
 #### Mobile App - Screenshots Generator
 * [Previewed App - Create 3D snapshots and animations of iPhone devices.](https://previewed.app/)
