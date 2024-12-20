@@ -10,9 +10,12 @@
 - [Mermaid Chart | Supports AI](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=banner_ad&utm_campaign=teams)
 - [Markmap + Mindmap](https://markmap.js.org/repl)  
 - [yworks - yed live](https://www.yworks.com/yed-live/)  
-- [Draw.io](https://app.diagrams.net/)
-- Figma
-- Canva
+- [Draw.io: Including making animated diagrams](https://app.diagrams.net/)
+- [Figma](https://www.figma.com/)
+- [Canva](https://www.canva.com/)
+- [Cloudairy](https://cloudairy.com/)
+- [Google Slides](https://docs.google.com/presentation)
+- [How to create animated Software Architecture diagrams](https://bool.dev/blog/detail/animated-architecture-diagrams)
 
 #### Mobile App - Screenshots Generator
 * [Previewed App - Create 3D snapshots and animations of iPhone devices.](https://previewed.app/)
