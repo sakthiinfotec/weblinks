@@ -20,6 +20,12 @@
 - [Scaleway - Europe based Cloud Provider. Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.](https://www.scaleway.com/en/)
 - [Fly.io: Deploy app server close to your users | A Public Cloud Built For Developers Who Ship](https://fly.io/)
 
+#### Cloud Services
+- Audit logs
+   * AWS CloudTrail
+   * Azure Monitor Logs
+   * GCP Cloud Audit Logs
+
 #### Best Practices
 - [Cloudian - Understanding AWS S3 Storage Pricing: A Comprehensive Guide](https://cloudian.com/blog/5-components-of-aws-s3-storage-pricing/)
 - [CloudZero - The No BS Guide To Understanding S3 Storage Costs](https://www.cloudzero.com/blog/s3-pricing/)  
