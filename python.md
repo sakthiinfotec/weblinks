@@ -2,7 +2,6 @@
 - [Python Cheatsheet - Github](https://github.com/gto76/python-cheatsheet)  
 - [Python Cheatsheet - Zero To Mastery](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)  
 
-
 ##### Python Stack
 - [Pydantic - Data validation and settings management using Python type annotations](https://docs.pydantic.dev/)  
 - [Celery - Distributed Task Queue](https://github.com/celery/celery)  
@@ -17,7 +16,6 @@
 - [Cortex - ML Model serving at scale](https://github.com/cortexlabs/cortex)  
 - [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
 
-
 ##### Basics
 - [Full Stack Python - Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)  
 - [Python Crash Course for Non-Python Programmers - freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)  
@@ -28,27 +26,28 @@
 [Implement gRPC Server in Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)  
 
 #### Flask | FastAPI  
-[Flask vs FastAPI](https://www.google.com/search?q=fastapi+vs+flask)  
-[Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)  
-[FastAPI alternatives](https://fastapi.tiangolo.com/alternatives/)  
-[Flask Tutorials (Deploy, Domain Name, SSL/TLS Certificate) - YouTube - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)  
-
+- [Flask vs FastAPI](https://www.google.com/search?q=fastapi+vs+flask)  
+- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)  
+- [FastAPI alternatives](https://fastapi.tiangolo.com/alternatives/)  
+- [Flask Tutorials (Deploy, Domain Name, SSL/TLS Certificate) - YouTube - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)  
 
 #### Data Science
-[NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
-* JupyterLab or Binder
-* [stlite: Serverless Streamlit | A port of Streamlit to WebAssembly, powered by Pyodide.](https://github.com/whitphx/stlite)
+- [NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
+- JupyterLab or Binder
+- [stlite: Serverless Streamlit | A port of Streamlit to WebAssembly, powered by Pyodide.](https://github.com/whitphx/stlite)
+- [Pandas vs. FireDucks Performance Comparison: 20x faster Pandas by changing one line of code.](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison)
 
 #### Computing
-[Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
-[Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
-[Coiled - handles the creation and management of Dask clusters in the cloud](https://www.coiled.io/)  
-[Ray - Fast and Simple Distributed Computing](https://ray.io/)  
-[Apache Airflow - a platform to programmatically author, schedule and monitor workflows](https://airflow.apache.org/)  
-[Rapids.ai By NVDIA](https://rapids.ai/start.html)  
-[Vaex - a python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets](https://vaex.io/docs/index.html)  
-[Prefect — A modern, python-native data workflow engine](https://makeitnew.io/prefect-a-modern-python-native-data-workflow-engine-7ece02ceb396)  
-[Prefect IO - Dataflow Automation](https://www.prefect.io/)  
+- [Dask - Dask is a flexible library for parallel computing in Python](https://docs.dask.org/en/latest/)  
+- [Dask.distributed - A distributed task scheduler for Dask](https://distributed.dask.org/)  
+- [Coiled - handles the creation and management of Dask clusters in the cloud](https://www.coiled.io/)  
+- [Ray - Fast and Simple Distributed Computing](https://ray.io/)  
+- [Apache Airflow - a platform to programmatically author, schedule and monitor workflows](https://airflow.apache.org/)  
+- [Rapids.ai By NVDIA](https://rapids.ai/start.html)  
+- [Vaex - a python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets](https://vaex.io/docs/index.html)  
+- [Prefect — A modern, python-native data workflow engine](https://makeitnew.io/prefect-a-modern-python-native-data-workflow-engine-7ece02ceb396)  
+- [Prefect IO - Dataflow Automation](https://www.prefect.io/)
+- [FireDucks: Compiler Accelerated DataFrame Library for Python with fully-compatible pandas API](https://fireducks-dev.github.io/)
 
 #### Best Practices
 [Use a Flask Blueprint to Architect Your Applications](https://realpython.com/flask-blueprint/)  
