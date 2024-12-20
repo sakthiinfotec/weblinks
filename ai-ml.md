@@ -240,6 +240,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)
 - [AgentOps.ai: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen](https://github.com/AgentOps-AI/agentops)
 - [LlamaHub Powered By LlamaIndex | Get your RAG application rolling in no time. Mix and match our Data Loaders and Agent Tools to build custom RAG apps](https://llamahub.ai/)
+- [Hugging Face: Jupyter Agent - Let a LLM agent write and execute code inside a notebook!](https://huggingface.co/spaces/data-agents/jupyter-agent)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
