@@ -21,6 +21,19 @@
 - [Fly.io: Deploy app server close to your users | A Public Cloud Built For Developers Who Ship](https://fly.io/)
 
 #### Cloud Services
+- Infrastructure as Code (IaC):
+   * Terraform
+   * AWS CloudFormation (AWS)
+   * Azure Resource Manager templates (Azure)
+   * Deployment Manager (GCP) 
+- Manage Organizations / Projects / Groups
+  * IAM Users and Roles: AWS Organizations for managing multiple accounts which can be useful if the client has multiple AWS accounts
+  * Service Accounts and IAM: Use GCP's IAM to manage access. GCP Projects can also help in organizing resources where you can be granted access to individual projects instead of the whole account
+  * Azure Active Directory (Azure AD) and Role-Based Access Control (RBAC): Use Azure AD for identity management and RBAC for defining permissions. Azure has a concept of Management Groups and Subscriptions which can be used to delegate control.
+- Cloud Shell: Each provider offers a cloud-hosted shell environment where you can run scripts and manage resources directly from the browser:
+  * AWS CloudShell
+  * Azure Cloud Shell
+  * Google Cloud Shell
 - Audit logs
    * AWS CloudTrail
    * Azure Monitor Logs
