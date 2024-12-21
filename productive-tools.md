@@ -18,6 +18,7 @@
 - [How to create animated Software Architecture diagrams](https://bool.dev/blog/detail/animated-architecture-diagrams)
 - [draw.io - Connector styles and animations](https://drawio-app.com/blog/connector-styles-and-animations-in-draw-io/)
 - [Animate your draw.io connectors in Atlassian Confluence](https://www.youtube.com/watch?v=MLlal_jRoXQ)
+- [D2 Lang](https://d2lang.com/)
 
 #### Mobile App - Screenshots Generator
 * [Previewed App - Create 3D snapshots and animations of iPhone devices.](https://previewed.app/)
