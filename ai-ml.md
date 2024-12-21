@@ -242,6 +242,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [LlamaHub Powered By LlamaIndex | Get your RAG application rolling in no time. Mix and match our Data Loaders and Agent Tools to build custom RAG apps](https://llamahub.ai/)
 - [Hugging Face: Jupyter Agent - Let a LLM agent write and execute code inside a notebook!](https://huggingface.co/spaces/data-agents/jupyter-agent)
 - [Traditional RAG vs. HyDE](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/)
+- [Daily Dose of Data Science: A Crash Course on Building RAG Systems – Part 1 (With Implementation)](https://www.dailydoseofds.com/a-crash-course-on-building-rag-systems-part-1-with-implementations/)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
