@@ -53,5 +53,5 @@
 - [Mabara Electronics Manufacturing Company, Chennai | BLDC, Elevator Controller, Touch, Induction Motor, Complete Power Electronics Solutions](https://mabara.com/)
 - [PC Process Pvt. Ltd, Bengaluru | Electronics Manufacturer, PCB, Prototype PCBs, All over India, Single Qty also, Mostly forcusing R & D (+91 63640 31847)](https://www.pcprocess.in/)
 - [JBC Soldering | Chennai | MNC](https://www.jbctools.com/)
-- [Mech Power - Design Prototype & Manufacture Enclosure | 3D Printing | Sheet Metal Fabrication | Gujrat](https://mechpowertech.com/)
-- [PCB Power | Custom enclusure for PCB | Gujrat](https://pcbpower.com/)
+- [Mech Power - Design Prototype & Manufacture Enclosure | 3D Printing | Sheet Metal Fabrication | Gujrat | +91 70692 29550 | sales.srexe@mechpowertech.com](https://mechpowertech.com/)
+- [PCB Power | Custom enclusure for PCB | Gujrat | pcb@pcbpower | +91 76000 12414](https://pcbpower.com/)
