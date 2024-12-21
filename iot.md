@@ -49,8 +49,9 @@
 
 - [Electronics Expo 2024 | Chennai](https://www.youtube.com/watch?v=CrMCeyyXy9Q)
 - [IIT Namakkal, Dr.V.THIYAGU.,M.E.,PhD, | +91 9003446612 | iitdetails@gmail.com | Contact for workshop in your Institution](www.iitnamakkal.com)
-- [GLONIX Electronics Pvt. Ltd](https://www.glonix.in/)
+- [GLONIX Electronics Pvt. Ltd | PCB Favrication Circuit into a Physical Board | Chennai](https://www.glonix.in/)
 - [Mabara Electronics Manufacturing Company, Chennai | BLDC, Elevator Controller, Touch, Induction Motor, Complete Power Electronics Solutions](https://mabara.com/)
-- [PC Process Pvt. Ltd | Electronics Manufacturer, PCB, Prototype PCBs, All over India, Single Qty also, Mostly forcusing R & D (+91 63640 31847)](https://www.pcprocess.in/)
-- [JBC Soldering](https://www.jbctools.com/)
-- [Mech Power - Design Prototype & Manufacture Enclosure | 3D Printing | Sheet Metal Fabrication](https://mechpowertech.com/)
+- [PC Process Pvt. Ltd, Bengaluru | Electronics Manufacturer, PCB, Prototype PCBs, All over India, Single Qty also, Mostly forcusing R & D (+91 63640 31847)](https://www.pcprocess.in/)
+- [JBC Soldering | Chennai | MNC](https://www.jbctools.com/)
+- [Mech Power - Design Prototype & Manufacture Enclosure | 3D Printing | Sheet Metal Fabrication | Gujrat](https://mechpowertech.com/)
+- [PCB Power | Custom enclusure for PCB | Gujrat](https://pcbpower.com/)
