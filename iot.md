@@ -46,3 +46,9 @@
 [Ati Motors is a Bangalore based startup making an all-electric autonomous Industrial vehicle | Bengaluru](https://www.atimotors.com/)  
 [InCore Semiconductors | Chennai, Tamilnadu](https://incoresemi.com/)  
 [Mumbai-based Strom Motors, an electric vehicle start-up](https://www.strommotors.com/)  
+
+- [Electronics Expo 2024 | Chennai](https://www.youtube.com/watch?v=CrMCeyyXy9Q)
+- [GLONIX Electronics Pvt. Ltd](https://www.glonix.in/)
+- [Mabara Electronics Manufacturing Company, Chennai | BLDC, Elevator Controller, Touch, Induction Motor, Complete Power Electronics Solutions](https://mabara.com/)
+- [PC Process Pvt. Ltd | Electronics Manufacturer, PCB, Prototype PCBs, All over India, Single Qty also, Mostly forcusing R & D (+91 63640 31847)](https://www.pcprocess.in/)
+- [JBC Soldering](https://www.jbctools.com/)
