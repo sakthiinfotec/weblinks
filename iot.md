@@ -32,6 +32,9 @@
 #### Electronics Components Store
 - [EVELTA](https://evelta.com/)
 
+#### IoT Components
+- ESP 328266 - IoT Communication
+
 #### Hardware Startups in India
 [Open Appliances - Maker of the world's most secure smart locks](https://www.openapp.com/home)  
 [AjnaLens - an AI/VR startup that manufactures AI-powered mixed reality glasses | 3D Printing, 3D Scanning, CV, MR, Glass](https://www.ajnalens.com/)  
@@ -48,6 +51,7 @@
 [Mumbai-based Strom Motors, an electric vehicle start-up](https://www.strommotors.com/)  
 
 - [Electronics Expo 2024 | Chennai](https://www.youtube.com/watch?v=CrMCeyyXy9Q)
+- [Electronics Expo 2024 | Brochures](https://drive.google.com/file/d/1lV4HxaruLFlPm9zMRKRzXJ39xfNrc4MX/view)
 - [IIT Namakkal, Dr.V.THIYAGU.,M.E.,PhD, | +91 9003446612 | iitdetails@gmail.com | Contact for workshop in your Institution](www.iitnamakkal.com)
 - [GLONIX Electronics Pvt. Ltd | PCB Favrication Circuit into a Physical Board | Chennai](https://www.glonix.in/)
 - [Mabara Electronics Manufacturing Company, Chennai | BLDC, Elevator Controller, Touch, Induction Motor, Complete Power Electronics Solutions](https://mabara.com/)
@@ -55,4 +59,7 @@
 - [JBC Soldering | Chennai | MNC](https://www.jbctools.com/)
 - [Mech Power - Design Prototype & Manufacture Enclosure | 3D Printing | Sheet Metal Fabrication | Gujrat | +91 70692 29550 | sales.srexe@mechpowertech.com](https://mechpowertech.com/)
 - [PCB Power | Custom enclusure for PCB | Gujrat | pcb@pcbpower | +91 76000 12414](https://pcbpower.com/)
-- [Thomson Electronics | Wholesaller | Arduino | Robotics | Coimbatore | Chennai | Bengaluru | Kerala](https://www.tomsonelectronics.com/)
+- [Thomson Electronics | Wholesaller | Arduino | Robotics | Coimbatore | Chennai | Bengaluru | Kerala | +91 9072950999 | +9190616 50999 | sales.cbe@tomson.in](https://www.tomsonelectronics.com/)
+- [Enthu Technology Solutions India Pvt Ltd, Goldwins | Coimbatore](https://www.enthutech.in/home)
+- [SmowCode | Easily create Highly Industry Grade IoT Codes for ESP32 | 10X faster coding for IoT](https://smowcode.com/)
+- [Wiman | IoT | LoRA | Chennai](https://wiman.in/)
