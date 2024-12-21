@@ -150,6 +150,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### AI Services
 * [RunPod - The Cloud Built for AI | Globally distributed GPU cloud built for production. Develop, train, and scale AI applications](https://www.runpod.io/)
+* [Modal: High-performance AI infrastructure | Serverless cloud for AI, ML, and data applications – built for developers](https://modal.com/)
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Uses Ray for Distributed Inference and Serving](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)  
 * [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)  
 * [ModelScope: bring the notion of Model-as-a-Service to life.](https://github.com/modelscope/modelscope)  
