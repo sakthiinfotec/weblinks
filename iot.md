@@ -62,4 +62,4 @@
 - [Thomson Electronics | Wholesaller | Arduino | Robotics | Coimbatore | Chennai | Bengaluru | Kerala | +91 9072950999 | +9190616 50999 | sales.cbe@tomson.in](https://www.tomsonelectronics.com/)
 - [Enthu Technology Solutions India Pvt Ltd, Goldwins | Coimbatore](https://www.enthutech.in/home)
 - [SmowCode | Easily create Highly Industry Grade IoT Codes for ESP32 | 10X faster coding for IoT](https://smowcode.com/)
-- [Wiman | IoT | LoRA | Chennai](https://wiman.in/)
+- [Wiman: Manufacture of Generic IoT Devices - Experience the Power of Seamless Connectivity! | IoT | LoRA | Chennai](https://wiman.in/)
