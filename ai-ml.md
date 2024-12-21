@@ -159,6 +159,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
   - Job Queues & Batch Processing
   - Sandboxing Code
   - Computational Biology
+  - [Modal Examples: a collection of examples for Modal](https://github.com/modal-labs/modal-examples)
 
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Uses Ray for Distributed Inference and Serving](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)  
 * [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)  
