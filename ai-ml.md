@@ -245,6 +245,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
+- [Phidata: Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.](https://docs.phidata.com/introduction)
 - [Crew.ai - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/crewAIInc/crewAI)
 - [CAMEL AI - Build Multi-Agent Systems for Task Automation | Data Generation](https://www.camel-ai.org/)
 - [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)
@@ -440,6 +441,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Recent Happenings
 - [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)
+- [Unwind AI | Shubham Saboo](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [AI Search](https://aisearch.substack.com/)
 - [Find AI tools & jobs](https://ai-search.io/)
 - [Lablab.ai: Empowering AI Innovation](https://lablab.ai/)
