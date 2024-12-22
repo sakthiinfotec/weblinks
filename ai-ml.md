@@ -441,7 +441,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Recent Happenings
 - [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)
-- [Unwind AI | Shubham Saboo](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Unwind AI | Shubham Saboo | LLMs, RAG, Ai Agents](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [AI Search](https://aisearch.substack.com/)
 - [Find AI tools & jobs](https://ai-search.io/)
 - [Lablab.ai: Empowering AI Innovation](https://lablab.ai/)
