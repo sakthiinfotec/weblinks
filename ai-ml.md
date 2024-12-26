@@ -1,13 +1,13 @@
 #### ML
-[Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
-[Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
-[paperswithcode.com - CV, NLP, Audio](https://paperswithcode.com/sota)  
-[Multimodal Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
-[Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
-[Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
-[Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
-[Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
-[Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)  
+- [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
+- [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
+- [paperswithcode.com - CV, NLP, Audio](https://paperswithcode.com/sota)  
+- [Multimodal Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)  
+- [Made with ML an MLOps Course - by Goku Mohandass](https://madewithml.com/)  
+- [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
+- [Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
+- [Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
+- [Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)  
 
 #### Neural Network
 [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
@@ -16,12 +16,12 @@
 [Activation Functions(Sigmoid, tanh, Softmax, ReLU, Leaky ReLU) in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)  
 
 #### Deep Learning Starter Kit
-[explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
-[d2l.ai - For Guided learning](http://d2l.ai)  
-[fast.ai - For applied Deep learning](http://fast.ai)  
-[TensofFlow - For training Deep learning models](https://www.tensorflow.org/)  
-[PyTorch - For training Deep learning models](https://pytorch.org/)
-[Google Colab - For coding your models](https://colab.research.google.com/)  
+- [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
+- [d2l.ai - For Guided learning](http://d2l.ai)  
+- [fast.ai - For applied Deep learning](http://fast.ai)  
+- [TensofFlow - For training Deep learning models](https://www.tensorflow.org/)  
+- [PyTorch - For training Deep learning models](https://pytorch.org/)
+- [Google Colab - For coding your models](https://colab.research.google.com/)  
 
 #### Deep Learning
 [Udacity: Introduction to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)  
@@ -315,6 +315,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
  - [Cloudinary - Developers](https://cloudinary.com/developers)
 
 #### LLM
+- [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 - [Designing LLM Applications with Knowledge Graphs and LangChain - StarDog Blog](https://www.stardog.com/blog/designing-llm-applications-with-knowledge-graphs-and-langchain/)  
 - [Emerging Architectures for LLM Applications - by Andreessen Horowitz](https://a16z.com/emerging-architectures-for-llm-applications/)  
 - [LLM Cli By Simon Willison](https://llm.datasette.io/en/stable/)  
