@@ -260,6 +260,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Multi-Agent Orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations.](https://github.com/awslabs/multi-agent-orchestrator)
 - [AI-powered data science team of copilots that uses agents](https://github.com/business-science/ai-data-science-team)
 
+#### Text-2-SQL
+- [Ask English questions about your Snowflake data, get SQL answers](https://github.com/ryanstout/question_to_sql)
+
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
 - [Gretel.ai](https://gretel.ai)
