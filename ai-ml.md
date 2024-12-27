@@ -205,6 +205,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Exa.ai - Organizing the world's data with embeddings search](https://exa.ai/)
 * [e2b.dev - RUN AI-GENERATED code SECURELY in your App](https://e2b.dev/)
 * [Screen Pipe: 24/7 local AI screen & mic recording](https://x.com/screen_pipe)
+* [Chainlit: Build Conversational AI: Build production-ready Conversational AI applications in minutes, not weeks](https://github.com/Chainlit/chainlit)
 
 #### AI Services - Video
 - SORA
@@ -256,6 +257,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Traditional RAG vs. HyDE](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/)
 - [Daily Dose of Data Science: A Crash Course on Building RAG Systems – Part 1 (With Implementation)](https://www.dailydoseofds.com/a-crash-course-on-building-rag-systems-part-1-with-implementations/)
 - [Multi-Agent Orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations.](https://github.com/awslabs/multi-agent-orchestrator)
+- [AI-powered data science team of copilots that uses agents](https://github.com/business-science/ai-data-science-team)
 
 #### Synthetic Data
 - [Mostly.ai](https://mostly.ai/)
