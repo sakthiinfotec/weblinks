@@ -453,6 +453,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI Search](https://aisearch.substack.com/)
 - [Find AI tools & jobs](https://ai-search.io/)
 - [Lablab.ai: Empowering AI Innovation](https://lablab.ai/)
+- [Open-source Next.js codebases related to AI by @leerob](https://x.com/leeerob/status/1872324323903787286)
 
 ### ML Stacks
 ##### Data Ingestion and Preprocessing:
