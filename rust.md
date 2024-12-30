@@ -28,6 +28,7 @@
 
 #### Articles
 - [Rust Error Handling: Writing Robust Code](https://www.linkedin.com/pulse/rust-error-handling-writing-robust-code-jenifer-rajendren-tlrvc/)
+- [Understanding std::sync::mpsc::channel vs tokio::sync::mpsc::channel in Rust | Concurrency vs Parallelism](https://www.linkedin.com/pulse/understanding-stdsyncmpscchannel-vs-rust-upendra-singh-ikrlc/)
 
 ##### Libraries
 - [Tokio: Build reliable network applications without compromising speed | an asynchronous runtime for the Rust programming language](https://tokio.rs/)
