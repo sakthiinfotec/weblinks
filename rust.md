@@ -26,6 +26,8 @@
 - [Embedded Rust Programming on Raspberry Pi Zero W | www.freecodecamp.org](https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/)
 - [How to use Rust + WebAssembly to Perform Serverless Machine Learning and Data Visualization in the Cloud | www.freecodecamp.org](https://www.freecodecamp.org/news/rust-webassembly-serverless-tencent-cloud/)
 
+#### Articles
+- [Rust Error Handling: Writing Robust Code](https://www.linkedin.com/pulse/rust-error-handling-writing-robust-code-jenifer-rajendren-tlrvc/)
 
 ##### Libraries
 - [Tokio: Build reliable network applications without compromising speed | an asynchronous runtime for the Rust programming language](https://tokio.rs/)
