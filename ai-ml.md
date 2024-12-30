@@ -216,6 +216,10 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - FLUX
 - [HeyGen - AI Video Generator](https://www.heygen.com/)
 
+#### Visualization
+- [3D Visualization of LLMs](https://bbycroft.net/llm)
+- [3D Visualization of Matrix Multiplication](https://bhosmer.github.io/mm/ref.html)
+
 #### LLM Frameworks
 - Langchain (python)
 - Langchain (js)
@@ -307,7 +311,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI SQL Query Generator](https://www.logicloop.com/ai-sql-query-generator)
 - [oobabooga/text-generation-webui - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.](https://github.com/oobabooga/text-generation-webui)
 - [AUTOMATIC1111/stable-diffusion-webui - Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [LLM Visualization](https://bbycroft.net/llm)
 
 #### Leading AI Companies
  - [OpenAI](https://openai.com/)
