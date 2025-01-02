@@ -264,6 +264,34 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Multi-Agent Orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations.](https://github.com/awslabs/multi-agent-orchestrator)
 - [AI-powered data science team of copilots that uses agents](https://github.com/business-science/ai-data-science-team)
 
+#### AI agent stack
+**Framework**
+- [AG2](/pyautogen): end-to-end multi-agent automation platform
+- crewAIInc: Faster, simple, powerful multi-agent framework
+- LiteLLM: Call 100+ LLMs with a single library
+
+**Observability**
+- Agentops
+
+**Search**
+- Firecrawl
+- Perplexity
+- exa
+
+**External APIs**
+- Composio
+- Stripe
+
+**Computer Use**
+- Browserbase
+- Open Interpreter
+
+**Memory**
+- Retrie
+- memo
+- Neon
+
+
 #### Text-2-SQL
 - [Ask English questions about your Snowflake data, get SQL answers](https://github.com/ryanstout/question_to_sql)
 
