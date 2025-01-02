@@ -207,6 +207,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Screen Pipe: 24/7 local AI screen & mic recording](https://x.com/screen_pipe)
 * [Chainlit: Build Conversational AI: Build production-ready Conversational AI applications in minutes, not weeks](https://github.com/Chainlit/chainlit)
 * [Build your own local ChatGPT-like interface! Powered by Llama 3.2 Vision |  Chainlit for the UI, Ollama for serving Llama 3.2 vision | Everything is just 50 lines of code!](https://github.com/patchy631/ai-engineering-hub/blob/main/local-chatgpt/app.py)
+* [STORM from Stanford University: Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 
 #### AI Services - Video
 - SORA
