@@ -32,7 +32,7 @@
 - [Flask Tutorials (Deploy, Domain Name, SSL/TLS Certificate) - YouTube - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)  
 
 #### Data Engineering
-- [Pathway: a Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.](https://github.com/pathwaycom/pathway)
+- [Pathway: a Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG | Powered by scalable Rust engine](https://github.com/pathwaycom/pathway)
 
 #### Data Science
 - [NumPy Tutorial – 2022](https://www.mygreatlearning.com/blog/python-numpy-tutorial)  
