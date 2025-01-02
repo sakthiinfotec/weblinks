@@ -582,3 +582,26 @@ Credits: [Track, compare, and share your models in one place – neptune.ai](htt
 33. **This Person Does Not Exist**: A website showcasing GAN capabilities by generating realistic human faces that do not correspond to real individuals.
 
 These companies and startups are leveraging generative AI in innovative ways across various domains, from art and design to writing and customer service. Their technologies are reshaping how we interact with digital content and enhancing creativity and productivity.
+
+#### Al App Categories
+**Search & Research**
+- Claude: Fastest AI and best for code
+- Gemini Live: Smartest reasoning model
+- Perplexity: Talk to AI watching your screen
+- OpenAI 01: AI and web search
+
+**Productivity**
+- Superhuman: Writes your emails fast
+- Wispr Flow: 99% accurate dictation
+- Lindy: Nifty task automations
+- Delphi: Clone yourself
+- Granola: Meeting notetaker
+
+**Creative Tools**
+- Midjourney: AI image generation
+- Krea: Visual design assistant
+
+**Development**
+- Cursor: VSCode based AI code editor
+- Zed: Rust based AI code editor
+- Lovable: Build a new app fast
