@@ -264,6 +264,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Multi-Agent Orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations.](https://github.com/awslabs/multi-agent-orchestrator)
 - [AI-powered data science team of copilots that uses agents](https://github.com/business-science/ai-data-science-team)
 - [Agentarium: A powerful Python framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.](https://github.com/Thytu/Agentarium)
+- [Build an AI powered Cursor Agent - Riley Brown](https://x.com/rileybrown_ai/status/1874541368410034619)
 
 #### AI agent stack
 **Framework**
