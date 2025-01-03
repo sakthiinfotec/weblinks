@@ -39,7 +39,22 @@
 - [Indian Academy of Sciences, Bengaluru](https://www.ias.ac.in/Home/)
 - Indian National Science Academy, New Delhi
 - The National Academy of Sciences, India, Prayagraj
+- [DesignBoat UI/UX School: UX & UI Design School That Makes You Complete](https://www.designboatschool.in/)
 - [Expatrio - Study in Germany](https://www.expatrio.com)
 - [Prof. Dr. Matthias Nießner | Visual Computing & Artificial Intelligence Group - Technical University of Munich](https://niessnerlab.org/contact.html)
 - [World's top yoga University Dev Sanskrity Vishvvidyalay, Haridwar, India.](https://www.linkedin.com/in/ram-niranjan-sharma-43085a242/?locale=zh_CN)
 - [HSK - Chinese Proficiency Test (like IELTS)](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi)
+
+#### Top Start-ups in UI/UX Solutions
+Here are the top start-ups in UI/UX solutions in India:
+
+| **Company Name** | **Company Management** | **Company Description** |
+| --- | --- | --- |
+| Designboat | Harsha Kakkeri, CEO | A design studio creating designs for startups and leading brands, and teaching UI/UX to students and professionals. |
+| Pebels Llp | Sajesh Jose, Creative Director | A design studio offering UX/UI design, logo design, graphic design, web design, and multimedia design services. |
+| Perdix | Ranju Ravindran, Chief Design Officer & Co-Founder | A provider of UI/UX design services for websites and mobile apps, animation, product explainer videos, and digital branding services. |
+| Soch Technologies | Simrin Wahal, Co-Founder | A provider of UI/UX design for web and apps, brand identity/logo design, and social media creatives. |
+| Talkd | Shashi Sudhanshu, CEO | An organisation providing services such as UX/UI design, digital marketing, lead generation, social media storytelling, and creative videos. |
+| Uxexpert | Tushar A. Deshmukh, CEO & Founder | An organisation specializing in design and development of user interaction, including user profiling, field studies, and usability objectives. |
+| Uxinterface | Sanjat Mishra, Founder | A provider of UI/UX design and development services for websites, web-based applications, mobile apps, graphics, software products, branding, and animation services. |
+
