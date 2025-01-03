@@ -32,7 +32,8 @@
 - [School Connect Program by IITM | Data Science and AI and Electronic Systems](https://school-connect.study.iitm.ac.in/)
 
 #### Study
-[இன்ஸ்டிடியூட் ஆப் ஆஸ்ட்ரோனேடிக்ஸ் அண்ட் ஏவியேஷன் - Chennai](https://www.dinamalar.com/news_detail.asp?id=2806226)  
+- [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
+- [இன்ஸ்டிடியூட் ஆப் ஆஸ்ட்ரோனேடிக்ஸ் அண்ட் ஏவியேஷன் - Chennai](https://www.dinamalar.com/news_detail.asp?id=2806226)  
 - UPSC and National Defence Academy & Naval Academy
 - [Institute Of Aeronautics Astronautics and Aviation - IAAA, Chennai | Aeronautics and Aviation study](https://www.iaaaindia.com/)
 - [Raman Research Institute, Bengaluru funded by Department of Science and Technology of the Government of India | Astronomy and Astrophysics | Light and Matter Physics | Soft Condensed Matter | Theoretical Physics](https://www.rri.res.in/people)
