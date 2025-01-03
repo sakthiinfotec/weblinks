@@ -36,6 +36,9 @@
 - UPSC and National Defence Academy & Naval Academy
 - [Institute Of Aeronautics Astronautics and Aviation - IAAA, Chennai | Aeronautics and Aviation study](https://www.iaaaindia.com/)
 - [Raman Research Institute, Bengaluru funded by Department of Science and Technology of the Government of India | Astronomy and Astrophysics | Light and Matter Physics | Soft Condensed Matter | Theoretical Physics](https://www.rri.res.in/people)
+- [Indian Academy of Sciences, Bengaluru](https://www.ias.ac.in/Home/)
+- Indian National Science Academy, New Delhi
+- The National Academy of Sciences, India, Prayagraj
 - [Expatrio - Study in Germany](https://www.expatrio.com)
 - [Prof. Dr. Matthias Nießner | Visual Computing & Artificial Intelligence Group - Technical University of Munich](https://niessnerlab.org/contact.html)
 - [World's top yoga University Dev Sanskrity Vishvvidyalay, Haridwar, India.](https://www.linkedin.com/in/ram-niranjan-sharma-43085a242/?locale=zh_CN)
