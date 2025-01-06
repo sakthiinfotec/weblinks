@@ -18,6 +18,8 @@
 - [Essence of linear algebra - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Differential equations - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 - [Essence of calculus - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Attention for Neural Networks, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=PSs6nxngL6k)
+- [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=L8HKweZIOmg)
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
