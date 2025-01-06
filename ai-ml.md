@@ -25,6 +25,7 @@
 - [Illustrated Guide to Transformers Neural Network: A step by step explanation | The AI Hacker](https://www.youtube.com/watch?v=4Bdc55j80l8)
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24 | Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY)
 - [Transformers, explained: Understand the model behind GPT, BERT, and T5 | Google Cloud Tech](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+- [Attention Is All You Need | Yannic Kilcher | 662K views 7 years ago](https://www.youtube.com/watch?v=iDulhoQ2pro)
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
