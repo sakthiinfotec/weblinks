@@ -35,4 +35,4 @@
 
 #### Profile / Portfolio
 -  [Anshita Sharma](https://visitmy-portfolio.netlify.app/)
--  [Typebot - API Service Status Dashboard](https://status.typebot.io/)
+-  [Typebot - API Service Status Dashboard by BetterStack](https://status.typebot.io/)
