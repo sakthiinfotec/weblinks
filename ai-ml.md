@@ -7,7 +7,8 @@
 - [Learney - The online learning platform designed to help you efficiently take your own path.](https://app.learney.me/)  
 - [Neuromatch Academy: Deep Learning (G)](https://deeplearning.neuromatch.io/tutorials/intro.html)  
 - [Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
-- [Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)  
+- [Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+- [The Elegant Math Behind Machine Learning | Machine Learning Street Talk](https://www.youtube.com/watch?v=URtF_UHYBSo)
 
 #### Neural Networks
 - [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
@@ -20,6 +21,8 @@
 - [Essence of calculus - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Attention for Neural Networks, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=PSs6nxngL6k)
 - [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=L8HKweZIOmg)
+- [Illustrated Guide to Transformers Neural Network: A step by step explanation | The AI Hacker](https://www.youtube.com/watch?v=4Bdc55j80l8)
+- [Visualizing transformers and attention | Talk for TNG Big Tech Day '24 | Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY)
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
@@ -95,8 +98,9 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [How I Created A ML Model That Identifies Hand Gestures - Analytics India Magazine](https://analyticsindiamag.com/how-i-created-a-ml-model-that-identifies-hand-gestures/)  
 
 #### NLP
-[15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
-[Build an AI Voice Assistant using PyTorch + Wake Word Detection - YT(13 Mins)](https://www.youtube.com/watch?v=ob0p7G2QoHA)  
+- [Word Embedding and Word2Vec, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=viZrOnJclY0)
+- [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)   
+- [Build an AI Voice Assistant using PyTorch + Wake Word Detection - YT(13 Mins)](https://www.youtube.com/watch?v=ob0p7G2QoHA)  
 
 [51 CTO - Getting Started with Natural Language Processing in Python](https://www.51cto.com/article/689881.html)  
 [Recommendations for Getting Started with NLP - Elvis's Blogs](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)  
