@@ -9,11 +9,15 @@
 - [Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
 - [Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)  
 
-#### Neural Network
-[Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
-[v7labs - The Essential Guide to Neural Network Architectures](https://www.v7labs.com/blog/neural-network-architectures-guide)  
-[v7labs - Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)  
-[Activation Functions(Sigmoid, tanh, Softmax, ReLU, Leaky ReLU) in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)  
+#### Neural Networks
+- [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
+- [v7labs - The Essential Guide to Neural Network Architectures](https://www.v7labs.com/blog/neural-network-architectures-guide)  
+- [v7labs - Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)  
+- [Activation Functions(Sigmoid, tanh, Softmax, ReLU, Leaky ReLU) in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+- [Neural networks - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Essence of linear algebra - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Differential equations - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+- [Essence of calculus - Playlist by 3Blue1Brown | YouTube](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
