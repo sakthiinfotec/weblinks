@@ -10,18 +10,20 @@ But, when built incorrectly, chatbots can be detrimental to your user experience
 
 A great chatbot should:
 
-Provide a customised experience to the user
-Have a great user interface and beautiful animations
-Feel native to the business brand
-Provide what the user is looking for
+- Provide a customised experience to the user
+- Have a great user interface and beautiful animations
+- Feel native to the business brand
+- Provide what the user is looking for
+
 A chatbot is not necessarily tied to customer support. It can also do:
 
-Lead generation and qualification
-Quizzes
-Surveys
-User onboarding
-Product presentation
-Registrations (newsletter, waiting list)
+- Lead generation and qualification
+- Quizzes
+- Surveys
+- User onboarding
+- Product presentation
+- Registrations (newsletter, waiting list)
+
 To build that kind of chatbots, you need a tool that gives you enough freedom to closely tie it to your business logic. The build experience should be a reliable and fun experience. You also need a space where you can analyse your results so that you can incrementally improve your bots.
 
 This is what Typebot provides.
