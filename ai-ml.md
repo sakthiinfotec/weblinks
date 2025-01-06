@@ -9,6 +9,7 @@
 - [Learn Logistic Regression in Depth - Medium](https://ai.plainenglish.io/logistic-regression-543c8424595d)  
 - [Functions, Tools, and Agents with LangChain by Harrison Chase, Co-Founder and CEO at LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 - [The Elegant Math Behind Machine Learning | Machine Learning Street Talk](https://www.youtube.com/watch?v=URtF_UHYBSo)
+- [All Machine Learning Models Explained in 5 Minutes | Types of ML Models Basics | Learn with Whiteboard | 1.3M views 4 years ago](https://www.youtube.com/watch?v=yN7ypxC7838)
 
 #### Neural Networks
 - [Neural Networks and Deep Learning by Michael Nielsen (A good place to start about an introduction to Neural Network)](http://neuralnetworksanddeeplearning.com/index.html)  
