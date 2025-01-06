@@ -162,7 +162,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
   - [Modal Examples: a collection of examples for Modal](https://github.com/modal-labs/modal-examples)
 
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Uses Ray for Distributed Inference and Serving](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)  
-* [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)  
+* [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)
+* [YouTube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 * [ModelScope: bring the notion of Model-as-a-Service to life.](https://github.com/modelscope/modelscope)  
 * [Captions.ai - AI Powered Creative Videos, Editing, Cinematography](https://www.captions.ai/)  
 * [StoryLab.ai - Social media Caption Generator](https://storylab.ai/social-media-caption-generator/)
@@ -270,6 +271,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI-powered data science team of copilots that uses agents](https://github.com/business-science/ai-data-science-team)
 - [Agentarium: A powerful Python framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.](https://github.com/Thytu/Agentarium)
 - [Build an AI powered Cursor Agent - Riley Brown](https://x.com/rileybrown_ai/status/1874541368410034619)
+- [RAG From Scratch by Langchain.ai](https://github.com/langchain-ai/rag-from-scratch)
 
 #### AI agent stack
 **Framework**
