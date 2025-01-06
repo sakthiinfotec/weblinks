@@ -193,6 +193,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Hyperbolic: Hosting service for the Opensource models](https://app.hyperbolic.xyz/compute)
 * [Play AI: The voice cloning/inference for LLMs, Agents, Copilots, Characters](https://play.ai/)
 * [Firecrawl AI: Turn websites into LLM-ready data. Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
+* [Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper](https://github.com/unclecode/crawl4ai)
 * [restack.io: The framework for autonomous intelligence | Restack helps engineers from startups to enterprises to build AI products that are both reliable and accurate at any scale](https://www.restack.io/)
 * [BaseAI - The first Web AI Framework | The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory.](https://baseai.dev/)
 * [SuperAGI – Autonomous AI Agent Systems](https://superagi.com/)
