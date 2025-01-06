@@ -23,6 +23,7 @@
 - [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=L8HKweZIOmg)
 - [Illustrated Guide to Transformers Neural Network: A step by step explanation | The AI Hacker](https://www.youtube.com/watch?v=4Bdc55j80l8)
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24 | Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY)
+- [Transformers, explained: Understand the model behind GPT, BERT, and T5 | Google Cloud Tech](https://www.youtube.com/watch?v=SZorAJ4I-sA)
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
