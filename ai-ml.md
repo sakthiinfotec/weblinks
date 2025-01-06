@@ -209,6 +209,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Chainlit: Build Conversational AI: Build production-ready Conversational AI applications in minutes, not weeks](https://github.com/Chainlit/chainlit)
 * [Build your own local ChatGPT-like interface! Powered by Llama 3.2 Vision |  Chainlit for the UI, Ollama for serving Llama 3.2 vision | Everything is just 50 lines of code!](https://github.com/patchy631/ai-engineering-hub/blob/main/local-chatgpt/app.py)
 * [STORM from Stanford University: Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
+* [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
+* [💬 Typebot is a powerful chatbot builder that you can self-host](https://github.com/baptisteArno/typebot.io)
 
 #### AI Services - Video
 - SORA
