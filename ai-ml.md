@@ -266,6 +266,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
   - Powered by Llama 3.1 from Together Compute [Together AI](https://www.together.ai/)
   - Voice cloning from [Play AI](https://play.ai/)
   - Web scraping from [Firecrawl AI](https://www.firecrawl.dev/)
+  - [Data Version Control – and much more – for AI projects | Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow.](https://dvc.org/)
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
