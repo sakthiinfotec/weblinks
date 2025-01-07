@@ -18,6 +18,7 @@
 - [Aishwarya Bhavan, First Cross Arani house area, Kodappamund Rd, Ooty, Tamil Nadu 643001 | 09843135544 | 4.8 Ratings](https://maps.app.goo.gl/NGrVkBRWPfe6fUsAA)
 - [Le Apex Misty Stay | ₹1,782 | Old Agraharam Rd, Commercial Rd, Upper Bazar, Ooty, Tamil Nadu 643001](https://maps.app.goo.gl/whiTs4zYwdkZrTrK6)
 - [AAKASH ROOMS AND COTTAGES | ₹3,500 | 4.5 | 380, CM6X+M2C AAKASH, Peytons Hill Rd, Upper Bazar, Ooty, Tamil Nadu 643001](https://maps.app.goo.gl/mLEk2UmnfAdpizLH6)
+- [Zostel Ooty | 4.8 | ₹3,000](https://maps.app.goo.gl/4gJpd7JuQGWNrz9d8)
 
 ##### இந்தியர்களால் கூகுளில் அதிகம் தேடப்பட்ட டாப் 10 சுற்றுலா தலங்கள்... 2024இல் முதலிடம் எதற்கு?
 1. அஜர்பைஜான்: கிழக்கு ஐரோப்பிய மற்றும் மத்திய ஆசிய கலாச்சாரங்கள் நிறைந்த நாடாகும். இதன் நவீனமயமான கட்டடங்கள், வரலாற்றுச் சிறப்புமிக்க இடங்கள் பயணிகளை ஈர்க்கின்றன. சாகசம், கலாச்சாரம், வித்தியாசமான உணவு வகைகளை விரும்புவோருக்கு இது ஒரு பொக்கிஷம். எனவே தான் இந்தியர்களின் தேடுதலில் இந்த வருடம் அஜர்பைஜான் முதலிடத்தை பிடித்துள்ளது.
