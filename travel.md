@@ -10,6 +10,8 @@
 - [Beijing Greenway](https://english.beijing.gov.cn/specials/livablegreenbeijing/naturalbeauty/greenway/202312/t20231222_3507690.html)
 - [Beijing Greenway](https://english.beijing.gov.cn/specials/livablegreenbeijing/naturalbeauty/greenway/)
 
+#### Ooty
+- [Go2Green - Exotic Vegetable Forms, 12/A MELROSE COTTAGE, OOTY, THE NILGIRIS -643001](https://www.go2green.in/)
 
 ##### இந்தியர்களால் கூகுளில் அதிகம் தேடப்பட்ட டாப் 10 சுற்றுலா தலங்கள்... 2024இல் முதலிடம் எதற்கு?
 1. அஜர்பைஜான்: கிழக்கு ஐரோப்பிய மற்றும் மத்திய ஆசிய கலாச்சாரங்கள் நிறைந்த நாடாகும். இதன் நவீனமயமான கட்டடங்கள், வரலாற்றுச் சிறப்புமிக்க இடங்கள் பயணிகளை ஈர்க்கின்றன. சாகசம், கலாச்சாரம், வித்தியாசமான உணவு வகைகளை விரும்புவோருக்கு இது ஒரு பொக்கிஷம். எனவே தான் இந்தியர்களின் தேடுதலில் இந்த வருடம் அஜர்பைஜான் முதலிடத்தை பிடித்துள்ளது.
