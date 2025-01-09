@@ -73,6 +73,9 @@
 * Coursera - Google Cloud Platform Fundamentals: Core Infrastructure
 * [Subhajit Banerjee - Forus Health (Medical Devices & AI)](https://www.linkedin.com/in/subhajit-banerjee-purnapatra/)
 
+#### Data Science
+- Hands on experience with SQL, BigQuery, Airflow, Kafka, and Application Development
+
 #### Senior QA Engineer
 ##### Requirements:
 * 5 years+ of backend QA engineering experience, frontend manual/auto testing experience is great bonus.
