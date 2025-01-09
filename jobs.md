@@ -148,3 +148,11 @@ Excellent to have:
 * You have experience working with CI/CD pipelines using tools such as GitHub Actions, Jenkins, GitLab CI, CircleCI etc.
 * (Bonus) Experience with remote development environments (e.g. Tilt, DevSpace, Okteto, Skaffold, Telepresence etc).
 * (Bonus) Experience with GitOps (preferably ArgoCD).
+
+- [Chess.com - Senior Frontend Engineer](https://ats.rippling.com/chess/jobs/05fb136e-9863-4fd3-8fb3-b675f30ca976)
+- Expert level CSS knowledge including Flexbox and Grid layout
+- Expert level CSS preprocessor knowledge including SCSS
+- Excellent understanding of component based Javascript/Typescript
+- Excellent understanding of VueJS framework (2.x and / or 3.x)
+- Familiar with local scope CSS strategies such as Scoped CSS and CSS Variables
+- Ability to create pixel perfect, fully responsive design implementations with minimal CSS
