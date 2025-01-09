@@ -149,7 +149,7 @@ Excellent to have:
 * (Bonus) Experience with remote development environments (e.g. Tilt, DevSpace, Okteto, Skaffold, Telepresence etc).
 * (Bonus) Experience with GitOps (preferably ArgoCD).
 
-- [Chess.com - Senior Frontend Engineer](https://ats.rippling.com/chess/jobs/05fb136e-9863-4fd3-8fb3-b675f30ca976)
+**[Chess.com - Senior Frontend Engineer](https://ats.rippling.com/chess/jobs/05fb136e-9863-4fd3-8fb3-b675f30ca976)**
 - Expert level CSS knowledge including Flexbox and Grid layout
 - Expert level CSS preprocessor knowledge including SCSS
 - Excellent understanding of component based Javascript/Typescript
