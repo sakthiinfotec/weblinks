@@ -308,6 +308,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [RAG From Scratch by Langchain.ai](https://github.com/langchain-ai/rag-from-scratch)
 
 #### AI agent stack
+- [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
+
 **Framework**
 - [AG2](/pyautogen): end-to-end multi-agent automation platform
 - crewAIInc: Faster, simple, powerful multi-agent framework
