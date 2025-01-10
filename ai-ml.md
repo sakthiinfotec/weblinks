@@ -268,6 +268,20 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
   - Web scraping from [Firecrawl AI](https://www.firecrawl.dev/)
   - [Data Version Control – and much more – for AI projects | Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow.](https://dvc.org/)
 
+Langchain (python) ecosystem to build GEN AI app, chromaDB Or pgvector DB
+FastAPI for back end API or microservices development
+Front end - Angular/JS/HTML/CSS
+Docker/kubernetes for containerization/images/logging
+Montioring- langsmith/AWS cloudwatch
+Deployment platforms - AZURE/AWS
+
+LLMs - Openai, mistral, azure openai.
+
+Backend: Python + FastAPI (speed + simplicity)
+Database: MongoDB (schema-later > schema-now)
+Deployment: Heroku/AWS Elastic Beanstalk
+AI Assistance: Claude 3.5 Sonnet & O1 (different strengths)
+
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
 - [Phidata: Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.](https://docs.phidata.com/introduction)
@@ -508,6 +522,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Find AI tools & jobs](https://ai-search.io/)
 - [Lablab.ai: Empowering AI Innovation](https://lablab.ai/)
 - [Open-source Next.js codebases related to AI by @leerob](https://x.com/leeerob/status/1872324323903787286)
+- [Chip Huyen - Author of AI Engineering | Designing Machine Learning Systems](https://huyenchip.com/ml-interviews-book/)
 
 ### ML Stacks
 ##### Data Ingestion and Preprocessing:
