@@ -268,19 +268,25 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
   - Web scraping from [Firecrawl AI](https://www.firecrawl.dev/)
   - [Data Version Control – and much more – for AI projects | Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow.](https://dvc.org/)
 
-Langchain (python) ecosystem to build GEN AI app, chromaDB Or pgvector DB
-FastAPI for back end API or microservices development
-Front end - Angular/JS/HTML/CSS
-Docker/kubernetes for containerization/images/logging
-Montioring- langsmith/AWS cloudwatch
-Deployment platforms - AZURE/AWS
+**[Andrew Ng's Software Stack](https://x.com/AndrewYNg/status/1877405010893619238)**
+- Python with FastAPI for building web-hosted APIs: I develop primarily in Python, so that’s a natural choice for me. If you’re a JavaScript/TypeScript developer, you’ll likely make a different choice. I’ve found FastAPI really easy to use and scalable for deploying web services (APIs) hosted in Python.
+- Uvicorn to run the backend application server (to execute code and serve web pages) for local testing on my laptop.
+- If deploying on the cloud, then either Heroku for small apps or AWS Elastic Beanstalk for larger ones (disclosure: I serve on Amazon’s board of directors): There are many services for deploying jobs, including HuggingFace Spaces, Railway, Google’s Firebase, Vercel, and others. Many of these work fine, and becoming familiar with just 1 or 2 will simplify your development process.
+- MongoDB for NoSQL database: While traditional SQL databases are amazing feats of engineering that result in highly efficient and reliable data storage, the need to define the database structure (or schema) slows down prototyping. If you really need speed and ease of implementation, then dumping most of your data into a NoSQL (unstructured or semi-structured) database such as MongoDB lets you write code quickly and sort out later exactly what you want to do with the data. This is sometimes called schema-on-write, as opposed to schema-on-read. Mind you, if an application goes to scaled production, there are many use cases where a more structured SQL database is significantly more reliable and scalable.
+- OpenAI’s o1 and Anthropic’s Claude 3.5 Sonnet for coding assistance, often by prompting directly (when operating at the conceptual/design level). Also occasionally Cursor (when operating at the code level).  I hope never to have to code again without AI assistance! Claude 3.5 Sonnet is widely regarded as one of the best coding models. And o1 is incredible at planning and building more complex software modules, but you do have to learn to prompt it differently.
 
-LLMs - Openai, mistral, azure openai.
+- Langchain (python) ecosystem to build GEN AI app, chromaDB Or pgvector DB
+- FastAPI for back end API or microservices development
+- Front end - Angular/JS/HTML/CSS
+- Docker/kubernetes for containerization/images/logging
+- Montioring- langsmith/AWS cloudwatch
+- Deployment platforms - AZURE/AWS
+- LLMs - Openai, mistral, azure openai.
 
-Backend: Python + FastAPI (speed + simplicity)
-Database: MongoDB (schema-later > schema-now)
-Deployment: Heroku/AWS Elastic Beanstalk
-AI Assistance: Claude 3.5 Sonnet & O1 (different strengths)
+- Backend: Python + FastAPI (speed + simplicity)
+- Database: MongoDB (schema-later > schema-now)
+- Deployment: Heroku/AWS Elastic Beanstalk
+- AI Assistance: Claude 3.5 Sonnet & O1 (different strengths)
 
 #### Agentic AI
 - [AutoGen - An Open-Source Programming Framework for Agentic AI by Microsoft](https://github.com/microsoft/autogen)
