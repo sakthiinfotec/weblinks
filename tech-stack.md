@@ -709,3 +709,9 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - Ability to troubleshoot and resolve complex technical issues. 
 - Experience in working with cross-functional teams (designers, product managers, QA). 
 - Ability to quickly learn and adapt to new technologies and frameworks.
+
+Development of RESTful APIs using AWS API Gateway,
+Development of serverless program using AWS Lambda,
+Working knowledge on Amazon S3 Buckets,
+Database skills ¿ including both SQL and NoSQL
+Working knowledge of ETL using AWS Glue (PySpark or Prefect preferred)
