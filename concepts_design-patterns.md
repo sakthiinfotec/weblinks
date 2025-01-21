@@ -9,9 +9,10 @@
 [OOPS In Python | Object Oriented Programming Python | Python for Beginners | Great Learning - YouTube](https://www.youtube.com/watch?v=Uo6PpmDuBUU)  
 
 ##### Design Patterns
-[Command Design Pattern - Implementing Undo And Redo With The Command Design Pattern | ArjanCodes](https://www.youtube.com/watch?v=FM71_a3txTo&ab_channel=ArjanCodes)  
-[Refactoring Friday BOT with NestJS, Domain-driven Design (DDD), and CQRS](https://wechaty.js.org/2022/02/27/refactoring-friday-bot-with-nestjs-ddd-cqrs/)  
-[Java Singleton Pattern Explained](https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/)  
+- [Command Design Pattern - Implementing Undo And Redo With The Command Design Pattern | ArjanCodes](https://www.youtube.com/watch?v=FM71_a3txTo&ab_channel=ArjanCodes)  
+- [Refactoring Friday BOT with NestJS, Domain-driven Design (DDD), and CQRS](https://wechaty.js.org/2022/02/27/refactoring-friday-bot-with-nestjs-ddd-cqrs/)  
+- [Java Singleton Pattern Explained](https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/)
+- Microservices design patterns such as Saga, Aggregator, API Gateway, CQRS, Event Sourcing, etc. 
 
 ##### Software System Design
 [Software System Design for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/software-system-design-for-beginners/)  
@@ -55,21 +56,21 @@
 ```
 
 #### Microservices
-[microservices.io - Microservice Architecture - Patterns | Deployment Patterns | Testing | Observability](https://microservices.io/index.html)  
-[RedHat - What are microservices?](https://www.redhat.com/en/topics/microservices/what-are-microservices)  
-[RedHat - What's a service mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)  
-[YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
-[YouTube - Protocol Buffers in gRPC](https://www.youtube.com/watch?v=yfZB2_rT_Pc)
-[YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
-[YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication (G)](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
-[YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
-[YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)  
-[DZone - Understanding gRPC Concepts, Use Cases, and Best Practices](https://dzone.com/articles/understanding-grpc-concepts-use-cases-amp-best-pra)  
-[YouTube - What is Service Mesh? Do you need one? from DevOps Made Easy](https://www.youtube.com/watch?v=l96T__-aC9U&ab_channel=DevOpsMadeEasy)  
-[https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot](https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot)  
-[How to use Amazon SES for sending an email without domain verification](https://www.inkoop.io/blog/how-to-use-amazon-ses-for-sending-an-email-without-domain-verification/)  
-[Implement Health Checks for Kubernetes in Your Application](https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c)  
-[What is Observability - opentelemetry.io](https://opentelemetry.io/docs/concepts/observability-primer/#distributed-traces)  
+- [microservices.io - Microservice Architecture - Patterns | Deployment Patterns | Testing | Observability](https://microservices.io/index.html)  
+- [RedHat - What are microservices?](https://www.redhat.com/en/topics/microservices/what-are-microservices)  
+- [RedHat - What's a service mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)  
+- [YouTube - What is gRPC? (Remote Procedure Calls)](https://www.youtube.com/watch?v=hVrwuMnCtok&ab_channel=StephaneMaarek)  
+- [YouTube - Protocol Buffers in gRPC](https://www.youtube.com/watch?v=yfZB2_rT_Pc)
+- [YouTube - gRPC & Protocol Buffer Introduction](https://www.youtube.com/watch?v=XRXTsQwyZSU&ab_channel=StephaneMaarek)  
+- [YouTube - Intro to gRPC: A Modern Toolkit for Microservice Communication (G)](https://www.youtube.com/watch?v=RoXT_Rkg8LA&ab_channel=Twilio)  
+- [YouTube - Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) | REST vs Microservices](https://www.youtube.com/watch?v=hNFM2pDGwKI)  
+- [YouTube - Story of How we migrate to gRPC at Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)  
+- [DZone - Understanding gRPC Concepts, Use Cases, and Best Practices](https://dzone.com/articles/understanding-grpc-concepts-use-cases-amp-best-pra)  
+- [YouTube - What is Service Mesh? Do you need one? from DevOps Made Easy](https://www.youtube.com/watch?v=l96T__-aC9U&ab_channel=DevOpsMadeEasy)  
+- [https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot](https://www.sipios.com/blog-tech/emailing-microservice-apache-kafka-spring-boot)  
+- [How to use Amazon SES for sending an email without domain verification](https://www.inkoop.io/blog/how-to-use-amazon-ses-for-sending-an-email-without-domain-verification/)  
+- [Implement Health Checks for Kubernetes in Your Application](https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c)  
+- [What is Observability - opentelemetry.io](https://opentelemetry.io/docs/concepts/observability-primer/#distributed-traces)  
 
 #### Enterprise Integration Patterns
 [Enterprise Integration Patterns - Messaging Patterns](https://www.enterpriseintegrationpatterns.com/toc.html)  
