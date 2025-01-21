@@ -66,6 +66,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
+- [VALLUVAN AGRO Hand Push Seeder/ 12 Teeth Seed Dibbler/TOKAN Yantra](https://www.amazon.in/VALLUVAN-AGRO-Seeder-Dibbler-Yantra/dp/B0CNLQRJVL)
 - [Sharp Garuda | Seeder Machine](https://www.flipkart.com/sharp-garuda-agriculture-manual-seeder-seed-sowing-machine-tool-single-drum-roller-planter-garden-tool-kit/p/itm7273549a05e81?pid=GTSHF6X9V6ZJEBXP&lid=LSTGTSHF6X9V6ZJEBXP18AWJT&marketplace=FLIPKART&hl_lid=&store=h1m%2Fum7%2Fyse)
 - [High Pressure Washer Double Motor Battery Sprayer 12V/12Ah](https://yantratools.com/product/High-Pressure-Washer-Double-Motor-Battery-Sprayer-12V12Ah-Dd3jG)
 
