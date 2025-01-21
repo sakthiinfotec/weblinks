@@ -239,6 +239,7 @@
 - Wix
 - Squarespace
 - Ecwid
+- [Lightspeed](https://www.lightspeedhq.com/)
 - [Libromi - WhatsApp  Cloud E-Commerce Chatbot](https://libromi.com/)
 
 ##### Data Formats
