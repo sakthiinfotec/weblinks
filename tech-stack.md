@@ -660,3 +660,52 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 
 #### App Developement
 - [Build a Full-Stack AI Web App (Consultant Report Generator) in 12 Minutes: Cursor, OpenAI o1, V0, Firecrawl & Patched](https://www.youtube.com/watch?v=utEzCj5ASPY)
+
+#### [Forbes Advisor: Full Stack - Principal Engineer (Senior Architect Level - Java & Frontend )]()
+**Responsibilities**
+- Collaborate with the Engineering Group and Product team to understand requirements and design comprehensive solutions. 
+- Optimize applications for maximum speed, scalability, and security. 
+- Implement security and data protection measures. 
+- Build high-quality, reusable code for both frontend and backend applications. 
+- Document and communicate application design, topologies, and architecture clearly to peers and the business. 
+- Work closely with User Experience, Product Management, Engineering, and Marketing teams to create outstanding web experiences. 
+- Partner with Engineering and other teams to develop new frameworks, feature sets, and functionalities. 
+- Lead and coach team members, promoting thought leadership and project excellence. 
+- Provide technical leadership, ensuring adherence to best software engineering practices, such as TDD, continuous integration, delivery, and deployment. 
+
+**Education and experience:**
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. 
+- Minimum of 10+ years of professional experience in full-stack development. 
+- Technical Requirements:
+- Expertise in Java 17+ , including, Spring Boot, J2EE, Hibernate, and other latest related technologies. 
+- Proficiency in modern front-end frameworks/libraries (React or Vue.js). 
+- Expertise in Java microservices architecture and development. 
+- Development experience with Spring Boot for building robust, scalable applications. 
+- Experience with responsive and adaptive design principles. 
+- Payment Services Integration:Experience integrating Stripe payment services into applications/api. 
+- Test-Driven Development(TDD):Proficiency in writing unit tests and using mock frameworks. 
+- Experience with Serverless architecture and cloud functions. 
+- Expertise on Security standards SSO, Access Control, Certificate Management, Authentication, OWASP
+- Experience in creating technical design and architecture diagrams, review with various stakeholders for design and solution approval for implementation. 
+- Experience with distributed caching (Redis), Queuing technologies SQS or RabbitMQ or ActiveMQ) , Elastic Search. 
+- Expertise in securing applications using Spring Security. 
+- Adherence to industry best practices and coding standards. 
+- Experience in at least 2 Microservices design patterns such as Saga, Aggregator, API Gateway, CQRS, Event Sourcing, etc. 
+- Must be proficient in data structures and algorithms. 
+- Should have experience integrating S3 and other AWS services with Java. 
+- Designing of api, applications and strong in RESTful Design Patterns. 
+- Troubleshooting complex issues related to application performance, scalability, and reliability. 
+- System Security, Scalability, System Performance experience. 
+
+**Leadership & Team:**
+- Proven experience in Coaching and mentoring a team of developers. 
+- Proven track record of delivering complex projects successfully. 
+- Ability to conduct code reviews and provide constructive feedback. 
+- Experience in agile methodologies (Scrum, Kanban). 
+- Ability to manage project timelines and deliverables effectively. 
+- Excellent verbal and written communication skills. 
+- Ability to explain technical concepts to non-technical stakeholders. 
+- Strong analytical and problem-solving skills. 
+- Ability to troubleshoot and resolve complex technical issues. 
+- Experience in working with cross-functional teams (designers, product managers, QA). 
+- Ability to quickly learn and adapt to new technologies and frameworks.
