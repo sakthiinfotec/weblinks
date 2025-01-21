@@ -63,6 +63,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [1 ஏக்கருக்கு 20டன் வரை எடுக்கலாம் | நீர் பூசணி - Ashgaurd | Sathish Kumar, Elur village, Namakkal 90037 24792](https://www.youtube.com/watch?v=fz4DOEoANTg)
 - [தமிழ்நாடு முழுக்க விதைகள் போட்டு தரப்படும் | Seeder machine | Sathish Kumar, Elur village, Namakkal 90037 24792](https://www.youtube.com/watch?v=xvcT4kx3qtI)
 - [1 ஏக்கரில் எடுக்கும் விவசாயம் இப்போ 8000sq.ft” எடுக்கலாம் Vertical Sheet farming📍 ஈரோடு விவசாயி | சண்முகசுந்தரம், Vasantham paradise, சித்தோடு, ஈரோடு, 94432-29098,](https://www.youtube.com/watch?v=gVAEHQgUhcM)
+- [25 வகை கீரையில் 20 லட்சம் சம்பாதிக்கும் விவசாயி! Organic Spinach | Save Soil - Cauvery Calling | 8300093777, 9442590077](https://www.youtube.com/watch?v=vKQyEaPM3r8)
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
