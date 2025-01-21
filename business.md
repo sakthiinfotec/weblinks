@@ -64,4 +64,8 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [தமிழ்நாடு முழுக்க விதைகள் போட்டு தரப்படும் | Seeder machine | Sathish Kumar, Elur village, Namakkal 90037 24792](https://www.youtube.com/watch?v=xvcT4kx3qtI)
 - [1 ஏக்கரில் எடுக்கும் விவசாயம் இப்போ 8000sq.ft” எடுக்கலாம் Vertical Sheet farming📍 ஈரோடு விவசாயி | சண்முகசுந்தரம், Vasantham paradise, சித்தோடு, ஈரோடு, 94432-29098,](https://www.youtube.com/watch?v=gVAEHQgUhcM)
 
+#### Tools
+- [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
+- [Sharp Garuda | Seeder Machine](https://www.flipkart.com/sharp-garuda-agriculture-manual-seeder-seed-sowing-machine-tool-single-drum-roller-planter-garden-tool-kit/p/itm7273549a05e81?pid=GTSHF6X9V6ZJEBXP&lid=LSTGTSHF6X9V6ZJEBXP18AWJT&marketplace=FLIPKART&hl_lid=&store=h1m%2Fum7%2Fyse)
+- [High Pressure Washer Double Motor Battery Sprayer 12V/12Ah](https://yantratools.com/product/High-Pressure-Washer-Double-Motor-Battery-Sprayer-12V12Ah-Dd3jG)
 
