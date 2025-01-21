@@ -226,12 +226,20 @@
 - [Convex - the backend-as-a-service for full-stack app development](https://www.convex.dev/)  
 - [Convex Stack](https://stack.convex.dev/)
 
-
 ##### Headless CMS
 - Contentful
 - Strapi
 - Dato CMS
 - Prismic
+
+##### E-Commerce
+- Shopify
+- WooCommerce
+- BigCommerce
+- Wix
+- Squarespace
+- Ecwid
+- [Libromi - WhatsApp  Cloud E-Commerce Chatbot](https://libromi.com/)
 
 ##### Data Formats
 - [MessagePack](https://msgpack.org/) - It's like JSON but fast and small. MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. 
