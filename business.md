@@ -68,6 +68,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [10,000 குடும்பத்திற்கு நஞ்சில்லா உணவு டெலிவரி! myHarvest Farms](https://www.youtube.com/watch?v=1J1lxfpc5fQ)
 - [My Harvest Farms](https://myharvestfarms.com/)
 - [எட்டாயிரம் குடும்பங்களுக்கு நஞ்சில்லா உணவு தருகிறோம் - Archana Stalin | Part-2 | Kalyanamalai](https://www.youtube.com/watch?v=MGwC6m_Sef0)
+- [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
