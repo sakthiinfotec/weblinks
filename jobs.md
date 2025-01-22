@@ -36,6 +36,7 @@
 [Nagarro, Remote](https://www.nagarro.com/hiring/fullstack-javascript-developers-architects)  
 [Egnyte - Remote](https://jobs.jobvite.com/egnyte/jobs)  
 [CloudDevs - US Based Remote Jobs ins USA & Europe](https://clouddevs.com/quick-apply/)  
+[APPAC Media, Coimbatore](https://www.appacmedia.com/careers.php)
 
 #### Job Boards
 [Pallet - 10 Job Boards You Need to Follow](https://www.newsletter.pallet.xyz/10-job-boards-you-need-to-follow/)  
