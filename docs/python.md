@@ -1,6 +1,6 @@
 #### Python
 
-**Decorators**
+**Decorators**  
 Python supports "decorators," which are functions that modify the behavior of other functions or methods. They are commonly used for logging, enforcing access control, memoization, and more. For example: 
 
 ```python
