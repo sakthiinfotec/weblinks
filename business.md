@@ -81,5 +81,8 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [High Pressure Washer Double Motor Battery Sprayer 12V/12Ah](https://yantratools.com/product/High-Pressure-Washer-Double-Motor-Battery-Sprayer-12V12Ah-Dd3jG)
 
 #### Automation
-- [Vending Machine | Jubilant Expo 2025 | Recycled Paper Stationary Business Ideas | Bharath Vending Corporation, E & E Industrial Estate, Plot No-16B, TNHB Colony, Indira Nagar, Civil Aerodrome PO, CBE, TN 641014, Ph: 0422 435 6565](https://www.youtube.com/watch?v=wnEDVfAt5hM)
+- [Vending Machine | Jubilant Expo 2025 | Bharath Vending Corporation, E & E Industrial Estate, Plot No-16B, TNHB Colony, Indira Nagar, Civil Aerodrome PO, CBE, TN 641014, Ph: 0422 435 6565](https://www.youtube.com/watch?v=wnEDVfAt5hM)
 - [Mine Power - Electrical Automation | Control Panels](https://minepower.in/)
+
+#### Echo
+- [Ecosphere: Recycled Paper Stationary | stationery.ecosphere.co.in | +91 83000 80076](https://youtu.be/wnEDVfAt5hM?t=706)
