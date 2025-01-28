@@ -82,3 +82,4 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 
 #### Automation
 - [Vending Machine | Jubilant Expo 2025 | Recycled Paper Stationary Business Ideas | Bharath Vending Corporation, E & E Industrial Estate, Plot No-16B, TNHB Colony, Indira Nagar, Civil Aerodrome PO, CBE, TN 641014, Ph: 0422 435 6565](https://www.youtube.com/watch?v=wnEDVfAt5hM)
+- [Mine Power - Electrical Automation | Control Panels](https://minepower.in/)
