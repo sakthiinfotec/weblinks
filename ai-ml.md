@@ -227,6 +227,13 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [💬 Typebot is a powerful chatbot builder that you can self-host](https://github.com/baptisteArno/typebot.io)
 * [Agent.ai by Dharmesh, Hubspot](https://agent.ai/agent/deepseek-r1)
 
+**[Local or Cloud hosting models](https://x.com/cj_zZZz/status/1884279108231913501)**  
+- @ollama (local)
+- @lmstudio (local)
+- @OpenRouterAI (local)
+- @GroqInc (hosted)
+- @togethercompute (hosted)
+ 
 #### AI Services - Video
 - SORA
 - MIDJOURNEY
