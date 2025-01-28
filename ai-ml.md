@@ -504,6 +504,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [VeGiantModel - is a torch based high efficient training library developed by the Applied Machine Learning team at Bytedance](https://github.com/volcengine/veGiantModel)  
 - [Volcengine - Machine Learning Platform](https://www.volcengine.com/about)  
 
+#### AI Code Extenstions
+- [Qodo Gen AI (aka Codium](https://www.qodo.ai/)
+
 #### Building ML Flow/Pipelines
 - [Simplified workflow of a typical machine learning engineer or a data scientist in general](https://betterprogramming.pub/the-ml-engineer-a-very-simple-machine-learning-project-to-show-the-workflow-of-a-typical-machine-ec1e348bfcba)  
 - [ML Pipelines - Using Apache Spark MLlib](https://spark.apache.org/docs/latest/ml-pipeline.html)
