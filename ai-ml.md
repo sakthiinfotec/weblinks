@@ -225,6 +225,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [STORM from Stanford University: Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
 * [💬 Typebot is a powerful chatbot builder that you can self-host](https://github.com/baptisteArno/typebot.io)
+* [Agent.ai by Dharmesh, Hubspot](https://agent.ai/agent/deepseek-r1)
 
 #### AI Services - Video
 - SORA
