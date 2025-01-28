@@ -80,3 +80,5 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [Sharp Garuda | Seeder Machine](https://www.flipkart.com/sharp-garuda-agriculture-manual-seeder-seed-sowing-machine-tool-single-drum-roller-planter-garden-tool-kit/p/itm7273549a05e81?pid=GTSHF6X9V6ZJEBXP&lid=LSTGTSHF6X9V6ZJEBXP18AWJT&marketplace=FLIPKART&hl_lid=&store=h1m%2Fum7%2Fyse)
 - [High Pressure Washer Double Motor Battery Sprayer 12V/12Ah](https://yantratools.com/product/High-Pressure-Washer-Double-Motor-Battery-Sprayer-12V12Ah-Dd3jG)
 
+#### Automation
+- [Vending Machine | Jubilant Expo 2025 | Recycled Paper Stationary Business Ideas | Bharath Vending Corporation, E & E Industrial Estate, Plot No-16B, TNHB Colony, Indira Nagar, Civil Aerodrome PO, CBE, TN 641014, Ph: 0422 435 6565](https://www.youtube.com/watch?v=wnEDVfAt5hM)
