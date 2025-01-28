@@ -38,6 +38,7 @@
 #### IoT Projects
 - [Everyday practical Home Automation projects by Sayanee Basu | Embedded Rust](https://hutscape.com/)
 - [Awesome ESP Rust - Collections](https://github.com/esp-rs/awesome-esp-rust)
+- [Rust Firmware Developer (ESP32-S3) | Turing Pi](https://turingpi.com/jobs/rust-firmware-developer-esp32-s3/)
 
 #### Hardware Startups in India
 - [Open Appliances - Maker of the world's most secure smart locks](https://www.openapp.com/home)  
