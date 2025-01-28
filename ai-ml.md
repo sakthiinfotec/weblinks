@@ -253,6 +253,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - Swift
 - XTuner
 - Firefly
+- [Avi Chawla: Fine-tune DeepSeek-R1 (distilled Llama) 100% locally](https://x.com/_avichawla/status/1884126766132011149)
+- UnslothAI: for efficient fine-tuning.
+- Ollama: to run it locally
 
 #### Low-code Frameworks
 - Dify
