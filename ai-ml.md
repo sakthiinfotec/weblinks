@@ -536,9 +536,12 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/getting_started/)  
 [Gradio + HuggingFace Spaces: A Tutorial](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial)  
 
+#### Books
+- [AI Engineering - Building Applications with Foundation Models | Chip Huyen](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
+
 #### Certifications
-[Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
-[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
+- [Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
 
 #### Recent Happenings
 - [Unwind AI | Shubham Saboo | Substack](https://unwindai.substack.com/)
