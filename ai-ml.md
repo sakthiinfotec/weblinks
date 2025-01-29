@@ -515,6 +515,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Copilot / Codeing Assistants
 - [Qodo Gen AI (aka Codium](https://www.qodo.ai/)
+- [Cline: Cline is the thoughtful AI Coder | Build powerful full-stack applications with an AI partner that thinks before it codes](https://cline.bot/)
 - [Githib.gg: A powerful tool for analyzing GitHub repositories and providing valuable insights about code quality, dependencies, and more | Simply visit: https://github.gg/owner/repository](https://github.gg/)
 
 #### Building ML Flow/Pipelines
