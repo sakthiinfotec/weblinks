@@ -225,3 +225,15 @@
 * Lazy Loading Components
 * Code Splitting - With code-splitting, React allows us to split a large bundle file into multiple chunks using dynamic import() followed by lazy loading these chucks when we need them with React.lazy
 * React Testing Library and Cypress
+
+#### General
+- DB = SQL
+- System Design = UML
+- Algorithms = Pseudocode
+- API Design = Swagger
+- API Security = OAuth/JSON
+- CI/CD = Bash
+- DS = Java
+- Docker = Yaml
+- Caching = Redis commands
+- Messaging = Protocol Buffers
