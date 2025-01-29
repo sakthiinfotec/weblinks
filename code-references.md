@@ -17,6 +17,7 @@
 - [VS Code Issue Tracker - JavaScript, c3.js, Github v4 GraphQL API, Cloud Firestore, AWS Lambada, Netlify](https://github.com/lannonbr/vscode-issue-tracker)  
 - [Željko Šević - Technical Blogs (Web Node.js, JavaScript, Docker, Full-Stack)](https://sevic.dev/)
 - [AI Gradio: A Python package that makes it easy for developers to create machine learning apps powered by various AI providers. Built on top of Gradio, it provides a unified interface for multiple AI models and services.](https://github.com/ak391/ai-gradio)
+- [Kestra: Workflow Automation Platform. Orchestrate & Schedule code | Java, Vue, TypeScript, JavaScript](https://github.com/kestra-io/kestra)
 
 ##### AI Products and Services
 - [Do Browser: Does anything via AI Browser Automation](https://www.dobrowser.io/)
