@@ -295,6 +295,8 @@ While inter-service communication happens via
 
 ##### Data Engineering
 - [Debezium - an open-source distributed platform for change data capture (CDC) - Sponsored by RedHat | Build on top of Apache Kafka](https://debezium.io/)
+- [Apache Airflow is an open-source workflow management platform for data engineering pipelines](https://airflow.apache.org/)
+- [Kestra, Open Source Declarative Orchestration Platform | Advantage: Event-driven architecture](https://kestra.io/)
 
 ##### AI/ML
 - NLU
