@@ -39,6 +39,7 @@ https://github.com/lydiahallie/javascript-questions
 * System Design Interview – An Insider's Guide
 * Designing Data-Intensive Applications
 * Database Internals: A Deep Dive into How Distributed Data Systems Work
+* [Open Datastructures](https://opendatastructures.org/)
 
 ##### System Design
 [Sunil Kumar - 8-Step Guide To Ace A System Design Interview](https://javascript.plainenglish.io/8-steps-guide-to-ace-a-system-design-interview-7a5a797f4d7d)  
