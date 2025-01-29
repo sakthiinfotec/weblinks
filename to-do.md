@@ -32,6 +32,8 @@
 - [uv: Python packaging in Rust](https://docs.astral.sh/uv/)
 - [FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Cloudflare Workers: Build serverless applications and deploy instantly across the globe for exceptional performance, reliability, and scale.](https://developers.cloudflare.com/workers/)
+- [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
 
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
