@@ -73,7 +73,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 - [ரூ.0 செலவில் வருடம் 10 லட்சம் வருமானம் பெறும் இயற்கை விவசாயி | Organic farming, integrated farming | Mr.Kishore kumar, TTS INTEGRATED FARMS, Dheenamplayam, Thondamuthur, Coimbatore, Tamilnadu, Ph: 99444 31031](https://www.youtube.com/watch?v=w8bSgj8_uNY)
-- [இமயம் மண்புழு உரப் பண்ணை, Vandiyoor, Aundipatti TK, Theni DT | 94438 21369, 94864 68181, 96778 81544](https://www.youtube.com/watch?v=_1Dr03Fq-V4)
+- [இமயம் மண்புழு உரப் பண்ணை, Vandiyoor, Aundipatti TK, Theni DT | 94438 21369, 94864 68181, 96778 81544 | Enriched with அசோஸ்பைரில்லம், பாஸ்போ பாக்டீரியா, Bacillus, Tricoderma, Neem](https://www.youtube.com/watch?v=_1Dr03Fq-V4)
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
