@@ -116,3 +116,9 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 
 #### Coffee
 - [உழவன் மகன் - Uzhavan magan: காஃபி அறுவடை முதல் பொடியாக்குதல் வரை | coffee procesing unit |  Jeeva, Pannaikaadu Area, Kodaikanal | காஃபி பொடி (Arabica - Rs. 750-800, Robasta - Rs. 700 தேவைக்கு (Also Candle Wood Resort | Cottage) : 9600986963](https://www.youtube.com/watch?v=T3p3eeqD3Mw)
+
+
+#### Home Appliance
+- [OM Electronics and Batteries Pvt Ltd, 49, Justice Rathinavel Pandian Rd, Golden George Nagar, Mogappair East, Chennai, Tamil Nadu 600107 098404 54293/9841811604](https://www.youtube.com/watch?v=lxoh2C3Aag4)
+- [OM Electronics - Website](https://omelectronics.in/product/omega-digital-ups-with-lithium-battery-1550v/?srsltid=AfmBOopXRa7mvpRTqX4wp7-Xj-fczGhFzidGGLHGbcjSpc2tbsJyZs34)
+- [Roof Top Solar by STALWART SOLAR ENERGY PROMOTERS PRIVATE LIMITED AO: 2/4, Kombodipatty Pirivu, Periyaseeragapadi Post, Salem-636 | 2/4, Kombodipatty Pirivu, Periyaseeragapodi Post, Salem-630 308. stalwartsolar21@gmail.com, www.stalwartgroup.co](https://omegaups.in/services/)
