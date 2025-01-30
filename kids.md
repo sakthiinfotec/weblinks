@@ -31,6 +31,7 @@
 - [SATHI by IITKGP - A unique National Facility for promoting cutting Edge Research aimed at catering to the needs of Industry, Start up, MSME, R&D laboratories and Academia](http://www.sathi.iitkgp.ac.in/)  
 - [School Connect Program by IITM | Data Science and AI and Electronic Systems](https://school-connect.study.iitm.ac.in/)
 - [MIT Energy-Efficient Circuits and Systems Group led by Prof. Anantha Chandrakasan](https://chandrakasan.mit.edu/research/)
+- [Mechanical Courses | Kriatic Services, Chennai | Learn New](https://learnew.org/mechanical-courses.htm)
 
 #### Study
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
