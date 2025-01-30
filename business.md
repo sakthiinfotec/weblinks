@@ -107,3 +107,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 #### Dryer and Chillers
 - [BryAir: Pioneering Air Treatment Solutions Worldwide](https://www.bryair.com/about-us/)
 - [Everest chillers | SF No 390/2B, Vijaykumar Layout 2nd Cross Road, Soamyampalayam Pirivu, CBE - 641108 | +91-9677879778 | info@everestchillers.in](https://www.everestchillers.in/blog)
+
+#### Charcoal
+- [Charcoal Production(Pyrolysis Method) - Karur | Factory Visit Call: 9074306137, 9742274110](https://www.youtube.com/watch?v=OhLZ7Iw4pgw)
+- [Activated Charcoal Manufacturing Company in India | Kalpaka Chemicals Pvt. Ltd., Tuticorin | www.kalpakachemicals.com](https://www.youtube.com/watch?v=T7Bj0LWX2oI)
