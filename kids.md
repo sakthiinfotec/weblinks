@@ -23,6 +23,9 @@
 #### Toys
 [Hamleys Toys](https://www.hamleys.in/ralleyz-3-die-cast-single-b-card-491602986.html)  
 
+#### Mathematics
+- [Immersive linear algebra: The world's first linear algebra book with fully interactive figures](https://immersivemath.com/ila/index.html)
+
 #### Human body
 [Learn Human Anatomy](https://www.kenhub.com/)  
 [Get Body Smart - Learn Anatomy of Human Body like Nervous System | Urinary System | Respiratory System](https://www.getbodysmart.com/nervous-system/)  
