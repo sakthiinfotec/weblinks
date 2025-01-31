@@ -96,7 +96,9 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - ['Vermicompost' கிலோ 3 ரூபாய்க்கு நீங்களே உற்பத்தி செய்யலாம் - A to Z விளக்கம் using HDPE 450 GSM Vermi Bed | Prabhu, Bhavani | _+91 7010529207 ](https://www.youtube.com/watch?v=LfhYXVbmWhY)
 
 #### Coconut
-- [பளபளப்பான பெரிய இளநீரில் மறைந்திருக்கும் ஆபத்து... வேணுகோபால், கோவை | இயற்கை விவசாயம் வாயிலாக தென்னை சாகுபடி செய்வதால் தரமான இளநீர் உற்பத்தியாகிறது. கடந்த 20 ஆண்டுகளாக ஒரு சொட்டு கூட பூச்சி கொல்லி மருந்து பயன்படுத்தவில்லை](https://www.youtube.com/watch?v=qrOLPest_os)
+- [பளபளப்பான பெரிய இளநீரில் மறைந்திருக்கும் ஆபத்து... வேணுகோபால், கோவை | இயற்கை விவசாயம் வாயிலாக தென்னை சாகுபடி செய்வதால் தரமான இளநீர் உற்பத்தியாகிறது. கடந்த 20 ஆண்டுகளாக ஒரு சொட்டு கூட பூச்சி கொல்லி மருந்து பயன்படுத்தவில்லை | Sapplings for Sale](https://www.youtube.com/watch?v=qrOLPest_os)
+- [Coconut Development Board, India | Coconut Development Board, SRV Road, Kochi, Kerala, India, Kochi, India, Kerala 0484 237 7267, kochi.cdb@gov.in](https://coconutboard.gov.in/docs/icj/icj-2024-12.pdf)
+- [MANAGE: NATIONAL INSTITUTE OF AGRICULTURAL EXTENSION MANAGEMENT (An Autonomous Organization of Ministry of Agriculture & Farmers Welfare, Government of India)](https://www.manage.gov.in/publications/eBooks/Natural%20Farming%20for%20Sustainable%20Agriculture.pdf)
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
