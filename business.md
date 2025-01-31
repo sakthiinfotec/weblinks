@@ -139,3 +139,6 @@ Information
 
 #### Export / Import
 - [Global EXIM Institute](https://globaleximinstitute.com/)
+
+#### FPOs
+- [Ayyampalayam Farmers Producer Company Ltd. Ayyampalayam Post, Dindigul District, Tamil Nadu 624204 | Email: apmfpc15@gmail.com | Website: ayyampalayamfpc.org | Phone: 9791921111, 9865281618](https://coconutboard.gov.in/docs/icj/icj-2024-12.pdf)
