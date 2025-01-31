@@ -93,6 +93,7 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
    * வெர்மி வாஷ்
    * மூலிகை பூச்சி விரட்டி
 - [மண்புழு உரம் | Easy way to make vermi compost for Terrace gardening | Terrace Garden Ideas| In Tamil](https://www.youtube.com/watch?v=DMOFzxiv9dQ)
+- ['Vermicompost' கிலோ 3 ரூபாய்க்கு நீங்களே உற்பத்தி செய்யலாம் - A to Z விளக்கம் | Prabhu, Bhavani | _+91 7010529207 ](https://www.youtube.com/watch?v=LfhYXVbmWhY)
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
