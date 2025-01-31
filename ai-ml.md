@@ -227,6 +227,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
 * [💬 Typebot is a powerful chatbot builder that you can self-host](https://github.com/baptisteArno/typebot.io)
 * [Agent.ai by Dharmesh, Hubspot](https://agent.ai/agent/deepseek-r1)
+* [DeepSeek Lecture from AI by Hand ✍️ with Prof. Tom Yeh](https://www.byhand.ai/p/deepseek-lecture-128)
 
 **[Local or Cloud hosting models](https://x.com/cj_zZZz/status/1884279108231913501)**  
 - @ollama (local)
