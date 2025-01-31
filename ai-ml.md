@@ -320,6 +320,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Agentarium: A powerful Python framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.](https://github.com/Thytu/Agentarium)
 - [Build an AI powered Cursor Agent - Riley Brown](https://x.com/rileybrown_ai/status/1874541368410034619)
 - [RAG From Scratch by Langchain.ai](https://github.com/langchain-ai/rag-from-scratch)
+- [Agentic RAG Survey | Patterns, Practical Implementation and usecases](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
