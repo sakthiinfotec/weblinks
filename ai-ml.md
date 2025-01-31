@@ -266,6 +266,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Avi Chawla: Fine-tune DeepSeek-R1 (distilled Llama) 100% locally](https://x.com/_avichawla/status/1884126766132011149)
 - UnslothAI: for efficient fine-tuning.
 - Ollama: to run it locally
+- [Maestro: is a tool designed to streamline and accelerate the fine-tuning process for multimodal models. It provides ready-to-use recipes for fine-tuning popular vision-language models (VLMs) such as Florence-2, PaliGemma 2, and Qwen2.5-VL on downstream vision-language tasks](https://github.com/roboflow/maestro)
 
 #### Low-code Frameworks
 - Dify
