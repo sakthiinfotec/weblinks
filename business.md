@@ -95,6 +95,9 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [மண்புழு உரம் | Easy way to make vermi compost for Terrace gardening | Terrace Garden Ideas| In Tamil](https://www.youtube.com/watch?v=DMOFzxiv9dQ)
 - ['Vermicompost' கிலோ 3 ரூபாய்க்கு நீங்களே உற்பத்தி செய்யலாம் - A to Z விளக்கம் using HDPE 450 GSM Vermi Bed | Prabhu, Bhavani | _+91 7010529207 ](https://www.youtube.com/watch?v=LfhYXVbmWhY)
 
+#### Coconut
+- [பளபளப்பான பெரிய இளநீரில் மறைந்திருக்கும் ஆபத்து... வேணுகோபால், கோவை | இயற்கை விவசாயம் வாயிலாக தென்னை சாகுபடி செய்வதால் தரமான இளநீர் உற்பத்தியாகிறது. கடந்த 20 ஆண்டுகளாக ஒரு சொட்டு கூட பூச்சி கொல்லி மருந்து பயன்படுத்தவில்லை](https://www.youtube.com/watch?v=qrOLPest_os)
+
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
 - [VALLUVAN AGRO Hand Push Seeder/ 12 Teeth Seed Dibbler/TOKAN Yantra](https://www.amazon.in/VALLUVAN-AGRO-Seeder-Dibbler-Yantra/dp/B0CNLQRJVL)
