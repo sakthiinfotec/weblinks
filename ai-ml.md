@@ -153,8 +153,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Vercel AI SDK 3.3](https://vercel.com/blog/vercel-ai-sdk-3-3-3OnRtxG6a0rwvcJVu3qADv)  
 
 #### Opensource AI Apps
-[AI Companion App by a16z-infra | Next.js, VectorDB, LLM](https://github.com/a16z-infra/companion-app)  
-[AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
+- [AI Companion App by a16z-infra | Next.js, VectorDB, LLM](https://github.com/a16z-infra/companion-app)  
+- [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
+- [Simple AI: An opensource Chat UI interface as components | Customizable and Opensource](https://github.com/Alwurts/simple-ai)
 
 #### AI/ML Platforms
 - AzureML
