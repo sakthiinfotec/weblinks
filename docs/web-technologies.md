@@ -23,3 +23,13 @@ Use a physical security key over USB or NFC, fingerprint reader, facial recognit
 Use an application to get two-factor authentication codes when prompted.
 
 
+**[Text-to-API app 🚀](https://x.com/Dev__Digest/status/1882423344936735216)**  
+￼
+How it works:
+1. Describe your API in plain text
+2. Generate the schema
+3. Configure sources
+4. /extract data with @Firecrawl_dev￼🔥
+5. Store the data
+6. Deploy a live endpoint
+7. 
