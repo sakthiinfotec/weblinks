@@ -53,6 +53,11 @@ Most happening Tier-2 cities in India:
 Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or Tier-2 cities. Additionally, Chandigarh's classification as Tier-2 is also debated. 
  
 #### Agriculture
+
+Information
+- [TNAU Agri Tech Portal](https://tnau.ac.in/agritech-portal/)
+- [TNAU Agri Tech Portal](https://agritech.tnau.ac.in/)
+
 - [Janasri Pipes, Covai Main Road, Olapalayam, Kangeyam - 638 701](https://www.youtube.com/watch?v=-w3Sz3nAcvs)
 - [Broom Stick Machine (3 கிலோ/Hour விளக்குமாறு உரிக்கும்) | Rs. 7500 | Mr. Rajendran, Omega industries, Karur Road, +91 98428 61560](https://www.youtube.com/watch?v=UhDHiV_zA90)
 - [Laser Cutting | Broom Stock Machine Rs. 12,000 | Sivanmalai Andavar Lathe Works | Vellakovil to Erode Road](https://www.youtube.com/watch?v=PNQs5nKgc_s)
