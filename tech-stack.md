@@ -210,7 +210,7 @@
 ##### Message Queue / Middlewares
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
 
-#### Web Scrapping
+#### Web Scraping
 - [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python](https://github.com/D4Vinci/Scrapling)
 
 ##### Vector Databases
