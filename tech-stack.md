@@ -418,6 +418,9 @@ While inter-service communication happens via
 - Pusher
 - [Conflict-Free Replicated Data Types as a way to sync data across devices](https://talk.objc.io/episodes/S01E294-crdts-introduction?t=6)  
 
+##### E-mail
+- [Plunk is an open-source email platform built on top of AWS SES. It allows you to easily send emails from your applications. It can be considered as a self-hosted alternative to services like SendGrid, Resend or Mailgun.](https://github.com/useplunk/plunk)
+
 ##### Alert & Notifications
 - [MailHog - Web and API based SMTP testing - written in Go](https://github.com/mailhog/MailHog)  
 - [Sendgrid](https://sendgrid.com/)  
