@@ -115,6 +115,9 @@ Information
 - [பணம் காய்க்கும் பாலி ஹவுஸ், at Karaikeni, Madurai || Cucumber Cultivation | Premkumar +91 98891 31234| SKY Manivel](https://www.youtube.com/watch?v=xP6MUxLf_pM)
 - [பசுமை குடிலில் தக்காளி சாகுபடி | Polyhouse Tomato (Savana Variety) Cultivation A to Z Information At Centre of Excellence for Vegetables, Indo-Israel Project, Reddiar Chatram, Dindigul](https://www.youtube.com/watch?v=_N9VsojBRE8)
 
+#### Spinaches
+- [Save Soil - Cauvery Calling: இப்படி கீரை விதைச்சா தினமும் 3000 ரூ நிச்சயம்!விதைப்பு முதல் அறுவடை வரை!](https://www.youtube.com/watch?v=EttZGlAuVfE)
+
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
 - [VALLUVAN AGRO Hand Push Seeder/ 12 Teeth Seed Dibbler/TOKAN Yantra](https://www.amazon.in/VALLUVAN-AGRO-Seeder-Dibbler-Yantra/dp/B0CNLQRJVL)
