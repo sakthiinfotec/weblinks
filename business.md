@@ -117,6 +117,13 @@ Information
 
 #### Spinaches
 - [Save Soil - Cauvery Calling: இப்படி கீரை விதைச்சா தினமும் 3000 ரூ நிச்சயம்!விதைப்பு முதல் அறுவடை வரை!](https://www.youtube.com/watch?v=EttZGlAuVfE)
+  - *நிலம் தயார் படுத்துதல்* (மண்ணை வளப்படுத்துதல்): பல தானிய விதைப்பு (எண்ணெய் வித்துக்கள் 5 வகைகள், தானியங்கள் 5 வகைகள், பயிறு வகைகள், வாசனை பயிர்கள், பசுந்தாள் ஒரு செடிகள் - சணப்பை மற்றும் தக்கபூண்டு) - 20 KG / ஏக்கர்
+  - 48 - 50 ஆம் நாளில் (அதாவது பூ காயாகும் தருணத்தில்) மடித்து உழுதல் வேண்டும்
+  - *நிலம் தயார் செய்தல்* அடுத்த 10 நாட்களுக்கு நிலத்தை ஆற போட வேண்டும், பிறகு 9 கலப்பை கொண்டு நன்கு உழுதல் வேண்டும், பின்பு Rotavator கொண்டு மண்ணை பொடியாக்க வேண்டும்
+  - *பாத்தி அமைத்தல்* மேட்டுப்பாத்தி - 4 அடி அகலம் + 1 அடி இடைவெளி
+  - *விதைப்பு முறை* மணல் அல்லது தொழு உரத்தில் கலந்து விதைக்க வேண்டும்
+  - *களை மேலாண்மை* 
+  - *நீர் மேலாண்மை* Spread the Green Nursaruy Net after the seeding
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
