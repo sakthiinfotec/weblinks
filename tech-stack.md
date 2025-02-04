@@ -210,6 +210,9 @@
 ##### Message Queue / Middlewares
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
 
+#### Web Scrapping
+- [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python](https://github.com/D4Vinci/Scrapling)
+
 ##### Vector Databases
 - [Pinecone - the vector database that helps power AI](https://www.pinecone.io/)
 - [Weaviate](https://weaviate.io/developers/weaviate/) - is an open-source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients
