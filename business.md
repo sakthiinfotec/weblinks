@@ -12,9 +12,8 @@ https://play.google.com/store/apps/details?id=agri.tnagri&hl=en_IN
 [PLI Scheme To Potentially Add $520 Billion To India's GDP In 5 years](https://swarajyamag.com/insta/pli-scheme-to-potentially-add-520-billion-to-gdp-in-5-years-report)  
 
 #### Hydroponics
-[CropIn - Bengaluru, India](https://www.cropin.com/)  
-[Future Farms - Chennai, India](https://www.business.futurefarms.in/)  
-
+- [CropIn - Bengaluru, India](https://www.cropin.com/)  
+- [Future Farms - Chennai, India](https://www.business.futurefarms.in/)  
 
 Mpowered Labs is a digital product development agency that specializes in creating custom software solutions for businesses. They offer services such as web development, mobile app development, user experience design, and product strategy.
 
@@ -24,17 +23,14 @@ You can also check out their LinkedIn page for updates and insights: https://www
 
 Additionally, you can follow them on Twitter for the latest news and announcements: https://twitter.com/mpoweredlabs
 
-
 mPoweredLabs is a software development and technology consulting company that specializes in building custom web and mobile applications. They offer services such as software development, UI/UX design, cloud computing, and digital marketing.
 
 Here are some links to learn more about mPoweredLabs:
-
 * Website: https://mpoweredlabs.com/  
 * LinkedIn: https://www.linkedin.com/company/mpoweredlabs/
 * Twitter: https://twitter.com/mpoweredlabs
 
 Most happening Tier-2 cities in India:
-
 1. Indore 
 2. Ahmedabad 
 3. Coimbatore 
