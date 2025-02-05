@@ -123,7 +123,15 @@ Information
   - *பாத்தி அமைத்தல்* மேட்டுப்பாத்தி - 4 அடி அகலம் + 1 அடி இடைவெளி
   - *விதைப்பு முறை* மணல் அல்லது தொழு உரத்தில் கலந்து விதைக்க வேண்டும்
   - *களை மேலாண்மை* 
-  - *நீர் மேலாண்மை* Spread the Green Nursaruy Net after the seeding
+    * Spread the Green Nursaruy Net after the seeding
+    * It protects from weeds, birds, rain and good germination process
+    * 
+  - *நீர் மேலாண்மை*
+    * Use: Germination will happen evenly
+    * 2 Types or Rain House: 20mm for 50 ft / 40mm for 150 ft
+  - *உரம் அல்லது இடுபொருள் மேலாண்மை* (உரம் மற்றும் / வளர்ச்சி ஊக்கிகள்)
+    * விதைப்பிற்கு முன்னால் நன்கு முக்கிய தொழு உரம் கொடுக்க வேண்டும்; ஒரு அடிக்கு ஒரு கிலோ என்ற விகிதம்
+    * 
 
 #### Tools
 - [Valluvan Seeder Machine](https://yantratools.com/product/Valluvan-Manual-Push-Type-Seeder-Dibbler-machine-Single-Box-5wqlw?srsltid=AfmBOookYMFll-IjuXGfs36fseqxeJb8Bp61L8P23JinsEgt06QE-yCZ)
