@@ -23,27 +23,55 @@
 
 #### Seed
 - [TNAU Seed centre](https://tnauseed.in/)
-- [உழவர் ஆனந்த் | Ulavar Anand Seed :: Grow Bags | Grocery | Rice | Millets | +91 9840960650 | anand@ulavaranand.in](https://www.ulavaranand.in/)
+- [உழவர் ஆனந்த் | Ulavar Anand Seed :: Grow Bags | Grocery | Rice | Millets | +91 9840960650 | anand@ulavaranand.in](https://www.ulavaranand.in/)  
+  <pre>
   Ulavar Anand
   11B, Sellandiamman Kovil Street,
   Near Anjaneya Temple,
   Namakkal - 637001.
-  Tamilnadu, India.
+  Tamilnadu, India
   Ulavar Anand : 9840960650
   Yamuna       : 9840926246
   Nithya       : 9840924004
   Gowtham      : 9840928004
-- [Native Indian Organics is one stop shop to find all your home gardening needs & you can get agri related products of the best quality. Organic Fertilizer | Organic Manure | Bio Fertilizer | Plant Growth Regulators | Organic Pest Control | Vermicompost | Home Gardening | Pots | Tools | Grow bags | Cocopeat | Seeds | Flower Seeds | Vegetable Seeds | Fodder Seeds | Fruit Seeds | Herbal Seeds | Microgreen Seeds](https://nativeindianorganics.com/)
+  </pre>
+- [Native Indian Organics is one stop shop to find all your home gardening needs & you can get agri related products of the best quality](https://nativeindianorganics.com/)
+  **Services**  
+  * Organic Fertilizer
+  * Organic Manure
+  * Bio Fertilizer
+  * Plant Growth Regulators
+  * Organic Pest Control
+  * Vermicompost
+  * Home Gardening
+  * Pots
+  * Tools
+  * Grow bags
+  * Cocopeat
+  * Seeds
+  * Flower Seeds
+  * Vegetable Seeds
+  * Fodder Seeds
+  * Fruit Seeds
+  * Herbal Seeds
+  * Microgreen Seeds
+  
+  **Address**  
+  <pre>
   Native Indian Organics
   10/8, SP Kannusami Gounder Street,
   Opposite to Ambal Auto Service Center,
   Sanganoor Main Road,
   Rathinapuri, Coimbatore – 641027.
   88072 77191
+  </pre>
+
 - [VayalAgro - Agriculture Classifieds, Buy, Sell, Daily & History Market Prices,updates and news](https://vayalagro.com/)
+  <pre>
   M/s. VAYAL AGRO TECH (OPC) PVT LTD
   28 NCN GARDEN, THIRUNAGAR (OPP TO MUTHU MAHAL)
   GOBICHETTIPALAYAM, ERODE, TAMIL NADU.
+  </pre>
 
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
