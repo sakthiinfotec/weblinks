@@ -102,3 +102,12 @@
 
 #### Contacts
 - [Keerai Kadai Ventures Pvt Ltd #10, Ramalinga Nagar 1st Layout, Saibaba Colony, Coimbatore - 38 Tamil Nadu | 90477 50005](https://www.keeraikadai.com/)
+- [T Udhayachandramoorthi D.Agri., Agriculture/ Horticultural Unique Consultant, Coconut Specialist](https://www.youtube.com/@-vellumvelanmai8202/videos)
+- [Tacunan Dwarf/ Thailand Sweet Dwarf (Aromatic) Seedlings AVAILABLE for inquiry and reservation please call of txt 09778120010](https://www.facebook.com/lpmaxell) - Available Varieties
+  * Tacunan Dwarf
+  * Catigan Dwarf
+  * Aromatic Sweet Dwarf
+  * Malayan Red Dwarf
+  * Golden King
+  * Buko Pandan
+  * Tagnanan
