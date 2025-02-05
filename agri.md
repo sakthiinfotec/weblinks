@@ -1,3 +1,26 @@
+#### Information
+- [TNAU Agri Tech Portal](https://tnau.ac.in/agritech-portal/)
+- [TNAU Agri Tech Portal](https://agritech.tnau.ac.in/)
+
+- [Janasri Pipes, Covai Main Road, Olapalayam, Kangeyam - 638 701](https://www.youtube.com/watch?v=-w3Sz3nAcvs)
+- [Broom Stick Machine (3 கிலோ/Hour விளக்குமாறு உரிக்கும்) | Rs. 7500 | Mr. Rajendran, Omega industries, Karur Road, +91 98428 61560](https://www.youtube.com/watch?v=UhDHiV_zA90)
+- [Laser Cutting | Broom Stock Machine Rs. 12,000 | Sivanmalai Andavar Lathe Works | Vellakovil to Erode Road](https://www.youtube.com/watch?v=PNQs5nKgc_s)
+
+- [PRK spices, ஆனைவிலாசம், இடுக்கி (D), கேரளா, ஏலக்காய் தேவைக்கு : 8680929596, +918072830728](https://www.youtube.com/watch?v=0JPpq0CZ_wM)
+- [விவசாயத்திற்கான ஸ்மார்ட் பைப் டெக்னாலஜி - "உப்பு கட்டாத, எலி அணில் கடிக்காத சொட்டு நீர் பாசன பைப்!" | SELKON INDUSTRIES PVT LTD, ERODE to Karur road, GANAPATHYPALAYAM, Cell / WhatsApp : 8608131777, 8608231777](https://www.youtube.com/watch?v=zIYsjRYnaHg)
+- [Successful Plantain Chips Making Business | www.vegetablecuttingmachine.com | Vtech - Coimbatore | 9944556620, 9944556683](https://www.youtube.com/watch?v=ywchG7XckGE&t=22s)
+- [1 ஏக்கருக்கு 20டன் வரை எடுக்கலாம் | நீர் பூசணி - Ashgaurd | Sathish Kumar, Elur village, Namakkal 90037 24792](https://www.youtube.com/watch?v=fz4DOEoANTg)
+- [தமிழ்நாடு முழுக்க விதைகள் போட்டு தரப்படும் | Seeder machine | Sathish Kumar, Elur village, Namakkal 90037 24792](https://www.youtube.com/watch?v=xvcT4kx3qtI)
+- [1 ஏக்கரில் எடுக்கும் விவசாயம் இப்போ 8000sq.ft” எடுக்கலாம் Vertical Sheet farming📍 ஈரோடு விவசாயி | சண்முகசுந்தரம், Vasantham paradise, சித்தோடு, ஈரோடு, 94432-29098,](https://www.youtube.com/watch?v=gVAEHQgUhcM)
+- [25 வகை கீரையில் 20 லட்சம் சம்பாதிக்கும் விவசாயி! Organic Spinach | Save Soil - Cauvery Calling | 8300093777, 9442590077](https://www.youtube.com/watch?v=vKQyEaPM3r8)
+- [1 ஏக்கரில் 100 டன் தக்காளி மகசூல்! விவசாயிகளுக்கு ஜாக்பாட் வருமானம்! | விதை முதல் விற்பனை வரை தொழில்நுட்பங்கள், திரு.தக்காளி ராமன், முன்னோடி விவசாயி, நாமக்கல் | Save Soil - Cauvery Calling](https://www.youtube.com/watch?v=MCTDlaYyLtw)
+- [நவீன உழவன் - Naveena Uzhavan: 1/2 ஏக்கரில் 500 கிலோ வெள்ளரிக்காய்! பசுமைகுடிலில் சாதிக்கும் விவசாயி | Polyhouse Cucumber | Mr. Baskaran, Sozhanganur (சோழகனூர்), Villupuram](https://www.youtube.com/watch?v=TcF8I923odw)
+- [10,000 குடும்பத்திற்கு நஞ்சில்லா உணவு டெலிவரி! myHarvest Farms](https://www.youtube.com/watch?v=1J1lxfpc5fQ)
+- [My Harvest Farms](https://myharvestfarms.com/)
+- [எட்டாயிரம் குடும்பங்களுக்கு நஞ்சில்லா உணவு தருகிறோம் - Archana Stalin | Part-2 | Kalyanamalai](https://www.youtube.com/watch?v=MGwC6m_Sef0)
+- Saaho Tomato Seeds [TO-3251]
+- [moglecart Germination Plastic Seedling Nursery Tray with 126 Cavities Seeds tray Plant Container Set  (Pack of 15, Plastic)](https://www.flipkart.com/moglecart-germination-plastic-seedling-nursery-tray-126-cavities-seeds-plant-container-set/p/itm7b45444949d20?pid=PCSH6KCYKQSZJYZW&lid=LSTPCSH6KCYKQSZJYZWMBEMPW&marketplace=FLIPKART&cmpid=content_plant-container-set_8965229628_gmc&gQT=1)
+
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 - [ரூ.0 செலவில் வருடம் 10 லட்சம் வருமானம் பெறும் இயற்கை விவசாயி | Organic farming, integrated farming | Mr.Kishore kumar, TTS INTEGRATED FARMS, Dheenamplayam, Thondamuthur, Coimbatore, Tamilnadu, Ph: 99444 31031](https://www.youtube.com/watch?v=w8bSgj8_uNY)
