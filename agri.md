@@ -73,7 +73,10 @@
   GOBICHETTIPALAYAM, ERODE, TAMIL NADU.
   </pre>
 - செங்கதிர் ஆர்கானிஷ் இயற்கை ஆலோசனை மையம் இயற்கை உரம், உயிர் உரம், நோய், பூஞ்சை மருந்துகள் மற்றும் இயற்கை விளை பொருட்கள் கிடைக்கும். செல்: 8784749679
-- 
+- [Seed2Plant India Pvt. Ltd | Ist Floor, 3 131 A2, SMA Building, Eraviputhoorkadai, Kattathurai, Kanniyakumari Dt, Tamil Nadu, 629158](https://seed2plant.in/)
+- [Green Paradise Live, Garden Centre Nursery, Bardoli - Surat Road, Bardoli - 394601, Gujarat, India](https://greenparadiselive.com)
+- [Ixora Farming, Nowapara P.O KHARAMPUR P.S HASNABAD NORTH 24 PARGANAS 743456, West Bengal, Bokchora, 743456](https://ixorafarming.com/)
+
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 - [ரூ.0 செலவில் வருடம் 10 லட்சம் வருமானம் பெறும் இயற்கை விவசாயி | Organic farming, integrated farming | Mr.Kishore kumar, TTS INTEGRATED FARMS, Dheenamplayam, Thondamuthur, Coimbatore, Tamilnadu, Ph: 99444 31031](https://www.youtube.com/watch?v=w8bSgj8_uNY)
