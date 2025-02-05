@@ -173,3 +173,4 @@ Information
 #### Echo / Bio Plastic
 - ZeroCircle
 - Notpla
+- [Ecostp - Sewage to Gold: Net Zero Sewage Treatment Technology](https://www.ecostp.com/)
