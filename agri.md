@@ -21,6 +21,30 @@
 - Saaho Tomato Seeds [TO-3251]
 - [moglecart Germination Plastic Seedling Nursery Tray with 126 Cavities Seeds tray Plant Container Set  (Pack of 15, Plastic)](https://www.flipkart.com/moglecart-germination-plastic-seedling-nursery-tray-126-cavities-seeds-plant-container-set/p/itm7b45444949d20?pid=PCSH6KCYKQSZJYZW&lid=LSTPCSH6KCYKQSZJYZWMBEMPW&marketplace=FLIPKART&cmpid=content_plant-container-set_8965229628_gmc&gQT=1)
 
+#### Seed
+- [TNAU Seed centre](https://tnauseed.in/)
+- [உழவர் ஆனந்த் | Ulavar Anand Seed :: Grow Bags | Grocery | Rice | Millets | +91 9840960650 | anand@ulavaranand.in](https://www.ulavaranand.in/)
+  Ulavar Anand
+  11B, Sellandiamman Kovil Street,
+  Near Anjaneya Temple,
+  Namakkal - 637001.
+  Tamilnadu, India.
+  Ulavar Anand : 9840960650
+  Yamuna       : 9840926246
+  Nithya       : 9840924004
+  Gowtham      : 9840928004
+- [Native Indian Organics is one stop shop to find all your home gardening needs & you can get agri related products of the best quality. Organic Fertilizer | Organic Manure | Bio Fertilizer | Plant Growth Regulators | Organic Pest Control | Vermicompost | Home Gardening | Pots | Tools | Grow bags | Cocopeat | Seeds | Flower Seeds | Vegetable Seeds | Fodder Seeds | Fruit Seeds | Herbal Seeds | Microgreen Seeds](https://nativeindianorganics.com/)
+  Native Indian Organics
+  10/8, SP Kannusami Gounder Street,
+  Opposite to Ambal Auto Service Center,
+  Sanganoor Main Road,
+  Rathinapuri, Coimbatore – 641027.
+  88072 77191
+- [VayalAgro - Agriculture Classifieds, Buy, Sell, Daily & History Market Prices,updates and news](https://vayalagro.com/)
+  M/s. VAYAL AGRO TECH (OPC) PVT LTD
+  28 NCN GARDEN, THIRUNAGAR (OPP TO MUTHU MAHAL)
+  GOBICHETTIPALAYAM, ERODE, TAMIL NADU.
+
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 - [ரூ.0 செலவில் வருடம் 10 லட்சம் வருமானம் பெறும் இயற்கை விவசாயி | Organic farming, integrated farming | Mr.Kishore kumar, TTS INTEGRATED FARMS, Dheenamplayam, Thondamuthur, Coimbatore, Tamilnadu, Ph: 99444 31031](https://www.youtube.com/watch?v=w8bSgj8_uNY)
