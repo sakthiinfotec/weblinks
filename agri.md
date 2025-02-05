@@ -21,7 +21,7 @@
 - Saaho Tomato Seeds [TO-3251]
 - [moglecart Germination Plastic Seedling Nursery Tray with 126 Cavities Seeds tray Plant Container Set  (Pack of 15, Plastic)](https://www.flipkart.com/moglecart-germination-plastic-seedling-nursery-tray-126-cavities-seeds-plant-container-set/p/itm7b45444949d20?pid=PCSH6KCYKQSZJYZW&lid=LSTPCSH6KCYKQSZJYZWMBEMPW&marketplace=FLIPKART&cmpid=content_plant-container-set_8965229628_gmc&gQT=1)
 
-#### Seed
+#### Seed / Consultants
 - [TNAU Seed centre](https://tnauseed.in/)
 - [உழவர் ஆனந்த் | Ulavar Anand Seed :: Grow Bags | Grocery | Rice | Millets | +91 9840960650 | anand@ulavaranand.in](https://www.ulavaranand.in/)  
   <pre>
@@ -72,7 +72,8 @@
   28 NCN GARDEN, THIRUNAGAR (OPP TO MUTHU MAHAL)
   GOBICHETTIPALAYAM, ERODE, TAMIL NADU.
   </pre>
-
+- செங்கதிர் ஆர்கானிஷ் இயற்கை ஆலோசனை மையம் இயற்கை உரம், உயிர் உரம், நோய், பூஞ்சை மருந்துகள் மற்றும் இயற்கை விளை பொருட்கள் கிடைக்கும். செல்: 8784749679
+- 
 **Vermicompost**
 - [திரு. மண்புழு ரவி அவர்களுக்கு ஒரு சிறப்பு நேர்காணல் | Business scam behind Vermicompost ](https://www.youtube.com/watch?v=OTUPgQo_oSQ)
 - [ரூ.0 செலவில் வருடம் 10 லட்சம் வருமானம் பெறும் இயற்கை விவசாயி | Organic farming, integrated farming | Mr.Kishore kumar, TTS INTEGRATED FARMS, Dheenamplayam, Thondamuthur, Coimbatore, Tamilnadu, Ph: 99444 31031](https://www.youtube.com/watch?v=w8bSgj8_uNY)
