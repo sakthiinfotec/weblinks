@@ -101,5 +101,4 @@
 - Apply 10–15 tonnes of FYM + 30:40:20 kg NPK/ha for proper growth and quality yield. 
 
 #### Contacts
-- [Keerai Kadai Ventures Pvt Ltd #10, Ramalinga Nagar 1st Layout, Saibaba Colony, Coimbatore - 38 Tamil Nadu](https://www.keeraikadai.com/)
-
+- [Keerai Kadai Ventures Pvt Ltd #10, Ramalinga Nagar 1st Layout, Saibaba Colony, Coimbatore - 38 Tamil Nadu | 90477 50005](https://www.keeraikadai.com/)
