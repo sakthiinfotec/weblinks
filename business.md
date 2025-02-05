@@ -179,4 +179,5 @@ Information
 - ZeroCircle
 - Notpla
 - [Ecostp - Sewage to Gold: Net Zero Sewage Treatment Technology](https://www.ecostp.com/)
+- [Tharun Kumar, Co-Founder, Ecostp at Sustainable Cities Forum](https://www.youtube.com/watch?v=CrFtr0dP_3A)
 - [Biomimicry Institute is a not-for-profit organization founded in 2006 and based in Missoula, Montana in the United States. Its goal is to help innovators learn from nature in order to design sustainable products, processes, and policies in response to real-world problems](https://biomimicry.org/)
