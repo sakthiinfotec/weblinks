@@ -72,14 +72,6 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 #### Coffee
 - [உழவன் மகன் - Uzhavan magan: காஃபி அறுவடை முதல் பொடியாக்குதல் வரை | coffee procesing unit |  Jeeva, Pannaikaadu Area, Kodaikanal | காஃபி பொடி (Arabica - Rs. 750-800, Robasta - Rs. 700 தேவைக்கு (Also Candle Wood Resort | Cottage) : 9600986963](https://www.youtube.com/watch?v=T3p3eeqD3Mw)
 
-#### Home Appliance
-- [OM Electronics and Batteries Pvt Ltd, 49, Justice Rathinavel Pandian Rd, Golden George Nagar, Mogappair East, Chennai, Tamil Nadu 600107 098404 54293/9841811604](https://www.youtube.com/watch?v=lxoh2C3Aag4)
-- [OM Electronics - Website](https://omelectronics.in/product/omega-digital-ups-with-lithium-battery-1550v/?srsltid=AfmBOopXRa7mvpRTqX4wp7-Xj-fczGhFzidGGLHGbcjSpc2tbsJyZs34)
-- [Roof Top Solar by STALWART SOLAR ENERGY PROMOTERS PRIVATE LIMITED AO: 2/4, Kombodipatty Pirivu, Periyaseeragapadi Post, Salem-636 | 2/4, Kombodipatty Pirivu, Periyaseeragapodi Post, Salem-630 308. stalwartsolar21@gmail.com, www.stalwartgroup.co](https://omegaups.in/services/)
-
-#### Export / Import
-- [Global EXIM Institute](https://globaleximinstitute.com/)
-
 #### FPOs
 - [Ayyampalayam Farmers Producer Company Ltd. Ayyampalayam Post, Dindigul District, Tamil Nadu 624204 | Email: apmfpc15@gmail.com | Website: ayyampalayamfpc.org | Phone: 9791921111, 9865281618](https://coconutboard.gov.in/docs/icj/icj-2024-12.pdf)
 
@@ -89,3 +81,14 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 - [Ecostp - Sewage to Gold: Net Zero Sewage Treatment Technology](https://www.ecostp.com/)
 - [Tharun Kumar, Co-Founder, Ecostp at Sustainable Cities Forum](https://www.youtube.com/watch?v=CrFtr0dP_3A)
 - [Biomimicry Institute is a not-for-profit organization founded in 2006 and based in Missoula, Montana in the United States. Its goal is to help innovators learn from nature in order to design sustainable products, processes, and policies in response to real-world problems](https://biomimicry.org/)
+
+#### Home Appliance
+- [OM Electronics and Batteries Pvt Ltd, 49, Justice Rathinavel Pandian Rd, Golden George Nagar, Mogappair East, Chennai, Tamil Nadu 600107 098404 54293/9841811604](https://www.youtube.com/watch?v=lxoh2C3Aag4)
+- [OM Electronics - Website](https://omelectronics.in/product/omega-digital-ups-with-lithium-battery-1550v/?srsltid=AfmBOopXRa7mvpRTqX4wp7-Xj-fczGhFzidGGLHGbcjSpc2tbsJyZs34)
+- [Roof Top Solar by STALWART SOLAR ENERGY PROMOTERS PRIVATE LIMITED AO: 2/4, Kombodipatty Pirivu, Periyaseeragapadi Post, Salem-636 | 2/4, Kombodipatty Pirivu, Periyaseeragapodi Post, Salem-630 308. stalwartsolar21@gmail.com, www.stalwartgroup.co](https://omegaups.in/services/)
+
+#### Courier / Shipments
+- [Shiprocket - All-in-One Shipping Solution](https://www.shiprocket.in)
+
+#### Export / Import
+- [Global EXIM Institute](https://globaleximinstitute.com/)
