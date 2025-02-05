@@ -99,3 +99,7 @@
 - Soak the seeds in water for 12 hours before sowing. 
 - Split the seeds into halves before sowing to increase the germination percentage. 
 - Apply 10–15 tonnes of FYM + 30:40:20 kg NPK/ha for proper growth and quality yield. 
+
+#### Contacts
+- [Keerai Kadai Ventures Pvt Ltd #10, Ramalinga Nagar 1st Layout, Saibaba Colony, Coimbatore - 38 Tamil Nadu](https://www.keeraikadai.com/)
+
