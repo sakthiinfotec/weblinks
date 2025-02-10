@@ -35,3 +35,24 @@ Credits to [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:
 
 **Load balancer algorithms:**
 - Load balancers can route traffic based on various metrics like least-busy, random, round-robin, sticky, etc.
+
+#### Learn Microservices
+1. Microservices Architecture Basics: Monolithic vs. Microservices, characteristics (independence, scalability, resilience), and designing microservices boundaries (DDD-Domain-Driven Design)
+2. Service Communication: Synchronous (REST, gRPC) vs. Asynchronous (Message Queues), API design and versioning, event-driven architecture, and event sourcing
+3. Data Management: Database per service, distributed data management (saga pattern, 2PC, CQRS), and handling data consistency across services
+4. Deployment Strategies: Containerization (Docker), orchestration (Kubernetes), and service discovery and registry (Eureka, Consul)
+5. Frameworks and Tools: Spring Boot (Spring Cloud for microservices), Micronaut, Quarkus, or Dropwizard as alternatives
+6. Communication Protocols: RESTful APIs and gRPC, messaging systems (Kafka, RabbitMQ)
+7. Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Cassandra), and distributed caching (Redis, Memcached)
+8. CI/CD Pipelines: Tools like Jenkins, GitHub Actions, GitLab Cl, and deployment strategies like Blue-Green and Canary deployments
+9. Infrastructure as Code: Terraform, Ansible, or AWS CloudFormation
+10. Logging and Monitoring: Centralized logging (ELK Stack, Splunk) and monitoring tools (Prometheus, Grafana)
+11. Resilience and Fault Tolerance: Circuit Breaker (Hystrix, Resilience4j), Bulkhead pattern, and retries
+12. Security: OAuth2, OpenID Connect, and API Gateways (Zuul, Spring Cloud Gateway, Kong)
+13. Testing Microservices: Unit and integration testing, contract testing (Pact), and end-to-end testing
+14. Scalability Patterns: Horizontal and vertical scaling, load balancing (HAProxy, NGINX)
+15. Distributed Tracing: Tools like Jaeger and Zipkin
+16. Anti-Patterns: Avoiding distributed monoliths and over-engineering microservices
+
+
+
