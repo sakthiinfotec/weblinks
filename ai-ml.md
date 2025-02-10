@@ -325,6 +325,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Build an AI powered Cursor Agent - Riley Brown](https://x.com/rileybrown_ai/status/1874541368410034619)
 - [RAG From Scratch by Langchain.ai](https://github.com/langchain-ai/rag-from-scratch)
 - [Agentic RAG Survey | Patterns, Practical Implementation and usecases](https://github.com/asinghcsu/AgenticRAG-Survey)
+- [AI Hedge Fund by Virat](https://github.com/virattt/ai-hedge-fund)
 
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
