@@ -264,8 +264,11 @@ Helpful resources:
 * Consumer Electronics: Help in the Technical Support
 * Telecom: Manage subscription, convince people not to cancel the subscription or upgrade or downgrade plans
 * Supply Chain: Contact review by AI Agent
+* Travel: Hotel, Flight booking
+* Customer Service: Handle return or change of items
+* OTT: Update the subscription
 
 #### AI Agent - Benefits
 - Bring down the cost of the personalized interaction
 - Affords the opportunity to have an orders of magnitude more personalized conversations with customers
-- 
+- Value propositions: Gevernance, Guardrails
