@@ -36,6 +36,30 @@ Credits to [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:
 **Load balancer algorithms:**
 - Load balancers can route traffic based on various metrics like least-busy, random, round-robin, sticky, etc.
 
+#### [How to Design a Chat Application like WhatsApp](https://x.com/ashishps_1/status/1889532829853524125)
+🔹 Chat Servers - Manages a large number of concurrent WebSocket connections, facilitate real-time communication, and ensure that messages are delivered efficiently between users with minimal latency.
+
+🔹 Load Balancer - Distributes traffic across multiple chat server instances. Uses sticky sessions to ensure clients consistently connect to the same server.
+
+🔹 User Connection Cache - A fast, in-memory cache (e.g., Redis) that stores user's active connection details, such as the chat server they’re connected to and their last_active timestamp.
+
+🔹 Notification Service - Sends push notifications via providers like FCM or APNS when users are offline.
+
+🔹 Message Queue - Decouples real-time messaging from storage of the messages.
+
+🔹 Message Storage Service - Consumes incoming messages from the Message Queue and persists them in the Message DB for efficient storage and retrieval.
+
+🔹 Group Service - Responsible for handling all group-related functionalities, including creating groups, updating group details and returning list of group members.
+
+🔹 Media Service - Handles the uploading and management of multimedia content, such as images, videos, and audio files.
+
+🔹 Blob Storage - Storage backend for a chat application’s multimedia content (eg., S3).
+
+🔹 CDN - To reduce latency when uploading or downloading multimedia content, files are distributed to locations geographically closer to users via a Content Delivery Network (CDN).
+
+You can read the detailed article on this system design interview problem here: https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp
+
+
 #### Learn Microservices
 1. Microservices Architecture Basics: Monolithic vs. Microservices, characteristics (independence, scalability, resilience), and designing microservices boundaries (DDD-Domain-Driven Design)
 2. Service Communication: Synchronous (REST, gRPC) vs. Asynchronous (Message Queues), API design and versioning, event-driven architecture, and event sourcing
