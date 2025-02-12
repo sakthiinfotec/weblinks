@@ -57,8 +57,9 @@ Credits to [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:
 
 🔹 CDN - To reduce latency when uploading or downloading multimedia content, files are distributed to locations geographically closer to users via a Content Delivery Network (CDN).
 
-You can read the detailed article on this system design interview problem here: https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp
+![image](https://github.com/user-attachments/assets/109b6b57-a0ee-4403-96bc-3744abfa0319)
 
+You can read the detailed article on this system design interview problem here: https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp
 
 #### Learn Microservices
 1. Microservices Architecture Basics: Monolithic vs. Microservices, characteristics (independence, scalability, resilience), and designing microservices boundaries (DDD-Domain-Driven Design)
