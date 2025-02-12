@@ -250,7 +250,11 @@ Helpful resources:
 - Docs: [https://ai.google.dev/gemini-api/docs/quickstart?lang=python](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
 - Migration guide from the old SDK: [https://ai.google.dev/gemini-api/docs/migrate](https://ai.google.dev/gemini-api/docs/migrate)
 
-
 ![image](https://github.com/user-attachments/assets/7bceff42-e45e-4e6e-9037-17b3d31317a7)
 
 
+#### agent.ai by @dharmesh
+- [FlyerScan](https://agent.ai/agent/flyer-scan)
+  - [R-N Super markets](https://rnsupermarkets.com/)
+  - [Shaws Weekly Ad](https://www.shaws.com/weeklyad)
+  
