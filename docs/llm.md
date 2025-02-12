@@ -214,6 +214,7 @@ Google just released Gemma Embeddings!
 
 
 #### AI Assistant
+- Kind of agency - able to make decisions and work in autonomy
 - A 24/7 customer service expert
 - Your personal {domain} assistant /  finance assistant: Handles a wide array of queries, including refunds, returns, payment-related issues, cancellations, disputes, and invoice inaccuracies, ensuring swift and effective solutions.
 - Multilingual chat support
@@ -257,4 +258,14 @@ Helpful resources:
 - [FlyerScan](https://agent.ai/agent/flyer-scan)
   - [R-N Super markets](https://rnsupermarkets.com/)
   - [Shaws Weekly Ad](https://www.shaws.com/weeklyad)
-  
+
+#### AI Agent - Usercases
+* Insurance: Help customers to file a claim or add someone to our Premium
+* Consumer Electronics: Help in the Technical Support
+* Telecom: Manage subscription, convince people not to cancel the subscription or upgrade or downgrade plans
+* Supply Chain: Contact review by AI Agent
+
+#### AI Agent - Benefits
+- Bring down the cost of the personalized interaction
+- Affords the opportunity to have an orders of magnitude more personalized conversations with customers
+- 
