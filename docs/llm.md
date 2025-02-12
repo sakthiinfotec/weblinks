@@ -272,3 +272,34 @@ Helpful resources:
 - Bring down the cost of the personalized interaction
 - Affords the opportunity to have an orders of magnitude more personalized conversations with customers
 - Value propositions: Gevernance, Guardrails
+- [Delight your customers while dramatically improving business outcomes](https://sierra.ai/product)
+
+**Intuitive and authentic conversations**  
+Your AI agent mirrors the nuances of human communication, ensuring seamless and organic customer service interactions while improving customer satisfaction.
+
+- Deliver empathetic support: AI agents use language processing and human-level reasoning to create conversational interactions that are natural and satisfying
+- Adapt to any inquiry: AI agents understand jargon, typos, and context to communicate with consideration, adapting to each customer's specific needs and emotions
+- Respond in any language: AI agents communicate effortlessly in the language of users' choice for experiences that are personalized and inclusive
+- No more menus: Move on from IVR systems and let your customers get straight to the resolution they need. With your AI agent, voice communication is fast and action is immediate—no more lengthy wait times or tedious touch-tone menus
+
+**Beyond Q&A**  
+Conversational AI isn’t just about answering questions. Your AI agent takes action to solve your customers’ problems, improving self-service resolution rate and average handle time
+- Use your expertise: Your agent is informed by your knowledge base, and guided by your company’s policies and brand guidelines, enabling it to make informed decisions
+- Take action, instantly: Your agent is connected to your systems of record - from your order management system to your CRM - so it can take action on your customer’s behalf, from processing an exchange, scheduling a delivery, updating a subscription, or changing a reservation
+- Empower your teams: When your agent can’t solve your customer’s problem, it collects critical information and delivers a detailed summary to your customer service teams, preparing them to effectively manage escalations
+
+**Anytime and anywhere**  
+Your AI agent is up-to-date, delivering customer service anytime and anywhere to dramatically lower your response time.
+
+- Around-the-clock: AI agents are available to handle customers' questions any time of day. Customers can put the conversation on hold if life takes them elsewhere, and your agent can pick up where they left off, later
+- Connect across channels: Whether they're at home or on the go, offer your customers the convenience of support through both chat and voice
+- Always-ready: AI agents are easy and low-cost to update, whether there is a new product to highlight, a new promotion to offer, or a new policy to follow
+- Scalable: When you experience surges in consumer demand, Sierra scales up effortlessly, ensuring a smooth experience with plenty of capacity
+
+**Always improving**  
+Your agent is constantly learning from interactions, continuously improving, and keeping your team in-the-loop.
+
+- Live summaries: Review actionable activity summaries across all conversations as they happen. Sophisticated pattern recognition allows you to spot small problems before they grow, whether identifying a common product question or flagging a shipping delay
+- Automatic tagging: Agent tags and categorizes each conversation, making it easy to track success and see what your customers are interested in most.
+- Integrated quality assurance: Monitor your AI agent's performance in real-time and make necessary adjustments. Sierra automatically flags conversations so your customer experience teams can focus on the interactions that need extra attention
+
