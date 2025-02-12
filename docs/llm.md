@@ -226,3 +226,7 @@ Google just released Gemma Embeddings!
 - OCR
 - Decision making (Credit / Risk management)
 
+
+![image](https://github.com/user-attachments/assets/aa1fa8b6-7985-4033-a809-8db6aa495b88)
+[Ref](https://x.com/venturetwins/status/1889345133109285322)
+
