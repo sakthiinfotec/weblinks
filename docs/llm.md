@@ -230,3 +230,27 @@ Google just released Gemma Embeddings!
 ![image](https://github.com/user-attachments/assets/aa1fa8b6-7985-4033-a809-8db6aa495b88)
 [Ref](https://x.com/venturetwins/status/1889345133109285322)
 
+#### [Google Gen AI Python SDK v1.0.0 is here!](https://x.com/patloeber/status/1888983994533867558)
+It brings major improvements and stability, including:
+
+- Gemini API and Vertex support
+- pydantic types
+- function calling
+- JSON response schema
+- streaming
+- async
+- Imagen 3 support
+- finetuning
+
+![image](https://github.com/user-attachments/assets/ff8cee8e-eda6-450f-8bb3-9d1b1186e99e)
+
+Helpful resources:
+
+- Repo: [https://github.com/googleapis/python-genai](https://github.com/googleapis/python-genai)
+- Docs: [https://ai.google.dev/gemini-api/docs/quickstart?lang=python](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
+- Migration guide from the old SDK: [https://ai.google.dev/gemini-api/docs/migrate](https://ai.google.dev/gemini-api/docs/migrate)
+
+
+![image](https://github.com/user-attachments/assets/7bceff42-e45e-4e6e-9037-17b3d31317a7)
+
+
