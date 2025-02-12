@@ -6,7 +6,6 @@
   * Part 2: Landing Page
   * Part 3: App With Database and Authentication
 
-
-
+- [3 Hours To Become an EXPERT AI Coder (Cursor Complete Guide)](https://youtu.be/faezjTHA5SU)
 
 
