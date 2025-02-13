@@ -387,6 +387,32 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI Art Generator
 - DALL-E 2
 - Midjourney
+- [Artistly](https://artistly.ai/go/) - Produce Stunning Images, Logos & Art With Just A Keyword Using AI
+ * Generate AI Images That Captivate & Inspire Like Never Before!
+ * Unlimited AI Image Creator
+ * Instant Scene Background Editor
+ * Smart Image Expander
+ * Instant Ecommerce Mockups
+ * AI Text Mojo: Automated Text Editor
+ * Train AI With Your Face
+ * AI Product Mockup Creator
+ * AI Product Photographer
+ * AI Style Replicator
+ * Canvas-Style Image Editor
+ * Kids & Adult Coloring Book Generator
+ * AI In-Painting Technology
+ * Background Remover & Editor
+ * AI Image Upscaler
+ * Automatic AI Prompt Enhancer
+ * Keyword To Prompt Builder
+ * Consistent Character
+ * Custom Face Switcher
+ * Perfect Text in AI Images
+ * Human Inpainting - Instantly transform any AI-generated image - change hair, clothing, backgrounds, colors, and even add accessories like sunglasses and beard or tweak faces in human images in the blink of an eye with elite inpainting features.
+ * AI Logo Maker
+ * Dynamic Customization Options
+ * Thriving Community Design Feed
+- [Video Creator](https://videocreator.io/) - Create a variety of videos
 
 #### AI Pretrainded Models
 - Openpose - To detect Human poses
