@@ -35,6 +35,7 @@
 - [School Connect Program by IITM | Data Science and AI and Electronic Systems](https://school-connect.study.iitm.ac.in/)
 - [MIT Energy-Efficient Circuits and Systems Group led by Prof. Anantha Chandrakasan](https://chandrakasan.mit.edu/research/)
 - [Mechanical Courses | Kriatic Services, Chennai | Learn New](https://learnew.org/mechanical-courses.htm)
+- [Miami Ad School | The world's leading creative school. Where you can become who you’re meant to be | Miami, FL, USA](http://www.miamiadschool.com/)
 
 #### Study
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
