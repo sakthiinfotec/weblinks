@@ -205,6 +205,9 @@ Benefits of using callbacks:
 
 ![RAG Popeline](https://github.com/user-attachments/assets/106e2544-027a-4ef5-9781-1585543a4d27)
 
+![AI Chatbot](https://github.com/user-attachments/assets/a7fc141e-af17-4c8c-8ce3-d3cc4a70836b)
+
+
 The image outlines a process related to Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Here’s a breakdown of the terminologies:
 
 1. **Extract**: This step involves gathering data from various sources (e.g., documents, databases). The extracted data could come from different file formats like PDFs, Word documents, HTML, and more.
