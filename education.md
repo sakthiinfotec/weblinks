@@ -1,11 +1,12 @@
 
 #### Learning & Activities
-[pschool.in - Tons of Learning activities](https://pschool.in/)  
-[www.kidzpark.com - Kids Activity, Videos](http://www.kidzpark.com)  
-[Liveworksheets - Tamil, Maths & Science](https://www.liveworksheets.com/search.asp?content=tamil)  
-[Sisu Bharathi - Google Sites](https://sites.google.com/site/sbtamilclass/)  
-[IXL - LKG - XII (English & Maths)](https://in.ixl.com/maths/lkg/name-the-shape)  
-[Adapted Mind - Maths](https://www.adaptedmind.com/Math-Worksheets.html)  
+- [pschool.in - Tons of Learning activities](https://pschool.in/)  
+- [www.kidzpark.com - Kids Activity, Videos](http://www.kidzpark.com)  
+- [Liveworksheets - Tamil, Maths & Science](https://www.liveworksheets.com/search.asp?content=tamil)  
+- [Sisu Bharathi - Google Sites](https://sites.google.com/site/sbtamilclass/)  
+- [IXL - LKG - XII (English & Maths)](https://in.ixl.com/maths/lkg/name-the-shape)  
+- [Adapted Mind - Maths](https://www.adaptedmind.com/Math-Worksheets.html)
+- [Opennote + Groq](https://opennote.me/)
 
 ##### Competitions
 * [International Science Olympiad](https://en.wikipedia.org/wiki/International_Science_Olympiad)
@@ -37,6 +38,7 @@
 - [Mechanical Courses | Kriatic Services, Chennai | Learn New](https://learnew.org/mechanical-courses.htm)
 - [Miami Ad School | The world's leading creative school. Where you can become who you’re meant to be | Miami, FL, USA](http://www.miamiadschool.com/)
 - [National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)](https://niftem-t.ac.in/)
+- [Open Notes from IIT](https://theopennotes.in/studyGuides)
 
 #### People
 - [Pragya Misra, Open AI | Ex - WhatsApp / Truecaller](https://analyticsindiamag.com/global-tech/meet-openais-first-and-only-india-employee/)
