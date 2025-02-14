@@ -298,12 +298,14 @@ _Key Characteristics:_
 - Environmental Interaction
 
 Multimodality
-- Language
-- Image analysis
-- Image Generation (GPT-4o)
-- Vice transcription
-- Text-to-Speech
-- Video (Sora)
+* GPT-4o
+  - Language
+  - Image analysis
+  - Image Generation
+  - Vice transcription
+  - Text-to-Speech
+* Sora
+  - Video
 
 Reasoning  
 
