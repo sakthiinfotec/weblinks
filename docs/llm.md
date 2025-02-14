@@ -288,6 +288,15 @@ Helpful resources:
 - Value propositions: Gevernance, Guardrails
 - [Delight your customers while dramatically improving business outcomes](https://sierra.ai/product)
 
+**Agents**  
+An AI system that plans and performs tasks autonomously. Long running tasks, integrating repeatedly with environments, taking actions in the world.
+
+_Key Characteristics:_
+- Autonomous
+- Goal-Driven
+- Long Running
+- Environmental Interaction
+
 **Intuitive and authentic conversations**  
 Your AI agent mirrors the nuances of human communication, ensuring seamless and organic customer service interactions while improving customer satisfaction.
 
