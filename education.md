@@ -38,6 +38,12 @@
 - [Miami Ad School | The world's leading creative school. Where you can become who you’re meant to be | Miami, FL, USA](http://www.miamiadschool.com/)
 - [National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)](https://niftem-t.ac.in/)
 
+#### People
+- [Pragya Misra, Open AI | Ex - WhatsApp / Truecaller](https://analyticsindiamag.com/global-tech/meet-openais-first-and-only-india-employee/)
+  - MBA from International Management Institute (2012)
+  - Bargaining and Negotiations at London School of Economics
+  - Commerce degree from Delhi University
+
 #### Study
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
 - [இன்ஸ்டிடியூட் ஆப் ஆஸ்ட்ரோனேடிக்ஸ் அண்ட் ஏவியேஷன் - Chennai](https://www.dinamalar.com/news_detail.asp?id=2806226)  
