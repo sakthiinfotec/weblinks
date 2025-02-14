@@ -297,6 +297,8 @@ _Key Characteristics:_
 - Long Running
 - Environmental Interaction
 
+[Ref: IIT Madras | Building the Intelligent Future - Shri. Srinivas Narayanan | Open AI](https://www.youtube.com/live/wRv7bLXkeXQ)
+
 **Intuitive and authentic conversations**  
 Your AI agent mirrors the nuances of human communication, ensuring seamless and organic customer service interactions while improving customer satisfaction.
 
