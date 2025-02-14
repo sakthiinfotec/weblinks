@@ -315,6 +315,12 @@ _Latest Features:_
   - Reliable Type Safety
   - Very useful for the inter-agent communication
 
+_Types of Agents_
+- Customer Service
+- Financial Assistance
+- Coding Agent - To solve complex coding problems (write, test and come back)
+- Lots of agents will be around and talking to each other
+
 [Ref: IIT Madras | Building the Intelligent Future - Shri. Srinivas Narayanan | Open AI](https://www.youtube.com/live/wRv7bLXkeXQ)
 
 **Intuitive and authentic conversations**  
