@@ -247,6 +247,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - LUMA
 - FLUX
 - [HeyGen - AI Video Generator](https://www.heygen.com/)
+- [Invideo AI](https://invideo.io/ai-videos/)
 
 #### Visualization
 - [3D Visualization of LLMs](https://bbycroft.net/llm)
