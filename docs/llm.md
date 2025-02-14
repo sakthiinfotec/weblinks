@@ -297,17 +297,23 @@ _Key Characteristics:_
 - Long Running
 - Environmental Interaction
 
-Multimodality
-* GPT-4o
-  - Language
-  - Image analysis
-  - Image Generation
-  - Vice transcription
-  - Text-to-Speech
-* Sora
-  - Video
-
-Reasoning  
+_Latest Features:_
+- Multimodality
+  * GPT-4o
+    - Language
+    - Image analysis
+    - Image Generation
+    - Vice transcription
+    - Text-to-Speech
+  * Sora
+    - Video
+- Reasoning  
+- Deep Research
+- Operators - Operating on a browser context on behalf of the user - Search content, Book Restaurant, Order food online
+- Structured Outputs
+  - Adhere to strict JSON schema
+  - Reliable Type Safety
+  - Very useful for the inter-agent communication
 
 [Ref: IIT Madras | Building the Intelligent Future - Shri. Srinivas Narayanan | Open AI](https://www.youtube.com/live/wRv7bLXkeXQ)
 
