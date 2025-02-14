@@ -73,7 +73,7 @@ Llama Index is a data framework for building LLM applications, allowing users to
 *Level 3: Build your own*  
 
 #### LLM Models and Usecases
-list of top models based on the task
+List of top models based on the task
 
 - Code - Sonnet 3.5
 - Images - Flux Pro
@@ -101,6 +101,20 @@ list of top models based on the task
 - [SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors](https://daveredrum.github.io/SceneTex/)
 
 Super intelligence is NOT going to be one model, it will an ensemble of models working together in concert
+
+**Model Capabilities**  
+- Analyze data
+- Automate workflows
+- Assistive experiences
+- Explain concepts
+- Programming assistance
+- Summarize things
+- Image generation
+- Translate text in real time
+- Interpret images and visuals
+- Writing assistance
+- Personalize content
+- Predict trends
 
 #### LLM Frameworks
 An LLM application developer can face myriad of challenges such as using various foundation LLMs, consuming different data sources and vector stores, constraints on input/output data format, LLM token limits, unpredictability of LLM output, dynamic prompts, retaining the conversation context and so on.
