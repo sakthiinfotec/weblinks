@@ -314,6 +314,7 @@ _Latest Features:_
   - Adhere to strict JSON schema
   - Reliable Type Safety
   - Very useful for the inter-agent communication
+- Memory
 
 _Types of Agents_
 - Customer Service
