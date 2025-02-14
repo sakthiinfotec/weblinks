@@ -297,6 +297,16 @@ _Key Characteristics:_
 - Long Running
 - Environmental Interaction
 
+Multimodality
+- Language
+- Image analysis
+- Image Generation (GPT-4o)
+- Vice transcription
+- Text-to-Speech
+- Video (Sora)
+
+Reasoning  
+
 [Ref: IIT Madras | Building the Intelligent Future - Shri. Srinivas Narayanan | Open AI](https://www.youtube.com/live/wRv7bLXkeXQ)
 
 **Intuitive and authentic conversations**  
