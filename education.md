@@ -6,6 +6,7 @@
 - [Sisu Bharathi - Google Sites](https://sites.google.com/site/sbtamilclass/)  
 - [IXL - LKG - XII (English & Maths)](https://in.ixl.com/maths/lkg/name-the-shape)  
 - [Adapted Mind - Maths](https://www.adaptedmind.com/Math-Worksheets.html)
+- [Desmos: Beautiful free math. At Desmos Studio, we want to help everyone learn math, love math, and grow with math.](https://www.desmos.com/)
 - [Opennote + Groq](https://opennote.me/)
 
 ##### Competitions
