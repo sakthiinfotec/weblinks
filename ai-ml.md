@@ -31,7 +31,7 @@
 
 #### Deep Learning Starter Kit
 - [explained.ai/matrix-calculus - For DL Math](http://explained.ai/matrix-calculus/)  
-- [d2l.ai - For Guided learning](http://d2l.ai)  
+- [Dive into Deep Learning | Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow](https://d2l.ai/index.html)
 - [fast.ai - For applied Deep learning](http://fast.ai)  
 - [TensofFlow - For training Deep learning models](https://www.tensorflow.org/)  
 - [PyTorch - For training Deep learning models](https://pytorch.org/)
