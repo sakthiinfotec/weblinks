@@ -356,3 +356,50 @@ Your agent is constantly learning from interactions, continuously improving, and
 - Automatic tagging: Agent tags and categorizes each conversation, making it easy to track success and see what your customers are interested in most.
 - Integrated quality assurance: Monitor your AI agent's performance in real-time and make necessary adjustments. Sierra automatically flags conversations so your customer experience teams can focus on the interactions that need extra attention
 
+#### Prompting
+As shared by OpenAI President Greg Brockman.
+
+Here’s how it works:
+![image](https://github.com/user-attachments/assets/ce90b37c-8d8e-4bbe-a117-88348596eec9)
+
+𝗧𝗵𝗲 𝗥𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴
+
+4 words in lowercase doesn’t work.
+
+If you want to write a PRD, or a product strategy, or something for work, you have to help the LLM get your context. 
+
+This is done in 4 parts.
+𝗢𝗻𝗲 - 𝗚𝗼𝗮𝗹
+
+LLMs know millions of ways to complete a task. 
+
+Clear goal language helps them narrow in on the way you want them to. 
+
+EG: “I want to create a Google-level Product Requirements Document for: <Feature>”
+
+𝗧𝘄𝗼 - 𝗥𝗲𝘁𝘂𝗿𝗻 𝗙𝗼𝗿𝗺𝗮𝘁
+
+The return format is really important, because there are so many styles.
+
+Ideally, you can even create bespoke templates for bespoke tasks.
+
+EG: “Our PRD template is: <Paste>” 
+
+And the template has all the right headers and descriptions.
+
+𝗧𝗵𝗿𝗲𝗲 - 𝗪𝗮𝗿𝗻𝗶𝗻𝗴𝘀
+
+Tell the LLM what not to do as well as what to do. 
+
+EG: “Prior PRDs that were too long or flowery were not well received. 
+
+Focus on concise and specific to our app.”
+
+Don’t assume it has your brain.
+𝗙𝗼𝘂𝗿 - 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗗𝘂𝗺𝗽
+
+This is where you paste in the user research, data, and meeting notes that you have. 
+
+EG: “Here’s a transcript of a recent meeting where we finalized most of it”
+
+You do have to be careful on not pasting too much.
