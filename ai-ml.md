@@ -159,6 +159,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI Getting Started - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs](https://github.com/a16z-infra/ai-getting-started)  
 - [Simple AI: An opensource Chat UI interface as components | Customizable and Opensource](https://github.com/Alwurts/simple-ai)
 - [Simple AI Agent Workflow Tweet](https://x.com/Alwurts/status/1885051386444079280)
+- [text-extract-api @ Github](https://github.com/CatchTheTornado/text-extract-api): Convert any image, PDF or Office document to Markdown text or JSON structured document with super-high accuracy, including tabular data, numbers or math formulas. The API is built with FastAPI and uses Celery for asynchronous task processing. Redis is used for caching OCR results.
 
 #### AI/ML Platforms
 - AzureML
