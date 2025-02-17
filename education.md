@@ -63,6 +63,7 @@
 - [HSK - Chinese Proficiency Test (like IELTS)](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi)
 - MBA in Airline Management from Embry-Riddle Aeronautical University, USA
 - [Carles Marsal - Visual Artist | Art Director | Instructor](https://carlesmarsal.com/) - From Domestika
+- [Sichuan University, China](https://en.scu.edu.cn/index.htm)
 
 #### Top Start-ups in UI/UX Solutions
 Here are the top start-ups in UI/UX solutions in India:
