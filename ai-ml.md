@@ -331,6 +331,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [RAG From Scratch by Langchain.ai](https://github.com/langchain-ai/rag-from-scratch)
 - [Agentic RAG Survey | Patterns, Practical Implementation and usecases](https://github.com/asinghcsu/AgenticRAG-Survey)
 - [AI Hedge Fund by Virat](https://github.com/virattt/ai-hedge-fund)
+- [Improve RAG Performance with Contextual Retrieval Hands-on Guide | LinkdIn](https://www.linkedin.com/posts/dipanjans_guide-to-contextual-rag-ugcPost-7296189415217913859-QJ8M)
+- [Improve RAG Performance with Contextual Retrieval Hands-on Guide | Analytics Vidya](https://www.analyticsvidhya.com/blog/2024/12/contextual-rag-systems-with-hybrid-search-and-reranking)
 
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
