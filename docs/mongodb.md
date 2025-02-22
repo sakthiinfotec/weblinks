@@ -39,3 +39,8 @@
 - Compass GUI
 - Drivers
 - Shell (CLI)
+- Stitch
+  - Serverless Query API
+  - Serverless functions
+  - DB Triggers
+  - Real-time Sync
