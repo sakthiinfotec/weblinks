@@ -65,6 +65,11 @@
 - [Carles Marsal - Visual Artist | Art Director | Instructor](https://carlesmarsal.com/) - From Domestika
 - [Sichuan University, China](https://en.scu.edu.cn/index.htm)
 
+- Delft University of Technology, Nederlands
+- University of Amsterdam, Nederlands
+- Eindhoven University of Technology, Nederlands - Embedded Systems
+- KTH Royal Institute of Technology, Stockholm: KTH is one of Europe’s leading technical and engineering universities - Embedded Systems
+
 #### Top Start-ups in UI/UX Solutions
 Here are the top start-ups in UI/UX solutions in India:
 
