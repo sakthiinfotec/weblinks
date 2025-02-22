@@ -8,6 +8,7 @@
 - Runs a DB Server which maitains DBs (similary to DBs in MySQL world)
 - DB has multiple collections (equivalent to table in MySQL)
 - Each collection stores data like a JSON structure (internally BSON), which is called **Document**
+- Storage engine manages data between Memory and File Storage for quick read and write
 
 #### Data Types
 - Number
