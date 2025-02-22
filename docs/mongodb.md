@@ -30,3 +30,12 @@
 - Follow opposite concept or philosophy compare to SQL sometimes
 - Schema & Relationship
 - Normalized - Store data distributed across different tables
+- Performance (read & write)
+
+#### Ecosystem
+- Self-managed / enterprise
+- Atlas (Cloud)
+- Mobile DB
+- Compass GUI
+- Drivers
+- Shell (CLI)
