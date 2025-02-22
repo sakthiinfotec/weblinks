@@ -44,3 +44,14 @@
   - Serverless Functions - Allows to execute JavaScript functions directly similar to AWS Lambda or Google Cloud Functions
   - DB Triggers: a service listem to evens in DB like when document inserted, execute a function in response to that to send an e-mail informing user that document being inserted something like that
   - Real-time Sync: Synchronize data with cloud with mobile offline support
+
+#### Use cases
+MongoDB is better suitable for
+- Operational Data
+- Timeseries
+- AI
+- Streaming data
+- Ful-text search
+- Geospatial
+- Graph
+- Vector Search
