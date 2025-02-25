@@ -3,7 +3,8 @@
 * [sshx - Github {Rust, Svelte.js}](https://github.com/ekzhang/sshx)  
 * [tldraw.com - a Collaborative Digital Whiteboard | Opensource](https://www.tldraw.com/)  
 * [tldraw - Github (TypeScript, Monorepo)](https://github.com/tldraw/tldraw)
-* [SDKMAN - Software Development Kit Manager for Windows, Linux and Mac](https://sdkman.io/)  
+* [SDKMAN - Software Development Kit Manager for Windows, Linux and Mac](https://sdkman.io/)
+* [GhosTTY - Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration{](https://ghostty.org/)
 
 #### Diagram Tools
 - [Mermaid Live](https://mermaid.live/)
