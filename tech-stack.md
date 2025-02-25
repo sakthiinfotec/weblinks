@@ -154,6 +154,7 @@
 ##### Authentication & Authorization
 - SSO tokens
 - OAuth 2.0 and JWT patterns
+- Auth0, Clerk.com, Supabase Auth or AWS Cognito
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
