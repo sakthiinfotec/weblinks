@@ -11,6 +11,7 @@
 ##### Design Patterns
 - [Patterns.dev is a free online resource on design, rendering, and performance patterns for building powerful web apps with vanilla JavaScript or modern frameworks](https://www.patterns.dev/)
 - [Building Large Scale Web Apps By Addy Osmani and Hassan Djirdeh](https://largeapps.dev/)
+- [theavocoder by Lydia Hallie](https://www.theavocoder.com/)
 - [Command Design Pattern - Implementing Undo And Redo With The Command Design Pattern | ArjanCodes](https://www.youtube.com/watch?v=FM71_a3txTo&ab_channel=ArjanCodes)  
 - [Refactoring Friday BOT with NestJS, Domain-driven Design (DDD), and CQRS](https://wechaty.js.org/2022/02/27/refactoring-friday-bot-with-nestjs-ddd-cqrs/)  
 - [Java Singleton Pattern Explained](https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/)
