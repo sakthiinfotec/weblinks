@@ -333,6 +333,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI Hedge Fund by Virat](https://github.com/virattt/ai-hedge-fund)
 - [Improve RAG Performance with Contextual Retrieval Hands-on Guide | LinkdIn](https://www.linkedin.com/posts/dipanjans_guide-to-contextual-rag-ugcPost-7296189415217913859-QJ8M)
 - [Improve RAG Performance with Contextual Retrieval Hands-on Guide | Analytics Vidya](https://www.analyticsvidhya.com/blog/2024/12/contextual-rag-systems-with-hybrid-search-and-reranking)
+- [bRAG + Langchain - Retrieval-Augmented Generation (RAG) Project - Github](https://github.com/bRAGAI/bRAG-langchain/)
+- [PR Reviewing Agent using Grok 3 + Replit Agent](https://x.com/KaranVaidya6/status/1893683838754472358)
+- [Grok 3 + Replit: Git PR Reviewing Agent | Python](https://replit.com/@abishkpatil/GitPrIntelligence?v=1#main.py)
 
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
