@@ -152,9 +152,22 @@
 - [JSON Crack - Open-source visualization application that transforms JSON, YAML, XML, CSV and more, into interactive graphs](https://github.com/AykutSarac/jsoncrack.com)
 
 ##### Authentication & Authorization
+Use case: User sign-up to a SaaS application
+
+When we sign up a user, a few things needs to happen on the backend
+  
+1. Acquire the email and password user specified
+2. Validate the email to see if it’s duplicated
+3. Create a user account on your identity provider (most likely) such as Auth0, Clerk.com, Supabase Auth or AWS Cognito.
+4. Create a record in your own database for the user you’ve just added from step 3
+5. Your identity provider sends out a verification email to the user
+6. The webhook of your server marks the user as verified in your own database only if it detects that the equivalent data on your identity provider tenant is marked as so.
+
+**Mechanisms**  
 - SSO tokens
 - OAuth 2.0 and JWT patterns
 - Auth0, Clerk.com, Supabase Auth or AWS Cognito
+
 
 ##### State Management
 - [Zustand](https://github.com/pmndrs/zustand)
