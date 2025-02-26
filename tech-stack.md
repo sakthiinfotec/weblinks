@@ -742,8 +742,31 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - Experience in working with cross-functional teams (designers, product managers, QA). 
 - Ability to quickly learn and adapt to new technologies and frameworks.
 
-Development of RESTful APIs using AWS API Gateway,
-Development of serverless program using AWS Lambda,
-Working knowledge on Amazon S3 Buckets,
-Database skills ¿ including both SQL and NoSQL
-Working knowledge of ETL using AWS Glue (PySpark or Prefect preferred)
+#### [Insight Global: Remote Principal Mobile Engineer](https://www.linkedin.com/jobs/view/4165730708)
+- Lead mobile architecture & development using Flutter/Dart, ensuring performance, maintainability, and scalability.
+- Design and integrate API-driven workflows using RESTful APIs, GraphQL, and OpenAPI-based services.
+- Collaborate with AI/ML and backend teams to embed agent pipelines and real-time automation into mobile applications.
+- Ensure mobile security and authentication (OAuth2, OIDC, JWT, biometric authentication).
+- Optimize mobile UI/UX for responsiveness, animations, and adaptive design across multiple screen sizes.
+- Mentor and lead a team of mobile engineers, defining best practices and driving innovation in mobile development.
+
+**Minimum Requirements:**  
+- 10+ years of software development experience, with a strong native mobile background (iOS/Android).
+- 4+ years of Flutter development experience, ideally an early adopter (no later than 2019).
+- Proficiency in Flutter state management (Provider, Riverpod, BLoC).
+- Strong API integration experience (REST, GraphQL, WebSockets).
+- Experience with mobile security best practices (OAuth2, OIDC, secure storage).
+- Proven ability to lead architecture decisions for scalable, high-performance mobile applications.
+- Must submit sample projects or code demonstrating Flutter expertise.
+
+**Plusses:**  
+- AI & ML: Familiarity with AI-driven mobile automation, on-device ML models, or real-time data processing.
+- Security & Compliance: Experience with OWASP Mobile Security and secure mobile development standards.
+- Cloud & Data Fabrics: Experience developing against OpenAPI-based services and modern data fabrics (e.g., Databricks, Snowflake, Azure Data Fabric).
+
+
+- Development of RESTful APIs using AWS API Gateway,
+- Development of serverless program using AWS Lambda,
+- Working knowledge on Amazon S3 Buckets,
+- Database skills including both SQL and NoSQL
+- Working knowledge of ETL using AWS Glue (PySpark or Prefect preferred)
