@@ -10,6 +10,7 @@ https://github.com/yangshun/tech-interview-handbook
 [Best-websites-a-programmer-should-visit@github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
 
 #### JavaScript
+- [avaScript Visualized: Event Loop, Web APIs, (Micro)task Queue by Lydia Hallie](https://www.lydiahallie.com/blog/event-loop)
 - [JavaScript Questions for Coding Interview by Lydia Hallie](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Visualized by Lydia Hallie | Event Loop | Hosting | Scope (Chain) | JavaScript Engine | Prototypal Inheritance | Generators and Iterators | Promise & Async/Await](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
