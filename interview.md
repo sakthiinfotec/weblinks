@@ -5,10 +5,13 @@ https://github.com/farhan787/interviews
 https://github.com/kdn251/interviews  
 https://github.com/farhan787/algorithmic-problems  
 https://github.com/yangshun/tech-interview-handbook   
-- [JavaScript Questions for Coding Interview by Lydia Hallie](https://github.com/lydiahallie/javascript-questions)
 - [Leetcode - Curated Lists by Fabian](https://github.com/fterh/leetcode-curation-topical)  
 
 [Best-websites-a-programmer-should-visit@github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)  
+
+#### JavaScript
+- [JavaScript Questions for Coding Interview by Lydia Hallie](https://github.com/lydiahallie/javascript-questions)
+- [JavaScript Visualized | Event Loop | Hosting | Scope (Chain) | JavaScript Engine | Prototypal Inheritance | Generators and Iterators | Promise & Async/Await](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ##### [GitHub repos to help you crush your job interviews: Covers Data Structures, Algos, System Design, Security and more!](https://twitter.com/catalinmpit/status/1336659813565157377)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)  
