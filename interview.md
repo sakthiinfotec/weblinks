@@ -11,7 +11,7 @@ https://github.com/yangshun/tech-interview-handbook
 
 #### JavaScript
 - [JavaScript Questions for Coding Interview by Lydia Hallie](https://github.com/lydiahallie/javascript-questions)
-- [JavaScript Visualized | Event Loop | Hosting | Scope (Chain) | JavaScript Engine | Prototypal Inheritance | Generators and Iterators | Promise & Async/Await](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [JavaScript Visualized by Lydia Hallie | Event Loop | Hosting | Scope (Chain) | JavaScript Engine | Prototypal Inheritance | Generators and Iterators | Promise & Async/Await](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ##### [GitHub repos to help you crush your job interviews: Covers Data Structures, Algos, System Design, Security and more!](https://twitter.com/catalinmpit/status/1336659813565157377)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)  
