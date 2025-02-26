@@ -17,7 +17,7 @@ React architecture refers to the structure of a React application, including how
 - Ensure accessibility 
 - Test the application 
 
-Tips for building React applications
+**Tips for building React applications**
 - Distinguish between smart and dumb components 
 - Pass information down through the component hierarchy at render time via props 
 - Design reusable and composable components 
