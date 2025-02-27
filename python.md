@@ -101,4 +101,5 @@ pip install -r requirements.txt
 - fastapi - Includes Swagger UI
 - uvicorn
 - mangum
+- pytest, mypy, pylint, isort, ruff, git, requests, factoryboy
 
