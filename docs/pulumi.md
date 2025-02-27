@@ -1,3 +1,6 @@
+#### Pulumi
+- [Pulumi - Answers](https://www.pulumi.com/answers/)
+
 To deploy the infrastructure using Pulumi, follow these steps. This process typically fits into the "Deployment" phase of the Software Development Life Cycle (SDLC).
 
 1. **Install Pulumi CLI**: Ensure that you have the Pulumi CLI installed on your machine.
