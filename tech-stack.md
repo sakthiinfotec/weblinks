@@ -779,6 +779,11 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - Understanding of React Native limitations in native mobile environments
 - Understanding of code signing for iOS and Android (we use Fastlane)
 - Responsive design with CSS/SCSS ( strong understanding of cross browser differences & flexbox)
+- CI/CD workflows, preferably with GitHub Actions
+- Application containerization, preferably with Docker
+- Cloud architecture design and infrastructure provisioning, preferably in Google Cloud and with Terraform
+- Data engineering or data science expertise (e.g. writing, deploying and maintaining data pipelines with dbt, Airflow or other similar technologies, or developing and deploying AI/ML models to production)
+- Expertise with columnar databases/data warehousing (e.g. BigQuery, Redshift, ClickHouse)
 
 **Expert-level experience with AWS services:**
 - Lambda, ECS, and container orchestration
