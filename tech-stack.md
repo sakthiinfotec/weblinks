@@ -775,6 +775,9 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - UI/UX Sensibility: A good sense of design and user experience principles, with the ability to collaborate effectively with UI/UX teams.
 - Backend Understanding: Familiarity with RESTful APIs, GraphQL, and server-side rendering (SSR) principles.
 - Strong understanding of responsive and adaptive design principles, with experience in building applications for various devices and screen sizes.
+- The AWS backend is built using a serverless approach using AppSync (GraphQL), DynamoDB, Cognito and Lambda.
+- Understanding of React Native limitations in native mobile environments
+- Understanding of code signing for iOS and Android (we use Fastlane)
 
 **Expert-level experience with AWS services:**
 - Lambda, ECS, and container orchestration
