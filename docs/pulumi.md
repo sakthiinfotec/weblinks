@@ -1,3 +1,14 @@
+To deploy the infrastructure using Pulumi, follow these steps. This process typically fits into the "Deployment" phase of the Software Development Life Cycle (SDLC).
+
+1. **Install Pulumi CLI**: Ensure that you have the Pulumi CLI installed on your machine.
+2. **Login to Pulumi**: Use **pulumi login** to log in to your Pulumi account or a self-hosted Pulumi service.
+3. **Initialize a new Pulumi project**: Use **pulumi new** to create a new Pulumi project.
+4. **Install dependencies**: Ensure you have the necessary dependencies installed, such as **@pulumi/pulumi, @pulumi/kubernetes, @pulumi/aws, @pulumi/awsx**, and **@pulumi/cloudflare**.
+5. **Define your infrastructure**: Write your Pulumi program (as given below).
+6. **Preview the changes**: Use **pulumi preview** to see what changes will be made.
+7. **Deploy the changes**: Use **pulumi up** to deploy the infrastructure.
+8. **Monitor and manage**: Use **pulumi stack** commands to monitor and manage your stack.
+
 ### 1. I want a static website on AWS behind a CloudFront CDN, or I want an Ubuntu Linux server that I can access over SSH.
 Let's create a static website on AWS behind a CloudFront CDN. This involves creating an S3 bucket to host the website, setting up the bucket policy, and configuring CloudFront to serve the content from the S3 bucket.
 
