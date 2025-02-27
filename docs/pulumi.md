@@ -1,4 +1,4 @@
-#### I want a static website on AWS behind a CloudFront CDN, or I want an Ubuntu Linux server that I can access over SSH.
+### 1. I want a static website on AWS behind a CloudFront CDN, or I want an Ubuntu Linux server that I can access over SSH.
 Let's create a static website on AWS behind a CloudFront CDN. This involves creating an S3 bucket to host the website, setting up the bucket policy, and configuring CloudFront to serve the content from the S3 bucket.
 
 Here's a Pulumi program in TypeScript to achieve this:
@@ -84,7 +84,7 @@ export const cdnUrl = cdn.domainName;
 ```
 This program creates an S3 bucket configured to host a static website, uploads index.html and error.html files to the bucket, sets the bucket policy to allow public read access, and creates a CloudFront distribution to serve the content from the S3 bucket. The URLs for the bucket and the CloudFront distribution are exported as stack outputs.
 
-#### I want to setup an Kubernetes infrastructure for my e-commerce services with following stack (Kafka, PostgreSQL, Redis) React Web in CDN along with with following Microservices (in Nest.JS) 1. Order Service 2. Customer Service 3. Inventory Service 4. Notification Service 5. Payment Service
+### 2. I want to setup an Kubernetes infrastructure for my e-commerce services with following stack (Kafka, PostgreSQL, Redis) React Web in CDN along with with following Microservices (in Nest.JS) 1. Order Service 2. Customer Service 3. Inventory Service 4. Notification Service 5. Payment Service
 
 To set up a Kubernetes infrastructure for your e-commerce services with the specified stack, we will use Pulumi to create a Kubernetes cluster and deploy the necessary services. We will also set up a CDN for your React web application. Here is a Pulumi program to achieve this:
 
