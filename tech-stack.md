@@ -770,3 +770,28 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - Working knowledge on Amazon S3 Buckets,
 - Database skills including both SQL and NoSQL
 - Working knowledge of ETL using AWS Glue (PySpark or Prefect preferred)
+
+
+**Expert-level experience with AWS services:**
+- Lambda, ECS, and container orchestration
+- API Gateway and microservices architecture
+- S3, DynamoDB, and other AWS data services
+- CloudWatch, X-Ray for monitoring and debugging
+- IAM and security best practices
+
+**Strong backend development skills:**
+- Node.js and TypeScript expertise
+- RESTful API design and implementation
+- Performance optimization and scaling
+- Database design and optimization
+
+**Frontend development experience:**
+- React and TypeScript
+- State management (Redux, Context API)
+- Modern build tools and practices
+
+**System Design & Architecture:**
+- Microservices architecture patterns
+- Event-driven architectures
+- Caching strategies
+- High-performance image processing
