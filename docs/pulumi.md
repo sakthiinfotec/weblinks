@@ -88,10 +88,11 @@ This program creates an S3 bucket configured to host a static website, uploads i
 
 To set up a Kubernetes infrastructure for your e-commerce services with the specified stack, we will use Pulumi to create a Kubernetes cluster and deploy the necessary services. We will also set up a CDN for your React web application. Here is a Pulumi program to achieve this:
 
-Create a Kubernetes cluster.
-Deploy Kafka, PostgreSQL, and Redis.
-Deploy the React web application in a CDN.
-Deploy the microservices (Order, Customer, Inventory, Notification, and Payment) in Nest.JS.
+1. Create a Kubernetes cluster.
+2. Deploy Kafka, PostgreSQL, and Redis.
+3. Deploy the React web application in a CDN.
+4. Deploy the microservices (Order, Customer, Inventory, Notification, and Payment) in Nest.JS.
+
 ```TypeScript
 import * as pulumi from "@pulumi/pulumi";
 import * as k8s from "@pulumi/kubernetes";
