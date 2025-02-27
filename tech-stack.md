@@ -778,6 +778,7 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - The AWS backend is built using a serverless approach using AppSync (GraphQL), DynamoDB, Cognito and Lambda.
 - Understanding of React Native limitations in native mobile environments
 - Understanding of code signing for iOS and Android (we use Fastlane)
+- Responsive design with CSS/SCSS ( strong understanding of cross browser differences & flexbox)
 
 **Expert-level experience with AWS services:**
 - Lambda, ECS, and container orchestration
