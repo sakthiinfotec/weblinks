@@ -30,6 +30,7 @@
 - [Fluxon - SFO, USA, India](https://www.fluxon.com/about)
 - [Incubyte, Pune | Remote-First Culture | Full-Stack, SDET, UI/UX, Technical Program Manager ](https://www.incubyte.co/)
 - [RunLoyal: Pet Software, Atlanta, GA | Senior Software Engineer, Lead SDET](https://www.linkedin.com/company/runloyal-pet-owner-engagement-platform/)
+- [SpatialChat: Powerful virtual space for video meetings and webinars | Technology, Information and Internet San Francisco, CA | SSE, Senior DevOps Engineer](https://www.linkedin.com/company/spatialchat/jobs/)
 
 
 [Alex Narayan - Github Resume](https://gigatexal.github.io/)  
