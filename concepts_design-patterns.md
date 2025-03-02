@@ -115,6 +115,9 @@
 #### Streaming
 [Implement HTTP Streaming with Node.js and Fetch API](https://blog.loginradius.com/engineering/guest-post/http-streaming-with-nodejs-and-fetch-api/)  
 
+#### Performance and Scaling
+- [Building a Nest.js API That Can Handle Millions of Requests Without Crashing](https://medium.com/@mohantaankit2002/building-a-nest-js-api-that-can-handle-millions-of-requests-without-crashing-6212add27122)
+
 #### Security
 [Why Does OAuth v2 Have Both Access and Refresh Tokens?](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823#12885823)  
 [Toptal - REST Security With JWT Using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)  
