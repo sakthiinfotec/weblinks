@@ -38,7 +38,7 @@ Functional programming is a declarative paradigm, meaning that the program logic
 
 **Declarative** programs abstract the flow control process, and instead spend lines of code describing the data flow: What to do. The how gets abstracted away.
 
-For example, this imperative mapping takes an array of numbers and returns a new array with each number multiplied by 2:
+For example, this **imperative mapping** takes an array of numbers and returns a new array with each number multiplied by 2:
 ```javascript
 const doubleMap = numbers => {
   const doubled = [];
@@ -47,6 +47,13 @@ const doubleMap = numbers => {
   }
   return doubled;
 };
+
+console.log(doubleMap([2, 3, 4])); // [4, 6, 8]
+```
+
+This **declarative mapping** does the same thing, but abstracts the flow control away using the functional Array.prototype.map() utility, which allows you to more clearly express the flow of data:
+```javascript
+const doubleMap = numbers => numbers.map(n => n * 2);
 
 console.log(doubleMap([2, 3, 4])); // [4, 6, 8]
 ```
