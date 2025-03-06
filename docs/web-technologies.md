@@ -59,6 +59,7 @@ How it works:
 * Modern frameworks like [Astro](https://astro.build/press/#assets) embrace this philosophy.
 * You write your page mostly as static HTML and only the parts that need interactivity hydrate when necessary.
 * No unnecessary JavaScript, no wasted renders, no overcomplicated state management.
+* JS frameworks (e.g. `React`) are hydrating a page. Island frameworks are hydrating components.
 
 #### How to Get Started
 Start by identifying which parts of your app actually need JavaScript:
@@ -71,3 +72,6 @@ If you’re working with React or Vue, try breaking your UI into independent com
 Keep global state MINIMAL.
 
 Let the browser do what it does best : render static content quickly.
+
+
+
