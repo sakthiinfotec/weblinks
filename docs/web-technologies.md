@@ -32,4 +32,25 @@ How it works:
 4. /extract data with @Firecrawl_dev￼🔥
 5. Store the data
 6. Deploy a live endpoint
-7. 
+
+### [Why Microfrontends Are Taking Over (and Should You Care?)](https://itnext.io/why-microfrontends-are-taking-over-and-should-you-care-8f0fd3ff07ac)
+#### Monolithic frontend
+- A monolithic frontend means shared dependencies, global state management nightmares, and deployment bottlenecks.
+- One small change can impact the entire application, forcing teams into long, painful release cycles.
+- In monolithic frontend, you’re locked into a single tech stack — whether it’s React, Vue, Angular or something else.
+
+#### Microfrontend
+- Microfrontends aim to fix that by splitting the UI into independently deployable parts.
+- One of the biggest drivers behind microfrontends is organizational scale.
+- Multiple teams working on different features
+- Microfrontends let each team own its piece of the UI, using its own tech stack, build pipeline and release schedule. This means a team working on the checkout flow doesn’t have to wait on the homepage team to finish their feature. Everyone moves faster because they’re decoupled from the rest of the application.
+- Not every team wants to (or should) use the same stack.
+- With microfrontends, one team might use React for an interactive dashboard, while another prefers Svelte for performance reasons.
+- As long as they integrate seamlessly, each team gets the flexibility to choose the best tool for their job.
+
+**They introduce their own set of challenges:**
+- **Increased complexity:** Splitting a frontend means more infrastructure to manage.
+- **Integration headaches:** Making sure everything plays nicely together requires a solid strategy
+- **Duplication risks:** Without proper governance, teams might reinvent the wheel or ship redundant code
+
+
