@@ -58,6 +58,16 @@ const doubleMap = numbers => numbers.map(n => n * 2);
 console.log(doubleMap([2, 3, 4])); // [4, 6, 8]
 ```
 
+**Functional programming favors:**
+
+- Pure functions instead of shared state & side effects
+- Immutability over mutable data
+- Function composition over imperative flow control
+- Lots of generic, reusable utilities that use higher order functions to act on many data types instead of methods that only operate on their colocated data
+- Declarative rather than imperative code (what to do, rather than how to do it)
+- Expressions over statements
+- Containers & higher order functions over ad-hoc polymorphism
+
 #### Authentication
 Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
