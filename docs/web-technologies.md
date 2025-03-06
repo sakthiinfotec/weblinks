@@ -1,3 +1,6 @@
+#### Functional Programming
+Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.
+
 #### Authentication
 Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
