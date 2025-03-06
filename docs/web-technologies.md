@@ -75,6 +75,7 @@ Let the browser do what it does best : render static content quickly.
 
 
 ### [Hydration is Pure Overhead (Qwik's Resumability)](https://www.builder.io/blog/hydration-is-pure-overhead#resumability-a-no-overhead-alternative-to-hydration)
-Hydration is a solution to add interactivity to server-rendered HTML. This is how Wikipedia defines hydration:
-
+- Qwik, a framework that is designed around resumabilty and achieves excellent startup performance.
+- Hydration is a solution to add interactivity to server-rendered HTML. This is how Wikipedia defines hydration:
 > In web development, hydration or rehydration is a technique in which client-side JavaScript converts a static HTML web page, delivered either through static hosting or server-side rendering, into a dynamic web page by attaching event handlers to the HTML elements.
+
