@@ -23,6 +23,14 @@ A side effect is any application state change that is observable outside the cal
 **Reusability Through Higher Order Functions**  
 Functional programming tends to reuse a common set of functional utilities to process data. Object oriented programming tends to colocate methods and data in objects. Those colocated methods can only operate on the type of data they were designed to operate on, and often only the data contained in that specific object instance.
 
+JavaScript has first class functions, which allows us to treat functions as data — assign them to variables, pass them to other functions, return them from functions, etc…
+
+A higher order function is any function which takes a function as an argument, returns a function, or both. Higher order functions are often used to:
+- Abstract or isolate actions, effects, or async flow control using callback functions, promises, monads, etc…
+- Create utilities which can act on a wide variety of data types
+- Partially apply a function to its arguments or create a curried function for the purpose of reuse or function composition
+- Take a list of functions and return some composition of those input functions
+
 #### Authentication
 Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
