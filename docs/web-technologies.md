@@ -53,4 +53,21 @@ How it works:
 - **Integration headaches:** Making sure everything plays nicely together requires a solid strategy
 - **Duplication risks:** Without proper governance, teams might reinvent the wheel or ship redundant code
 
+### [Why Island Architecture Might Be the Future of Web Performance](https://itnext.io/island-architecture-a-smarter-way-to-build-resilient-systems-0d9b36f6a067)
+* You render most of the page statically, then hydrate only the interactive parts (the “islands”).
+* only hydrate what needs interactivity, leave everything else as static HTML.
+* Modern frameworks like [Astro](https://astro.build/press/#assets) embrace this philosophy.
+* You write your page mostly as static HTML and only the parts that need interactivity hydrate when necessary.
+* No unnecessary JavaScript, no wasted renders, no overcomplicated state management.
 
+#### How to Get Started
+Start by identifying which parts of your app actually need JavaScript:
+- If a section never changes after the initial render, it doesn’t need hydration;
+- If a page is mostly static content, pre-render it.
+Frameworks like Astro, Qwik, and even Next.js (with partial hydration) make this process much easier.
+
+If you’re working with React or Vue, try breaking your UI into independent components that only hydrate when necessary.
+
+Keep global state MINIMAL.
+
+Let the browser do what it does best : render static content quickly.
