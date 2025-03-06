@@ -31,6 +31,26 @@ A higher order function is any function which takes a function as an argument, r
 - Partially apply a function to its arguments or create a curried function for the purpose of reuse or function composition
 - Take a list of functions and return some composition of those input functions
 
+**Declarative vs Imperative**  
+Functional programming is a declarative paradigm, meaning that the program logic is expressed without explicitly describing the flow control.
+
+**Imperative** programs spend lines of code describing the specific steps used to achieve the desired results — the flow control: How to do things.
+
+**Declarative** programs abstract the flow control process, and instead spend lines of code describing the data flow: What to do. The how gets abstracted away.
+
+For example, this imperative mapping takes an array of numbers and returns a new array with each number multiplied by 2:
+```javascript
+const doubleMap = numbers => {
+  const doubled = [];
+  for (let i = 0; i < numbers.length; i++) {
+    doubled.push(numbers[i] * 2);
+  }
+  return doubled;
+};
+
+console.log(doubleMap([2, 3, 4])); // [4, 6, 8]
+```
+
 #### Authentication
 Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
