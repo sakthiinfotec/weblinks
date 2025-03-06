@@ -20,6 +20,9 @@ A side effect is any application state change that is observable outside the cal
 - Triggering any external process
 - Calling any other functions with side-effects
 
+**Reusability Through Higher Order Functions**  
+Functional programming tends to reuse a common set of functional utilities to process data. Object oriented programming tends to colocate methods and data in objects. Those colocated methods can only operate on the type of data they were designed to operate on, and often only the data contained in that specific object instance.
+
 #### Authentication
 Two Factor Authentication, or 2FA, is an extra layer of protection used to ensure the security of online accounts beyond just a username and password. It is the use of two separate security factors to confirm a user’s claimed identity. There are three types of factors to choose from when building a solution:
 
