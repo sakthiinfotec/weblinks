@@ -93,3 +93,24 @@ React is great, but Next.js takes it to the next level!
 ✅ 𝐁𝐞𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 – File-based routing, middleware, and automatic TypeScript support make development smoother.
 
 If SEO, speed, and scalability matter, Next.js > React!
+
+### [The Future (and the Past) of the Web is Server Side Rendering | Staic, SPA (Client Side Rendering), SSR, Hydration, Island Architecture](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
+**Client-side rendering**  
+In CSR, also known as dynamic rendering, the code runs primarily on the client-side, the user’s browser. The client’s browser downloads the necessary HTML, JavaScript, and other assets, and then runs the code to render the UI.
+![image](https://github.com/user-attachments/assets/04a8509d-aa37-4d11-a211-2607670b20cd)
+
+The benefits of this approach are two-fold:
+**Great user experience:** If you have a wicked-fast network and can get the bundle and data downloaded quickly then, once everything is in place, you’ll have a super-speedy site. You don’t have to go back to the server for more requests, so every page change or data change happens immediately.
+**Caching:** Because you aren’t using a server, you can cache the core HTML and JS bundles on a CDN. This means they can be quickly accessed by users and keeps costs low for the company.
+
+**Server-side rendering**  
+There are many benefits to moving the work a browser does to render a website to the server:
+
+- Performance is higher with the server because the HTML is already generated and ready to be displayed when the page is loaded.
+- Compatibility is higher with server-side rendering because, again, the HTML is generated on the server, so it is not dependent on the end browser.
+- Complexity is lower because the server does most of the work of generating the HTML so can often be implemented with a simpler and smaller codebase.
+With SSR, we do everything on the server:
+![image](https://github.com/user-attachments/assets/2d2efc5e-7b9b-4301-b1ad-1f2b336c7778)
+
+**Isomorphic JavaScript**, also known as Universal JavaScript, describes JavaScript applications which run both on the client and the server.
+
