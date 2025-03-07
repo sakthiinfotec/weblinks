@@ -772,6 +772,14 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - You have pride in providing customers with the best experience possible
 - A healthy obsession with learning and growing with the team
 
+#### [QuickNode (Web3 | Blockchain): Senior Software Engineer (Infrastructure K8S/Golang)](https://jobs.ashbyhq.com/quicknode/b55eda05-5c93-482a-8897-0bcb7f497624)
+- 5+ years of experience in site reliability engineering or software development with a focus on Kubernetes, blockchain, and cloud-native technologies.
+- Strong proficiency in Golang, with experience developing Kubernetes Operators using tools like Operator SDK or KubeBuilder.
+- Deep knowledge of Kubernetes concepts, including Custom Resource Definitions (CRDs), controllers, schedulers, and networking.
+- Hands-on experience deploying and managing distributed systems and complex workloads, and blockchain clients on Kubernetes.
+- Experience with observability tools for Kubernetes environments, such as Prometheus, Grafana, or similar platforms.
+- A proactive mindset with a hands-on approach to problem-solving, capable of innovating under pressure and committed to reducing risks and technical debt.
+- Excellent communication skills, with the ability to collaborate effectively across teams and with various stakeholders.
 
 - Development of RESTful APIs using AWS API Gateway,
 - Development of serverless program using AWS Lambda,
