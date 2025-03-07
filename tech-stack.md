@@ -783,6 +783,22 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 
 <hr/>
 
+#### [QuickNode (Web3 | Blockchain): Senior Website Developer](https://jobs.ashbyhq.com/quicknode/7ce38229-3a2e-470c-8d7a-4e890c951c87)
+- 8+ years of professional experience in website development, ideally with experience in a tech or SaaS company.
+- Strong knowledge of HTML, CSS, JavaScript, React, and web development best practices. Familiarity with front-end frameworks is a plus.
+- Knowledge of information architecture, interaction design, and user-centered design.
+- Experience with Contentful CMS or similar headless CMS platforms.
+- Experience with Tailwind CSS, Github, Ghost.io, Docusaurus, Hubspot and Ruby on Rails are a plus.
+- Experience using design software like Figma to collaborate with design teams. 
+- Understanding of marketing concepts including conversion optimization, A/B testing, analytics, lead funnels, and search engine optimization.
+- Strong attention to detail, excellent problem-solving skills, and the ability to prioritize tasks in a fast-paced environment.
+- Familiarity with blockchain technology is a plus but not required.
+- Ability to manage multiple projects and tasks simultaneously, with a focus on delivering high-quality results.
+- Experience with web security best practices and website performance optimization.
+- **Bonus:** Experience in Blockchain / Web3.
+
+<hr/>
+
 - Development of RESTful APIs using AWS API Gateway,
 - Development of serverless program using AWS Lambda,
 - Working knowledge on Amazon S3 Buckets,
