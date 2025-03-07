@@ -764,6 +764,14 @@ The key technical skills for the Full-Stack JavaScript Engineer:
 - Security & Compliance: Experience with OWASP Mobile Security and secure mobile development standards.
 - Cloud & Data Fabrics: Experience developing against OpenAPI-based services and modern data fabrics (e.g., Databricks, Snowflake, Azure Data Fabric).
 
+#### [QuickNode (Web3 | Blockchain): Senior Software Engineer (Rust/Golang)](https://jobs.ashbyhq.com/quicknode/75c47596-bf23-403f-b430-52fbeb2d802a)
+- Experience in writing Rust and/or Go is preferred, but we believe that a solid engineering mindset is more valuable that relevant language experience
+- Experience with building large-scale distributed systems involving tools like PostgreSQL, Kafka, Kinesis, ScyllaDB, RabbitMQ, etc.
+- You have passion for building products, and a healthy obsession with learning and growing
+- You thrive working in a fast-paced, dynamic environment while remaining autonomous
+- You have pride in providing customers with the best experience possible
+- A healthy obsession with learning and growing with the team
+
 
 - Development of RESTful APIs using AWS API Gateway,
 - Development of serverless program using AWS Lambda,
