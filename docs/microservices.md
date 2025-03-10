@@ -79,5 +79,28 @@ You can read the detailed article on this system design interview problem here: 
 15. Distributed Tracing: Tools like Jaeger and Zipkin
 16. Anti-Patterns: Avoiding distributed monoliths and over-engineering microservices
 
+#### Bacnend Engineering
+- System Design (scalability, microservices)
+- APIs (REST, GraphQL, gRPC)
+- Database Systems (SQL, NoSQL)
+- Distributed Systems (consistency, replication)
+- Caching (Redis, Memcached)
+- Security (OAuth2, JWT, encryption)
+- DevOps (CI/CD, Docker, Kubernetes)
+- Performance Optimization (profiling, load balancing)
+- Cloud Services (AWS, GCP, Azure)
+- Monitoring (Prometheus, Grafana)
 
+#### [Learn SQL Optimization – No More Slow Queries](https://x.com/Abhishekcur/status/1897709268662735091?t=YmPDxM6jk0CGchdYrx-CJw&s=08)
+Slow SQL = Performance Bottlenecks = Lost Revenue. Optimize NOW
+
+- Index Properly – Use B-Trees, Clustered, Covering, and Composite Indexes wisely
+- Avoid `SELECT *` Fetch only necessary columns
+- Use `EXPLAIN ANALYZE` – Identify slow operations & missing indexes
+- Optimize Joins – Index Foreign Keys, use JOINs over subqueries
+- Normalize for Integrity, Denormalize for Speed – Balance trade-offs
+- Batch Inserts & Updates – Reduce write amplification
+- Minimize Locks & Deadlocks – Use transactions efficiently
+- Leverage Caching – Redis, Materialized Views, Query Cache
+- Use the Right Data Types – Save space & improve indexing efficiency
 
