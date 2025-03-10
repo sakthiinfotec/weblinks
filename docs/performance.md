@@ -10,6 +10,20 @@
 
 3. **Distributed lock:** We use Redis distributed locks to grant mutually exclusive access to shared resources. This prevents race conditions in distributed systems. Redis locks are easy to implement and automatically expire.
 
+    Distributed Lock Implementations
+    - **Redlock-py** (Python Implementation)
+    - **Pottery** (Python Implementation)
+    - **Aioredlock** (Asyncio Python Implementation)
+    - **Redlock-php** (PHP Implementation)
+    - **PHPReedisMutex** (further PHP Implementation)
+    - **chepresov/php-redis-lock** [PHP library for locks)
+    - **rtckit/react-redlock** (Async PHP Implementation)
+    - **Redsync** (Go Implementation]
+    - **Redisson** (Java Implementation)
+    - **Redis::DistLock** [Perl Implementation)
+    - **Redlock-cpp** [C++ Implementation)
+    - **Redis-plus-plus** (C++ Implementation)
+
 4. **Counter and Rate Limiter:** We use Redis to track like counts, view counts etc on social media apps. Redis counters provide atomic increments/decrements. We also use Redis to enforce rate limits on our API endpoints. This helps prevent abuse.
 
 5. **Leaderboard:** Sorted sets make it easy to implement gaming leaderboards in Redis. We can add, update, or remove users from the leaderboard and query ranges efficiently.
