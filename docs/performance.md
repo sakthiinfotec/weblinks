@@ -29,3 +29,31 @@
 5. **Leaderboard:** Sorted sets make it easy to implement gaming leaderboards in Redis. We can add, update, or remove users from the leaderboard and query ranges efficiently.
 
 [Top 5 Redis Use Cases by ByteByteGo](https://www.youtube.com/watch?v=a4yX7RUgTxI)
+
+### API gateways vs Load balancers
+
+Load Balancers: Focus on distributing raw traffic to servers for balancing load.
+API Gateways: Focus on application-level concerns such as request routing, authentication, and transformation.
+API gateways handle the "what" (routing, security, transformation) of your API traffic, while load balancers handle the "how" (distribution, scalability, fault tolerance).
+
+Load balancers can help you handle the influx of traffic by distributing requests to different servers to ensure a smooth user experience. In contrast, API gateways can handle tasks like authentication and authorization, helping you create a secure online shopping experience.
+
+Load Balancer: Its main purpose is to distribute by load balancing traffic between multiple back end systems.
+- We can configure different routes for different back end systems.
+- We get a static ip address for the load balances end points (usually not available with API gateways)
+- Can configure health checks (usually not available with API gateways)
+
+API Gateways:
+- Can implement rate limiting, bursting limits
+- Can do request validation and request/response mapping
+- Usually cloud API gateways allows to export/import cross API platform using swagger spec
+- Allows caching responses
+
+#### Static IP Address
+A static IP address is needed when you require a consistent, unchanging internet address for a device or service, such as hosting a website, running a server, using a VPN, or accessing remote systems, as it allows other devices to reliably connect to your network without needing to constantly update their connection details due to a changing IP address; most regular internet users don't need a static IP as their basic browsing activities don't require a fixed address. 
+Key reasons to use a static IP:
+- **Server Hosting:** Websites and other servers need a stable IP address for users to consistently access them. 
+- **Remote Access:** If you need to remotely access devices on your network, a static IP allows for easier configuration and access control. 
+- **VPN Services:** Secure connections through a VPN often rely on whitelisting specific IP addresses, which is easier to manage with a static IP. 
+- **VoIP (Voice over IP):** For reliable voice calls over the internet, a static IP is preferred to ensure consistent connection quality. 
+- **Security Measures:** Some security systems utilize IP-based access controls that function better with a static IP. 
