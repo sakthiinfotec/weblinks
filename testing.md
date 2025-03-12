@@ -6,6 +6,7 @@
 
 #### Websites for Testing
 - [Rahul Shetty - Angular App Demo](https://www.rahulshettyacademy.com/angularAppdemo/)
+- [Web Scrapping - Quotes to Scrape | with Login and Logout](https://quotes.toscrape.com/)
 
 #### TDD
 [Medium - TDD Changed My Life by Eric Elliot](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)  
