@@ -1,6 +1,8 @@
 #### Testing Basics
 [Browser Stack - Test Environment: A Beginner’s Guide](https://www.browserstack.com/guide/what-is-test-environment)  
-* [Using Jest to Run Integration Tests](https://www.wwt.com/article/using-jest-to-run-integration-tests#x-connecting-to-your-integration-schema-in-tests-1)  
+* [Using Jest to Run Integration Tests](https://www.wwt.com/article/using-jest-to-run-integration-tests#x-connecting-to-your-integration-schema-in-tests-1)
+* [Jenkins - Selenium Integration](https://github.com/gurudattgd04/Selenium-Jenkins/tree/main)
+* [Microservices + K8s Deployment | Java, MySQL, Kafka, API Gateway, Eureka, Docker & K8s](https://github.com/oviran/spring-boot-microservice/blob/main/ABCCompany)
 
 #### TDD
 [Medium - TDD Changed My Life by Eric Elliot](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)  
