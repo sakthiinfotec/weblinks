@@ -183,3 +183,16 @@ public class ExampleService {
 ### Summary
 
 In summary, the **Bulkhead pattern** in **Resilience4j** is a powerful way to enhance application resilience by isolating failures and controlling resource usage. By using bulkheads, you can ensure that the failure of one service does not bring down the entire application, maintaining better stability and reliability. This is particularly useful in distributed systems where multiple services interact and depend on one another.
+
+
+### Eureka vs Kubernetes: What are the differences?
+
+Eureka and Kubernetes are used for managing containerized applications and providing service discovery within a distributed system. Let's explore the key differences between Eureka and Kubernetes:
+
+1. **Architecture:** Eureka is a service discovery tool following a client-server model, enabling services to register and discover each other using a central Eureka server. Kubernetes, on the other hand, is a container orchestration platform with a master-worker architecture, managing the deployment and networking of containerized applications.
+2. **Scalability and Management:** Eureka scales by adding more server instances, providing load balancing and failover mechanisms. Kubernetes offers advanced scalability, dynamically scaling applications and distributing workloads across nodes. It also ensures self-healing capabilities for fault tolerance.
+3. **Containerization Support:** Eureka is not inherently tied to containerization and can be used with any application, regardless of whether it is containerized or not. It primarily focuses on service registration, discovery, and load balancing. Kubernetes, on the other hand, is specifically designed for managing containerized applications. It provides features for deploying, scaling, and updating container instances, along with networking and storage management capabilities specific to containers.
+4. **Multi-Cloud and Hybrid Cloud Support:** Eureka is cloud-agnostic and can be deployed in various environments, including on-premises, public clouds, or hybrid setups. Kubernetes supports multi-cloud and hybrid cloud deployments, providing consistent application runtime across different cloud providers or on-premises infrastructure.
+5. **Ecosystem and Integrations:** Eureka, being part of the Netflix OSS suite, integrates well with other Netflix components and tools, such as Ribbon for client-side load balancing and Hystrix for fault tolerance. It has a lightweight footprint and is often used alongside other microservices frameworks and libraries. Kubernetes, on the other hand, has a rich ecosystem and wide adoption within the containerization community. It offers a comprehensive set of features for managing containerized applications, including networking, storage, monitoring, and logging. It integrates with various container runtimes, such as Docker, and has extensive support for declarative configuration and deployment management.
+
+In summary, Eureka and Kubernetes are both widely used solutions for managing distributed systems and service discovery. Eureka focuses on service registration and discovery in microservices architectures, while Kubernetes provides a comprehensive container orchestration platform with advanced scalability and management features.
