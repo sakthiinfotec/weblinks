@@ -32,6 +32,7 @@
 ##### eBooks
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book)  
 [“Software Engineering at Google” curated by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe_at_google.2.pdf)  
+- [Domain-Driven Design, by Eric Evans](https://www.domainlanguage.com/ddd/)
 
 ##### Blogs
 [Teco Blog - Backend Web Application Development Tutorials](https://blog.tericcabrel.com/)  
