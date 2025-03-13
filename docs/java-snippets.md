@@ -13,9 +13,13 @@ Entry in application.properties must be:
 user = { "name" : "John", "age" : "35", "place" : "California" }
 ```
 
-### Functional Interface
+### Types of Interfaces
 
 ![image](https://github.com/user-attachments/assets/a8e5d248-5ca2-4d37-9fe6-4f65aa6162de)
+
+### Functional Interfaces
+
+![image](https://github.com/user-attachments/assets/2085f055-58be-4fd2-9ec5-a0c71780eb24)
 
 In Java, a functional interface is an interface that contains exactly one abstract method, allowing it to be used with lambda expressions and method references.  
 Here's a more detailed explanation:
