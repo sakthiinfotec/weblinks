@@ -23,19 +23,24 @@
 ##### Web Assembly
 - [Pyodide is a Python distribution for the browser and Node.js based on WebAssembly](https://pyodide.org/en/stable/index.html)
 
-##### Server Side Rendering (SSR)
-- [Next.js](https://nextjs.org/)
-- [Remix](https://remix.run/)
-- [Gatsby](https://www.gatsbyjs.com/)
-
 ##### Frameworks: 
 - React 
 - NextJS 
 - Storybook
 - Micro Front End
 - Web graphics (Three.js, WebGL)
-- [Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in between. Supports React.js, Vue, Tailwind, etc](https://astro.build/)
 - [A-Frame - A web framework for building 3D/AR/VR experiences](https://aframe.io/)
+
+##### Server Side Rendering (SSR)
+- [Next.js](https://nextjs.org/)
+- [Remix](https://remix.run/)
+- [Gatsby](https://www.gatsbyjs.com/)
+
+#### Static Site Generators
+- [Astro is a JavaScript web framework optimized for building fast, content-driven websites | Supports major UI Frameworks(React, Vue, Svelte, Preact, Solid), CSS libraries, themes, integrations, and more.](https://astro.build/)
+- [Jekyll - Transform your plain text into static websites and blogs | Supports Markdown, Liquid, HTML & CSS](https://jekyllrb.com/)
+- [Hugo - The world’s fastest framework for building websites. Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.](https://gohugo.io/)
+- [Hyde is a static website generator written in python](https://hyde.github.io/)
 
 ##### Data Processing Frameworks
 - [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
