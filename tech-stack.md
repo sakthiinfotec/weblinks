@@ -151,6 +151,7 @@
 - [Liquid by Shopify | Written in Ruby](https://shopify.github.io/liquid/)
 
 ##### Diagram / Visualization
+- [Data Formulator icon Data Formulator: Create Rich Visualizations with AI by Microsoft](https://github.com/microsoft/data-formulator)
 - [Eraser - Draw System, Data Flow and Architecture Diagram using AI](https://app.eraser.io/)
 - [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
 - [Chat UML - AI Diagramming](https://chatuml.com/edit/new)
