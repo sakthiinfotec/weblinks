@@ -13,5 +13,5 @@ Style:
 - Playful micro-interactions and smooth transitions for drawer/sidebar
 - Card-based layout with subtle shadows and rounded corners
 
-**Iteration 2**: Let's add dark mode to the app
+**Iteration 2**: Let's add dark mode to the app  
 **Iteration 3**: Add touch bar like (upload an image) in component-name.ts
