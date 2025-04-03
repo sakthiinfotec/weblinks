@@ -387,10 +387,12 @@ While inter-service communication happens via
 - [Fly.io - Launch Apps Near Users | Run on our hardware in 30+ regions on six continents | Launch, Pause when not needed | Run Phonix(Elixr), Go, Rust, DJango, Next.js, Docker ](https://fly.io/)
 - [Railway: The cloud for building, shipping, and monitoring applications. No Platform Engineer required | Instant Deployments, Effortless Scale](https://railway.app/)
 - [RunPod.io: Develop, train, and scale AI models with RunPod](https://www.runpod.io/)
+- [Sliplane: Simple Docker Hosting Solution | With Sliplane, shipping containers becomes incredibly easy and affordable. Our 'Pay-per-Server' model enables you to host unlimited containers on each server for one fixed price.](https://sliplane.io/)
 
 ##### Monitoring
 - Prometheus, Grafana, Helm, iPass
 - AirBrake(Ruby) Alternatives: Rollbar, Scout, Sentry, Jira, LogRocket, Datadog, Wrike, ClickUp, monday.com, TrackJs, RayGun, HoneyBadger
+- [Axiom: Logg Management and Distributed Tracing](https://axiom.co/)
 
 ##### Analytics
 - [Segment by Twilio - is the market-leading customer data platform (CDP), that helps you collect, clean, and control your customer data](https://segment.com/)  
