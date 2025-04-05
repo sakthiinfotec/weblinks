@@ -164,3 +164,54 @@ Excellent to have:
 - Excellent understanding of VueJS framework (2.x and / or 3.x)
 - Familiar with local scope CSS strategies such as Scoped CSS and CSS Variables
 - Ability to create pixel perfect, fully responsive design implementations with minimal CSS
+
+[ChefRobotics - Robotics Engineer](https://jobs.lever.co/ChefRobotics/d062d6fc-98a2-4b50-be90-72ae247ad162)
+*   BS, MS, or PhD in computer science, robotics, electrical engineering, mechanical engineering or related field
+*   3+ years of experience developing and testing robust robot manipulation solutions deployed on real robots after completion of an academic degree program
+*   Experience with Python and/or C++
+*   Understanding of classical and machine/reinforcement learning approaches to robot manipulation, and the tradeoffs between various techniques
+*   Experience with robotic waypoint generation, path planning, and trajectory smoothing
+*   Experience with common deep learning frameworks like Tensorflow or Pytorch
+*   Excellent software engineering fundamentals
+*   Excellent mathematical skills, especially with geometry, probability and statistics, linear algebra, and machine learning
+*   Experience with trajectory optimization (Bonus)
+*   Experience with the robotics tech stack, e.g. Linux, ROS, OpenCV, CUDA (Bonus)
+*   Experience with calibration, state estimation, sensor fusion (Bonus)
+*   Experience with basic mechatronics and electronics (Bonus)
+*   Developing classical or ML/RL-based motion planning and manipulation algorithms
+*   Developing novel algorithms to learn ingredient properties on-the-fly and intelligently adapt manipulation parameters.
+*   Incorporating new sensor data (e.g. force control, cameras) for trajectory optimization
+*   Staying up-to-date with the latest robotics research and applying insights in a practical way
+
+[ChefRobotics - Perception Engineer](https://jobs.lever.co/ChefRobotics/b288c5fd-0b6d-4d2d-a603-4d99d1b1fe3b)
+- Explore and integrate new sensors, particularly cameras, to improve robot perception.
+- Develop and optimize perception models (detection, segmentation, classification) using classical and deep learning techniques.
+- Calibrate cameras and refine sensor alignment for accurate real-world performance.
+- Work on ML infrastructure, including data collection, annotation, and model training pipelines.
+- Implement sensor fusion techniques to combine data from multiple sources.
+- Develop tracking algorithms to improve object identification and movement prediction.
+- Manipulate 3D geometry, including point cloud processing and camera transforms.
+- Scale and refine perception infrastructure to support our company’s growth.
+- Collaborate with the robotics team to transition to modern platforms and technologies.
+- Develop new perception models to support expanding customer needs and meal types.
+- Improve and scale our perception infrastructure to meet growing demand.
+- Assist in integrating new cameras and sensors for enhanced robotic vision.
+- Contribute to system-wide improvements that increase efficiency and accuracy.
+
+**What You Bring:**  
+- BS, MS, or PhD in computer science, robotics, electrical engineering, mechanical engineering, or related field.
+- Practical experience shipping working perception systems.
+- 5+ years of research and industry experience in machine/deep learning and computer vision.
+- Strong proficiency in Python (core language for development).
+- Experience with deep learning frameworks (preferably PyTorch or TensorFlow).
+- Expertise in ROS (Robot Operating System) or similar robotics frameworks.
+- Hands-on experience working with hardware and sensors.
+- Strong software development skills, with a focus on deploying production-ready code.
+
+**Nice-to-have:**
+- C++ proficiency for performance optimization
+- Cloud development experience (Google Cloud or AWS).
+- Docker and containerization expertise.
+- Experience working in robotics start-ups or fast-paced environments.
+- Deep understanding of camera calibration and perception sensors.
+
