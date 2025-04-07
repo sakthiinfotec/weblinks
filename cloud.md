@@ -1,3 +1,9 @@
+
+#### Object storages
+- Azure Blob Storage
+- AWS S3
+- Google Cloud Storage
+
 #### Pulumi
 * [How do you make an s3 bucket with a lifecycle policy?](https://www.pulumi.com/ai/conversations/f925073d-2997-4aaf-ae16-177931a31474)
 * [How to set a 1-week expiration on S3 bucket objects?](https://www.pulumi.com/ai/answers/bkxFpzbdFirqc1R5UKdmjw/setting-1-week-expiration-on-aws-s3-objects)
