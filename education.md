@@ -41,6 +41,7 @@
 - [National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)](https://niftem-t.ac.in/)
 - [Open Notes from IIT](https://theopennotes.in/studyGuides)
 - Defence Institute of Advanced Technology, Pune
+- DOT School of Design, Ambattur, Chennai
 
 #### People
 - [Pragya Misra, Open AI | Ex - WhatsApp / Truecaller](https://analyticsindiamag.com/global-tech/meet-openais-first-and-only-india-employee/)
