@@ -51,6 +51,7 @@
 - [Flyte - Build & deploy data & ML pipelines, hassle-free | Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks](https://flyte.org/)
 - [Union.ai - The production AI orchestrator built for development velocity | Built by creators of Flyte](https://www.union.ai/features)
 - [Pandera - Protect Your Data & ML Products from Low-Quality Data | Build confidence in the quality of your data by defining schemas for complex data objects](https://www.union.ai/pandera)
+- [Apache DataFusion Ballista: Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion](https://datafusion.apache.org/ballista/user-guide/introduction.html)
 
 ##### GPU Computing Platform / Service
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
