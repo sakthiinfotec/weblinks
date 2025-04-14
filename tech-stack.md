@@ -2,6 +2,8 @@
 
 ##### IDE
 - [Project IDX - A Web-based IDE for E2E development of Full-Stack Web and Mobile apps by Google](https://idx.dev/)
+- [Aider: AI pair programming in your terminal](https://aider.chat/)
+- [Replit: Build apps and sites with AI](https://replit.com)
 
 ##### Design
 - [Component Driven User Interfaces by Chromatic](https://www.componentdriven.org/)  
