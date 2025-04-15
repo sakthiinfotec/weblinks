@@ -35,6 +35,23 @@
 - DOT School of Design, Ambattur, Chennai
 - Central School of Art and Design, London
 
+[List of Top Design Colleges and Institutes in India in 2024](https://www.graphic-design-institute.com/top-10-design-colleges-and-institutes-india/)  
+- National Institute of Design (NID), Ahmedabad
+- National Institute of Fashion Technology – (NIFT)
+- J J School of Arts
+- DOD (Department of Design), IIT Guwahati
+- Delhi College of Art, Delhi
+- Industrial Design Centre, IIT Bombay
+- MIT Institute of Design, (MIT) Pune
+- Pearl Academy, (Delhi, Mumbai, Jaipur)
+- Symbiosis Institute of Design – (SID), Pune
+- Srishti School of Art Design and Technology
+- Banaras Hindu University, Varanasi
+- DJ Academy of Design, Tamil Nadu
+- GD Goenka School of Fashion & Design, (Mumbai)
+- Amity School of Fine Arts, Noida
+- Indian School of Design and Innovation, (Mumbai)
+
 #### Human body
 [Learn Human Anatomy](https://www.kenhub.com/)  
 [Get Body Smart - Learn Anatomy of Human Body like Nervous System | Urinary System | Respiratory System](https://www.getbodysmart.com/nervous-system/)  
