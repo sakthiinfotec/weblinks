@@ -75,6 +75,7 @@
 - [National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)](https://niftem-t.ac.in/)
 - [Open Notes from IIT](https://theopennotes.in/studyGuides)
 - Defence Institute of Advanced Technology, Pune
+- DTU - Technical University of Denmark
 
 #### People
 - [Pragya Misra, Open AI | Ex - WhatsApp / Truecaller](https://analyticsindiamag.com/global-tech/meet-openais-first-and-only-india-employee/)
