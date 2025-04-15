@@ -35,7 +35,7 @@
 - DOT School of Design, Ambattur, Chennai
 - Central School of Art and Design, London
 - Harvard Graduate School of Design
-- [MIT Institute of Design, Indore | Avantika University | Design & Engineering](https://www.avantikauniversity.edu.in/)
+- [MIT Institute of Design, Indore | Avantika University | Design & Engineering](https://www.avantikauniversity.edu.in/design)
 
 [List of Top Design Colleges and Institutes in India in 2024](https://www.graphic-design-institute.com/top-10-design-colleges-and-institutes-india/)  
 - National Institute of Design (NID), Ahmedabad
