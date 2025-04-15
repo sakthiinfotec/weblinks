@@ -33,6 +33,7 @@
 - Rhode Island School of Design
 - National Institute of Design, Ahmedabad
 - DOT School of Design, Ambattur, Chennai
+- Central School of Art and Design, London
 
 #### Human body
 [Learn Human Anatomy](https://www.kenhub.com/)  
