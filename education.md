@@ -28,6 +28,12 @@
 #### Mathematics
 - [Immersive linear algebra: The world's first linear algebra book with fully interactive figures](https://immersivemath.com/ila/index.html)
 
+#### Design
+- International Design Center at Nagoya, Japan
+- Rhode Island School of Design
+- National Institute of Design, Ahmedabad
+- DOT School of Design, Ambattur, Chennai
+
 #### Human body
 [Learn Human Anatomy](https://www.kenhub.com/)  
 [Get Body Smart - Learn Anatomy of Human Body like Nervous System | Urinary System | Respiratory System](https://www.getbodysmart.com/nervous-system/)  
@@ -41,7 +47,6 @@
 - [National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)](https://niftem-t.ac.in/)
 - [Open Notes from IIT](https://theopennotes.in/studyGuides)
 - Defence Institute of Advanced Technology, Pune
-- DOT School of Design, Ambattur, Chennai
 
 #### People
 - [Pragya Misra, Open AI | Ex - WhatsApp / Truecaller](https://analyticsindiamag.com/global-tech/meet-openais-first-and-only-india-employee/)
@@ -49,6 +54,7 @@
   - Bargaining and Negotiations at London School of Economics
   - Commerce degree from Delhi University
 - [Arjun Rathi: Design | is a multi-displinary studio working across Architecture & Lighting Design.](https://www.arjunrathi.com/index.html)
+- [Sujata Keshavan | Alumni of National Institute of Design, Ahmedabad](https://en.wikipedia.org/wiki/Sujata_Keshavan)
 
 #### Study
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
