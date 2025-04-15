@@ -34,6 +34,7 @@
 - National Institute of Design, Ahmedabad
 - DOT School of Design, Ambattur, Chennai
 - Central School of Art and Design, London
+- Harvard Graduate School of Design
 
 [List of Top Design Colleges and Institutes in India in 2024](https://www.graphic-design-institute.com/top-10-design-colleges-and-institutes-india/)  
 - National Institute of Design (NID), Ahmedabad
@@ -51,6 +52,9 @@
 - GD Goenka School of Fashion & Design, (Mumbai)
 - Amity School of Fine Arts, Noida
 - Indian School of Design and Innovation, (Mumbai)
+
+#### Environmental
+- Centre for Environmental Planning and Technology (CEPT), is an academic institution located near University Area in Ahmedabad
 
 #### Human body
 [Learn Human Anatomy](https://www.kenhub.com/)  
