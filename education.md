@@ -56,6 +56,8 @@
 - [Top 10 Architecture Designers in India](https://floormonk.com/blog-detail/visionaries-of-space-top-10-architecture-designers-in-india)
 - [Top 10 Awe-Inspiring Architects](https://www.iiad.edu.in/the-circle/10-awe-inspiring-architects-in-india-you-should-look-out-for/)
 - [16 Contributors in Indian Design Community](https://medium.com/iconscout/16-contributors-in-indian-design-community-to-follow-2017-d77dbe91e290)
+- [Top Design Colleges And Institutes in India 2024](https://www.graphic-design-institute.com/top-10-design-colleges-and-institutes-india/)
+- [10 Most Popular Indian Graphic Artists](https://www.admecindia.co.in/graphic-design/10-most-popular-indian-graphic-artists/)
 
 #### Environmental
 - Centre for Environmental Planning and Technology (CEPT), is an academic institution located near University Area in Ahmedabad
