@@ -48,6 +48,7 @@
   - MBA from International Management Institute (2012)
   - Bargaining and Negotiations at London School of Economics
   - Commerce degree from Delhi University
+- [Arjun Rathi: Design | is a multi-displinary studio working across Architecture & Lighting Design.](https://www.arjunrathi.com/index.html)
 
 #### Study
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)
