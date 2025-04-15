@@ -229,6 +229,7 @@ When we sign up a user, a few things needs to happen on the backend
 - [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)  
 - [Xata.io(PostgreSQL + Elasticsearch) - The serverless database that gives you superpowers | 15GB Free | RDBMS | Search Engine | Vector DB | Edge Caching | Production Ready](https://xata.io/)
 - [Upstash: Serverless Data Platform via REST API | Redis, QStash (Messaging), Vector DB](https://upstash.com/)
+- LSM (Log-Structured Merge) Tree powers **Cassandra, RocksDB, HBase** and even parts of **MongoDB**
 
 ##### Message Queue / Middlewares
 - [RuMQTT - an opensource set of libraries written in rust-lang to implement the MQTT](https://github.com/bytebeamio/rumqtt)  
