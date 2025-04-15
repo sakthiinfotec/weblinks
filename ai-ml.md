@@ -336,6 +336,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [bRAG + Langchain - Retrieval-Augmented Generation (RAG) Project - Github](https://github.com/bRAGAI/bRAG-langchain/)
 - [PR Reviewing Agent using Grok 3 + Replit Agent](https://x.com/KaranVaidya6/status/1893683838754472358)
 - [Grok 3 + Replit: Git PR Reviewing Agent | Python](https://replit.com/@abishkpatil/GitPrIntelligence?v=1#main.py)
+- [www.operative.sh | An MCP server that autonomously evaluates web applications](https://github.com/Operative-Sh/web-eval-agent)
+- [Browser-use | Make websites accessible for AI agents](https://github.com/browser-use/browser-use?tab=readme-ov-file)
 
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
