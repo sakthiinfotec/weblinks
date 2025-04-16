@@ -163,6 +163,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [OmniParser V2 | This AI sees your screen, understands it, and takes action, just like a human.](https://microsoft.com/en-us/research/articles/omniparser-v2-turning-any-llm-into-a-computer-use-agent/)
 - [OmniParser V2 - Hugging Face](https://huggingface.co/microsoft/OmniParser-v2.0)
 - [Data Formulator by Microsoft: Create Rich Visualizations with AI](https://github.com/microsoft/data-formulator)
+- [Magnitude: Open source AI agents for web testing](https://github.com/magnitudedev/magnitude)
 
 #### AI/ML Platforms
 - AzureML
