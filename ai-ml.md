@@ -561,10 +561,22 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [VeGiantModel - is a torch based high efficient training library developed by the Applied Machine Learning team at Bytedance](https://github.com/volcengine/veGiantModel)  
 - [Volcengine - Machine Learning Platform](https://www.volcengine.com/about)  
 
-#### Copilot / Codeing Assistants
+#### Copilot / Coding Assistants
 - [Qodo Gen AI (aka Codium](https://www.qodo.ai/)
 - [Cline: Cline is the thoughtful AI Coder | Build powerful full-stack applications with an AI partner that thinks before it codes](https://cline.bot/)
 - [Githib.gg: A powerful tool for analyzing GitHub repositories and providing valuable insights about code quality, dependencies, and more | Simply visit: https://github.gg/owner/repository](https://github.gg/)
+
+#### Browser-as-a-Service / Headless
+- [Browserbase: A web browser for your AI | Browserbase powers web browsing capabilities for AI agents and applications.](https://www.browserbase.com/)
+- [Steel: Browser Infrastructure for AI Agents. Steel is an open-source browser API that lets you control fleets of browsers in the cloud.](https://steel.dev/)
+- [Hyperbrowser.ai: Cloud Browsers for your AI Agents](https://www.hyperbrowser.ai/)
+- [Browserable: Open source and self-hostable browser automation library for AI agents](https://github.com/browserable/browserable)
+
+- [Browserless.io: Scrape and automate any site | Browser Automation and Dodgebot Detectors](https://www.browserless.io/)
+- [Zyte: Webscraping API and Data Extraction Services](https://www.zyte.com/)
+- [BrowserCloud: Browser automation for Selenium, Puppeteer and Playwright in the Cloud](https://browsercloud.io/)
+- [BrowserCat: Headless Browser API](https://www.browsercat.com/)
+- [Testable: Seamless, fully-integrated, continuous testing platform | One-click testing across thousands of browsers, operating systems, and devices](https://www.testable.io/)
 
 #### Building ML Flow/Pipelines
 - [Simplified workflow of a typical machine learning engineer or a data scientist in general](https://betterprogramming.pub/the-ml-engineer-a-very-simple-machine-learning-project-to-show-the-workflow-of-a-typical-machine-ec1e348bfcba)  
