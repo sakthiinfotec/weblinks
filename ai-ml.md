@@ -566,11 +566,12 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [Cline: Cline is the thoughtful AI Coder | Build powerful full-stack applications with an AI partner that thinks before it codes](https://cline.bot/)
 - [Githib.gg: A powerful tool for analyzing GitHub repositories and providing valuable insights about code quality, dependencies, and more | Simply visit: https://github.gg/owner/repository](https://github.gg/)
 
-#### Browser-as-a-Service / Headless
+#### Browser-as-a-Service (BasS) / Headless
 - [Browserbase: A web browser for your AI | Browserbase powers web browsing capabilities for AI agents and applications.](https://www.browserbase.com/)
 - [Steel: Browser Infrastructure for AI Agents. Steel is an open-source browser API that lets you control fleets of browsers in the cloud.](https://steel.dev/)
 - [Hyperbrowser.ai: Cloud Browsers for your AI Agents](https://www.hyperbrowser.ai/)
 - [Browserable: Open source and self-hostable browser automation library for AI agents](https://github.com/browserable/browserable)
+- [Magnitude: Easily test your app with AI agents | End-to-end testing framework powered by vision-based AI agents. Don't have your customers be your QA team.](https://magnitude.run/)
 
 - [Browserless.io: Scrape and automate any site | Browser Automation and Dodgebot Detectors](https://www.browserless.io/)
 - [Zyte: Webscraping API and Data Extraction Services](https://www.zyte.com/)
