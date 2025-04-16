@@ -237,6 +237,7 @@ When we sign up a user, a few things needs to happen on the backend
 
 #### Web Scraping
 - [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python](https://github.com/D4Vinci/Scrapling)
+- [Chromedp is an all-in-one library to drive headless browsers via the Chrome DevTools Protocol in Go.](https://pkg.go.dev/github.com/chromedp/chromedp)
 
 ##### Vector Databases
 - [Pinecone - the vector database that helps power AI](https://www.pinecone.io/)
