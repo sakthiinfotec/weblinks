@@ -164,6 +164,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [OmniParser V2 - Hugging Face](https://huggingface.co/microsoft/OmniParser-v2.0)
 - [Data Formulator by Microsoft: Create Rich Visualizations with AI](https://github.com/microsoft/data-formulator)
 - [Magnitude: Open source AI agents for web testing](https://github.com/magnitudedev/magnitude)
+- [Magnitude Docs | Magnitude is a platform for running E2E tests on web apps. It includes an SDK along with a UI dashboard](https://docs.magnitude.run/getting-started/introduction)
 
 #### AI/ML Platforms
 - AzureML
