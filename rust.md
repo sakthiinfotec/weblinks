@@ -32,6 +32,7 @@
 
 ##### Libraries
 - [Tokio: Build reliable network applications without compromising speed | an asynchronous runtime for the Rust programming language](https://tokio.rs/)
+- [Criterion.rs: is a statistics-driven micro-benchmarking tool](https://bheisler.github.io/criterion.rs/book/criterion_rs.html)
 
 ##### Frameworks
 - [Github: A comparison of some web frameworks and libs written in Rust](https://github.com/flosse/rust-web-framework-comparison)
