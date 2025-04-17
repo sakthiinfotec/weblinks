@@ -345,6 +345,9 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 #### AI agent stack
 - [aiagenttoolkit.xyz: Complete details about the AI Agents](https://www.aiagenttoolkit.xyz/)
 
+#### MCP Servers and Clients
+- [MCP.so: Largest collection of MCP Servers and Clients](https://mcp.so/)
+
 **Framework**
 - [AG2](/pyautogen): end-to-end multi-agent automation platform
 - crewAIInc: Faster, simple, powerful multi-agent framework
