@@ -183,9 +183,13 @@ When we sign up a user, a few things needs to happen on the backend
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Redux](https://redux.js.org/)
 
-##### Code Playgrounds
+##### Playgrounds
 * [Mongo Query - Playground](https://mongoplayground.net/)
-* [Go Programming Language - Playground](https://play.golang.org/)  
+* [Go Programming Language - Playground](https://play.golang.org/)
+* [iximiuz Labs 🚀: DevOps Playgrounds | Interactive Courses and Tutorials for Mastering Server Side Technologies | Deep dives into DevOps and Server Side topics where theory blends with hands-on examples.](https://labs.iximiuz.com/playgrounds)
+* [KodeKloud: Experience DevOps With Playgrounds? | Playgrounds are sandboxed Cloud and DevOps environments for you to experience without fear of failure](https://kodekloud.com/playgrounds/)
+* [Killercoda: Access interactive environments simply in your browser | Linux | Kubernetes | Containers | Programming | DevOps | Networking](https://killercoda.com/)
+* [O’Reilly Online Learning: Learn by doing | Cloud, Kubernetes, Python, and more. Just open your browser and dive in.](https://www.oreilly.com/online-learning/intro-interactive-learning.html)
 
 ##### Schema Validation
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)  
