@@ -238,6 +238,7 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [💬 Typebot is a powerful chatbot builder that you can self-host](https://github.com/baptisteArno/typebot.io)
 * [Agent.ai by Dharmesh, Hubspot](https://agent.ai/agent/deepseek-r1)
 * [Computer Vision with DeepSeek Lecture from AI by Hand ✍️ with Prof. Tom Yeh](https://www.byhand.ai/p/deepseek-lecture-128)
+* [Parlant: The Conversation Modeling Engine](https://github.com/emcie-co/parlant?tab=readme-ov-file)
 
 **[Local or Cloud hosting models](https://x.com/cj_zZZz/status/1884279108231913501)**  
 - @ollama (local)
