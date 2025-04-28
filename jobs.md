@@ -215,3 +215,38 @@ Excellent to have:
 - Experience working in robotics start-ups or fast-paced environments.
 - Deep understanding of camera calibration and perception sensors.
 
+[Storyblok: Senior DevOps Engineer](https://www.storyblok.com/job?gh_jid=4550883101)
+**JOB SUMMARY**  
+
+The main tasks of a DevOps Engineer are to design, implement, and maintain scalable, secure, and highly available infrastructure. In this role, it is expected to develop automated CI/CD pipelines, manage cloud environments, and optimize system performance through monitoring and proactive troubleshooting. It is necessary to collaborate with development and operations teams to enhance application architecture, automate infrastructure provisioning with Terraform, and ensure security best practices. Additionally, you will play a key role in improving our infrastructure environment and mentoring team members in DevOps methodologies.
+
+**ESSENTIAL JOB FUNCTIONS**  
+
+Identify, address, and mitigate scalability and security challenges to ensure high-performance, resilient systems.
+Design, implement, maintain, and monitor cloud-based and on-premise infrastructure to ensure system stability and efficiency.
+Develop and manage monitoring, logging, and alerting solutions to proactively detect and resolve issues, ensuring optimal system performance and reliability.
+Design and implement secure, scalable, and automated CI/CD pipelines to streamline continuous integration, delivery, and deployment processes.
+Utilize Terraform and other Infrastructure-as-Code (IaC) tools to automate provisioning, configuration management, and system scaling.
+Work closely with development teams to enhance application architecture, improve performance, and ensure scalability best practices.
+Partner with software engineers, QA, security, and operations teams to develop automated solutions for software delivery, infrastructure management, and system monitoring.
+Deploy, optimize, and maintain cloud environments (mainly AWS), ensuring cost efficiency, scalability, and security compliance.
+Investigate and resolve infrastructure and application-related issues, minimizing downtime and ensuring high system availability.
+Plan and execute initiatives to enhance infrastructure efficiency, security, and reliability.
+Mentor and upskill team members, fostering a culture of continuous learning and best practices in DevOps methodologies.
+
+**EDUCATION AND EXPERIENCE**  
+
+AWS Certified DevOps Engineer - Professional
+Experience with large scale applications on Amazon AWS
+Experience with Postgres
+Experience with AWS Elastic Beanstalk
+Experience with IaC (Terraform)
+Experience with Linux, networking protocols, general utilities, and shell scripts
+Ability to apply zero downtime deployments and autoscaling
+Experience with Cloud-native solutions
+Excellent knowledge of how to fix performance bottlenecks
+Fluency in scripting languages like Bash, Ruby, or Python
+Excellent communication skills
+MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS
+
+Remote (home) work opportunity or funded by Storyblok co-working space
