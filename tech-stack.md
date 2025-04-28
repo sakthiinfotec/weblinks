@@ -150,6 +150,7 @@
 - [Rive - Design and Animation app for Mobile and Web](https://rive.app)
 - [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
 - [Animate On Scroll - React.js](https://github.com/michalsnik/aos)
+- [Anime.js By Julian Garnier | All-in-one animation engine. A fast and versatile JavaScript library to animate anything | HTML, CSS, Web GL, Canvas, SVG](https://animejs.com/)
 
 ##### UI Templates
 - [Liquid by Shopify | Written in Ruby](https://shopify.github.io/liquid/)
