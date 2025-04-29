@@ -436,6 +436,11 @@ While inter-service communication happens via
 - [HTTPie - a command-line HTTP and API testing client that can be used instead of cURL for sending API requests](https://httpie.io/cli)
 - [Outerbase: Outerbase is an AI-powered data tool, that let’s you view, edit, query, and visualize your data collaboratively with your team.](https://app.outerbase.com/)
 
+
+##### npm packages
+- [bulqr-generator: Bulk QR Code Generator](https://github.com/MomenSherif/bulqr-generator?tab=readme-ov-file)
+- [React OAuth SDK: Google OAuth2 using the new Google Identity Services SDK for React 🚀](https://github.com/MomenSherif/react-oauth?tab=readme-ov-file)
+
 ##### Package Manager
 - [mamba (Python): The Fast Cross-Platform Package Manager | a reimplementation of the conda package manager in C++](https://github.com/mamba-org/mamba)
 - [Rspack - A fast Rust-based web bundler](https://github.com/web-infra-dev/rspack)  
