@@ -1,0 +1,41 @@
+### SEO
+- Title tags, subheadings, content
+- Search volume + keyword research
+- Google Business Profile setup
+- Search Console + Bing Tools
+- Manual actions, core updates
+- Competitor backlinks + Skyscraper
+- Index requests + ranking intent
+- Long-tail keywords, meta tags
+- Link profiles + SEO-friendly URLs
+- HTTPS + broken link fixing
+- Keyword cannibalization
+- Crawl errors + Robots.txt
+- Keyword mapping, content audits
+- Structured data, hreflang, redirects
+- E-E-A-T, duplicate content cleanup
+- Internal linking + sitemaps
+- GA4 + GSC data
+- Mobile optimization
+- Site speed + readability
+- UI/UX + soft 404s
+- Spam signals, brand reputation
+- URL structures + HTML config
+- Canonical tags, page depth
+- Landing page quality
+- Cluster topics + conversions
+- Manual action reviews
+- Inspect URL (GSC), server errors
+- SEO plugin (WP), content freshness
+- Keyword gap, content engagement
+- Project & approval management
+- Anchor mapping, link quality
+- Security issue checks
+- Client briefing & output audits
+- Helpful content + brand presence
+- Mobile-friendliness
+- Page indexing + rendering
+- Keyword intent + money terms
+- Fix title tag issues
+- Broken link & version cleanup
+- Blocked HTTP status checks
