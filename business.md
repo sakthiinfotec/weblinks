@@ -93,3 +93,6 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 
 #### Export / Import
 - [Global EXIM Institute](https://globaleximinstitute.com/)
+
+#### Technology
+- [Innoblitz Technologies and Systems Pvt Ltd, Chennai | Web Design, Branding, Social Media, SEO, Product Packaging, Corporate Photo Video](https://innoblitz.global/services)
