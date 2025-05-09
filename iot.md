@@ -87,3 +87,4 @@
 With Construction Robotics](https://ricrobotics.com/3d-solutions/)
 - [Franka Robotics | a German, research-driven robotics company headquartered in Munich and operating globally](https://franka.de/)
 - [RoboDK: Robot Simulation Software | RoboDK is a complete solution to simulate and program robot arms offline for robot manufacturing and automation. RoboDK supports many types of robots and integrates with most CAD/CAM software](https://robodk.com/)
+- [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
