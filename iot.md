@@ -83,4 +83,5 @@
 - don't require pay
 - are not going to unionize
 
-- [RIC Technology | Robotic Construction Solutions](https://ricrobotics.com/3d-solutions/)
+- [RIC Technology | Robotic Construction Solutions | Building the Future
+With Construction Robotics](https://ricrobotics.com/3d-solutions/)
