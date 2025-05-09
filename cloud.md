@@ -1,6 +1,7 @@
 #### MicroVMs
 - Flintlock: handles the interaction with the microvm implementation (i.e. Firecracker, Cloud Hypervisor)
 - [Firecracker: Secure and fast microVMs for serverless computing. Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services.](https://firecracker-microvm.github.io/)
+- [Cloud Hypervisor: Run Cloud Virtual Machines Securely and Efficiently](https://www.cloudhypervisor.org/)
  
 #### Object storages
 - Azure Blob Storage
@@ -36,6 +37,7 @@
 - [Vultr: SSD VPS Servers, Cloud Servers and Cloud Hosting. Global, automated cloud infrastructure from the broadest array of AMD and NVIDIA GPUs to virtual CPUs, bare metal, Kubernetes, storage, and networking solutions.](https://www.vultr.com/)
 - [Qovery is a DevOps Automation Platform](https://www.qovery.com/)
 - [Flightcontrol is a PaaS that deploys to your AWS account](https://www.flightcontrol.dev/)
+- [Appfleet: appfleet is an edge platform | A simple Kubernetes alternative Edge docker hosting made simple.](https://appfleet.com/)
 
 #### Workflow / Orchestration
 - [](https://www.inngest.com/)
