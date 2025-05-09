@@ -18,7 +18,6 @@
 * Web Service API
 * Module and eSIM Life Cycle Management
 
-
 [Make Your Own Smart Sprinkler Controller @Adafruit Blog](https://blog.adafruit.com/2020/10/16/make-your-own-smart-sprinkler-controller-piday-raspberrypi-raspberry_pi/)  
 [Smart Sprinkler - Code @Github](https://github.com/nebhead/irrigator)  
 [Dexter Industries Sensors](https://github.com/DexterInd/DI_Sensors)  
@@ -68,3 +67,18 @@
 - [Enthu Technology Solutions India Pvt Ltd, Goldwins | Coimbatore](https://www.enthutech.in/home)
 - [SmowCode | Easily create Highly Industry Grade IoT Codes for ESP32 | 10X faster coding for IoT](https://smowcode.com/)
 - [Wiman: Manufacture of Generic IoT Devices - Experience the Power of Seamless Connectivity! | IoT | LoRA | Chennai](https://wiman.in/)
+
+#### Robots
+- Increased Productivity
+- Improved Accuracy
+- Enhanced Safety
+- Operating Efficiency
+- Optimized Space Utilization
+- Cost Reduction
+- Scalability
+- Data Integration and Management
+
+**ofcourse, they are expensive to purchase**
+- They work longer hours than humans
+- don't require pay
+- are not going to unionize
