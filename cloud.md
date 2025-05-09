@@ -42,6 +42,8 @@
 - [OpenNebula: The Open Source Cloud & Edge Computing Platform](https://opennebula.io/)
 - [Plural: Enterprise Kubernetes management, accelerated | DevOps, K8s,](https://www.plural.sh/)
 - [Bunnyshell environments are built to Test, Review & Deploy AI-Generated code at Lightspeed!](https://www.bunnyshell.com/)
+- [Gitpod.io: Automated, standardized, and secure development environments](https://www.gitpod.io/)
+- [Coder: Secure environments for developers and their agents | Self-Hosted Cloud Development Environment](https://coder.com/)
 
 #### Workflow / Orchestration
 - [Inngest: AI and backend workflows, orchestrated at any scale](https://www.inngest.com/)
