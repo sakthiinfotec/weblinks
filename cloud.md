@@ -25,6 +25,10 @@
 - [Runway ML - Generative AI Audio, Video, Text-to-Image | Text-to-Video | Image-to-Video](https://runwayml.com/)
 - [Scaleway - Europe based Cloud Provider. Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.](https://www.scaleway.com/en/)
 - [Fly.io: Deploy app server close to your users | A Public Cloud Built For Developers Who Ship](https://fly.io/)
+- [Utho: Cloud Service Provider India](https://utho.com)
+- [OVHcloud India: Cloud Computing & Web Hosting](https://www.ovhcloud.com/en-in/)
+- [TiDB: The Distributed SQL Database by PingCAP. TiDB delivers resilient performance, real-time insights, secure and flexible data infrastructure at any scale.](https://www.pingcap.com/)
+- [Vultr: SSD VPS Servers, Cloud Servers and Cloud Hosting. Global, automated cloud infrastructure from the broadest array of AMD and NVIDIA GPUs to virtual CPUs, bare metal, Kubernetes, storage, and networking solutions.](https://www.vultr.com/)
 
 #### Cloud Services
 - Infrastructure as Code (IaC):
