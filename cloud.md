@@ -38,9 +38,13 @@
 - [Qovery is a DevOps Automation Platform](https://www.qovery.com/)
 - [Flightcontrol is a PaaS that deploys to your AWS account](https://www.flightcontrol.dev/)
 - [Appfleet: appfleet is an edge platform | A simple Kubernetes alternative Edge docker hosting made simple.](https://appfleet.com/)
+- [Apache CloudStack™ is an open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.](https://cloudstack.apache.org/)
+- [OpenNebula: The Open Source Cloud & Edge Computing Platform](https://opennebula.io/)
+- [Plural: Enterprise Kubernetes management, accelerated | DevOps, K8s,](https://www.plural.sh/)
+- [Bunnyshell environments are built to Test, Review & Deploy AI-Generated code at Lightspeed!](https://www.bunnyshell.com/)
 
 #### Workflow / Orchestration
-- [](https://www.inngest.com/)
+- [Inngest: AI and backend workflows, orchestrated at any scale](https://www.inngest.com/)
 
 #### Cloud Services
 - Infrastructure as Code (IaC):
