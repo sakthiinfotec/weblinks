@@ -259,6 +259,7 @@ When we sign up a user, a few things needs to happen on the backend
 - [Firebase - app development platform](https://firebase.google.com/)  
 - [Convex - the backend-as-a-service for full-stack app development](https://www.convex.dev/)  
 - [Convex Stack](https://stack.convex.dev/)
+- [Replibyte is a blazingly fast tool to seed your databases with your production data while keeping sensitive data safe ⚡️](https://www.replibyte.com/docs/introduction)
 
 ##### Headless CMS
 - Contentful
