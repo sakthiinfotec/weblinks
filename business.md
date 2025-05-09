@@ -96,3 +96,6 @@ Please note that there is a debate on whether Ahmedabad and Pune are Tier-1 or T
 
 #### Technology
 - [Innoblitz Technologies and Systems Pvt Ltd, Chennai | Web Design, Branding, Social Media, SEO, Product Packaging, Corporate Photo Video](https://innoblitz.global/services)
+
+#### Needs Improvement
+- [Kongu Wedding Food Festival 2024 by Tamil Nadu Caterers Association (TNCA) + BookMyShow @ CODISSIA Grounds in Coimbatore](https://www.thehindu.com/news/national/tamil-nadu/kongu-wedding-food-festival-2024-organisers-ordered-to-pay-1-lakh-compensation-to-woman-attendee-for-poor-event-management/article69546331.ece)
