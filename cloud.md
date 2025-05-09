@@ -29,6 +29,7 @@
 - [OVHcloud India: Cloud Computing & Web Hosting](https://www.ovhcloud.com/en-in/)
 - [TiDB: The Distributed SQL Database by PingCAP. TiDB delivers resilient performance, real-time insights, secure and flexible data infrastructure at any scale.](https://www.pingcap.com/)
 - [Vultr: SSD VPS Servers, Cloud Servers and Cloud Hosting. Global, automated cloud infrastructure from the broadest array of AMD and NVIDIA GPUs to virtual CPUs, bare metal, Kubernetes, storage, and networking solutions.](https://www.vultr.com/)
+- [Qovery is a DevOps Automation Platform](https://www.qovery.com/)
 
 #### Cloud Services
 - Infrastructure as Code (IaC):
