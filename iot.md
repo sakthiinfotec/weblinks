@@ -82,3 +82,5 @@
 - They work longer hours than humans
 - don't require pay
 - are not going to unionize
+
+- [RIC Technology | Robotic Construction Solutions](https://ricrobotics.com/3d-solutions/)
