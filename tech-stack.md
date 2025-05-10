@@ -517,7 +517,7 @@ While inter-service communication happens via
 - [MUX - The internet's video infrastructure](https://www.mux.com/)  
 
 ##### Media Servers
-- [Imich: Self-hosted photo and video management solution](https://immich.app/)
+- [Immich: Self-hosted photo and video management solution](https://immich.app/)
 - Plex
 - Jellyfin
 - Emby
