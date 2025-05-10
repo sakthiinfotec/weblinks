@@ -517,8 +517,9 @@ While inter-service communication happens via
 - [MUX - The internet's video infrastructure](https://www.mux.com/)  
 
 ##### Media Servers
-- Emby
+- Plex
 - Jellyfin
+- Emby
 - Jitsi
 - Janus
 
