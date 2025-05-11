@@ -161,6 +161,9 @@
 - [Diagramming AI - Instantly Design and Edit UML & Workflows with AI](https://diagrammingai.com/)
 - [Chat UML - AI Diagramming](https://chatuml.com/edit/new)
 - [JSON Crack - Open-source visualization application that transforms JSON, YAML, XML, CSV and more, into interactive graphs](https://github.com/AykutSarac/jsoncrack.com)
+- [GitHub Stats Generator - Visualization](https://github-stats.omsimos.com/)
+- [GitHub Stats Generator - Source](https://github.com/omsimos/github-stats)
+- [GitHub Stats Generator | Built with 💚 by Josh Daniel](https://gh-stats-gen.vercel.app/)
 
 ##### Authentication & Authorization
 Use case: User sign-up to a SaaS application
