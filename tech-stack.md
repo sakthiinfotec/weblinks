@@ -32,6 +32,7 @@
 - Micro Front End
 - Web graphics (Three.js, WebGL)
 - [A-Frame - A web framework for building 3D/AR/VR experiences](https://aframe.io/)
+- [Dapr: Distributed Application Runtime. An event-driven, portable runtime for building microservices on cloud and edge.](https://docs.dapr.io/)
 
 ##### Server Side Rendering (SSR)
 - [Next.js](https://nextjs.org/)
