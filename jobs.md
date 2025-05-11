@@ -81,6 +81,47 @@
 #### Data Science
 - Hands on experience with SQL, BigQuery, Airflow, Kafka, and Application Development
 
+Data Scientist (Beginner to Advanced):
+
+1. Foundations
+
+* Statistics and Probability: Distributions, hypothesis testing, basics of probability
+* Python Programming: Learn with focus on NumPy, Pandas, Matplotlib
+
+2. Data Handling
+
+* Pandas: Data cleaning, transformation, exploration
+* SQL: Basics, joins, window functions, aggregations
+
+3. Machine Learning
+
+* Learn algorithms: Linear/Logistic Regression, Decision Trees, Random Forest, etc.
+* Evaluation: Confusion matrix, accuracy, precision, recall, ROC
+
+4. Deep Learning
+
+* Basics of Neural Networks using TensorFlow/Keras or PyTorch
+* Learn CNNs, RNNs, and hyperparameter tuning
+
+5. Natural Language Processing (NLP)
+
+* Text preprocessing, embeddings (TF-IDF, Word2Vec, BERT)
+* Use Hugging Face Transformers for modern NLP
+
+6. Large Language Models (LLMs)
+
+* Understand prompt engineering, RAG, and fine-tuning basics
+* Try tools like OpenAI API, LangChain, LlamaIndex
+
+7. Learning Resources
+
+* Start with CampusX and Krishnaik YouTube channels—they explain concepts clearly and practically
+
+8. Projects and Portfolio
+
+* Build end-to-end projects using real datasets
+* Share on GitHub, LinkedIn, or a personal portfolio website
+
 #### Senior QA Engineer
 ##### Requirements:
 * 5 years+ of backend QA engineering experience, frontend manual/auto testing experience is great bonus.
@@ -222,31 +263,31 @@ The main tasks of a DevOps Engineer are to design, implement, and maintain scala
 
 **ESSENTIAL JOB FUNCTIONS**  
 
-Identify, address, and mitigate scalability and security challenges to ensure high-performance, resilient systems.
-Design, implement, maintain, and monitor cloud-based and on-premise infrastructure to ensure system stability and efficiency.
-Develop and manage monitoring, logging, and alerting solutions to proactively detect and resolve issues, ensuring optimal system performance and reliability.
-Design and implement secure, scalable, and automated CI/CD pipelines to streamline continuous integration, delivery, and deployment processes.
-Utilize Terraform and other Infrastructure-as-Code (IaC) tools to automate provisioning, configuration management, and system scaling.
-Work closely with development teams to enhance application architecture, improve performance, and ensure scalability best practices.
-Partner with software engineers, QA, security, and operations teams to develop automated solutions for software delivery, infrastructure management, and system monitoring.
-Deploy, optimize, and maintain cloud environments (mainly AWS), ensuring cost efficiency, scalability, and security compliance.
-Investigate and resolve infrastructure and application-related issues, minimizing downtime and ensuring high system availability.
-Plan and execute initiatives to enhance infrastructure efficiency, security, and reliability.
-Mentor and upskill team members, fostering a culture of continuous learning and best practices in DevOps methodologies.
+- Identify, address, and mitigate scalability and security challenges to ensure high-performance, resilient systems.
+- Design, implement, maintain, and monitor cloud-based and on-premise infrastructure to ensure system stability and efficiency.
+- Develop and manage monitoring, logging, and alerting solutions to proactively detect and resolve issues, ensuring optimal system performance and reliability.
+- Design and implement secure, scalable, and automated CI/CD pipelines to streamline continuous integration, delivery, and deployment processes.
+- Utilize Terraform and other Infrastructure-as-Code (IaC) tools to automate provisioning, configuration management, and system scaling.
+- Work closely with development teams to enhance application architecture, improve performance, and ensure scalability best practices.
+- Partner with software engineers, QA, security, and operations teams to develop automated solutions for software delivery, infrastructure management, and system monitoring.
+- Deploy, optimize, and maintain cloud environments (mainly AWS), ensuring cost efficiency, scalability, and security compliance.
+- Investigate and resolve infrastructure and application-related issues, minimizing downtime and ensuring high system availability.
+- Plan and execute initiatives to enhance infrastructure efficiency, security, and reliability.
+- Mentor and upskill team members, fostering a culture of continuous learning and best practices in DevOps methodologies.
 
 **EDUCATION AND EXPERIENCE**  
 
-AWS Certified DevOps Engineer - Professional
-Experience with large scale applications on Amazon AWS
-Experience with Postgres
-Experience with AWS Elastic Beanstalk
-Experience with IaC (Terraform)
-Experience with Linux, networking protocols, general utilities, and shell scripts
-Ability to apply zero downtime deployments and autoscaling
-Experience with Cloud-native solutions
-Excellent knowledge of how to fix performance bottlenecks
-Fluency in scripting languages like Bash, Ruby, or Python
-Excellent communication skills
-MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS
-
-Remote (home) work opportunity or funded by Storyblok co-working space
+- AWS Certified DevOps Engineer - Professional
+- Experience with large scale applications on Amazon AWS
+- Experience with Postgres
+- Experience with AWS Elastic Beanstalk
+- Experience with IaC (Terraform)
+- Experience with Linux, networking protocols, general utilities, and shell scripts
+- Ability to apply zero downtime deployments and autoscaling
+- Experience with Cloud-native solutions
+- Excellent knowledge of how to fix performance bottlenecks
+- Fluency in scripting languages like Bash, Ruby, or Python
+- Excellent communication skills
+- MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS
+- 
+- Remote (home) work opportunity or funded by Storyblok co-working space
