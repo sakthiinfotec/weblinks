@@ -164,6 +164,8 @@
 - [GitHub Stats Generator - Visualization](https://github-stats.omsimos.com/)
 - [GitHub Stats Generator - Source](https://github.com/omsimos/github-stats)
 - [GitHub Stats Generator | Built with 💚 by Josh Daniel](https://gh-stats-gen.vercel.app/)
+- [Awesome Github Stats](https://github.com/brunobritodev/awesome-github-stats)
+- [GitHub Tech Stack](https://github.com/0l1v3rr/github-readme-tech-stack?tab=readme-ov-file)
 
 ##### Authentication & Authorization
 Use case: User sign-up to a SaaS application
