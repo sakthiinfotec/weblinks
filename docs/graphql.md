@@ -1,5 +1,8 @@
 
 ### GraphQL
+- GraphQL, a query language for APIs created by Facebook.
+- GraphQL is a query language and execution engine tied to any backend service.
+
 #### 1. GraphQL APIs have a strongly typed schema
 A GraphQL schema is the backbone of every GraphQL API. It clearly defines the operations (queries, mutations and subscriptions) supported by the API, including input arguments and possible responses. 
 
