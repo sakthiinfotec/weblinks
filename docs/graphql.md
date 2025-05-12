@@ -78,7 +78,7 @@ graphql(schema, query).then(result => console.log(result))
 
 > To get a sense of all these functions, take a look at this simple node script that uses them in a straightforward example.
 
-**graphql.js** The graphql function is executing a GraphQL query against a schema which in itself already contains structure as well as behaviour. The main role of graphql thus is to orchestrate the invocations of the resolver functions and package the response data according to the shape of the provided query. In that regard, the functionality implemented by the graphql function is also referred to as a GraphQL engine.
+The graphql function is executing a GraphQL query against a schema which in itself already contains structure as well as behaviour. The main role of graphql thus is to orchestrate the invocations of the resolver functions and package the response data according to the shape of the provided query. In that regard, the functionality implemented by the graphql function is also referred to as a GraphQL engine.
 
 #### Boilerplates
 - [GraphQL Boilerplates: Collection of production-ready GraphQL boilerplate projects](https://github.com/graphql-boilerplates)
