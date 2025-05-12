@@ -28,6 +28,36 @@ GraphQL makes frontend developers’ lives easy. Thanks to GraphQL client librar
 
 Increased productivity among frontend developers leads to a speedup in product development. With GraphQL, it is possible to completely redesign the UI of an app without needing to touch the backend.
 
+### Defining schemas: The Schema Definition Language
+GraphQL has its own type language that’s used the write GraphQL schemas: The Schema Definition Language (SDL). In its simplest form, GraphQL SDL can be used to define types looking like this:
+
+```graphql
+type User {
+  id: ID!
+  name: String
+}
+```
+The User type alone doesn’t expose any functionality to client applications, it simply defines the structure of a user model in your application. In order to add functionality to the API, you need to add fields to the root types of the GraphQL schema: Query, Mutation and Subscription. These types define the entry points for a GraphQL API.
+
+For example, consider the following query:
+```graphql
+query {
+  user(id: "abc") {
+    id
+    name
+  }
+}
+```
+This query is only valid if the corresponding GraphQL schema defines the Query root type with the following user field:
+```graphql
+type Query {
+  user(id: ID!): User
+}
+```
+So, the schema’s root types determine the shape of the queries and mutations that will be accepted by the server.
+
+> The GraphQL schema provides a clear contract for client-server communication.
+
 #### Concepts
 **Schema stitching** is one of the newer ones in the GraphQL space. In short, schema stitching allows to combine and connect multiple GraphQL APIs and and merge them into a single one. Similar to how a React components can be composed out of existing ones, a GraphQL API can also be composed out of existing GraphQL APIs!
 
