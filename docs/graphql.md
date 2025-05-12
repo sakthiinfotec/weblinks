@@ -66,11 +66,12 @@ So, the schema’s root types determine the shape of the queries and mutations t
 #### GraphQL.js
 Let’s take a quick tour through the functions that GraphQL.js provides. Note that its functionality is generally centered around a GraphQLSchema:
 
-- `parse` and `buildASTSchema`: Given a GraphQL schema defined as a string in GraphQL SDL, these two functions will create a GraphQLSchema instance: const schema = buildASTSchema(parse(sdlString)).
-- `validate`: Given a GraphQLSchema instance and a query, validate ensures the query adheres to the API defined by the schema.
-- `execute`: Given a GraphQLSchema instance and a query, execute invokes the resolvers of the query’s fields and creates a response according to the GraphQL specification. Naturally, this only works if resolvers are part of a GraphQLSchema instance (otherwise it’s just restaurant with a menu but without a kitchen).
-- `printSchema`: Takes a GraphQLSchema instance and returns its definition in the SDL (as a string).
-Note that the most important function in GraphQL.js is graphql which takes a GraphQLSchema instance and a query — and then calls validate and execute:
+- `parse` and `buildASTSchema`: Given a GraphQL schema defined as a string in GraphQL SDL, these two functions will create a `GraphQLSchema` instance: `const schema = buildASTSchema(parse(sdlString))`.
+- `validate`: Given a `GraphQLSchema` instance and a query, `validate` ensures the query adheres to the API defined by the schema.
+- `execute`: Given a `GraphQLSchema` instance and a query, `execute` invokes the resolvers of the query’s fields and creates a response according to the GraphQL specification. Naturally, this only works if resolvers are part of a `GraphQLSchema` instance (otherwise it’s just restaurant with a menu but without a kitchen).
+- `printSchema`: Takes a `GraphQLSchema` instance and returns its definition in the SDL (as a string).
+
+Note that the most important function in GraphQL.js is `graphql` which takes a `GraphQLSchema` instance and a query — and then calls `validate` and `execute`:
 
 ```javascript
 graphql(schema, query).then(result => console.log(result))
