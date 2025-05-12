@@ -215,9 +215,9 @@ A middleware allows to intercept an incoming a request and perform dedicated tas
 
 In essence, a _middleware_ is nothing but a function taking three arguments:
 
-`req`: The incoming request from the client
-`res`: The response to be returned to the client
-`next`: A function to invoke the next piece of middleware
+- `req`: The incoming request from the client
+- `res`: The response to be returned to the client
+- `next`: A function to invoke the next piece of middleware
 
 Since middleware functions have (write-)access to the incoming request objects as well as to the outgoing response objects, they are a very powerful concept that can shape the requests and responses according to a specific purpose.Here is a simple example for logging that will print the time at which a request was received:
 
