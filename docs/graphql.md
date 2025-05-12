@@ -29,4 +29,4 @@ Increased productivity among frontend developers leads to a speedup in product d
 
 #### Tools
 - [GraphiQL: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.](https://github.com/graphql/graphiql)
-- [GraphQL Faker](https://github.com/graphql-kit/graphql-faker)
+- [GraphQL Faker: It mocks the entire GraphQL API (based on its schema definition), so frontend and backend teams can work completely independently.](https://github.com/graphql-kit/graphql-faker)
