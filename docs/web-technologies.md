@@ -207,3 +207,6 @@ Here's why and how:
 *   **Automation:** Consider using tools like Certbot (for Let's Encrypt) to automate the certificate issuance and renewal process.
 
 In summary, developers do *not* generate the final certificates for a production environment. They generate the CSR, manage the private key, and configure the server. The *CA* issues the trusted certificate after verifying the domain.
+
+#### Express.js
+Middleware can be used for many use cases, such as _authentication_, _caching_, data _transformation_ and _validation_, _execution_ of custom business logic and a lot more.
