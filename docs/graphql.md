@@ -23,3 +23,7 @@ A simple example for overfetching would be the following scenario: An app render
 GraphQL makes frontend developers’ lives easy. Thanks to GraphQL client libraries (like _Apollo_, _Relay_ or _Urql_) frontend developers are getting features like caching, realtime or optimistic UI updates basically for free — areas that could have entire teams dedicated to work on them if it wasn’t for GraphQL.
 
 Increased productivity among frontend developers leads to a speedup in product development. With GraphQL, it is possible to completely redesign the UI of an app without needing to touch the backend.
+
+#### Tools
+- [GraphiQL: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.](https://github.com/graphql/graphiql)
+- [GraphQL Faker](https://github.com/graphql-kit/graphql-faker)
