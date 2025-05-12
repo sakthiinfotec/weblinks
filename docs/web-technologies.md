@@ -209,4 +209,24 @@ Here's why and how:
 In summary, developers do *not* generate the final certificates for a production environment. They generate the CSR, manage the private key, and configure the server. The *CA* issues the trusted certificate after verifying the domain.
 
 #### Express.js
+
+**The key to flexibility and modularity in Express: Middleware**  
+A middleware allows to intercept an incoming a request and perform dedicated tasks, while the request is processed or before the response is returned.
+
+In essence, a _middleware_ is nothing but a function taking three arguments:
+
+`req`: The incoming request from the client
+`res`: The response to be returned to the client
+`next`: A function to invoke the next piece of middleware
+
+Since middleware functions have (write-)access to the incoming request objects as well as to the outgoing response objects, they are a very powerful concept that can shape the requests and responses according to a specific purpose.Here is a simple example for logging that will print the time at which a request was received:
+
+```javascript
+function loggingMiddleware(req, res, next) {
+  console.log(`Received a request at: ${Date.now()}`)
+  next()
+}
+app.use(loggingMiddleware)
+```
+
 Middleware can be used for many use cases, such as _authentication_, _caching_, data _transformation_ and _validation_, _execution_ of custom business logic and a lot more.
