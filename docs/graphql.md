@@ -33,6 +33,9 @@ Increased productivity among frontend developers leads to a speedup in product d
 
 **GraphQL bindings** take the idea of schema stitching to the next level by enabling a simple approach to reusing and sharing GraphQL APIs.
 
+#### Boilerplates
+- [GraphQL Boilerplates: Collection of production-ready GraphQL boilerplate projects](https://github.com/graphql-boilerplates)
+
 #### Tools
 - [GraphiQL: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.](https://github.com/graphql/graphiql)
 - [GraphQL Faker: It mocks the entire GraphQL API (based on its schema definition), so frontend and backend teams can work completely independently.](https://github.com/graphql-kit/graphql-faker)
