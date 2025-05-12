@@ -28,6 +28,14 @@ GraphQL makes frontend developers’ lives easy. Thanks to GraphQL client librar
 
 Increased productivity among frontend developers leads to a speedup in product development. With GraphQL, it is possible to completely redesign the UI of an app without needing to touch the backend.
 
+#### Concepts
+**Schema stitching** is one of the newer ones in the GraphQL space. In short, schema stitching allows to combine and connect multiple GraphQL APIs and and merge them into a single one. Similar to how a React components can be composed out of existing ones, a GraphQL API can also be composed out of existing GraphQL APIs!
+
+**GraphQL bindings** take the idea of schema stitching to the next level by enabling a simple approach to reusing and sharing GraphQL APIs.
+
 #### Tools
 - [GraphiQL: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.](https://github.com/graphql/graphiql)
 - [GraphQL Faker: It mocks the entire GraphQL API (based on its schema definition), so frontend and backend teams can work completely independently.](https://github.com/graphql-kit/graphql-faker)
+- [Prisma](https://www.prisma.io/)
+- [GraphQL Playground](https://github.com/graphcool/graphql-playground)
+- [graphql-config](https://github.com/graphcool/graphql-config)
