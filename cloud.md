@@ -46,6 +46,7 @@
 - [Gitpod.io: Automated, standardized, and secure development environments](https://www.gitpod.io/)
 - [Coder: Secure environments for developers and their agents | Self-Hosted Cloud Development Environment](https://coder.com/)
 - [Gitpod.io vs Coder](https://www.gitpod.io/blog/gitpod-vs-coder)
+- [Loophole Labs, Inc | Architect - Use Spot Instances for Any Workload](https://loopholelabs.io/)
 
 #### Workflow / Orchestration
 - [Inngest: AI and backend workflows, orchestrated at any scale](https://www.inngest.com/)
