@@ -45,7 +45,7 @@
 - [Hugo - The world’s fastest framework for building websites. Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.](https://gohugo.io/)
 - [Hyde is a static website generator written in python](https://hyde.github.io/)
 
-##### Data Processing Frameworks
+##### Data Processing - Frameworks
 - [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
 - [Nuclio - High-Performance "Serverless" framework for Real-Time Events and Data Processing Platform | Written in Go](https://github.com/nuclio/nuclio)
 - [Numba - A Just-In-Time Compiler for Numerical Functions in Python | NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
@@ -55,6 +55,12 @@
 - [Union.ai - The production AI orchestrator built for development velocity | Built by creators of Flyte](https://www.union.ai/features)
 - [Pandera - Protect Your Data & ML Products from Low-Quality Data | Build confidence in the quality of your data by defining schemas for complex data objects](https://www.union.ai/pandera)
 - [Apache DataFusion Ballista: Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion](https://datafusion.apache.org/ballista/user-guide/introduction.html)
+
+##### Data Processing - Cloud Native Services
+- AWS Glue
+- Azure Data Factory
+- Google Cloud Dataflow
+- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics) is a unified data analytics service from Microsoft that brings together enterprise data warehousing, big data analytics, and data integration into a single platform.
 
 ##### GPU Computing Platform / Service
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
