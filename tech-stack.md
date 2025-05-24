@@ -45,37 +45,6 @@
 - [Hugo - The world’s fastest framework for building websites. Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.](https://gohugo.io/)
 - [Hyde is a static website generator written in python](https://hyde.github.io/)
 
-##### Data Processing - Frameworks
-- [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
-- [Nuclio - High-Performance "Serverless" framework for Real-Time Events and Data Processing Platform | Written in Go](https://github.com/nuclio/nuclio)
-- [Numba - A Just-In-Time Compiler for Numerical Functions in Python | NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
-- [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
-- [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
-- [Flyte - Build & deploy data & ML pipelines, hassle-free | Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks](https://flyte.org/)
-- [Union.ai - The production AI orchestrator built for development velocity | Built by creators of Flyte](https://www.union.ai/features)
-- [Pandera - Protect Your Data & ML Products from Low-Quality Data | Build confidence in the quality of your data by defining schemas for complex data objects](https://www.union.ai/pandera)
-- [Apache DataFusion Ballista: Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion](https://datafusion.apache.org/ballista/user-guide/introduction.html)
-
-##### Data Processing - Cloud Native Services
-- AWS Glue
-- Azure Data Factory
-- Google Cloud Dataflow
-- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics) is a unified data analytics service from Microsoft that brings together enterprise data warehousing, big data analytics, and data integration into a single platform.
-
-##### Data Processing - Streaming Services/Frameworks
-- Apache Kafka
-- AWS Kinesis
-- Azure Event Hubs
-
-##### Data Processing - Data Governance
-- AWS Glue Data Catalog
-- Azure Data Catalog
-
-##### Data Processing - Monitoring and Logging
-- AWS CloudWatch
-- Azure Monitor
-- Google Cloud Operations Suite
-
 ##### GPU Computing Platform / Service
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
 - [HEAVY.AI - A Revolutionary GPU-Accelerated Analytics Platform](https://www.heavy.ai/)
@@ -354,6 +323,40 @@ While inter-service communication happens via
 - [Gradio - Build & Share Delightful Machine Learning Apps](https://gradio.app/)  
 - [Streamlit - A faster way to build and share data apps](https://streamlit.io/)  
 - [Dash - Build data apps in Dash | Dash is the leading low-code platform for data apps](https://plotly.com/dash/)  
+
+##### Data warehouses
+- **Cloud-based:** Snowflake, BigQuery, and Redshift
+
+##### Data Processing - Streaming Services/Frameworks
+- Apache Kafka
+- AWS Kinesis
+- Azure Event Hubs
+
+##### Data Processing - Data Governance
+- AWS Glue Data Catalog
+- Azure Data Catalog
+
+##### Data Processing - Monitoring and Logging
+- AWS CloudWatch
+- Azure Monitor
+- Google Cloud Operations Suite
+
+##### Data Processing - Frameworks
+- [Dask - A flexible parallel computing library with task scheduling for analytics.](https://github.com/dask/dask)
+- [Nuclio - High-Performance "Serverless" framework for Real-Time Events and Data Processing Platform | Written in Go](https://github.com/nuclio/nuclio)
+- [Numba - A Just-In-Time Compiler for Numerical Functions in Python | NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
+- [Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics](https://github.com/apache/arrow)
+- [Ray - Productionizing and scaling Python ML workloads simply | AI Compute Engine | Data Preprocessing | Distributed Computing](https://www.ray.io/)
+- [Flyte - Build & deploy data & ML pipelines, hassle-free | Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks](https://flyte.org/)
+- [Union.ai - The production AI orchestrator built for development velocity | Built by creators of Flyte](https://www.union.ai/features)
+- [Pandera - Protect Your Data & ML Products from Low-Quality Data | Build confidence in the quality of your data by defining schemas for complex data objects](https://www.union.ai/pandera)
+- [Apache DataFusion Ballista: Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion](https://datafusion.apache.org/ballista/user-guide/introduction.html)
+
+##### Data Processing - Cloud Native Services
+- AWS Glue
+- Azure Data Factory
+- Google Cloud Dataflow
+- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics) is a unified data analytics service from Microsoft that brings together enterprise data warehousing, big data analytics, and data integration into a single platform.
 
 ##### Data Engineering
 - [Debezium - an open-source distributed platform for change data capture (CDC) - Sponsored by RedHat | Build on top of Apache Kafka](https://debezium.io/)
