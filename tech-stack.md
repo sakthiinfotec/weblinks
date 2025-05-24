@@ -62,6 +62,20 @@
 - Google Cloud Dataflow
 - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics) is a unified data analytics service from Microsoft that brings together enterprise data warehousing, big data analytics, and data integration into a single platform.
 
+##### Data Processing - Streaming Services/Frameworks
+- Apache Kafka
+- AWS Kinesis
+- Azure Event Hubs
+
+##### Data Processing - Data Governance
+- AWS Glue Data Catalog
+- Azure Data Catalog
+
+##### Data Processing - Monitoring and Logging
+- AWS CloudWatch
+- Azure Monitor
+- Google Cloud Operations Suite
+
 ##### GPU Computing Platform / Service
 - [RAPIDS.ai - GPU Accelerated Data Science By NVIDIA](https://rapids.ai/#quick-start)
 - [HEAVY.AI - A Revolutionary GPU-Accelerated Analytics Platform](https://www.heavy.ai/)
