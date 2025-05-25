@@ -48,6 +48,11 @@
 - [Gitpod.io vs Coder](https://www.gitpod.io/blog/gitpod-vs-coder)
 - [Loophole Labs, Inc | Architect - Use Spot Instances for Any Workload](https://loopholelabs.io/)
 
+#### Hosting and VPS Providers
+- [Backblaze](https://www.backblaze.com/cloud-storage/pricing) - Cloud Storage, Predictably Priced | Starts at **$6/TB/mo**
+- [InterServer](https://www.interserver.net/vps/) - Web Hosting and VPS, Storage
+- [Contobo](https://contabo.com/en/object-storage/) - VPS, Cloud Storage, Object Storage
+
 #### Workflow / Orchestration
 - [Inngest: AI and backend workflows, orchestrated at any scale](https://www.inngest.com/)
 - [Windmill: Open-source developer platform and workflow engine](https://www.windmill.dev/)
