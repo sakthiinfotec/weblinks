@@ -37,6 +37,12 @@
 - [Kamatera: Enterprise-Grade Cloud Infrastructure](https://www.kamatera.com/)
 - [Vultr: SSD VPS Servers, Cloud Servers and Cloud Hosting. Global, automated cloud infrastructure from the broadest array of AMD and NVIDIA GPUs to virtual CPUs, bare metal, Kubernetes, storage, and networking solutions.](https://www.vultr.com/)
 - [Qovery is a DevOps Automation Platform](https://www.qovery.com/)
+- [Fly.io](https://www.fly.io/) - Run User (or Robot) Code on Fly Machines (User-Specific Routing, Persistent Storage, Zero-Cost When Idle, MCP Servers)
+- [Railway](https://railway.app/) - a code execution sandbox that boots in milliseconds, runs any Docker image you throw at it, and scales to zero when you don't need it.
+- [Linode](https://www.linode.com/)
+- [Render](https://render.com/)
+- [Koyeb](https://www.koyeb.com/) - is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, or infrastructure management. High-performance Infrastructure for AI, Fine-Tuning, Inference, LLMs, Computer Vision, AI Agents, Microservices, APIs, Web, Databases, Full-Stack
+- [Turso - Sqlite DB | Databases for Developers](https://turso.tech/) - Databases For All AI, Mobile, Multi-tenant, on-Device Applications. Turso works online, offline, or on-device using any framework, language, or infra provider.
 - [Flightcontrol is a PaaS that deploys to your AWS account](https://www.flightcontrol.dev/)
 - [Appfleet: appfleet is an edge platform | A simple Kubernetes alternative Edge docker hosting made simple.](https://appfleet.com/)
 - [Apache CloudStack™ is an open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.](https://cloudstack.apache.org/)
@@ -52,6 +58,7 @@
 - [Backblaze](https://www.backblaze.com/cloud-storage/pricing) - Cloud Storage, Predictably Priced | Starts at **$6/TB/mo**
 - [InterServer](https://www.interserver.net/vps/) - Web Hosting and VPS, Storage
 - [Contobo](https://contabo.com/en/object-storage/) - VPS, Cloud Storage, Object Storage
+- [Sync](https://www.sync.com/) - Storage Service starts from **$6/TB/mo**
 
 #### Workflow / Orchestration
 - [Inngest: AI and backend workflows, orchestrated at any scale](https://www.inngest.com/)
