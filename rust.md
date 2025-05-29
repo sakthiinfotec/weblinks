@@ -8,6 +8,7 @@
 - [Comprehensive Rust 🦀 by Google](https://google.github.io/comprehensive-rust/)
 - [Rustlings 🦀 Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
 - [Rust by Example (G)](https://doc.rust-lang.org/rust-by-example/index.html)
+- [The Rust Programming Language by MIT](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/getting-started.html)
 - [How to Learn Rust in 2024: A Complete Beginner’s Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/#rust-on-youtube)
 - [Rust Lang Guide: Learn Runs 101](https://rust-lang.guide/intro/index.html)
 - [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit | www.freecodecamp.org](https://www.freecodecamp.org/news/rust-in-replit/)
