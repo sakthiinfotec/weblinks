@@ -7,7 +7,7 @@ An A record consists of the following fields
 - **TTL:** Time-to-live, the amount of time (in seconds) that the record is cached
 - **Value/Address:** Target IPv4 address of the A record
 
-- (Ref: How to Connect Your VPS to Your Domain Name](https://support.us.ovhcloud.com/hc/en-us/articles/360012042099-How-to-Connect-Your-VPS-to-Your-Domain-Name)
+- [Ref: How to Connect Your VPS to Your Domain Name](https://support.us.ovhcloud.com/hc/en-us/articles/360012042099-How-to-Connect-Your-VPS-to-Your-Domain-Name)  
 
 ### Relational Databases (SQL)
 - **PostgreSQL**: Highlighted for its maturity, support for time series, and JSON/BSON (NoSQL) capabilities.
