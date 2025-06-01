@@ -39,6 +39,7 @@
 
 ##### AI / ML
 - [How to Deploy a YOLOv8 Model Using Roboflow and Repl.it](https://blog.roboflow.com/deploy-yolov8-models-to-replit/)
+- [Roboflow Blog: Deploying Machine Learning Models with PyTorch, gRPC, and asyncio](https://blog.roboflow.com/deploy-machine-learning-models-pytorch-grpc-asyncio/)
 
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
