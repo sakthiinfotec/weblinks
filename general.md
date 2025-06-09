@@ -31,3 +31,27 @@
 - Criminal History (e.g., Background check information)
 - Employment History (e.g., Previous job titles and descriptions, Performance evaluations)
 - Emergency Contact Information (e.g., Names and contact details of individuals to contact in case
+
+#### Sprint Status Meeting Agenda
+
+#### Welcome & Quick Check-in (2 mins)
+- Confirm attendance and readiness.
+
+#### Yesterday’s Progress (5-6 mins)
+- What was accomplished yesterday?
+- Any significant updates or changes?
+
+#### Today’s Plan (5-6 mins)
+- What are your priorities for today?
+- Are there any dependencies or collaborations needed?
+
+#### Impediments/Blockers (5-6 mins)
+- Are there any challenges or blockers?
+- Do you need support from the team or leadership?
+
+#### Discussion/Clarifications (8-10 mins)
+- Deeper discussions on critical blockers, dependencies, or team concerns.
+- Alignment on action items or next steps.
+
+#### Announcements/Reminders (1-2 mins)
+- Sprint updates, upcoming events, or process changes.
