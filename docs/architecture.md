@@ -1,3 +1,46 @@
+In **Dependency Injection (DI)**, services are registered with different lifetimes that determine how and when instances are created and reused. Two common lifetimes are **Singleton** and **Transient**. Here's a breakdown:
+
+---
+
+### 🔁 Singleton Services
+
+- **Definition**: A singleton service is created **only once** during the application's lifetime.
+- **Behavior**: The same instance is reused **every time** it is requested.
+- **Use Case**: Ideal for **shared resources** like logging, configuration, or caching services.
+
+**Example**:
+```csharp
+services.AddSingleton<IMyService, MyService>();
+```
+Every time `IMyService` is injected, the **same instance** of `MyService` is used.
+
+---
+
+### 🔄 Transient Services
+
+- **Definition**: A transient service is created **every time** it is requested.
+- **Behavior**: A **new instance** is provided each time it is injected or requested.
+- **Use Case**: Best for **lightweight, stateless** services.
+
+**Example**:
+```csharp
+services.AddTransient<IMyService, MyService>();
+```
+Each injection of `IMyService` results in a **new instance** of `MyService`.
+
+---
+
+### 🔍 Comparison Table
+
+| Feature         | Singleton                     | Transient                     |
+|----------------|-------------------------------|-------------------------------|
+| Instance Count | One per application            | One per request               |
+| Lifetime        | Application-wide              | Short-lived                   |
+| Memory Usage    | Lower (if reused effectively) | Higher (if overused)          |
+| Thread Safety   | Must be thread-safe           | Less concern (short-lived)    |
+
+---
+
 
 
 #### [SOLID principles](https://x.com/NikkiSiapno/status/1890986211633959413)
