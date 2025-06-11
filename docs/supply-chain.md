@@ -1,5 +1,5 @@
 ### BOM explosion
-In supply chain management, a BOM explosion refers to the process of breaking down a product's bill of materials (BOM) to reveal all its constituent parts, materials, and specifications required for production. This process helps in understanding the complete product structure and planning material requirements. [1, 2, 3]  
+In supply chain management, a BOM explosion refers to the process of breaking down a product's bill of materials (BOM) to reveal all its constituent parts, materials, and specifications required for production. This process helps in understanding the complete product structure and planning material requirements.
 Elaboration: 
 
 • Purpose: BOM explosion is crucial for: 
