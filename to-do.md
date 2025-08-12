@@ -26,6 +26,7 @@
 - [Coursera: PostgreSQL for Everybody Specialization | University of Michigan](https://www.coursera.org/specializations/postgresql-for-everybody)
 - [Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - [Data Science Dojo: Free Data Science Courses](https://datasciencedojo.com/free-courses/)
+- [Understanding the OWASP® Top 10 Security Threats (SKF100)](https://training.linuxfoundation.org/training/owasp-top-ten-security-threats-skf100/)
 
 ##### Design
 - [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
