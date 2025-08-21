@@ -24,3 +24,10 @@ An A record consists of the following fields
 - **Cloudflare D1**: A very cheap option for SQLite hosting.
 
 These providers are noted for their low-cost and managed database hosting solutions.
+
+### Infrastructure as a Code (IaaC)
+- Infrastructure as a Code
+- Network as a Code
+- Policy as a Code
+- Configuration as a Code
+- Secutiry as as Code
