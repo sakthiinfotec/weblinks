@@ -351,6 +351,11 @@ git merge --no-ff filter-fixes
 git push origin develop
 ```
 
+#### Abort git merge
+```sh
+git merge --abort
+```
+
 #### Git tag
 ```sh
 # To get a list of Git tag names, run
