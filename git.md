@@ -285,6 +285,9 @@ git stash clear
 git stash branch push-notification stash@{0}
 git checkout -b new-feature stash@{0}
 
+# To see the list of file names
+git stash show -p stash@{6} --name-only
+
 # To stash the output into a patch file
 git stash show -p stash@{<number>} > <name>.patch
 git stash show -p stash@{0} > fcm-changes.patch
@@ -292,6 +295,9 @@ git stash show -p --color=never > my-patch-name.patch
 
 # Info about both saving the patch and applying binary data
 git stash show stash@{0} -p --binary
+
+# Apply stached changes from a specified file
+git checkout stash@{6} -- ./src/loaders/logger.ts
 
 # Get Patch info
 git apply --stat my-patch-name.patch   # Verify if the patch looks good
