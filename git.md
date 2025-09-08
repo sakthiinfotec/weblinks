@@ -297,7 +297,7 @@ git stash show -p --color=never > my-patch-name.patch
 git stash show stash@{0} -p --binary
 
 # Apply stached changes from a specified file
-git checkout stash@{6} -- ./src/loaders/logger.ts
+git checkout stash@{6} -- ./src/util/logger.ts ./src/service/user-service.ts ./src/controller/user-controller.ts
 
 # Get Patch info
 git apply --stat my-patch-name.patch   # Verify if the patch looks good
