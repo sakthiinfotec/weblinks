@@ -43,6 +43,7 @@
 - [Roboflow Blog: Deploying Machine Learning Models with PyTorch, gRPC, and asyncio](https://blog.roboflow.com/deploy-machine-learning-models-pytorch-grpc-asyncio/)
 - [Roboflow Blog: Inspecting Solar Panels with Thermal Drones](https://blog.roboflow.com/inspecting-solar-panels-with-thermal-drones/)
 - [Visual Inspection AI: a purpose-built solution for faster, more accurate quality control](https://cloud.google.com/blog/products/ai-machine-learning/improve-manufacturing-quality-control-with-visual-inspection-ai0)
+- [Computer Vision Based Fabric Quality Inspection: Case Study by EasyODM Tech](https://easyodm.tech/computer-vision-based-fabric-quality-inspection/)
 
 ##### Education
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
