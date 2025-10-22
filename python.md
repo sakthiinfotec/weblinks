@@ -14,7 +14,8 @@
 - [Jina AI - Jina is a MLOps framework](https://docs.jina.ai/)  
 - [Jina AI - Build multimodal AI services via cloud native technologies·Neural Search·Generative AI·Cloud Native](https://github.com/jina-ai/jina)  
 - [Cortex - ML Model serving at scale](https://github.com/cortexlabs/cortex)  
-- [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)  
+- [MkDocs - Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, for all devices](https://squidfunk.github.io/mkdocs-material/)
+- [Reflex.dev - Web Apps in Pure Python](https://github.com/reflex-dev/reflex)
 
 ##### Basics
 - [Full Stack Python - Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)  
