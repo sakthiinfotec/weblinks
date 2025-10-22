@@ -14,7 +14,17 @@
 * [International Science Olympiad Details - Indian Talent Olympiad](https://www.indiantalent.org/international-science-olympiad)  
 * [International Olympiad - Schedules](https://www.theinternationalolympiad.com/international-olympiad-exam-schedule)  
 * [35th International Olympiad in Informatics at Hungery](https://ioi2023.hu/about-ioi/)  - The International Olympiad in Informatics (IOI) is an annual international informatics competition for high school students from various invited countries, accompanied by social and cultural programs. It is one of the five international science Olympiads and is one of the most prestigious competitive programming event in the world.
-* [International Olympiad in Informatics – Statistics](https://stats.ioinformatics.org/olympiads/)  
+* [International Olympiad in Informatics – Statistics](https://stats.ioinformatics.org/olympiads/)
+
+#### [GATE Exam](https://www.linkedin.com/posts/reachiitm_gate2026-iitmadras-nptel-activity-7386042523254894592-Hnri)
+The Graduate Aptitude Test in Engineering (GATE) 2026 will be conducted by IIT Guwahati on 7th, 8th, 14th, and 15th February 2026, with results scheduled to be announced on 19th March 2026.
+
+Recognized as one of India’s most prestigious national-level examinations, GATE opens the gateway to a wide spectrum of opportunities — from admission to postgraduate and doctoral programs at premier institutes to coveted positions in leading Public Sector Undertakings (PSUs).
+
+To help you strengthen your preparation, @nptel_india offers an extensive collection of free, high-quality online video lectures taught by expert IIT faculty. These courses are meticulously designed to help learners master core concepts, build strong problem-solving skills, and approach the exam with clarity and confidence.
+
+Whether you’re aspiring for higher studies, a research career, or a technical role in the industry — this is your moment to plan ahead and prepare strategically.
+* [GATE 2025](https://gate2026.iitg.ac.in/)
 
 #### Electronics
 - [Circuit Digest - Getting started with Arduino UNO R4 & Arduino IoT Cloud ](https://www.circuitdigest.com/review/arduino-uno-r4-with-arduino-iot-cloud)  
