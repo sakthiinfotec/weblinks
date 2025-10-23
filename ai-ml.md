@@ -101,6 +101,7 @@ https://parthdesai.me/articles/2020/05/08/blockchain-designing-101-1/
 [Top 20 Image Datasets for Machine Learning and Computer Vision](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo)  
 [TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python](https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82)  
 [How I Created A ML Model That Identifies Hand Gestures - Analytics India Magazine](https://analyticsindiamag.com/how-i-created-a-ml-model-that-identifies-hand-gestures/)  
+- [Computer Vision projects](https://github.com/xaristeidou/ComputerVision)
 
 #### NLP
 - [Word Embedding and Word2Vec, Clearly Explained! | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=viZrOnJclY0)
