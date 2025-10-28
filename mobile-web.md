@@ -381,7 +381,18 @@ https://www.npmjs.com/package/sequelize
 [What Garbage Collection in JavaScript Is and How It Works](https://dev.to/alexdevero/what-garbage-collection-in-javascript-is-and-how-it-works-4om6)  
 [Netlify - The fastest way to build fastest sites](https://www.netlify.com/)  
 [Netlify | Jamstack - A new approach to faster, more secure websites](https://www.netlify.com/jamstack/)  
-[Driver.js - On Boarding | Quick Tour | Overlay or Popover](https://github.com/kamranahmedse/driver.js)  
+
+#### User On boarding or Interactive Product Tours
+- [Intro.js is a lightweight JavaScript library for creating step-by-step and powerful customer onboarding tours](https://introjs.com/)
+- React Joyride
+- Shepherd.js
+- Gleap
+- GuideChimp
+- Hopscotch
+- Chameleon
+- WalkMe
+- UserGuiding
+- [Driver.js - On Boarding | Quick Tour | Overlay or Popover](https://github.com/kamranahmedse/driver.js)  
 
 #### General - Messaging | SMS
 Send customized bulk SMS campaigns using [@twilio](https://twitter.com/twilio), [@Infobip](https://twitter.com/infobip), or [@messagebird](https://twitter.com/messagebird) in seconds, all from a spreadsheet!
