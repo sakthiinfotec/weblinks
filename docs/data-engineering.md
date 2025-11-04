@@ -165,4 +165,40 @@ Here’s a concise glossary of the key terms involved in your Azure/Data Lake/Da
 
 ---
 
-If you want, I can tailor this glossary to your exact project artifacts (e.g., map terms to your data model, provide one-page quick-reference sheets for your team, or convert this into a glossary document for a README). Would you prefer a printable version or a compact reference card?
+- Exploratory Data Analysis (EDA): This is the process of inspecting the data to understand its structure, distributions, relationships, and quality before building models.
+- Feature Engineering: Create or transform features (columns) to make patterns easier for a model to learn. This can include:
+- “when work with (10M+ rows)”: When work with very large datasets (more than ten million rows), which has implications for performance and tooling.
+- “To improve model performance”: The goal was to get models to predict better—higher accuracy, lower error, or other relevant metrics.
+
+Why EDA and feature engineering matter
+- EDA helps you spot data quality issues (missing values, outliers, inconsistent categories) and understand predictors that might be useful.
+- Feature engineering often yields bigger gains than complex models because it makes the signal in the data more accessible to learning algorithms.
+- For big data, good features can reduce training time and improve generalization even when using scalable models.
+
+Common techniques you might have used
+- EDA techniques
+  - Summary statistics (means, medians, standard deviations)
+  - Distribution plots (histograms, KDE)
+  - Correlation analysis and variance checks
+  - Detecting anomalies/outliers
+  - Checking class balance for classification problems
+  - Data quality checks (duplicate rows, inconsistent labels)
+- Feature engineering techniques
+  - Handling missing values (imputation, flag indicators): imputing with mean/median/modes, or adding missingness indicators
+  - Encoding categorical variables (one-hot, target encoding)
+  - Categorical encoding: one-hot, target encoding, leave-one-out encoding
+  - Decomposing features (e.g., date to year/month/day)
+  - Date/time features: extracting year, month, quarter, day of week, season
+  - Text features: length, word counts, TF-IDF (for NLP)
+  - Scaling/normalizing numerical features
+  - Numerical feature transformations: log transformation for skewed distributions, scaling
+  - Creating interaction terms or aggregations (ratios, time-based features, log transforms)
+  - Interaction features: ratios, products, and differences of features
+  - Aggregations: group-level statistics (mean target by category, counts)
+
+Practical considerations for 10M+ rows
+- Tooling: distributed or out-of-core processing (e.g., Spark, Dask, Vaex) or sampling strategies to iterate quickly.
+- Memory management: avoid loading everything into memory; use streaming/grouped operations.
+- Feature consistency: ensure the same feature engineering steps apply to train, validation, and test sets.
+- Validation: use proper cross-validation or time-based splits if data is sequential to avoid leakage.
+- Monitoring: track feature importance and model performance impact of each feature.
