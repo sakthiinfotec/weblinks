@@ -1,3 +1,9 @@
+#### AI Hardwares
+- Groq
+- Extropic
+- Rebellions
+- FuriosaAI
+
 #### ML
 - [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
 - [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
