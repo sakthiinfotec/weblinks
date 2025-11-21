@@ -35,6 +35,8 @@
 - [Tokio: Build reliable network applications without compromising speed | an asynchronous runtime for the Rust programming language](https://tokio.rs/)
 - [Rayon: a data-parallelism library for Rust. It is extremely lightweight and makes it easy to convert a sequential computation into a parallel one](https://github.com/rayon-rs/rayon)
 - [Criterion.rs: a statistics-driven micro-benchmarking tool](https://bheisler.github.io/criterion.rs/book/criterion_rs.html)
+- axum - Web framework
+- tower - Library for building clients and servers
 
 ##### Frameworks
 - [Github: A comparison of some web frameworks and libs written in Rust](https://github.com/flosse/rust-web-framework-comparison)
