@@ -18,6 +18,15 @@ Key features and benefits of Amazon Route 53 include:
 - Seamless integration with other AWS services, allowing domain names to be mapped to resources like load balancers, EC2 instances, S3 buckets, and CloudFront distributions. It can also be used with non-AWS resources.
 - Traffic Flow, which helps improve application performance and reliability by enabling easy setup of routing to send users to the best location and offering failover configurations to re-route users if a primary endpoint becomes unavailable.
 
+### [AWS Route 53 by Abhishek Veeramalla](https://www.youtube.com/watch?v=6BoTfTtNsGU)
+**Purpose of Route 53:** It acts as a DNS service, mapping domain names to the IP addresses of resources like load balancers or applications. This eliminates the need for users to remember complex IP addresses, making applications more user-friendly and resilient to IP address changes.  
+**How DNS works:** When a user accesses a domain name (e.47), Route 53 intercepts the request, looks up the corresponding IP address in its DNS records, and then directs the request to the correct resource.  
+
+### Key components of Route 53:
+**Domain Registration:** Allows users to purchase and register domain names directly through AWS, or integrate externally purchased domains.  
+**Hosted Zones:** These are containers for DNS records, where the actual mapping of domain names to IP addresses is configured and maintained.  
+**Health Checks:** Route 53 can monitor the health of web servers or applications to ensure traffic is only directed to active and healthy instances, providing a form of load balancing.  
+
 ### Relational Databases (SQL)
 - **PostgreSQL**: Highlighted for its maturity, support for time series, and JSON/BSON (NoSQL) capabilities.
 - **MySQL**: Mentioned for its ease of use.
