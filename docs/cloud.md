@@ -9,6 +9,15 @@ An A record consists of the following fields
 
 - [Ref: How to Connect Your VPS to Your Domain Name](https://support.us.ovhcloud.com/hc/en-us/articles/360012042099-How-to-Connect-Your-VPS-to-Your-Domain-Name)  
 
+### AWS Route 53
+
+[Amazon Route 53](https://www.youtube.com/watch?v=RGWgfhZByAI) is a highly available and scalable cloud Domain Name System (DNS) web service or a DNS as a Service. It functions as the "phone book for the internet," translating human-readable domain names (like www.example.com) into numeric IP addresses that computers use to communicate.
+
+Key features and benefits of Amazon Route 53 include:
+- 100% availability ensuring consistent routing of end-users to applications.
+- Seamless integration with other AWS services, allowing domain names to be mapped to resources like load balancers, EC2 instances, S3 buckets, and CloudFront distributions. It can also be used with non-AWS resources.
+- Traffic Flow, which helps improve application performance and reliability by enabling easy setup of routing to send users to the best location and offering failover configurations to re-route users if a primary endpoint becomes unavailable.
+
 ### Relational Databases (SQL)
 - **PostgreSQL**: Highlighted for its maturity, support for time series, and JSON/BSON (NoSQL) capabilities.
 - **MySQL**: Mentioned for its ease of use.
