@@ -113,6 +113,8 @@ Whether you’re aspiring for higher studies, a research career, or a technical 
 - MBA in Airline Management from Embry-Riddle Aeronautical University, USA
 - [Carles Marsal - Visual Artist | Art Director | Instructor](https://carlesmarsal.com/) - From Domestika
 - [Sichuan University, China](https://en.scu.edu.cn/index.htm)
+- College of Food and Dairy Technology, Chennai
+- The National Institute of Food Technology, Entrepreneurship and Management, Thanjavur
 
 - Delft University of Technology, Nederlands
 - University of Amsterdam, Nederlands
