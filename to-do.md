@@ -37,6 +37,7 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Cloudflare Workers: Build serverless applications and deploy instantly across the globe for exceptional performance, reliability, and scale.](https://developers.cloudflare.com/workers/)
 - [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
+- [Mastering Faiss Vector Database: A Beginner’s Handbook](https://www.pingcap.com/article/mastering-faiss-vector-database-a-beginners-handbook/)
 
 ##### AI / ML
 - [How to Deploy a YOLOv8 Model Using Roboflow and Repl.it](https://blog.roboflow.com/deploy-yolov8-models-to-replit/)
