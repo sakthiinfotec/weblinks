@@ -27,6 +27,8 @@
 - [Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - [Data Science Dojo: Free Data Science Courses](https://datasciencedojo.com/free-courses/)
 - [Understanding the OWASP® Top 10 Security Threats (SKF100)](https://training.linuxfoundation.org/training/owasp-top-ten-security-threats-skf100/)
+- Meta front-end developer professional certificate by Meta + Coursera 
+- Databases and SQL for Data science with Python by IBM + Coursera 
 
 ##### Design
 - [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
