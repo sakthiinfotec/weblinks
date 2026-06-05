@@ -70,6 +70,9 @@
 [python-httpx - http2, requests + async http](https://www.python-httpx.org/)  
 [Material for MkDocs - Write in Markdown and create a professional static site in minutes](https://squidfunk.github.io/mkdocs-material/) 
 [Tenacity, a general-purpose retrying library, written in Python](https://tenacity.readthedocs.io/en/latest/)  
+- [HoloViz: High-level tools to simplify visualisation in Python](https://holoviz.org)  
+- [Pyviz: Open source visualisation library library in Python](https://pyviz.org/tools)  
+
 
 #### PythonAnywhere
 
