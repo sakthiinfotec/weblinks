@@ -40,6 +40,8 @@
 - [Cloudflare Workers: Build serverless applications and deploy instantly across the globe for exceptional performance, reliability, and scale.](https://developers.cloudflare.com/workers/)
 - [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
 - [Mastering Faiss Vector Database: A Beginner’s Handbook](https://www.pingcap.com/article/mastering-faiss-vector-database-a-beginners-handbook/)
+- [Practical Uses of NPM Scripts Beyond Just Build and Start](https://blog.openreplay.com/practical-npm-scripts-beyond-build-start/)
+-[The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
 
 ##### AI / ML
 - [How to Deploy a YOLOv8 Model Using Roboflow and Repl.it](https://blog.roboflow.com/deploy-yolov8-models-to-replit/)
