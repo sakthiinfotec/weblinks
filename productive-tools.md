@@ -32,6 +32,10 @@
 
 #### Product Management
 - [ClickUp - Projects | Docs | Chat | Whiteboard | Time Tracking | AI | Forms | Sprints](https://clickup.com/)
+- [Linear - System for product development](https://linear.app/homepage)
+- [Shortcut](https://www.shortcut.com/)
+- [Plane - Project management and knowledge management for teams and agents](https://plane.so/)
+- [Huly: All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://huly.io/)
 
 #### VS Code Extestions
 - [Pastum - MS Excel to VS Code Editor | Copy table and paste as Data Frame format](https://marketplace.visualstudio.com/items?itemName=atsyplenkov.pastum)
