@@ -20,7 +20,8 @@
 - [எட்டாயிரம் குடும்பங்களுக்கு நஞ்சில்லா உணவு தருகிறோம் - Archana Stalin | Part-2 | Kalyanamalai](https://www.youtube.com/watch?v=MGwC6m_Sef0)
 - Saaho Tomato Seeds [TO-3251]
 - [moglecart Germination Plastic Seedling Nursery Tray with 126 Cavities Seeds tray Plant Container Set  (Pack of 15, Plastic)](https://www.flipkart.com/moglecart-germination-plastic-seedling-nursery-tray-126-cavities-seeds-plant-container-set/p/itm7b45444949d20?pid=PCSH6KCYKQSZJYZW&lid=LSTPCSH6KCYKQSZJYZWMBEMPW&marketplace=FLIPKART&cmpid=content_plant-container-set_8965229628_gmc&gQT=1)
-- [BioDynamics - Calendar](https://biodynamics.in/biodynamic-planting-calendar/)
+- [Biodynamics - Calendar](https://biodynamics.in/biodynamic-planting-calendar/)
+- [About JPI Biodynamics](https://www.jpibiodynamics.org/pages/about)
 
 #### Seed / Consultants
 - [TNAU Seed centre](https://tnauseed.in/)
