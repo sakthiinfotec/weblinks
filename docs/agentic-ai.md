@@ -7,6 +7,11 @@ MCP vs ADK
   * Web Scrap
   * Local Filesystem
 
+MCP is an open protocol that standardizes how AI agents interact with their environment. The AI agent hosts an MCP client, and the tools and resources it interacts with are MCP servers. The MCP client can communicate with the MCP server over two distinct transport types:
+
+- Server Sent Events (SSE) or Streamable HTTP
+- Standard Input/Output (stdio)
+
  **MCP Client** is an AI Agent (or an LLM Host)
  **MCP Server** is the one expose tools and data to the client
  
