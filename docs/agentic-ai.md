@@ -21,3 +21,9 @@ MCP is an open protocol that standardizes how AI agents interact with their envi
 
 ### Usecases
 - [Gem - AI recruiting agents](https://www.gem.com/product/recruiting-ai)
+  - **AI Sourcing Agent** — Finds top candidates across 800M+ profiles, flags past interactions, and personalizes outreach to help recruiters build relationships.
+  - **AI Fraud Detection Agent** — Evaluates risk across multiple signals and flags suspicious applications with no added friction, so recruiters focus on real candidates.
+  - **AI Inbound Agent** — Processes thousands of incoming applications, assigns explainable match scores, and surfaces the best fits instantly while the recruiter makes final decisions.
+  - **AI Talent Rediscovery** — Surfaces past applicants and silver medalists from your ATS and CRM, showing complete interview history and engagement so conversations can resume seamlessly.
+  - **AI Talent Insights** — Breaks down talent pools by role, location, company, and tenure to help recruiters set expectations with hiring managers using data.
+  - **AI Outreach Personalization** — Crafts authentic sequences across email, InMail, and SMS based on candidate profiles, with automated follow-ups that achieve 30-40% higher response rates.
