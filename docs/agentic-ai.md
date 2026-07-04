@@ -17,3 +17,7 @@ MCP is an open protocol that standardizes how AI agents interact with their envi
  
 ### Agentic AI
 <img width="985" height="460" alt="image" src="https://github.com/user-attachments/assets/b668b96c-79f3-4847-9bdb-a6ee34ccbd64" />
+
+
+### Usecases
+- [Gem - AI recruiting agents](https://www.gem.com/product/recruiting-ai)
