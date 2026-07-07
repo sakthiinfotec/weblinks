@@ -3,6 +3,7 @@
 - Extropic
 - Rebellions
 - FuriosaAI
+- [Introl - GPU/AI Infrastructure builders](https://introl.com/)
 
 #### ML
 - [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
