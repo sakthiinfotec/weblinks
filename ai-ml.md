@@ -5,6 +5,29 @@
 - FuriosaAI
 - [Introl - GPU/AI Infrastructure builders](https://introl.com/)
 
+#### AI Model Providers
+- [Merge - Merge is the connective infrastructure for production AI | Model Gateway](http://www.merge.dev)
+- [Morph - Models that improve coding agents | specialized inference optimization for codegen](https://morphllm.com)
+- [RunInfra by RightNow - Optimize any open model for production | Quantization with AWQ, GPTQ, and FP8](https://runinfra.ai/)
+- [RightNow - GPU Research Lab | Enabling Model-Hardware Co-Design at Scale](https://www.rightnowai.co/)
+- [RunPod - The Cloud Built for AI | Globally distributed GPU cloud built for production. Develop, train, and scale AI applications](https://www.runpod.io/)
+- [Vast.ai - Agent-Ready AI Infrastructure | Real-time GPU infrastructure | Serverless | training models, running inference, or scaling a production workload | Compare. Launch. Exit. Repeat.](https://vast.ai/)
+  - **Cut costs, not capability**: H100s, H200s, B200s at up to 80% less than AWS, GCP, or Azure. No long-term contracts, no minimums.
+  - **Instant access**: Spin up in minutes. No waitlists, no sales cycles, no approvals just to get started.
+  - **Transparent pricing**: Pay only for what you use. Per-second billing means you're never overpaying for idle compute.
+  - **Scales with you**: From a single GPU to full clusters. Vast grows with your workload — not against it.
+- [Modal: High-performance AI infrastructure | Serverless cloud for AI, ML, and data applications – built for developers](https://modal.com/)  
+  **Use Cases**
+  - Language Model Inference
+  - Image, Video & 3D
+  - Audio Processing
+  - Fine-Tuning
+  - Job Queues & Batch Processing
+  - Sandboxing Code
+  - Computational Biology
+  - [Modal Examples: a collection of examples for Modal](https://github.com/modal-labs/modal-examples)
+- [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
+
 #### ML
 - [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
 - [Faster model development with H2O AutoML and Flow](https://www.adaltas.com/en/2020/12/10/h2o-automl-tutorial/)  
@@ -181,19 +204,6 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - AWS Sagemaker 
 
 #### AI Services
-* [RunPod - The Cloud Built for AI | Globally distributed GPU cloud built for production. Develop, train, and scale AI applications](https://www.runpod.io/)
-* [Modal: High-performance AI infrastructure | Serverless cloud for AI, ML, and data applications – built for developers](https://modal.com/)  
-  **Use Cases**
-  - Language Model Inference
-  - Image, Video & 3D
-  - Audio Processing
-  - Fine-Tuning
-  - Job Queues & Batch Processing
-  - Sandboxing Code
-  - Computational Biology
-  - [Modal Examples: a collection of examples for Modal](https://github.com/modal-labs/modal-examples)
-* [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
-
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Uses Ray for Distributed Inference and Serving](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)  
 * [A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)
 * [YouTube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
