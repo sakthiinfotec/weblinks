@@ -27,6 +27,10 @@
   - Computational Biology
   - [Modal Examples: a collection of examples for Modal](https://github.com/modal-labs/modal-examples)
 - [Cloudflare Workers AI: Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.](https://developers.cloudflare.com/workers-ai/)
+- [KrakenD - a stateless, distributed, high-performance API Gateway that helps you effortlessly run microservices and AI workloads.](https://www.krakend.io/)
+- [Respan Gateway - Route, observe, and evaluate every LLM call](https://www.respan.ai/)
+- [Portkey: Production Stack for Gen AI Builders | By Palo Alto Networks](https://portkey.ai/)
+- [Z.ai](https://z.ai/model-api)
 
 #### ML
 - [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
@@ -259,6 +263,8 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 * [Computer Vision with DeepSeek Lecture from AI by Hand ✍️ with Prof. Tom Yeh](https://www.byhand.ai/p/deepseek-lecture-128)
 * [Parlant: The Conversation Modeling Engine](https://github.com/emcie-co/parlant?tab=readme-ov-file)
 * [Genspark: An AI agent to create a visually stunning slides](https://www.genspark.ai/)
+* [milano-ai: AI fashion Platform | Boost Fashion brand](https://www.milano-ai.com/en/)
+* [Kalavio: The AI marketing & service platform for ambitious consumer brands](https://www.klaviyo.com/)
 
 **[Local or Cloud hosting models](https://x.com/cj_zZZz/status/1884279108231913501)**  
 - @ollama (local)
