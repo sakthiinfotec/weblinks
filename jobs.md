@@ -256,6 +256,18 @@ Excellent to have:
 - Experience working in robotics start-ups or fast-paced environments.
 - Deep understanding of camera calibration and perception sensors.
 
+[Klaviyo Fashion Platform - Senior AI Engineer](https://www.klaviyo.com/careers/jobs/7502768003?gh_jid=7502768003)
+Have hands-on experience building and deploying generative AI and agentic AI applications into production, with expertise in prompt engineering, few-shot learning, fine tuning and evaluation.
+Experienced backend engineer with a strong track record of building scalable, distributed systems, especially in the service of AI agent capabilities.
+Proficient in Python and modern backend frameworks (FastAPI, Django preferred).
+Experience creating human and automated evals to ensure high AI model quality.
+Proficient in big data tools such as Apache Spark and Hadoop.
+Deep experience with asynchronous processing and distributed task queues (Celery, Kafka, SQS, RabbitMQ, Redis).
+Strong understanding of database technologies and ORMs (SQLAlchemy, Alembic).
+Comfortable with cloud-native architectures (AWS) and container orchestration (Kubernetes); can manage infrastructure and CI/CD pipelines.
+Skilled at designing and building robust APIs.
+Able to operate with a high degree of autonomy, handle ambiguity, and thrive in a fast-moving, startup-like environment.
+
 [Storyblok: Senior DevOps Engineer](https://www.storyblok.com/job?gh_jid=4550883101)
 **JOB SUMMARY**  
 
