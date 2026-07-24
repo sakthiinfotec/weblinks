@@ -28,7 +28,13 @@
 - [Data Science Dojo: Free Data Science Courses](https://datasciencedojo.com/free-courses/)
 - [Understanding the OWASP® Top 10 Security Threats (SKF100)](https://training.linuxfoundation.org/training/owasp-top-ten-security-threats-skf100/)
 - Meta front-end developer professional certificate by Meta + Coursera 
-- Databases and SQL for Data science with Python by IBM + Coursera 
+- Databases and SQL for Data science with Python by IBM + Coursera
+- [Coursera: TensorFlow in Practice](https://www.coursera.org/)
+- [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/)
+- [Coursera: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/)
+- [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/)
+- [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/)
+- [Coursera: Sequences, Time Series and Prediction](https://www.coursera.org/)
 
 ##### Design
 - [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
