@@ -31,6 +31,8 @@
 - [Respan Gateway - Route, observe, and evaluate every LLM call](https://www.respan.ai/)
 - [Portkey: Production Stack for Gen AI Builders | By Palo Alto Networks](https://portkey.ai/)
 - [Z.ai](https://z.ai/model-api)
+- [Atlas Cloud: Multi Modal AI Platform | Text, Image, Audio, Video](https://www.atlascloud.ai/)
+- [Ofox.ai](https://ofox.ai/)
 
 #### ML
 - [Machine Learning Foundational Courses by Google](https://developers.google.com/machine-learning)  
