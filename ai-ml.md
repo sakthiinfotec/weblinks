@@ -6,6 +6,7 @@
 - [Introl - GPU/AI Infrastructure builders](https://introl.com/)
 
 #### AI Model Providers
+- [OpenRouter.ai: The Unified Interface For LLMs](https://openrouter.ai/models)
 - [Merge - Merge is the connective infrastructure for production AI | Model Gateway](http://www.merge.dev)
 - [Morph - Models that improve coding agents | specialized inference optimization for codegen](https://morphllm.com)
 - [RunInfra by RightNow - Optimize any open model for production | Quantization with AWQ, GPTQ, and FP8](https://runinfra.ai/)
