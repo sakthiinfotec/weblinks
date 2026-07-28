@@ -641,6 +641,14 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 - [AI Engineering - Building Applications with Foundation Models | Chip Huyen](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
 
 #### Certifications
+- [Claude Certified Architect Foundations: A Complete Beginner-Friendly Guide(Part I: Theory Foundations)](https://medium.com/lets-code-future/claude-certified-architect-foundations-a-complete-beginner-friendly-guide-part-i-theory-fc1bb583a39d)
+- [Claude Certified Architect Foundations Guide Part II : EXAM DOMAIN NOTES](https://medium.com/lets-code-future/claude-certified-architect-foundations-guide-part-ii-exam-domain-notes-68360363a102)
+- [Stephen Cheng: Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!](https://www.reddit.com/r/ClaudeAI/comments/1to0xfc/just_passed_the_new_claude_certified_architect/)
+- [Claude Certified Architect - Link to join](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request)
+- [Claude Certified Architect Training courses](https://anthropic.skilljar.com/)
+- [Claude Certified Architect Cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [Stephen Cheng's Playbook](https://drive.google.com/file/d/1luC0rnrET4tDYtS7xe5jUxMDZA-4qNf-/view?usp=sharing)
+- [Mock Exam: Claude Certified Architect](https://ccaf.cyberskill.world)
 - [Google Cloud Professional Data Engineer exam in 2021](https://www.youtube.com/watch?v=96kzG3ZqF6E&ab_channel=BhaveshBhatt)  
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)  
 
