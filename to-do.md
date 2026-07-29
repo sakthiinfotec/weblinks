@@ -36,6 +36,22 @@
 - [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/)
 - [Coursera: Sequences, Time Series and Prediction](https://www.coursera.org/)
 
+##### Certificates
+- Google Cloud Certified Professional Cloud Architect
+- Google Cloud Certified Associate Cloud Engineer
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- CKAD: Certified Kubernetes Application Developer
+- CKA: Certified Kubernetes Administrator
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Developer – Associate
+- AWS Certified Solutions Architect – Associate
+- TensorFlow in Practice (DeepLearning.ai)
+- Deep Learning Specialization (DeepLearning.ai)
+
 ##### Design
 - [Build a Weather App using HTML, CSS and JavaScript | The Coding Guide](https://www.youtube.com/watch?v=AvVJ9-njT9s)
 
