@@ -639,6 +639,42 @@ https://github.com/siddhantkushwaha/table-extraction/blob/master/app.py
 
 #### Books
 - [AI Engineering - Building Applications with Foundation Models | Chip Huyen](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
+- *𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗶𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀* by Leonid K.
+  The book walks through these concepts:
+    ➡️ Prototype
+    ➡️ Evaluation
+    ➡️ LLMOps
+    ➡️ Deployment
+    ➡️ Observability
+    ➡️ Online experiments
+- *𝗔 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗚𝘂𝗶𝗱𝗲 𝘁𝗼 𝗥𝗲𝗶𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗛𝘂𝗺𝗮𝗻 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸* by Sandip Kulkarni.
+- *𝗠𝗼𝗱𝗲𝗿𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻* (3rd edition) by Jim Ledin.
+- *𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗡𝗟𝗣: 𝗙𝗿𝗼𝗺 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗔𝗴𝗲𝗻𝘁𝘀* by Lior Gazit and Meysam Ghaffari, Ph.D.
+- *𝗦𝗰𝗶𝗸𝗶𝘁-𝗟𝗲𝗮𝗿𝗻 𝗖𝗼𝗼𝗸𝗯𝗼𝗼𝗸* (3rd Edition) by John Sukup
+- *𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗼𝗳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴* by Tivadar Danka
+  The book covers:
+    𝗟𝗶𝗻𝗲𝗮𝗿 𝗔𝗹𝗴𝗲𝗯𝗿𝗮
+    ➡️ Vectors, vector spaces, norms, distances, and inner products
+    ➡️ Linear transformations and what matrices represent
+    ➡️ Systems of equations, Gaussian elimination, and LU decomposition
+    ➡️ Eigenvalues, eigenvectors, and the singular value decomposition
+    
+    𝗖𝗮𝗹𝗰𝘂𝗹𝘂𝘀
+    ➡️ Limits, continuity, and what differentiation means
+    ➡️ The chain rule (the backbone of backpropagation)
+    ➡️ Optimization and gradient descent
+    ➡️ Integration for computing probabilities and expected values
+    
+    𝗠𝘂𝗹𝘁𝗶𝘃𝗮𝗿𝗶𝗮𝗯𝗹𝗲 𝗖𝗮𝗹𝗰𝘂𝗹𝘂𝘀
+    ➡️ Scalar-vector, vector-scalar, and vector-vector functions
+    ➡️ Partial, total, and directional derivatives
+    ➡️ Gradients, Jacobians, and Hessians
+    ➡️ Optimization in multiple variables
+    
+    𝗣𝗿𝗼𝗯𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗧𝗵𝗲𝗼𝗿𝘆
+    ➡️ Probability spaces and the Kolmogorov axioms
+    ➡️ Random variables and distributions
+    ➡️ Expected values, variances, covariances, and entropy
 
 #### Certifications
 - [Claude Certified Architect Foundations: A Complete Beginner-Friendly Guide(Part I: Theory Foundations)](https://medium.com/lets-code-future/claude-certified-architect-foundations-a-complete-beginner-friendly-guide-part-i-theory-fc1bb583a39d)
