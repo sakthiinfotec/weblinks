@@ -45,6 +45,9 @@
 - [Rocket: A web framework for Rust gear Rust that makes it simple to write fast, type-safe, secure web applications with incredible usability, productivity and performance.](https://rocket.rs/)
 - [Pavex: a new framework to build APIs with Rust | An easy-to-use Rust framework for building robust and performant APIs](https://github.com/LukeMathWalker/pavex)
 
+##### Books
+- *𝗧𝗵𝗲 𝗥𝘂𝘀𝘁 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗛𝗮𝗻𝗱𝗯𝗼𝗼𝗸* by Francesco Ciulla
+
 ##### e-Books
 - [Zero To Production In Rust: An introduction to backend development](https://www.zero2prod.com/index.html?country=India&discount_code=SEA60)
 
