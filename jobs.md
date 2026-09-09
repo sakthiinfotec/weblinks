@@ -301,5 +301,71 @@ The main tasks of a DevOps Engineer are to design, implement, and maintain scala
 - Fluency in scripting languages like Bash, Ruby, or Python
 - Excellent communication skills
 - MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS
-- 
 - Remote (home) work opportunity or funded by Storyblok co-working space
+
+# Senior Backend Engineer — Control Plane
+
+**Company:** Aivar Innovations  
+**Experience:** 5–9 years  
+**Location:** [Insert location]  
+**Employment Type:** [Insert employment type]
+
+## About Aivar Innovations
+
+Aivar Innovations is an AI-native services company and AWS Preferred Partner building governed, production-grade agentic AI systems. We partner with enterprises to deploy intelligent agents that automate complex business processes—from intelligent customer interactions to enterprise knowledge systems.
+
+## About the Role
+
+You will build the control-plane backend behind **Kubogent**, our platform for managing organizations, users, teams, projects, clusters, resources, datastores, experiments, models, workloads, credentials, webhooks, events, alerts, and long-running infrastructure operations.
+
+Although many actions ultimately affect Kubernetes, Kubogent is fundamentally a distributed control plane requiring durable state, asynchronous workflows, authorization boundaries, event delivery, retries, and strong API semantics.
+
+You will own the backend architecture that keeps these systems reliable, coherent, and operationally sound.
+
+## What You’ll Do
+
+- Design and implement APIs and domain services for organizations, projects, clusters, resources, workloads, models, experiments, webhooks, credentials, events, and other platform entities.
+- Model long-running operations—such as cluster onboarding, project provisioning, model deployment, upgrades, and deletion—as explicit, recoverable state machines.
+- Build reliable asynchronous systems with jobs, queues, retries, idempotency, deduplication, leases, backoff, cancellation, and failure recovery.
+- Design clean, versionable REST APIs with predictable resource semantics, filtering, pagination, validation, error models, concurrency behavior, and compatibility guarantees.
+- Define the domain model and determine what belongs in PostgreSQL, Kubernetes, caches, and derived state.
+- Implement multi-tenant authorization across organizations, tenants, projects, and resources, with auditable server-side enforcement.
+- Design the event backbone connecting product events, Kubernetes events, operational state changes, notifications, alerts, audit records, and downstream consumers.
+- Own webhook infrastructure, including event selection, signing, delivery attempts, retries, dead-letter behavior, observability, and delivery history.
+- Define command, acknowledgment, state-sync, and event protocols between the control plane and workload-cluster agents.
+- Design for high availability and recovery, including worker failover, duplicate delivery, leader election, database failures, stale caches, and process restarts.
+- Own persistence quality, including schema design, indexing, migrations, transactions, optimistic concurrency, query performance, retention, archival, and operational safety.
+- Build platform observability through structured logs, metrics, traces, request correlation, job execution traces, and auditability.
+- Partner closely with frontend and Kubernetes engineers to evolve product UX, API semantics, controller behavior, and persistence models together.
+- Review architecture, mentor engineers, and establish standards for correctness, testing, operability, and maintainability.
+
+## What We’re Looking For
+
+- 5+ years building production backend or distributed systems, preferably infrastructure platforms, developer platforms, control planes, enterprise SaaS, or other stateful systems.
+- Strong Go experience, including concurrency, interfaces, context propagation, testing, profiling, networking, HTTP services, and production-quality error handling.
+- Strong distributed-systems fundamentals, including idempotency, retries, delivery semantics, eventual consistency, leases, leader election, backpressure, ordering, and partial failure.
+- Strong PostgreSQL and relational database knowledge, including schema design, transactions, locking, indexing, migrations, query planning, and data lifecycle management.
+- Experience designing APIs used by other engineers, including resource modeling, versioning, pagination, filtering, authorization, error contracts, and SDK usability.
+- Experience with asynchronous processing, queues, workers, event buses, workflow engines, or durable execution patterns.
+- Security awareness across authentication, authorization, service identities, secrets, API keys, signing, tenant isolation, audit logs, and least privilege.
+- A state-machine mindset for modeling intermediate, failed, retried, canceled, and terminal states.
+- Strong operational instincts and the ability to make production failures understandable and diagnosable.
+- Comfort working with Kubernetes, including controllers, resources, reconciliation, watches, namespaces, RBAC, and control-plane versus cluster state.
+- Fluency with AI-assisted coding tools for implementation, testing, investigation, and routine code generation.
+
+## Strong Plus
+
+- Control-plane or infrastructure-product experience.
+- Multi-cluster or fleet-management systems experience.
+- PostgreSQL experience at meaningful scale.
+- Experience with Kafka, NATS, Redis Streams, Temporal, or similar infrastructure.
+- Familiarity with Kubernetes `client-go` or `controller-runtime`.
+- Experience with OpenTelemetry and distributed tracing.
+- Experience building webhook platforms, notification systems, or audit/event architectures.
+- Enterprise IAM experience, including RBAC, ABAC, OIDC, SSO, or SCIM integrations.
+
+## This Role May Not Be the Best Match If
+
+- Most of your backend experience is straightforward request/response CRUD with limited asynchronous or distributed behavior.
+- You view database schemas, API models, and Kubernetes resources as interchangeable representations.
+- You prefer infrastructure correctness to be handled manually by operators rather than encoded into reliable product behavior.
