@@ -27,3 +27,8 @@ MCP is an open protocol that standardizes how AI agents interact with their envi
   - **AI Talent Rediscovery** — Surfaces past applicants and silver medalists from your ATS and CRM, showing complete interview history and engagement so conversations can resume seamlessly.
   - **AI Talent Insights** — Breaks down talent pools by role, location, company, and tenure to help recruiters set expectations with hiring managers using data.
   - **AI Outreach Personalization** — Crafts authentic sequences across email, InMail, and SMS based on candidate profiles, with automated follow-ups that achieve 30-40% higher response rates.
+
+### Skill sites
+* Claude Marketplaces
+* SkillsMP
+* LobeHub
