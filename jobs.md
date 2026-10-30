@@ -369,3 +369,52 @@ You will own the backend architecture that keeps these systems reliable, coheren
 - Most of your backend experience is straightforward request/response CRUD with limited asynchronous or distributed behavior.
 - You view database schemas, API models, and Kubernetes resources as interchangeable representations.
 - You prefer infrastructure correctness to be handled manually by operators rather than encoded into reliable product behavior.
+
+#### [Frontend Engineer](https://jobs.ashbyhq.com/higgsfieldai/e7fc9d48-56ac-4715-ad2a-bbec11812394)
+## Why Work at Higgsfield AI?
+
+Higgsfield AI is the **fastest-scaling generative AI company in history**, hitting:
+
+* **$1B** in annual revenue run rate
+* **30M+** users worldwide
+* **6M+** generations per day
+* Powering **390 of Fortune 500** brands
+
+We're building at the absolute frontier of AI-powered video creation and next-generation creative tools. Joining Higgsfield means becoming part of a high-impact team shaping the future of AI-native experiences, at a company that isn't just moving fast, but rewriting what fast looks like.
+
+### Who We Are Looking For
+
+Everyone at Higgsfield is an **A-player**. We’re looking for teammates who bring:
+
+* A sharp design sense and the ability to turn complex product ideas into fluid, intuitive interfaces.
+* Curiosity for the newest AI-driven UX patterns, frameworks, and tools.
+* Resilience and focus in a high-intensity startup environment.
+* A drive to explore and adopt new frontend frameworks and AI-assisted dev tools.
+
+### What You Will Work On
+
+* **Core Interface Development:** Build Higgsfield products from rapid prototypes to production-ready UIs used by millions of people every day.
+* **Figma to Production:** Turn pixel-perfect designs from Figma into fast, dynamic interfaces where every detail works as well as it looks.
+* **Complex UI Systems:** Design and optimize timelines, editors, and interfaces handling large volumes of video and media.
+* **Frontend Architecture:** Develop scalable frontend architecture and evolve our design system and component library.
+* **Performance Optimization:** Make the interface exceptionally fast and responsive with minimal bundle size, instant loading, and smooth interactions.
+* **Quality Assurance:** Ensure product quality through unit, integration, and end-to-end tests for key user scenarios.
+
+### Your Must-Haves
+
+* **Experience:** Building complex software and collaborating effectively with team members to deliver results.
+* **Soft Skills:** Strong communication, collaboration, and commitment to project completion.
+* **Core Tech Stack:** Advanced expertise in **TypeScript**, **React**, **Next.js**, and **CSS**.
+* **Design Systems:** Responsive, cross-browser layout & design systems experience.
+* **Media Optimization:** Experience optimizing media storage, caching, and delivery performance.
+* **Cloud Infrastructure:** Experience working with cloud platforms like **Vercel**, **AWS**, and **Cloudflare**.
+* **DevOps & Tooling:** Knowledge of CI/CD, bundlers, profiling, and performance optimization.
+* **Mindset:** Willingness to thrive in a fast-paced startup environment.
+
+### The Deal
+
+* 💵 **Top-of-market compensation** in USD.
+* 📈 **Meaningful stock options** with significant upside.
+* 🚀 **Small team**, high autonomy, and outsized impact.
+* 📍 **On-site role** in our Almaty office (*full relocation provided from anywhere*).
+
