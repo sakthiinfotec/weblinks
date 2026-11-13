@@ -39,6 +39,7 @@
 ##### Certificates
 - Google Cloud Certified Professional Cloud Architect
 - Google Cloud Certified Associate Cloud Engineer
+- Google: Introduction to GenAI
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Solutions Architect Expert
